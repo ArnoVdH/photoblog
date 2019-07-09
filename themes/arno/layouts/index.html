@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div id="content">
+    
+    homepage
+
+    list stuff
+
+    <ul>
+        <!-- Ranges through content/posts/*.md -->
+        {{ range .Pages }} <!-- I want to cycle through 'photo' pages only, how? -->
+            <li>
+                <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+            </li>
+        {{ end }}
+    </ul>
+
+</div>
+{{ end }}

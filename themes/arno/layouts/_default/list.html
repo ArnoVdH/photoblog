@@ -1,14 +1,16 @@
-<!DOCTYPE html>
-<html>
-    {{- partial "head.html" . -}}
-    <body>
+{{ define "main" }}
+<div id="content">
+    
+    list stuff
 
-        {{- partial "header.html" . -}}
-
-        <div id="content">
-        {{- block "main" . }}{{- end }}
-        </div>
-        
-        {{- partial "footer.html" . -}}
-    </body>
-</html>
+    <ul>
+        <!-- Ranges through content/posts/*.md -->
+        {{ range .Pages }}
+            <li>
+                <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+            </li>
+        {{ end }}
+        </ul>
+    
+</div>
+{{ end }}
