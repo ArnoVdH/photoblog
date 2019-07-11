@@ -5,6 +5,7 @@ tags = []
 featured_image = ""
 description = ""
 draft = true
+type = "static"
 +++
 
 This is who I am.
