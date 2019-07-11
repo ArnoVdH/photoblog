@@ -7,6 +7,4 @@ description = ""
 draft = true
 +++
 
-#About me
-
 This is who I am.
