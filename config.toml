@@ -8,6 +8,11 @@ theme = "arno"
     page = "/:slug/"
     photo = "/:section/:year/:month/:slug/"
 
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+    
 [params]
     dateFormat = "Januari 2006"
 
