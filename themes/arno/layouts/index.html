@@ -10,7 +10,7 @@
 
     <ul>
         <!-- Ranges through content/posts/*.md -->
-        {{ range first 10 (where .Data.Pages.ByDate "Section" "photo") }} <!-- I want to cycle through 'photo' pages only, how? -->
+        {{ range first 10 (where .Data.Pages "Section" "photo") }} <!-- I want to cycle through 'photo' pages only, how? -->
             <li>
                 <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
             </li>
