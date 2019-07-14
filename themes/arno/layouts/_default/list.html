@@ -6,10 +6,11 @@
     {{- partial "photo-nav.html" . -}}
 
     <ul>
-        <!-- Ranges through content/posts/*.md -->
-        {{ range first 10 (where .Data.Pages "Section" "photo") }} <!-- I want to cycle through 'photo' pages only, how? -->
+        <!-- Ranges through content/photo/*.md -->
+        {{ range first 10 (where .Data.Pages "Section" "photo") }}
             <li>
-                <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+                <a href="{{.Permalink}}">{{.Date.Format "January 2006"}} | {{.Content}}</a>
+                <hr>
             </li>
         {{ end }}
     </ul>
