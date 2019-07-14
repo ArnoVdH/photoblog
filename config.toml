@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Arno Van den Hende - Photosopher"
 theme = "arno"
+paginate = 5
 
 [permalinks]
     blog = "/:section/:year/:month/:slug/"
@@ -14,7 +15,7 @@ theme = "arno"
     series = "series"
     
 [params]
-    dateFormat = "Januari 2006"
+    dateFormat = "January 2006"
 
 [frontmatter]
 date = ["publishDate", "date", "lastmod"]

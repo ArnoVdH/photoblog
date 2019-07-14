@@ -9,11 +9,13 @@
         <!-- Ranges through content/photo/*.md -->
         {{ range first 10 (where .Data.Pages "Section" "photo") }}
             <li>
-                <a href="{{.Permalink}}">{{.Date.Format "January 2006"}} | {{.Content}}</a>
+                <a href="{{.Permalink}}">{{.Date.Format "Januray 2006"}} | {{.Content}}</a>
                 <hr>
             </li>
         {{ end }}
     </ul>
+
+{{- partial "pagination.html" . -}}
 
 </div>
 {{ end }}

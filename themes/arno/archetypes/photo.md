@@ -9,3 +9,6 @@ draft = true
 +++
 
 ![](/img/#imglocation)
+**Title**
+Location
+Camera & lens & film type
