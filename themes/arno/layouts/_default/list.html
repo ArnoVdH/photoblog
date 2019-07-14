@@ -5,9 +5,6 @@
 
     {{- partial "photo-nav.html" . -}}
 
-
-    list stuff
-
     <ul>
         <!-- Ranges through content/posts/*.md -->
         {{ range first 10 (where .Data.Pages "Section" "photo") }} <!-- I want to cycle through 'photo' pages only, how? -->
