@@ -8,6 +8,6 @@ description = ""
 draft = true
 +++
 
-![](/img/louise-2.jpg)
-![](/img/louise-7.jpg)
-![](/img/louise-18.jpg)
+![](/img/2019/LouiseCelloWeb/louise-2.jpg)
+![](/img/2019/LouiseCelloWeb/louise-7.jpg)
+![](/img/2019/LouiseCelloWeb/louise-18.jpg)

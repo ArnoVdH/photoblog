@@ -7,3 +7,5 @@ featured_image = ""
 description = ""
 draft = true
 +++
+
+![](/img/#imglocation)
