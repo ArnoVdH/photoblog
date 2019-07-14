@@ -5,13 +5,13 @@
 
     <ul>
         <!-- Ranges through content/posts/*.md -->
-        {{ range .Pages }}
+        {{ range (.Paginator).Pages }}
             <article>
                 <a href="{{.Permalink}}">{{.Date.Format "Januari 2006"}} | {{.Title}}</a>
                 <p>{{ truncate 100 .Content }}</p>
             </article>
         {{ end }}
-        </ul>
+    </ul>
     
 </div>
 {{ end }}
