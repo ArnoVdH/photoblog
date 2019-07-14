@@ -1,4 +1,6 @@
 # photoblog
-static website with blog and portfolio
+Static website with blog and portfolio
 
-synced with GitHub
+Built with [Hugo](https://gohugo.io/)
+
+Synced with GitHub

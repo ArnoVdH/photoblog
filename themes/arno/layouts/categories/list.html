@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div id="content">
+
+    {{- partial "blog-nav.html" . -}}
+
+    <ul>
+        <!-- Ranges through content/posts/*.md -->
+        {{ range (.Paginator).Pages }}
+            <article>
+                <div>
+                <a href="{{.Permalink}}">{{.Date.Format "January 2006"}} | {{.Title}}</a>
+                {{ .Content }}
+                </div>
+                {{ if .Truncated }}
+                <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+                    <div>
+                        <a href="{{ .RelPermalink }}">Read More…</a>
+                    </div>
+                {{ end }}
+            </article>
+            <hr>
+        {{ end }}
+    </ul>
+</div>
+
+{{- partial "pagination.html" . -}}
+
+{{ end }}
