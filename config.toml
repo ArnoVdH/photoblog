@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Arno Van den Hende - Photosopher"
 theme = "arno"
-paginate = 5
+paginate = 2
 
 [permalinks]
     blog = "/:section/:year/:month/:slug/"
