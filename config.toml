@@ -20,3 +20,5 @@ paginate = 2
 [frontmatter]
 date = ["publishDate", "date", "lastmod"]
 publishDate = ["publishDate", "date"]
+
+blackfriday = ["True"]

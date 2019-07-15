@@ -1,3 +1,5 @@
+/* GLOBAL */
+
 * {
     margin: 0;
     padding: 0;
@@ -46,11 +48,13 @@ nav {
   list-style: none;
 }
 
+/* MAIN CONTENT */
+
 /* FOOTER */
 footer {
     background-color: gray;
     overflow: hidden;
     list-style: none;
-    bottom: 0; /* Position the navbar at the top of the page */
+    bottom: 0; /* Position the footer at the bottom of the page */
     width: 100%; /* Full width */
 }
