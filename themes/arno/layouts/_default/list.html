@@ -1,9 +1,8 @@
 {{ define "main" }}
-<div id="content">
     
-    This is the homepage
+{{- partial "photo-nav.html" . -}}
 
-    {{- partial "photo-nav.html" . -}}
+<div class="content"></div>
 
     <ul>
         {{ $paginator := .Paginate (where .Data.Pages "Section" "photo") }}

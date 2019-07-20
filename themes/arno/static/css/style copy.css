@@ -1,48 +1,19 @@
-/* LAYOUT */
-
-.header {
-  grid-area: hd;
-}
-
-.footer {
-  grid-area: ft;
-  background-color: fuchsia;
-}
-
-.nav, .sidebar {
-  grid-area: nav;
-  background-color: green;
-}
-
-.content {
-  grid-area: main;
-}
-
-.wrapper {
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
-  grid-auto-rows: minmax(100px; auto);
-  grid-template-areas:
-    "hd hd hd hd hd hd hd hd hd"
-    "nav nav main main main main main main ."
-    "ft ft ft ft ft ft ft ft ft"
-}
-
-/* GENERAL */
+/* GLOBAL */
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
-  list-style: none;
-}
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
 
 /* HEADER */
+
 /* Add a black background color to the top navigation */
 header ul {
   background-color: #333;
   overflow: hidden;
+  list-style: none;
   /* position: fixed; /* Set the navbar to fixed position */
   /* top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -68,4 +39,22 @@ header ul a:hover {
 header ul a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+/* NAVBAR */
+nav {
+  background-color: lightgrey;
+  overflow: hidden;
+  list-style: none;
+}
+
+/* MAIN CONTENT */
+
+/* FOOTER */
+footer {
+    background-color: gray;
+    overflow: hidden;
+    list-style: none;
+    bottom: 0; /* Position the footer at the bottom of the page */
+    width: 100%; /* Full width */
 }
