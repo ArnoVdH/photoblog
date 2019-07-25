@@ -118,3 +118,8 @@ header ul a.active {
 }
 
 /* ===FOOTER=== */
+
+footer {
+  display: flex;
+  align-content: space-between;
+}
