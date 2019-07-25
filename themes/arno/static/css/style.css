@@ -1,4 +1,4 @@
-/* LAYOUT */
+/* ===LAYOUT=== */
 
 .header {
   grid-area: hd;
@@ -16,8 +16,35 @@
 
 .content {
   grid-area: main;
+  background-color: yellow;
 }
 
+@media only screen and (max-width: 600px){
+  .wrapper {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-auto-rows: minmax(100px; auto);
+  grid-template-areas:
+    "hd"
+    "nav"
+    "main"
+    "ft"
+  }
+}
+
+@media only screen and (min-width: 601px){
+  .wrapper {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-auto-rows: minmax(100px; auto);
+  grid-template-areas:
+    "hd hd hd hd hd hd hd hd hd"
+    "nav nav nav main main main main main main"
+    "ft ft ft main main main main main main"
+  }
+}
+
+@media only screen and (min-width: 768px){
 .wrapper {
   display: grid;
   grid-template-columns: repeat(9, 1fr);
@@ -27,8 +54,7 @@
     "nav nav main main main main main main ."
     "ft ft ft ft ft ft ft ft ft"
 }
-
-/* GENERAL */
+/* ===GENERAL=== */
 
 * {
   margin: 0;
@@ -38,7 +64,7 @@
   list-style: none;
 }
 
-/* HEADER */
+/* ===HEADER=== */
 /* Add a black background color to the top navigation */
 header ul {
   background-color: #333;
@@ -69,3 +95,26 @@ header ul a.active {
   background-color: #4CAF50;
   color: white;
 }
+
+/* ===PHOTO BLOG CONTENT=== */
+.content img {
+    max-width: 100%;
+    max-height: 700px;
+}
+
+/* ===BLOG CONTENT=== */
+
+/* ===PAGINATION BUTTONS=== */
+.pagination {
+  display: inline-flex;
+  text-align: center;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* ===FOOTER=== */
