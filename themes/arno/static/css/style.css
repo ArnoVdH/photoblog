@@ -62,6 +62,7 @@
   box-sizing: border-box;
   font-family: sans-serif;
   list-style: none;
+  text-decoration: none;
 }
 
 /* ===HEADER=== */
@@ -104,6 +105,20 @@ header ul a.active {
 
 /* ===BLOG CONTENT=== */
 
+/* ===PHOTO BLOG NAVIGATION=== */
+.series {
+  font-size: 1.6em;
+}
+
+.tags {
+  font-size: 1em;
+}
+
+/* ===BLOG NAVIGATION=== */
+.categories {
+
+}
+
 /* ===PAGINATION BUTTONS=== */
 .pagination {
   display: inline-flex;
@@ -121,5 +136,6 @@ header ul a.active {
 
 footer {
   display: flex;
-  align-content: space-between;
+  flex-direction: column;
+  align-content: center;
 }
