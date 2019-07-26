@@ -8,7 +8,7 @@
         {{ range (.Paginator).Pages }}
             <article>
                 <div>
-                <a href="{{.Permalink}}">{{.Date.Format "January 2006"}} | {{.Title}}</a>
+                <a href="{{.Permalink}}"><h1>{{.Title}}</h1> {{.Date.Format "January 2006"}}</a>
                 {{ .Content }}
                 </div>
                 {{ if .Truncated }}
