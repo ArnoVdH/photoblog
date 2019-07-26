@@ -65,6 +65,11 @@
   text-decoration: none;
 }
 
+code {
+  font-family: monospace;
+  text-indent: 50px;
+}
+
 /* ===HEADER=== */
 /* Add a black background color to the top navigation */
 header ul {

@@ -1,5 +1,5 @@
 +++
-title =  "Website_concept"
+title =  "Website concept"
 date = 2019-07-14T16:09:53+02:00
 categories = ["intro"]
 featured_image = ""

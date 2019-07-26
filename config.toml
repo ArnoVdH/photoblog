@@ -1,7 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Arno Van den Hende - Photosopher"
-theme = "arno"
 paginate = 2
 
 [permalinks]
