@@ -20,18 +20,34 @@ Folder structure
     ├── content/
     │   ├── blog/
     │   ├── photo/
-    │   └── _index.md
+    │   ├── _index.md
+    │   └── about.md
     ├── data/
     ├── layouts/
     │   ├── _default/
+    |   |   ├── baseof.html
+    |   |   ├── list.html
+    |   |   └── single.html
     │   ├── blog/
+    |   |   ├── list.html
+    |   |   └── single.html
     │   ├── categories/
+    |   |   └── list.html
     │   ├── partials/
+    |   |   ├── blog-nav.html
+    |   |   ├── footer.html
+    |   |   ├── head.html
+    |   |   ├── header.html
+    |   |   ├── pagination.html
+    |   |   └── photo-nav.html
     │   ├── static/
+    |   |   └── single.html
     │   └── 404.html
     ├── static
+    │   ├── css/
+    |   |   └── style.css
     │   └── img/
-    ├── themes
+    ├── themes/
     └── config.toml
 
 Layouts pages
