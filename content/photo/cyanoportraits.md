@@ -1,7 +1,7 @@
 +++
 title =  "Cyanotype portraits"
 date = 2019-07-12T16:59:58+02:00
-tags = ["digital", "cyanotype", "portrait"]
+tags = ["digital", "Cyanotype", "portrait"]
 series = ["Cyanotypes"]
 featured_image = ""
 description = ""

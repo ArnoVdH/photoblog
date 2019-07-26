@@ -60,7 +60,9 @@ Since this site has two parts, I wanted a distinct navigation menu for each one 
 
 Pagination
 ----------
-Of course I needed a way to show my posts over multiple pages. I'd love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option. 
+Of course I needed a way to show my posts over multiple pages. I'd love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option.
+
+I had quite some difficulty wrapping my head around the code, so in the end I took the liberty to "borrow" some code from [here](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/) and added it in as a `pagination.html` partial to be added to the templates where needed. 
 
 CSS: Grid
 ---------
