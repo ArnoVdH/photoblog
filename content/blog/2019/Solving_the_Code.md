@@ -60,11 +60,14 @@ Since this site has two parts, I wanted a distinct navigation menu for each one 
 
 Pagination
 ----------
+Of course I needed a way to show my posts over multiple pages. I'd love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option. 
 
 CSS: Grid
 ---------
 Haven gotten everything to work is one thing (and I was already kinde jubulant about it at this point - I mean, it *worked*!), but now everything was just a vertical mess. All the menu's, content, pagination buttons, etc. were one after the other.
+
 I knew that the whole CSS portion of it all would take up *at least* as much time, if not more, to get it right, with all the tweaking and finetuning, testing and rebuilding that would come. And I was kind of scared of how to do it all with those flexboxes I'd been reading about.
+
 But then I read about CSS: Grid and it looked like a great way to built a standard layout the easy way. It turns out it's *easier* maybe, but not easy.
 
 Responsive images

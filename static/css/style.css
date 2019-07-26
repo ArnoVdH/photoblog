@@ -70,14 +70,21 @@ p {
 }
 
 a {
-  color: #1e1e1e;
+  color: #890f1d;
+}
+
+a:hover {
+  color: #a9505a
 }
 
 code {
   font-family: monospace;
-  text-indent: 50px;
   color: #343333;
   font-weight: bold;
+}
+
+hr {
+  margin-bottom: 1.5em;
 }
 
 /* ===HEADER=== */
@@ -93,23 +100,33 @@ header ul {
 /* Style the links inside the navigation bar */
 header ul a {
   float: left;
-  color: #f2f2f2;
+  color: #f7f7f7;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 1.2em;
 }
 
 /* Change the color of links on hover */
 header ul a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #f7f7f7;
+  color: #1e1e1e;
 }
 
 /* Add a color to the active/current link */
 header ul a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+/* Make logo alt text white */
+header img {
+  color: #f7f7f7;
+}
+
+header img:hover {
+  background-color: #f7f7f7;
+  color: #1e1e1e;
 }
 
 /* ===PHOTO BLOG CONTENT=== */
@@ -122,6 +139,9 @@ header ul a.active {
 .content {
   line-height: 1.5em;
   padding-top: 1em;
+  padding-bottom: 2em;
+  color: #1e1e1e;
+  text-align: justify;
 }
 
 .content h1 {
@@ -136,16 +156,15 @@ header ul a.active {
 
 .content h2 {
   padding-top: 0.5em;
-  margin-left: -0.5em;
-  padding-bottom: 0.5em;
+  margin-left: -20px;
 }
 
 .content p {
-  padding-bottom: 0.5em;
+  padding-top: 0.5em;
 }
 
 .content code {
-  line-height: initial;
+  font-size: 1.2em;
 }
 
 .content a {
@@ -196,9 +215,10 @@ header ul a.active {
 
 /* ===FOOTER=== */
 
-footer {
-  display: flex;
-  flex-direction: column;
-  align-content: center;
+.footer p {
+  color: #f7f7f7;
+}
+
+.footer a {
   color: #f7f7f7;
 }
