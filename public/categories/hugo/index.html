@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>    <meta charset="UTF-8">
+    <meta lang="english">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="http://example.org/css/style.css" >
+    <title>Hugo</title><body>
+        <div class="wrapper"><header class="header">
+    <ul>
+        <li><a href=/><img src="" alt="AVdH"></a></li>        
+        <li><a href=/>Photography</a></li>
+        <li><a href=/blog>Blog</a></li>
+        <li><a href=/about>About</a></li>
+    </ul>
+
+</header><nav class="nav">
+    <ul class="categories">
+        
+        
+        <li><a href="/categories/hugo">hugo</a></li>
+        
+        <li><a href="/categories/intro">intro</a></li>
+        
+    </ul>
+</nav><div class="content">
+    <ul>
+        
+        
+            <article>
+                <div>
+                <a href="http://example.org/blog/2019/07/solving-the-code/"><h1>Solving the Code</h1> July 2019</a>
+                
+
+<p>Since I&rsquo;m a complete and utter novice at all&hellip; <em>this</em>, there were quite a few difficulties in getting this blog up and running. In this post I&rsquo;m trying to describe how (and why) I built the site this way, talk about some of the obstacles I encountered and how I solved them.</p>
+
+<h2 id="folder-structure">Folder structure</h2>
+
+<pre><code>.
+├── archetypes/
+│   ├── blog.md
+│   ├── default.md
+│   └── photo.md
+├── content/
+│   ├── blog/
+│   ├── photo/
+│   ├── _index.md
+│   └── about.md
+├── data/
+├── layouts/
+│   ├── _default/
+|   |   ├── baseof.html
+|   |   ├── list.html
+|   |   └── single.html
+│   ├── blog/
+|   |   ├── list.html
+|   |   └── single.html
+│   ├── categories/
+|   |   └── list.html
+│   ├── partials/
+|   |   ├── blog-nav.html
+|   |   ├── footer.html
+|   |   ├── head.html
+|   |   ├── header.html
+|   |   ├── pagination.html
+|   |   └── photo-nav.html
+│   ├── static/
+|   |   └── single.html
+│   └── 404.html
+├── static
+│   ├── css/
+|   |   └── style.css
+│   └── img/
+├── themes/
+└── config.toml
+</code></pre>
+
+<h2 id="layouts-pages">Layouts pages</h2>
+
+<p>Why no homepage.html file.</p>
+
+<h2 id="navigation-menus">Navigation menus</h2>
+
+<p>Since this site has two parts, I wanted a distinct navigation menu for each one of those parts. So you can navigate both the photography portfolio and the blog in it&rsquo;s own way. I made seperate <code>nav</code> partials for this purpose.</p>
+
+<h2 id="pagination">Pagination</h2>
+
+<p>Of course I needed a way to show my posts over multiple pages. I&rsquo;d love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option.</p>
+
+<p>I had quite some difficulty wrapping my head around the code, so in the end I took the liberty to &ldquo;borrow&rdquo; some code from <a href="https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/">here</a> and added it in as a <code>pagination.html</code> partial to be added to the templates where needed.</p>
+
+<h2 id="css-grid">CSS: Grid</h2>
+
+<p>Haven gotten everything to work is one thing (and I was already kinde jubulant about it at this point - I mean, it <em>worked</em>!), but now everything was just a vertical mess. All the menu&rsquo;s, content, pagination buttons, etc. were one after the other.</p>
+
+<p>I knew that the whole CSS portion of it all would take up <em>at least</em> as much time, if not more, to get it right, with all the tweaking and finetuning, testing and rebuilding that would come. And I was kind of scared of how to do it all with those flexboxes I&rsquo;d been reading about.</p>
+
+<p>But then I read about CSS: Grid and it looked like a great way to built a standard layout the easy way. It turns out it&rsquo;s <em>easier</em> maybe, but not easy.</p>
+
+<h2 id="responsive-images">Responsive images</h2>
+
+<p>Since one of the main goals of this website was to present my photographs in a clean way on the main page, I had to figure this one out properly. I learned that just adding the images (even in a web optimized way) doesn&rsquo;t cut it, since they tend to ruin the page layout without the ability to adapt for diffferent screens. I wasn&rsquo;t even thinking about presenting on mobile yet! In other words, I needed them to be <em>responsive</em>.</p>
+
+<h2 id="helpful-resources">Helpful resources</h2>
+
+<p>From which I shamelessly stole, copied and adapted code.</p>
+
+<h2 id="closing-remarks">Closing remarks</h2>
+
+<p>I&rsquo;m very much aware that many of my &lsquo;solutions&rsquo; are very crude or inelegant. But this was and still is my own little learning project. I&rsquo;ve had a lot of fun trying to figure out solutions for all the problems that inevitabely kept creeping up on me.</p>
+
+                </div>
+                
+                
+                    <div>
+                        <a href="/blog/2019/07/solving-the-code/">Read More…</a>
+                    </div>
+                
+            </article>
+            <hr>
+        
+            <article>
+                <div>
+                <a href="http://example.org/blog/2019/07/building-a-website/"><h1>Building a Website</h1> July 2019</a>
+                
+
+<p>It started out as an idea to have my own place on the internet.</p>
+
+<p><strong>Goal: a clean, light website that functions as both a photo portfolio and a personal blog. Building it myself would be an added bonus.</strong></p>
+
+<h2 id="early-2019-exploring-possibilities">Early 2019: exploring possibilities</h2>
+
+<p>I don&rsquo;t have any background in graphic or web design or programming. Building my own website is a personal challenge and learning experience</p>
+
+<p>I started by researching a bit generally about webdesign, html &amp; css (internetting is not hard and other guides).</p>
+
+<p>At first I looked into building with wordpress, since it&rsquo;s so ubiquitous on the internet, well documented and accessible. But when I tried to run a local version to build my own site, I encountered loads of problems that were pretty hard to fix.</p>
+
+<p>Wordpress also felt cumbersome. A friend told me about looking into static website generators and he himself was dabbling with Jekyll. When researching this I found Hugo and decided to try it out since it&rsquo;s simplicity of needing only one binary. Very easy to set up and start building.</p>
+
+<h2 id="summer-2019-building-with-hugo">Summer 2019: Building with Hugo</h2>
+
+<p>In early july I built my hugo setup on a laptop with Lubuntu, VS Code and GitHub.</p>
+
+<p>After some tinkering with other theme&rsquo;s and trying to figure out how everything connected, I decided to build my own theme from the ground up. Making it unnecessarily complicated for myself, according to some, but a fun free-time project according to myself.</p>
+
+<p>Funfact: I&rsquo;m writing this blogpost while I&rsquo;m still building the website. I literally have just a basic skeleton of the site and I&rsquo;m starting to get a feel for the whole thing. Things are becoming clearer and specific issues are being identified. Progress at last! It makes me happy.</p>
+
+<p>The first two weeks were mainly spent building the html-side of the site, until I got it mostly functional. I would return to it regularly to change functionalities or fix mistakes, but I got most of it working. The css part of it all brought numerous new problems to light, forced me to reconsider certain choices and slowed progress down. But I kept tinkering and progress continued. (You can read a bit more about some of the design decisions and fixes I made <a href="/blog/2019/07/solving-the-code/">here</a>)</p>
+
+                </div>
+                
+                
+                    <div>
+                        <a href="/blog/2019/07/building-a-website/">Read More…</a>
+                    </div>
+                
+            </article>
+            <hr>
+        
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<footer class="footer">
+    <p>Copyright AVdH - 2019</p>
+    <p>Made with <a href="https://gohugo.io/">Hugo</a></p>
+</footer></div>
+    </body>
+</html>
