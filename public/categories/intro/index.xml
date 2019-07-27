@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro on Arno Van den Hende - Photosopher</title>
+    <link>http://example.org/categories/intro/</link>
+    <description>Recent content in Intro on Arno Van den Hende - Photosopher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2019 19:54:25 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solving the Code</title>
+      <link>http://example.org/blog/2019/07/solving-the-code/</link>
+      <pubDate>Mon, 15 Jul 2019 19:54:25 +0200</pubDate>
+      
+      <guid>http://example.org/blog/2019/07/solving-the-code/</guid>
+      <description>Since I&amp;rsquo;m a complete and utter novice at all&amp;hellip; this, there were quite a few difficulties in getting this blog up and running. In this post I&amp;rsquo;m trying to describe how (and why) I built the site this way, talk about some of the obstacles I encountered and how I solved them.
+Folder structure . ├── archetypes/ │ ├── blog.md │ ├── default.md │ └── photo.md ├── content/ │ ├── blog/ │ ├── photo/ │ ├── _index.</description>
+    </item>
+    
+    <item>
+      <title>Website concept</title>
+      <link>http://example.org/blog/2019/07/website-concept/</link>
+      <pubDate>Sun, 14 Jul 2019 16:09:53 +0200</pubDate>
+      
+      <guid>http://example.org/blog/2019/07/website-concept/</guid>
+      <description>The blog should be my own representation on the web, seperate from the corporate interpretations of identity in the form of a profile-page.
+It&amp;rsquo;s where I want to share my main creations: photo&amp;rsquo;s and written thoughts.
+Ideally, these are presented cleanly, simple and uniform. Inspiration for this is the modernist movement of the twenties in Western Europe (think Tschichold and Bauhaus). Clear background, readable text, the right amount of information. Not overly baroque, no unnecessary embellishments, all decoration in function of readability.</description>
+    </item>
+    
+    <item>
+      <title>Building a Website</title>
+      <link>http://example.org/blog/2019/07/building-a-website/</link>
+      <pubDate>Thu, 11 Jul 2019 17:38:08 +0200</pubDate>
+      
+      <guid>http://example.org/blog/2019/07/building-a-website/</guid>
+      <description>It started out as an idea to have my own place on the internet.
+Goal: a clean, light website that functions as both a photo portfolio and a personal blog. Building it myself would be an added bonus.
+Early 2019: exploring possibilities I don&amp;rsquo;t have any background in graphic or web design or programming. Building my own website is a personal challenge and learning experience
+I started by researching a bit generally about webdesign, html &amp;amp; css (internetting is not hard and other guides).</description>
+    </item>
+    
+  </channel>
+</rss>

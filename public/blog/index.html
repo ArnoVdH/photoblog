@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>    <meta charset="UTF-8">
+    <meta lang="english">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="http://example.org/css/style.css" >
+    <title>Blog</title><body>
+        <div class="wrapper"><header class="header">
+    <ul>
+        <li><a href=/><img src="" alt="AVdH"></a></li>        
+        <li><a href=/>Photography</a></li>
+        <li><a href=/blog>Blog</a></li>
+        <li><a href=/about>About</a></li>
+    </ul>
+
+</header><nav class="nav">
+    <ul class="categories">
+        
+        
+        <li><a href="/categories/hugo">hugo</a></li>
+        
+        <li><a href="/categories/intro">intro</a></li>
+        
+    </ul>
+</nav><div class="content">
+    <ul>
+        
+        
+            <article>
+                <div>
+                <a href="http://example.org/blog/2019/07/solving-the-code/"><h1>Solving the Code</h1><p class="date">July 2019<p></p></a>
+                
+
+<p>Since I&rsquo;m a complete and utter novice at all&hellip; <em>this</em>, there were quite a few difficulties in getting this blog up and running. In this post I&rsquo;m trying to describe how (and why) I built the site this way, talk about some of the obstacles I encountered and how I solved them.</p>
+
+<h2 id="folder-structure">Folder structure</h2>
+
+<pre><code>.
+├── archetypes/
+│   ├── blog.md
+│   ├── default.md
+│   └── photo.md
+├── content/
+│   ├── blog/
+│   ├── photo/
+│   ├── _index.md
+│   └── about.md
+├── data/
+├── layouts/
+│   ├── _default/
+|   |   ├── baseof.html
+|   |   ├── list.html
+|   |   └── single.html
+│   ├── blog/
+|   |   ├── list.html
+|   |   └── single.html
+│   ├── categories/
+|   |   └── list.html
+│   ├── partials/
+|   |   ├── blog-nav.html
+|   |   ├── footer.html
+|   |   ├── head.html
+|   |   ├── header.html
+|   |   ├── pagination.html
+|   |   └── photo-nav.html
+│   ├── static/
+|   |   └── single.html
+│   └── 404.html
+├── static
+│   ├── css/
+|   |   └── style.css
+│   └── img/
+├── themes/
+└── config.toml
+</code></pre>
+
+<h2 id="layouts-pages">Layouts pages</h2>
+
+<p>Why no homepage.html file.</p>
+
+<h2 id="navigation-menus">Navigation menus</h2>
+
+<p>Since this site has two parts, I wanted a distinct navigation menu for each one of those parts. So you can navigate both the photography portfolio and the blog in it&rsquo;s own way. I made seperate <code>nav</code> partials for this purpose.</p>
+
+<h2 id="pagination">Pagination</h2>
+
+<p>Of course I needed a way to show my posts over multiple pages. I&rsquo;d love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option.</p>
+
+<p>I had quite some difficulty wrapping my head around the code, so in the end I took the liberty to &ldquo;borrow&rdquo; some code from <a href="https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/">here</a> and added it in as a <code>pagination.html</code> partial to be added to the templates where needed.</p>
+
+<h2 id="css-grid">CSS: Grid</h2>
+
+<p>Haven gotten everything to work is one thing (and I was already kinde jubulant about it at this point - I mean, it <em>worked</em>!), but now everything was just a vertical mess. All the menu&rsquo;s, content, pagination buttons, etc. were one after the other.</p>
+
+<p>I knew that the whole CSS portion of it all would take up <em>at least</em> as much time, if not more, to get it right, with all the tweaking and finetuning, testing and rebuilding that would come. And I was kind of scared of how to do it all with those flexboxes I&rsquo;d been reading about.</p>
+
+<p>But then I read about CSS: Grid and it looked like a great way to built a standard layout the easy way. It turns out it&rsquo;s <em>easier</em> maybe, but not easy.</p>
+
+<h2 id="responsive-images">Responsive images</h2>
+
+<p>Since one of the main goals of this website was to present my photographs in a clean way on the main page, I had to figure this one out properly. I learned that just adding the images (even in a web optimized way) doesn&rsquo;t cut it, since they tend to ruin the page layout without the ability to adapt for diffferent screens. I wasn&rsquo;t even thinking about presenting on mobile yet! In other words, I needed them to be <em>responsive</em>.</p>
+
+<h2 id="helpful-resources">Helpful resources</h2>
+
+<p>From which I shamelessly stole, copied and adapted code.</p>
+
+<h2 id="closing-remarks">Closing remarks</h2>
+
+<p>I&rsquo;m very much aware that many of my &lsquo;solutions&rsquo; are very crude or inelegant. But this was and still is my own little learning project. I&rsquo;ve had a lot of fun trying to figure out solutions for all the problems that inevitabely kept creeping up on me.</p>
+
+                </div>
+                
+                
+                    <div>
+                        <a href="/blog/2019/07/solving-the-code/">Read More…</a>
+                    </div>
+                
+            </article>
+            <hr>
+        
+            <article>
+                <div>
+                <a href="http://example.org/blog/2019/07/website-concept/"><h1>Website concept</h1><p class="date">July 2019<p></p></a>
+                <p>The blog should be my own representation on the web, seperate from the corporate interpretations of identity in the form of a profile-page.</p>
+
+<p>It&rsquo;s where I want to share my main creations: photo&rsquo;s and written thoughts.</p>
+
+<p>Ideally, these are presented cleanly, simple and uniform. Inspiration for this is the modernist movement of the twenties in Western Europe (think Tschichold and Bauhaus). Clear background, readable text, the right amount of information. Not overly baroque, no unnecessary embellishments, all decoration in function of readability.</p>
+
+<p>Most importantly, I want to built it myself.</p>
+
+                </div>
+                
+                
+                    <div>
+                        <a href="/blog/2019/07/website-concept/">Read More…</a>
+                    </div>
+                
+            </article>
+            <hr>
+        
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul class="pagination">
+    
+    
+    
+
+    
+    
+  
+    
+    
+    
+      
+
+      
+      
+      
+
+        
+
+      
+
+      
+      
+        <li class="pagination__item pagination__item--current">
+          <a href="/blog/" class="pagination__link">
+            1
+          </a>
+        </li>
+      
+
+    
+    
+      
+
+      
+      
+      
+
+        
+
+      
+
+      
+      
+        <li class="pagination__item">
+          <a href="/blog/page/2/" class="pagination__link">
+            2
+          </a>
+        </li>
+      
+
+    
+
+    
+    
+    <li class="pagination__item pagination__item--next">
+      <a href="/blog/page/2/" class="pagination__link pagination__link--next">
+        »
+      </a>
+    </li>
+    
+
+    
+    
+    <li class="pagination__item pagination__item--last">
+      <a class="pagination__link pagination__link--last" href="/blog/page/2/">
+        »»
+      </a>
+    </li>
+    
+
+  </ul>
+</div>
+
+<footer class="footer">
+    <p>Copyright AVdH - 2019</p>
+    <p>Made with <a href="https://gohugo.io/">Hugo</a></p>
+</footer></div>
+    </body>
+</html>
