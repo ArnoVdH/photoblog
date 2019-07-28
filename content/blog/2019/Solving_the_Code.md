@@ -9,6 +9,8 @@ draft = true
 
 Since I'm a complete and utter novice at all... *this*, there were quite a few difficulties in getting this blog up and running. In this post I'm trying to describe how (and why) I built the site this way, talk about some of the obstacles I encountered and how I solved them.
 
+<!--more-->
+
 Folder structure
 ----------------
 

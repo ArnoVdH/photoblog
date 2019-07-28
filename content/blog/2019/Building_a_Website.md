@@ -11,6 +11,8 @@ It started out as an idea to have my own place on the internet.
 
 **Goal: a clean, light website that functions as both a photo portfolio and a personal blog. Building it myself would be an added bonus.**
 
+<!--more-->
+
 Early 2019: exploring possibilities
 -----------------------------------
 

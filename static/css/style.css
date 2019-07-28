@@ -7,7 +7,6 @@
 
 .footer {
   grid-area: ft;
-  background-color: #343333;
 }
 
 .nav, .sidebar {
@@ -85,6 +84,7 @@ code {
 }
 
 hr {
+  margin-top: 0.5em;
   margin-bottom: 1.5em;
   color: #a9505a;
 }
@@ -177,6 +177,10 @@ header img:hover {
   color: #a9505a;
 }
 
+.content .read-more {
+  margin-top: 0.5em;
+}
+
 /* ===PHOTO BLOG NAVIGATION=== */
 .nav {
   padding-top: 1em;
@@ -218,9 +222,9 @@ header img:hover {
 /* ===FOOTER=== */
 
 .footer p {
-  color: #f7f7f7;
+  color: #343333;
 }
 
 .footer a {
-  color: #f7f7f7;
+  color: #343333;
 }
