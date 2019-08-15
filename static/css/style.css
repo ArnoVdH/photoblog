@@ -1,58 +1,3 @@
-/* ===LAYOUT=== */
-
-.header {
-  grid-area: hd;
-  background-color: #343333;
-}
-
-.footer {
-  grid-area: ft;
-}
-
-.nav, .sidebar {
-  grid-area: nav;
-}
-
-.content {
-  grid-area: main;
-}
-
-@media only screen and (max-width: 600px){
-  .wrapper {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  grid-auto-rows: minmax(100px; auto);
-  grid-template-areas:
-    "hd"
-    "nav"
-    "main"
-    "ft"
-  }
-}
-
-@media only screen and (min-width: 601px){
-  .wrapper {
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
-  grid-auto-rows: minmax(100px; auto);
-  grid-template-areas:
-    "hd hd hd hd hd hd hd hd hd"
-    "nav nav main main main main main main main"
-    "ft ft main main main main main main main"
-  }
-}
-
-@media only screen and (min-width: 768px){
-.wrapper {
-  min-height: 100vh;
-  display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  grid-auto-rows: minmax(100px; auto 1fr auto);
-  grid-template-areas:
-    "hd hd hd hd hd hd hd hd hd hd"
-    "nav nav main main main main main main main ."
-    "ft ft ft ft ft ft ft ft ft ft"
-}
 /* ===GENERAL=== */
 
 * {
@@ -133,7 +78,7 @@ header img:hover {
 
 /* ===PHOTO BLOG CONTENT=== */
 .content img {
-    max-width: 100%;
+    max-width: 130vh;
     max-height: 100vh;
 }
 
@@ -227,4 +172,60 @@ header img:hover {
 
 .footer a {
   color: #343333;
+}
+
+/* ===LAYOUT=== */
+
+.header {
+  grid-area: hd;
+  background-color: #343333;
+}
+
+.footer {
+  grid-area: ft;
+}
+
+.nav, .sidebar {
+  grid-area: nav;
+}
+
+.content {
+  grid-area: main;
+}
+
+@media only screen and (max-width: 600px){
+  .wrapper {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-auto-rows: minmax(100px; auto);
+  grid-template-areas:
+    "hd"
+    "nav"
+    "main"
+    "ft"
+  }
+}
+
+@media only screen and (min-width: 601px){
+  .wrapper {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-auto-rows: minmax(100px; auto);
+  grid-template-areas:
+    "hd hd hd hd hd hd hd hd hd"
+    "nav nav main main main main main main main"
+    "ft ft main main main main main main main"
+  }
+}
+
+@media only screen and (min-width: 768px){
+.wrapper {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas:
+    "hd hd hd hd hd hd hd hd hd hd"
+    "nav nav main main main main main main main ."
+    "ft ft ft ft ft ft ft ft ft ft"
 }

@@ -54,7 +54,11 @@ Folder structure
 
 Layouts pages
 -------------
-Why no homepage.html file.
+I decided not to use a homepage.html layout, and to use a normal photo-centric list-page as my homepage. This way I could make my homepage and my photopage to be one and the same, which was my intention after all. The blog side of the site would be different, so I made a seperate list.html for the blog section.
+
+Main menu
+---------
+At first I just built a menu in my header with html. That was before I discovered the menu template options in Hugo.
 
 Navigation menus
 ----------------
@@ -64,7 +68,7 @@ Pagination
 ----------
 Of course I needed a way to show my posts over multiple pages. I'd love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option.
 
-I had quite some difficulty wrapping my head around the code, so in the end I took the liberty to "borrow" some code from [here](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/) and added it in as a `pagination.html` partial to be added to the templates where needed. 
+I had quite some difficulty wrapping my head around the code, so in the end I took the liberty to "borrow" some code from [here](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/) and added it in as a pagination.html partial to be added to the templates where needed. 
 
 CSS: Grid
 ---------
