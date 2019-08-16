@@ -58,7 +58,7 @@ I decided not to use a homepage.html layout, and to use a normal photo-centric l
 
 Main menu
 ---------
-At first I just built a menu in my header with html. That was before I discovered the menu template options in Hugo.
+At first I just built a menu in my header with html. That was before I discovered the menu template options in Hugo. With some tweaking of the original html, I could have active menu options to make navigating the site somewhat easier.
 
 Navigation menus
 ----------------
