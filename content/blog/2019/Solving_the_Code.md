@@ -72,7 +72,7 @@ I had quite some difficulty wrapping my head around the code, so in the end I to
 
 CSS: Grid
 ---------
-Haven gotten everything to work is one thing (and I was already kinde jubulant about it at this point - I mean, it *worked*!), but now everything was just a vertical mess. All the menu's, content, pagination buttons, etc. were one after the other.
+Haven gotten everything to work is one thing (and I was already kinda jubulant about it at this point - I mean, it *worked*!), but now everything was just a vertical mess. All the menu's, content, pagination buttons, etc. were one after the other.
 
 I knew that the whole CSS portion of it all would take up *at least* as much time, if not more, to get it right, with all the tweaking and finetuning, testing and rebuilding that would come. And I was kind of scared of how to do it all with those flexboxes I'd been reading about.
 
