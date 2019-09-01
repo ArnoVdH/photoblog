@@ -5,7 +5,7 @@ tags = ["digital", "landscape", "black and white"]
 series = ["Traject"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 +++
 
 ![](/img/2017/Traject/Traject-1.jpg)

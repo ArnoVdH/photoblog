@@ -4,7 +4,7 @@ date = 2019-07-14T16:09:53+02:00
 categories = ["intro"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 +++
 
 The blog should be my own representation on the web, seperate from the corporate interpretations of identity in the form of a profile-page.
