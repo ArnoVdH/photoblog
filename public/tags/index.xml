@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Arno Van den Hende - Photosopher</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Arno Van den Hende - Photosopher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Black and White</title>
+      <link>http://example.org/tags/black-and-white/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/black-and-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canon 70d</title>
+      <link>http://example.org/tags/canon-70d/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/canon-70d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyanotype</title>
+      <link>http://example.org/tags/cyanotype/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/cyanotype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital</title>
+      <link>http://example.org/tags/digital/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Film</title>
+      <link>http://example.org/tags/film/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>France</title>
+      <link>http://example.org/tags/france/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/france/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscape</title>
+      <link>http://example.org/tags/landscape/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portrait</title>
+      <link>http://example.org/tags/portrait/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trip</title>
+      <link>http://example.org/tags/trip/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/trip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portrait on Arno Van den Hende - Photosopher</title>
+    <link>http://example.org/tags/portrait/</link>
+    <description>Recent content in Portrait on Arno Van den Hende - Photosopher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/portrait/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Louise on her cello</title>
+      <link>http://example.org/photo/2019/05/louise-on-her-cello/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/photo/2019/05/louise-on-her-cello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karavaanserail</title>
+      <link>http://example.org/photo/2018/09/karavaanserail/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/photo/2018/09/karavaanserail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selfportrait</title>
+      <link>http://example.org/photo/2018/02/selfportrait/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/photo/2018/02/selfportrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morgue Portrait</title>
+      <link>http://example.org/photo/2018/02/morgue-portrait/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/photo/2018/02/morgue-portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyanotype portraits</title>
+      <link>http://example.org/photo/2017/06/cyanotype-portraits/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/photo/2017/06/cyanotype-portraits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
