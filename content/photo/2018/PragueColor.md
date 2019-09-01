@@ -5,6 +5,6 @@ tags = ["film", "trip"]
 series = ["Prague"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 +++
 

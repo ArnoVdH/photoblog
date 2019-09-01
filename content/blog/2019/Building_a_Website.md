@@ -4,7 +4,7 @@ date = 2019-07-11T17:38:08+02:00
 categories = ["intro", "hugo"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 +++
 
 It started out as an idea to have my own place on the internet.  

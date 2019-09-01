@@ -5,7 +5,7 @@ tags = ["digital", "portrait"]
 series = []
 featured_image = ""
 description = ""
-draft = true
+draft = false
 +++
 
 ![](/img/2018/Selfportrait-1.jpg)
