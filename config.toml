@@ -1,7 +1,7 @@
 baseURL = "https://arno.netlify.com/"
 languageCode = "en-us"
 title = "Arno Van den Hende - Photosopher"
-paginate = 2
+paginate = 10
 
 [menu]
 
