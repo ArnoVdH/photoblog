@@ -15,10 +15,12 @@ paginate = 10
     url = "/blog/"
     weight = 2
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+  # removed, added to frontmatter of about page itself to render it active
+  #
+  #[[menu.main]]
+  #  name = "About"
+  #  url = "/about/"
+  #  weight = 3
 
 [permalinks]
     blog = "/:section/:year/:month/:slug/"

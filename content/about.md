@@ -6,6 +6,7 @@ featured_image = ""
 description = ""
 draft = false
 type = "static"
+menu = "main" #added to make the link active#
 +++
 
 This is who I am.
