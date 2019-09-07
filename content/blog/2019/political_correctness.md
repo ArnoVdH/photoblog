@@ -1,7 +1,7 @@
 +++
 title =  "Political Correctness as a Red Herring"
 date = 2019-09-03T21:24:02+02:00
-categories = []
+categories = ["politics", "philosophy"]
 featured_image = ""
 description = ""
 draft = true

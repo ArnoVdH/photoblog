@@ -1,6 +1,6 @@
 +++
 title =  "Solving the Code"
-date = 2019-07-15T19:54:25+02:00
+date = 2019-09-01T10:00:00+02:00
 categories = ["intro", "hugo"]
 featured_image = ""
 description = ""
