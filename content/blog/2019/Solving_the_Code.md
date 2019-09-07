@@ -76,7 +76,7 @@ Haven gotten everything to work is one thing (and I was already kinda jubulant a
 
 I knew that the whole CSS portion of it all would take up *at least* as much time, if not more, to get it right, with all the tweaking and finetuning, testing and rebuilding that would come. And I was kind of scared of how to do it all with those flexboxes I'd been reading about.
 
-But then I read about CSS: Grid and it looked like a great way to built a standard layout the easy way. It turns out it's *easier* maybe, but not easy.
+But then I read about CSS: Grid and it looked like a great way to built a standard layout the easy way. It turns out it's *easier* maybe, but not easy. But with a few lines of codes I made a responsive website. And apparently it's necessary to put those media queries at the end of your css to make them work.
 
 Responsive images
 -----------------
@@ -85,6 +85,9 @@ Since one of the main goals of this website was to present my photographs in a c
 Helpful resources
 -----------------
 From which I shamelessly stole, copied and adapted code.
+* [The Hugo Documentation site](https://gohugo.io/documentation/)
+* [The Introduction to Hugo Youtube series by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+* [This blog by Zwbetz](https://zwbetz.com/make-a-hugo-blog-from-scratch/)
 
 Closing remarks
 ---------------

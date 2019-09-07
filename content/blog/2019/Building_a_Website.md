@@ -18,7 +18,7 @@ Early 2019: exploring possibilities
 
 I don't have any background in graphic or web design or programming. Building my own website is a personal challenge and learning experience 
 
-I started by researching a bit generally about webdesign, html & css (internetting is not hard and other guides). 
+I started by researching a bit generally about webdesign, html & css ([Interneting is Hard](https://internetingishard.com/) and other guides). 
 
 At first I looked into building with wordpress, since it's so ubiquitous on the internet, well documented and accessible. But when I tried to run a local version to build my own site, I encountered loads of problems that were pretty hard to fix.
 
