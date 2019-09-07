@@ -37,38 +37,38 @@ hr {
 /* ===HEADER=== */
 /* Add a black background color to the top navigation */
 header ul {
-  background-color: #343333;
+  background-color: white;
   overflow: hidden;
-  /* position: fixed; /* Set the navbar to fixed position */
-  /* top: 0; /* Position the navbar at the top of the page */
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 }
 
 /* Style the links inside the navigation bar */
 header ul a {
   float: left;
-  color: #f7f7f7;
+  color: black;
+  display: block;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 1.2em;
+  border-bottom: 3px solid transparent;
 }
 
 /* Change the color of links on hover */
 header ul a:hover {
-  background-color: #f7f7f7;
-  color: #1e1e1e;
+  border-bottom: 3px solid #890f1d;
 }
 
 /* Add a color to the active/current link */
 header ul a.active {
-  background-color: #890f1d;
-  color: white;
+  border-bottom: 3px solid #890f1d;
 }
 
-/* Make logo alt text white */
+/* Make logo alt text black */
 header img {
-  color: #f7f7f7;
+  color: black;
 }
 
 header img:hover {
@@ -85,7 +85,7 @@ header img:hover {
 /* ===BLOG CONTENT=== */
 .content {
   line-height: 1.5em;
-  padding-top: 1em;
+  padding-top: 4em;
   padding-bottom: 2em;
   color: #1e1e1e;
   text-align: justify;
@@ -128,7 +128,7 @@ header img:hover {
 
 /* ===PHOTO BLOG NAVIGATION=== */
 .nav {
-  padding-top: 1em;
+  padding-top: 4em;
   padding-left: 1em;
   padding-right: 2em;
   text-align: end;
@@ -165,6 +165,11 @@ header img:hover {
 }
 
 /* ===FOOTER=== */
+
+.footer {
+  display: block;
+  padding-left: 10px;
+}
 
 .footer p {
   color: #343333;
