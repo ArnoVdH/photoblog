@@ -54,15 +54,15 @@ Folder structure
 
 Layouts pages
 -------------
-I decided not to use a homepage.html layout, and to use a normal photo-centric list-page as my homepage. This way I could make my homepage and my photopage to be one and the same, which was my intention after all. The blog side of the site would be different, so I made a seperate list.html for the blog section.
+I decided not to use a homepage.html layout, and to use a normal photo-centric list-page as my homepage. This way I could make my homepage and my photopage to be one and the same, which was my intention after all. The blog side of the site would be different, so I made a seperate list.html for the blog section. I'm sure there are other ways of doing this, but this seemed to work and served my purposes.
 
 Main menu
 ---------
-At first I just built a menu in my header with html. That was before I discovered the menu template options in Hugo. With some tweaking of the original html, I could have active menu options to make navigating the site somewhat easier.
+At first I just built a menu in my header with html. That was before I discovered the menu template options in Hugo. With some tweaking of the original html, I could have active menu options to make navigating the site somewhat easier. The problem was that the menu link to the 'About' page didn't register as active. In the end, I used a slightly less satisfying but working fix by putting `menu = "main"` in the about-page frontmatter (and removing the duplicate from the config). The individual pages don't show the active sections of the site, but that's something to fix later.
 
 Navigation menus
 ----------------
-Since this site has two parts, I wanted a distinct navigation menu for each one of those parts. So you can navigate both the photography portfolio and the blog in it's own way. I made seperate `nav` partials for this purpose.
+Since this site has two parts, I wanted a distinct navigation menu for each one of those parts. So you can navigate both the photography portfolio and the blog in it's own way. I made seperate `nav` partials for this purpose. The photo-nav one ranges over the photo series and it's tags, the blog one ranges over the categories (which I use as the blog-side variation on tags). 
 
 Pagination
 ----------
