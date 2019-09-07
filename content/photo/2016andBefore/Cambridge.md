@@ -1,7 +1,7 @@
 +++
 title =  "King's College, Cambridge"
 date = 2015-11-12T00:00:00+02:00
-tags = ["film", "black and white"]
+tags = ["film", "black and white", "travel"]
 series = []
 featured_image = ""
 description = ""
