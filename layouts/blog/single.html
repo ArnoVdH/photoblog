@@ -6,14 +6,14 @@
     <h1>{{.Title}}</h1>
     <p>{{ dateFormat "January 2006" .Date }}</p>
     <p>{{.Content}}</p>
-    <hr>
     <div class="tag-cat-list">
-    <p>Categories: </p>
-    {{ range $index, $category := .Params.categories }}
-    {{ if gt $index 0 }},
-    {{ end }}
-    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-    {{ end }}</p>
+        <hr>
+        <p>Categories: </p>
+        {{ range $index, $category := .Params.categories }}
+        {{ if gt $index 0 }},
+        {{ end }}
+        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}</p>
     </div>
 </div>
 {{ end }}

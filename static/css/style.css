@@ -128,7 +128,7 @@ header img:hover {
   margin-top: 0.5em;
 }
 
-.content hr {
+.tag-cat-list hr {
   margin-top: 5em;
   margin-bottom: 0em;
   width: 30%;
@@ -222,6 +222,12 @@ header img:hover {
     "nav"
     "ft"
   }
+  .content h1 {
+  margin-left: 0px;
+  }
+  .content h2 {
+  margin-left: 0px;
+  }
 }
 
 @media only screen and (min-width: 601px){
@@ -233,6 +239,12 @@ header img:hover {
     "hd hd hd hd hd hd hd hd hd"
     "nav nav main main main main main main main"
     "ft ft main main main main main main main"
+  }
+  .content h1 {
+  margin-left: 0px;
+  }
+  .content h2 {
+  margin-left: 0px;
   }
 }
 
