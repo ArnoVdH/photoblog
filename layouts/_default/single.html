@@ -6,5 +6,15 @@
     <h1>{{.Title}}</h1>
     <p>{{ dateFormat "Januari 2006" .Date }}</p>
     <p>{{.Content}}</p>
+    <hr>
+        <!--insert tags-->
+        <div class="tag-cat-list">
+        <p>Tags: </p>
+        {{ range $index, $tag := .Params.tags }}
+            {{ if gt $index 0 }},
+            {{ end }}
+            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+         {{ end }}
+        </div>
 </div>
 {{ end }}

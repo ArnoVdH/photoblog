@@ -31,7 +31,9 @@ code {
 hr {
   margin-top: 0.5em;
   margin-bottom: 1.5em;
-  color: #a9505a;
+  height: 3px;
+  background-color: #890f1d;
+  color: #890f1d;
 }
 
 /* ===HEADER=== */
@@ -47,7 +49,7 @@ header ul {
 /* Style the links inside the navigation bar */
 header ul a {
   float: left;
-  color: black;
+  color: #1e1e1e;
   display: block;
   text-align: center;
   padding: 14px 16px;
@@ -68,7 +70,7 @@ header ul a.active {
 
 /* Make logo alt text black */
 header img {
-  color: black;
+  color: #1e1e1e;
 }
 
 header img:hover {
@@ -78,8 +80,8 @@ header img:hover {
 
 /* ===PHOTO BLOG CONTENT=== */
 .content img {
-    max-width: 130vh;
-    max-height: 100vh;
+    max-width: 100vw;
+    max-height: 90vh;
 }
 
 /* ===BLOG CONTENT=== */
@@ -111,7 +113,7 @@ header img:hover {
 }
 
 .content code {
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 .content a {
@@ -126,11 +128,22 @@ header img:hover {
   margin-top: 0.5em;
 }
 
+.content hr {
+  margin-top: 5em;
+  margin-bottom: 0em;
+  width: 30%;
+}
+
+.tag-cat-list {
+  font-size: 0.9em;
+
+}
+
 /* ===PHOTO BLOG NAVIGATION=== */
 .nav {
   padding-top: 4em;
   padding-left: 1em;
-  padding-right: 2em;
+  padding-right: 2.5em;
   text-align: end;
 }
 
@@ -146,7 +159,7 @@ header img:hover {
 
 /* ===BLOG NAVIGATION=== */
 .categories {
-  font-size: 1em;
+  font-size: 1.2em;
   text-transform: capitalize;
 }
 
