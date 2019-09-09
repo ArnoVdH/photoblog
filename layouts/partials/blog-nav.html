@@ -1,8 +1,8 @@
 <nav class="nav">
-    <ul class="categories">
+    <div class="categories">
         <!-- Range over categories -->
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
         <li><a href="/categories/{{ $name | urlize }}">{{ $name }}</a></li>
         {{ end }}
-    </ul>
+    </div>
 </nav>

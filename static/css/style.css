@@ -5,7 +5,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
-  list-style: none;
   text-decoration: none;
   color: #1e1e1e;
 }
@@ -45,6 +44,7 @@ header ul {
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
+  list-style: none;
 }
 
 /* Style the links inside the navigation bar */
@@ -176,6 +176,7 @@ header img:hover {
   padding-left: 1em;
   padding-right: 2.5em;
   text-align: end;
+  list-style: none;
 }
 
 .series {

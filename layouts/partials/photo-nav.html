@@ -1,15 +1,15 @@
 <nav class="nav">
-    <ul class="series">
+    <div class="series">
 <!-- Range over series -->
         {{ range $name, $taxonomy := .Site.Taxonomies.series }}
         <li><a href="/series/{{ $name | urlize }}">{{ $name }}</a></li>
         {{ end }}
-    </ul>
+    </div>
 
-    <ul class="tags">
+    <div class="tags">
 <!-- Range over top 5 tags -->
         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
         <li><a href="/tags/{{ $name | urlize }}">{{ $name }}</a></li>
         {{ end }}
-    </ul>
+    </div>
 </nav>
