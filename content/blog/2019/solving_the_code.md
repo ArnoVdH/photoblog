@@ -43,6 +43,29 @@ Responsive images
 -----------------
 Since one of the main goals of this website was to present my photographs in a clean way on the main page, I had to figure this one out properly. I learned that just adding the images (even in a web optimized way) doesn't cut it, since they tend to ruin the page layout without the ability to adapt for diffferent screens. I wasn't even thinking about presenting on mobile yet! In other words, I needed them to be *responsive*.
 
+Failures and future plans
+-------------------------
+In the end, I couldn't fix all my problems (yet) but I have a functional site I built myself. So I decided to host it in this acceptable state instead of procastinating and delaying it indefinitely.
+
+Some things I couldn't implement right away, I'd like to change later on, or want to add in the future:
+
+* Make the menu's work on single pages too (aka: get the code working properly);
+
+* Make the tag lists dynamic and limited (eg: show only 5 most used tags);
+
+* Built an elegant solution to the photo posts with a function that ranges over all images in a certain folder, removing the need to link every image individually;
+
+* Make the images more responsive (and possibly quicker to load?);
+
+* Restyle layout, mainly the header, to feel more modern instead of crammed in a corner;
+
+* Add a graphic logo;
+
+* Add info about the pictures that show up only when activated.
+
+
+And probably a lot more.
+
 Helpful resources
 -----------------
 From which I shamelessly stole, copied and adapted code.
