@@ -142,6 +142,7 @@ header img:hover {
 
 .blogpost {
   max-width: 50em;
+  list-style: circle;
 }
 
 /* ===PHOTO BLOG NAVIGATION=== */

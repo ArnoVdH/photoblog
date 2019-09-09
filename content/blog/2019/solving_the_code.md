@@ -11,46 +11,7 @@ Since I'm a complete and utter novice at all... *this*, there were quite a few d
 
 <!--more-->
 
-Folder structure
-----------------
-
-    .
-    ├── archetypes/
-    │   ├── blog.md
-    │   ├── default.md
-    │   └── photo.md
-    ├── content/
-    │   ├── blog/
-    │   ├── photo/
-    │   ├── _index.md
-    │   └── about.md
-    ├── data/
-    ├── layouts/
-    │   ├── _default/
-    |   |   ├── baseof.html
-    |   |   ├── list.html
-    |   |   └── single.html
-    │   ├── blog/
-    |   |   ├── list.html
-    |   |   └── single.html
-    │   ├── categories/
-    |   |   └── list.html
-    │   ├── partials/
-    |   |   ├── blog-nav.html
-    |   |   ├── footer.html
-    |   |   ├── head.html
-    |   |   ├── header.html
-    |   |   ├── pagination.html
-    |   |   └── photo-nav.html
-    │   ├── static/
-    |   |   └── single.html
-    │   └── 404.html
-    ├── static
-    │   ├── css/
-    |   |   └── style.css
-    │   └── img/
-    ├── themes/
-    └── config.toml
+For those that are interested, you can find the files and folders at my [GitHub repository](https://github.com/ArnoVdH/photoblog).
 
 Layouts pages
 -------------
@@ -85,8 +46,11 @@ Since one of the main goals of this website was to present my photographs in a c
 Helpful resources
 -----------------
 From which I shamelessly stole, copied and adapted code.
+
 * [The Hugo Documentation site](https://gohugo.io/documentation/)
+
 * [The Introduction to Hugo Youtube series by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+
 * [This blog by Zwbetz](https://zwbetz.com/make-a-hugo-blog-from-scratch/)
 
 Closing remarks
