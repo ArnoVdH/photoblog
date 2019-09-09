@@ -39,6 +39,7 @@ hr {
 /* ===HEADER=== */
 /* Add a black background color to the top navigation */
 header ul {
+  padding-left: 10;
   background-color: white;
   overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
@@ -188,6 +189,7 @@ header img:hover {
 .footer {
   display: block;
   padding-left: 10px;
+  padding-bottom: 5px,
 }
 
 .footer p {
