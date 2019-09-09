@@ -12,8 +12,8 @@ Overview of (major) changes to the website.
 
 #0.9 (2019-09-09)
 * Draft version hosted on Netlify (https://arno.netlify.com/)
-* Started the ubi-101 blogpost
-* Added this version static page
+* Started the ubi-introduction blogpost
+* Added this version history static page
 
 #earlier versions
 Read [this blogpost]({{< ref "/blog/2019/building_a_website.md" >}}) on how I started building this website.

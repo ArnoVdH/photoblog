@@ -43,6 +43,8 @@ Responsive images
 -----------------
 Since one of the main goals of this website was to present my photographs in a clean way on the main page, I had to figure this one out properly. I learned that just adding the images (even in a web optimized way) doesn't cut it, since they tend to ruin the page layout without the ability to adapt for diffferent screens. I wasn't even thinking about presenting on mobile yet! In other words, I needed them to be *responsive*.
 
+In the end, nothing really came of it. I limited myself to making sure they look okay in a vertical scrolling page and I made them 'scale' with `max-height` and `max-width` values defined by the viewport (`vh` and `vw` respectively).
+
 Failures and future plans
 -------------------------
 In the end, I couldn't fix all my problems (yet) but I have a functional site I built myself. So I decided to host it in this acceptable state instead of procastinating and delaying it indefinitely.
