@@ -211,7 +211,7 @@ header img:hover {
   grid-area: main;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 480px){
   .wrapper {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
@@ -230,7 +230,7 @@ header img:hover {
   }
 }
 
-@media only screen and (min-width: 601px){
+@media only screen and (min-width: 481px) and (max-width: 767px){
   .wrapper {
   display: grid;
   grid-template-columns: repeat(9, 1fr);
