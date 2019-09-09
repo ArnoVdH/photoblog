@@ -61,6 +61,8 @@ Some things I couldn't implement right away, I'd like to change later on, or wan
 
 * Add a graphic logo;
 
+* Get the markdown working properly (some things don't work as they should, like lists!);
+
 * Add info about the pictures that show up only when activated.
 
 
