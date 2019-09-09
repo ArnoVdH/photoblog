@@ -3,24 +3,23 @@
 {{- partial "blog-nav.html" . -}}
 
 <div class="content">
-    <ul>
         <!-- Ranges through content/posts/*.md -->
         {{ range (.Paginator).Pages }}
             <article>
-                <div>
+                <div class="blogpost">
                 <a href="{{.Permalink}}"><h1>{{.Title}}</h1><p class="date">{{.Date.Format "January 2006"}}<p></p></a>
                 {{ .Summary }}
-                </div>
                 {{ if .Truncated }}
                 <!-- This <div> includes a read more link, but only if the summary is truncated... -->
                     <div class="read-more">
                         <a href="{{ .RelPermalink }}">Read More…</a>
                     </div>
                 {{ end }}
+                <hr>
+                </div>
+                </article>
             </article>
-            <hr>
         {{ end }}
-    </ul>
     {{- partial "pagination.html" . -}}
 
 </div>

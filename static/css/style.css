@@ -91,6 +91,7 @@ header img:hover {
   padding-bottom: 2em;
   color: #1e1e1e;
   text-align: justify;
+  list-style: initial;
 }
 
 .content h1 {
@@ -137,6 +138,10 @@ header img:hover {
 .tag-cat-list {
   font-size: 0.9em;
 
+}
+
+.blogpost {
+  max-width: 50em;
 }
 
 /* ===PHOTO BLOG NAVIGATION=== */

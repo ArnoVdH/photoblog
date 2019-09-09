@@ -1,5 +1,5 @@
 +++
-title =  "Site version hist"
+title =  "Version history"
 date = 2019-07-10T10:00:00+02:00
 tags = []
 featured_image = ""

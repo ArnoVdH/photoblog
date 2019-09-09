@@ -3,8 +3,9 @@
 {{- partial "blog-nav.html" . -}}
 
 <div class="content">
+<div class="blogpost">
     <h1>{{.Title}}</h1>
-    <p>{{ dateFormat "January 2006" .Date }}</p>
+    <p class="date">{{ dateFormat "January 2006" .Date }}</p>
     <p>{{.Content}}</p>
     <div class="tag-cat-list">
         <hr>
@@ -15,5 +16,6 @@
         <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
         {{ end }}</p>
     </div>
+</div>
 </div>
 {{ end }}
