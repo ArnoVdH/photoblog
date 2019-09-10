@@ -4,7 +4,7 @@ date = 2019-09-09T15:46:29+02:00
 categories = ["philosophy", "politics", "basic income"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 +++
 
 ![](https://i.pinimg.com/originals/96/5d/00/965d009cd94c2f92ba958381d24a4dc1.gif)
@@ -38,7 +38,9 @@ It's important to stress the individual as the basic unit to think about. The ba
 In principle the basic income shouldn't vary with any parameter (see unconditionality, below) except, practically, maybe with age, depending on the implementation of the basic income. For instance, it could be argued that older people need a little more because of rising medical costs and maybe it's complemented with an existing basic pension that's already in place. None the less, the basic income shouldn't prevent people from working longer if they are so inclined.
 
 ### Community
-Residents of a political community.
+The basic income gets payed *by* certain political community *to* all residents of that community. I'm using these vague terms on purpose here, since these factors can change drastically according to the scale of the proposal. The political community could be a lot of different things, the most obvious one being the (nation)state. But a lot of different kind of communities could act as a executive level to manage and distribute a basic income, both above as below the state. Communities like cities, provinces, substates, regions, but also international cooperative initiatives. Think European Union or even the United Nations!
+
+While a basic income could be associated with citizenship, I'd argue for resident-status as being enough to qualify, since there are more people part of a certain community than just those that are formal citizens. Think about refugees, expats, exchange students, asylum seekers, and others. People that could be understood as being long-term members of the community in question.
 
 ### Unconditional
 No means test, etc
@@ -47,7 +49,7 @@ No means test, etc
 Above the poverty line.
 
 ### Things left out
-Children, punishments (should prisoners get their BI?), the issue of citizenship, disability...
+Children, punishments (should prisoners get their BI?), the issue of citizenship, disability, additional social security schemes...
 
 Variations on BI
 ----------------
@@ -78,17 +80,17 @@ Why a BI?
 
 ### Autonomy, power and alternatives
 
-### Redress
+### Redress and reparations
 
 Possible problems with a BI
 ---------------------------
 
-### Cost and financing
+### Cost, financing and economics
 
 ### Globalisation and migration
 
 ### Laziness
 
-### Bad actors, the wrong reasons
+### Bad actors and the wrong reasons
 
 ### Individualism
