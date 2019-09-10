@@ -11,7 +11,7 @@ draft = true
 
 These last few years we see the idea of a (universal) basic income mentioned. It's not all over the news, but it's certainly something you've probably heard mentioning somewhere or read in passing. Not daily, but once in a while. In a thinkpiece somewhere probably, and probably by someone *progressive*. It's a fascinating idea that makes you think. Some people are revolted by it, others think it's a panacea to all society's problems. It's a lot more nuanced of course, but it's worth delving into.
 
-Back in 2015 I wrote [my master's thesis](/files/thesis.pdf) on the subject of basic income and libertarianism. Ever since I've wanted to translate and maybe expand a little on the work I did, and share it with the world.
+Back in 2015 I wrote [my master's thesis](/files/thesis.pdf) on the subject of basic income and libertarianism. Ever since I've wanted to translate and maybe expand a little on the work I did, and share it with the world. This post is based on the first chapter.
 
 In this blogpost I will try to define and describe what a basic income could (and maybe should) be. What is and isn't a basic income, what some of the intended effects would be and some basic criticisms leveled against it. In a later blogpost I'd like to go deeper into the history of the idea.
 <!--more-->
@@ -33,16 +33,21 @@ First the obvious: a basic income is an *income*. This means that it's a *moneta
 Besides that, it also implies that the income gets payed *regularly*, be it weekly, monthly, years or something else. In other words: it's not a one-time thing or a privilege that's been extended by a benevolent government, but something that can be relied on.
 
 ### Individual
+It's important to stress the individual as the basic unit to think about. The basic income is payed out to any single individual resident of a given community (see below) and not the (head of) a family or another configuration of people. The composition of the family isn't taken into account, in contrast to a subsistence income where people living together get less per capita since living costs get lower when living with two (or more).
 
+In principle the basic income shouldn't vary with any parameter (see unconditionality, below) except, practically, maybe with age, depending on the implementation of the basic income. For instance, it could be argued that older people need a little more because of rising medical costs and maybe it's complemented with an existing basic pension that's already in place. None the less, the basic income shouldn't prevent people from working longer if they are so inclined.
 
 ### Community
-
+Residents of a political community.
 
 ### Unconditional
-
+No means test, etc
 
 ### High enough
+Above the poverty line.
 
+### Things left out
+Children, punishments (should prisoners get their BI?), the issue of citizenship, disability...
 
 Variations on BI
 ----------------
@@ -54,13 +59,18 @@ Variations on BI
 ### Participation income
 
 ### Existing forms of BI-like systems
+Child benefits, some old age pensions, alaska fund
 
 Why a BI?
 ---------
 
+### Overhead and the nanny state
+
 ### Unemployment trap
 
 ### Poverty
+
+### Communality
 
 ### Human rights and human decency
 
