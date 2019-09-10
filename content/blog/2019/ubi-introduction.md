@@ -11,7 +11,7 @@ draft = false
 
 These last few years we see the idea of a (universal) basic income mentioned. It's not all over the news, but it's certainly something you've probably heard mentioning somewhere or read in passing. Not daily, but once in a while. In a thinkpiece somewhere probably, and probably by someone *progressive*. It's a fascinating idea that makes you think. Some people are revolted by it, others think it's a panacea to all society's problems. It's a lot more nuanced of course, but it's worth delving into.
 
-Back in 2015 I wrote [my master's thesis](/files/thesis.pdf) on the subject of basic income and libertarianism. Ever since I've wanted to translate and maybe expand a little on the work I did, and share it with the world. This post is based on the first chapter.
+Back in 2015 I wrote [my master's thesis](/files/thesis.pdf) on the subject of distributive justice, basic income and libertarianism. Ever since I've wanted to translate and maybe expand a little on the work I did, and share it with the world. This post is based on the first chapter.
 
 In this blogpost I will try to define and describe what a basic income could (and maybe should) be. What is and isn't a basic income, what some of the intended effects would be and some basic criticisms leveled against it. In a later blogpost I'd like to go deeper into the history of the idea.
 <!--more-->
@@ -57,7 +57,17 @@ A sufficient basic income is one that is sufficient to live a decent, worthy hum
 Anything that does not meet this requirement would constitute an insufficient basic income (but a basic income nonetheless). This is not to say that a insufficient basic income would be inherently undesirable or unjust, but there are certain differences between the two that could impact the (moral and practical) desirability of one over the other.
 
 ### Things left out
-Children, punishments (should prisoners get their BI?), the issue of citizenship, disability, additional social security schemes...
+There are a few specific questions I left out because they fall out of the scope of this post but I recognize as important and interesting questions.
+
+There's the issue of children: do they get their own basic income? Would it be a full basic income from the first day or something that scales up? Do the children receive it themselves (according to the principle that it gets payed to individuals rather than families) or does it get payed to the parent(s), just as child benefits are payed now.
+
+What about criminals? Should it be possible to lose your right to your basic income as a punishment? What about prisoners, maybe their stay should be payed for by their own income, in part of in full. This is a subject of retributive justice, and not distributive justice, which is what I'm concerned with here. 
+
+If the basic income would be limited to citizenship, wat would constitute that citizenship?
+
+There is no work requierement, but what if someone doesn't have the ability to work? Do these people have a right to additional compensation, possibly even having precedence over the basic income? (Philippe Van Parijs suggests they do)
+
+What about other social security schemes? Does a basic income take precedence over them? If so, which ones and why? Do we remove certain ones? Should we stop subsidizing thing like education, healthcare, public works...? In other words: what are the duties and priorities of the political community?
 
 Variations on BI
 ----------------
