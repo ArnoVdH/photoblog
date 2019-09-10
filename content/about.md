@@ -9,7 +9,7 @@ type = "static"
 menu = "main" #added to make the link active#
 +++
 
-![](/img/2018/Selfportrait-1.jpg)
+<img src="/img/2018/Selfportrait-1.jpg" width="50%" style="margin-left: 0px;"/>
 
 My name is Arno Van den Hende, living in Ghent, Belgium.
 
