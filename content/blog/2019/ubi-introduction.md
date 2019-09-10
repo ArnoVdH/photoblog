@@ -43,10 +43,18 @@ The basic income gets payed *by* certain political community *to* all residents 
 While a basic income could be associated with citizenship, I'd argue for resident-status as being enough to qualify, since there are more people part of a certain community than just those that are formal citizens. Think about refugees, expats, exchange students, asylum seekers, and others. People that could be understood as being long-term members of the community in question.
 
 ### Unconditional
-No means test, etc
+The most radical element is the demand for the basic income to be *unconditional*. It's also the most important part of the definition, the one that makes it stand apart from other social security measures or other proposals (see below) that are conditional in nature. It's a necessary one.
+
+This unconditionality has two parts. The first being the lack of a *means test*. This means that the income gets payed to everyone, regardless of their means, income or any other (conditional) benefits. So both rich and poor get their basic income. In the current social security systems, the persons has to actively request assistance and then gets scrutinized in a whole range of aspects of their live. Their household conditions, if they have children, a job, their assets, the other benefits they receive, and so on. It's on the basis of this background check that the amount of income they are entitled to under the scheme is calculated and doled out. In a basic income scheme, these are all skipped, and no formal request is needed to receive it.
+
+The second part is the lack of any *work requirements*. This could be seen as an extention of the abolition of other background checks, but it's more than that. Having a job or even the willingness to work is irrelevant. This is probably one of the more contreversial demands, since it means paying people who might not want to reciprocitate the efforts of others or don't deserve their solidarity.
 
 ### High enough
-Above the poverty line.
+A last distinction I'd like to make it that between a sufficient and insufficient basic income, because there are some differences between them further down the road that I'd like to point out. This isn't necessarily a commonly accepted distinction.
+
+A sufficient basic income is one that is sufficient to live a decent, worthy human life. What this means is debatable, but I'd like to suggest the following: at least all the basic needs should be covered (food, a roof over one's head, clothing, access to education and healthcare) - basically everything needed to guarantee the fullfilment of our human rights. A good shorthand way to define this more practically would be the poverty line as the minimum level needed to secure these. Note that this is a suggestion for a *minimum* needed to talk about a sufficient basic income, it could be higher than that and secure more possibilities, such as more opportunities for personal and social development, political participation, certain luxuries and indulgences, and more. There is no formal upper bound to this interpretation, but "[i]f the real freedom of those with the least real freedom is to be maximized, then the basic income must be pitched *at the highest sustainable level*, subject to the protection of everyone's formal freedom." (Philippe Van Parijs, *Real Freedom for All*, p. 31, my emphasis) Anything between the povertyline and this highest sustainable income, would count as sufficient.
+
+Anything that does not meet this requirement would constitute an insufficient basic income (but a basic income nonetheless). This is not to say that a insufficient basic income would be inherently undesirable or unjust, but there are certain differences between the two that could impact the (moral and practical) desirability of one over the other.
 
 ### Things left out
 Children, punishments (should prisoners get their BI?), the issue of citizenship, disability, additional social security schemes...
