@@ -23,29 +23,29 @@ First of all I should elaborate a little on the term 'basic income'. In the past
 
 I'll start by giving a working definition of what I think a universal basic income is. I'm aware that this definition will be contentious, but I hope to make clear that these different elements are helpfull in differentiating between what is and what isn't a BI and between different interpretations of BI proposals.
 
->A basic income is an income, payed to all individual residents of a political community, unconditionally and sufficiently high for a humane existence.
+>A basic income is an income, paid to all individual residents of a political community, unconditionally and sufficiently high for a humane existence.
 
 Lets look a little deeper into the constituting elements of the definition and bring some of them into sharper focus.
 
 ### Income
 First the obvious: a basic income is an *income*. This means that it's a *monetary* payment, and not a payment in kind. This is because money can be exchanged easily and universally for other goods and services. Unlike, for instance, vouchers (as proposed by Milton Friedman) that can only be exchanged for a defined good (food, education, and so on). Money gives more options and freedom to the individual in question, although they could act complimentary.
 
-Besides that, it also implies that the income gets payed *regularly*, be it weekly, monthly, years or something else. In other words: it's not a one-time thing or a privilege that's been extended by a benevolent government, but something that can be relied on.
+Besides that, it also implies that the income gets paid *regularly*, be it weekly, monthly, years or something else. In other words: it's not a one-time thing or a privilege that's been extended by a benevolent government, but something that can be relied on.
 
 ### Individual
-It's important to stress the individual as the basic unit to think about. The basic income is payed out to any single individual resident of a given community (see below) and not the (head of) a family or another configuration of people. The composition of the family isn't taken into account, in contrast to a subsistence income where people living together get less per capita since living costs get lower when living with two (or more).
+It's important to stress the individual as the basic unit to think about. The basic income is paid out to any single individual resident of a given community (see below) and not the (head of) a family or another configuration of people. The composition of the family isn't taken into account, in contrast to a subsistence income where people living together get less per capita since living costs get lower when living with two (or more).
 
 In principle the basic income shouldn't vary with any parameter (see unconditionality, below) except, practically, maybe with age, depending on the implementation of the basic income. For instance, it could be argued that older people need a little more because of rising medical costs and maybe it's complemented with an existing basic pension that's already in place. None the less, the basic income shouldn't prevent people from working longer if they are so inclined.
 
 ### Community
-The basic income gets payed *by* certain political community *to* all residents of that community. I'm using these vague terms on purpose here, since these factors can change drastically according to the scale of the proposal. The political community could be a lot of different things, the most obvious one being the (nation)state. But a lot of different kind of communities could act as a executive level to manage and distribute a basic income, both above as below the state. Communities like cities, provinces, substates, regions, but also international cooperative initiatives. Think European Union or even the United Nations!
+The basic income gets paid *by* certain political community *to* all residents of that community. I'm using these vague terms on purpose here, since these factors can change drastically according to the scale of the proposal. The political community could be a lot of different things, the most obvious one being the (nation)state. But a lot of different kind of communities could act as a executive level to manage and distribute a basic income, both above as below the state. Communities like cities, provinces, substates, regions, but also international cooperative initiatives. Think European Union or even the United Nations!
 
 While a basic income could be associated with citizenship, I'd argue for resident-status as being enough to qualify, since there are more people part of a certain community than just those that are formal citizens. Think about refugees, expats, exchange students, asylum seekers, and others. People that could be understood as being long-term members of the community in question.
 
 ### Unconditional
 The most radical element is the demand for the basic income to be *unconditional*. It's also the most important part of the definition, the one that makes it stand apart from other social security measures or other proposals (see below) that are conditional in nature. It's a necessary one.
 
-This unconditionality has two parts. The first being the lack of a *means test*. This means that the income gets payed to everyone, regardless of their means, income or any other (conditional) benefits. So both rich and poor get their basic income. In the current social security systems, the persons has to actively request assistance and then gets scrutinized in a whole range of aspects of their live. Their household conditions, if they have children, a job, their assets, the other benefits they receive, and so on. It's on the basis of this background check that the amount of income they are entitled to under the scheme is calculated and doled out. In a basic income scheme, these are all skipped, and no formal request is needed to receive it.
+This unconditionality has two parts. The first being the lack of a *means test*. This means that the income gets paid to everyone, regardless of their means, income or any other (conditional) benefits. So both rich and poor get their basic income. In the current social security systems, the persons has to actively request assistance and then gets scrutinized in a whole range of aspects of their live. Their household conditions, if they have children, a job, their assets, the other benefits they receive, and so on. It's on the basis of this background check that the amount of income they are entitled to under the scheme is calculated and doled out. In a basic income scheme, these are all skipped, and no formal request is needed to receive it.
 
 The second part is the lack of any *work requirements*. This could be seen as an extention of the abolition of other background checks, but it's more than that. Having a job or even the willingness to work is irrelevant. This is probably one of the more contreversial demands, since it means paying people who might not want to reciprocitate the efforts of others or don't deserve their solidarity.
 
@@ -59,9 +59,9 @@ Anything that does not meet this requirement would constitute an insufficient ba
 ### Things left out
 There are a few specific questions I left out because they fall out of the scope of this post but I recognize as important and interesting questions.
 
-There's the issue of children: do they get their own basic income? Would it be a full basic income from the first day or something that scales up? Do the children receive it themselves (according to the principle that it gets payed to individuals rather than families) or does it get payed to the parent(s), just as child benefits are payed now.
+There's the issue of children: do they get their own basic income? Would it be a full basic income from the first day or something that scales up? Do the children receive it themselves (according to the principle that it gets paid to individuals rather than families) or does it get paid to the parent(s), just as child benefits are paid now.
 
-What about criminals? Should it be possible to lose your right to your basic income as a punishment? What about prisoners, maybe their stay should be payed for by their own income, in part of in full. This is a subject of retributive justice, and not distributive justice, which is what I'm concerned with here. 
+What about criminals? Should it be possible to lose your right to your basic income as a punishment? What about prisoners, maybe their stay should be paid for by their own income, in part of in full. This is a subject of retributive justice, and not distributive justice, which is what I'm concerned with here. 
 
 If the basic income would be limited to citizenship, wat would constitute that citizenship?
 
