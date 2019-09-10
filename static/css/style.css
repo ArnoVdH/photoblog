@@ -9,6 +9,10 @@
   color: black;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "RennerBookBold", sans-serif;
+}
+
 p {
   color: black;
 }
@@ -169,6 +173,13 @@ header img:hover {
 
 .blogpost {
   max-width: 50em;
+}
+
+.blogpost img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
 }
 
 /* ===PHOTO BLOG NAVIGATION=== */

@@ -7,7 +7,7 @@ description = ""
 draft = false
 +++
 
-![](https://i.pinimg.com/originals/96/5d/00/965d009cd94c2f92ba958381d24a4dc1.gif)
+![](/img/blog/calvinhobbes.png)
 
 These last few years we see the idea of a (universal) basic income mentioned. It's not all over the news, but it's certainly something you've probably heard mentioning somewhere or read in passing. Not daily, but once in a while. In a thinkpiece somewhere probably, and probably by someone *progressive*. It's a fascinating idea that makes you think. Some people are revolted by it, others think it's a panacea to all society's problems. It's a lot more nuanced of course, but it's worth delving into.
 
@@ -73,6 +73,8 @@ Variations on BI
 ----------------
 
 ### Negative income tax
+
+![](/img/blog/ubi-comparison.jpeg)
 
 ### Stakeholder grants
 

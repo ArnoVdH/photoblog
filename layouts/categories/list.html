@@ -3,12 +3,11 @@
 {{- partial "blog-nav.html" . -}}
 
 <div class="content">
-    <ul>
         <!-- Ranges through content/posts/*.md -->
         {{ range (.Paginator).Pages }}
             <article>
-                <div>
-                <a href="{{.Permalink}}"><h1>{{.Title}}</h1> {{.Date.Format "January 2006"}}</a>
+                <div class="blogpost">
+                <a href="{{.Permalink}}"><h1>{{.Title}}</h1><p class="date">{{.Date.Format "January 2006"}}</p></a>
                 {{ .Content }}
                 </div>
                 {{ if .Truncated }}
@@ -20,7 +19,6 @@
             </article>
             <hr>
         {{ end }}
-    </ul>
     {{- partial "pagination.html" . -}}
 
 </div>
