@@ -8,23 +8,23 @@ description = ""
 draft = false
 +++
 
-![](/img/2018/PragueColor/PragueColor-1.jpg)
+![](/img/2018/PragueColor/PragueColor-01.jpg)
 
-![](/img/2018/PragueColor/PragueColor-2.jpg)
+![](/img/2018/PragueColor/PragueColor-02.jpg)
 
-![](/img/2018/PragueColor/PragueColor-3.jpg)
+![](/img/2018/PragueColor/PragueColor-03.jpg)
 
-![](/img/2018/PragueColor/PragueColor-4.jpg)
+![](/img/2018/PragueColor/PragueColor-04.jpg)
 
-![](/img/2018/PragueColor/PragueColor-5.jpg)
+![](/img/2018/PragueColor/PragueColor-05.jpg)
 
-![](/img/2018/PragueColor/PragueColor-6.jpg)
+![](/img/2018/PragueColor/PragueColor-06.jpg)
 
-![](/img/2018/PragueColor/PragueColor-7.jpg)
+![](/img/2018/PragueColor/PragueColor-07.jpg)
 
-![](/img/2018/PragueColor/PragueColor-8.jpg)
+![](/img/2018/PragueColor/PragueColor-08.jpg)
 
-![](/img/2018/PragueColor/PragueColor-9.jpg)
+![](/img/2018/PragueColor/PragueColor-09.jpg)
 
 ![](/img/2018/PragueColor/PragueColor-10.jpg)
 
@@ -39,11 +39,3 @@ draft = false
 ![](/img/2018/PragueColor/PragueColor-15.jpg)
 
 ![](/img/2018/PragueColor/PragueColor-16.jpg)
-
-![](/img/2018/PragueColor/PragueColor-17.jpg)
-
-![](/img/2018/PragueColor/PragueColor-18.jpg)
-
-![](/img/2018/PragueColor/PragueColor-19.jpg)
-
-![](/img/2018/PragueColor/PragueColor-20.jpg)
