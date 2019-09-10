@@ -25,7 +25,7 @@ I'll start by giving a working definition of what I think a universal basic inco
 
 >A basic income is an income, payed to all individual residents of a political community, unconditionally and sufficiently high for a humane existence.
 
-Lets look a little deeper into the constituting elements of the definition and bring some elements into sharper focus.
+Lets look a little deeper into the constituting elements of the definition and bring some of them into sharper focus.
 
 ### Income
 First the obvious: a basic income is an *income*. This means that it's a *monetary* payment, and not a payment in kind. This is because money can be exchanged easily and universally for other goods and services. Unlike, for instance, vouchers (as proposed by Milton Friedman) that can only be exchanged for a defined good (food, education, and so on). Money gives more options and freedom to the individual in question, although they could act complimentary.
@@ -57,6 +57,7 @@ Variations on BI
 
 Why a BI?
 ---------
+
 ### Unemployment trap
 
 ### Poverty

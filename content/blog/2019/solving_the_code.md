@@ -23,11 +23,13 @@ At first I just built a menu in my header with html. That was before I discovere
 
 Navigation menus
 ----------------
-Since this site has two parts, I wanted a distinct navigation menu for each one of those parts. So you can navigate both the photography portfolio and the blog in it's own way. I made seperate `nav` partials for this purpose. The photo-nav one ranges over the photo series and it's tags, the blog one ranges over the categories (which I use as the blog-side variation on tags). 
+Since this site has two parts, I wanted a distinct navigation menu for each one of those parts. So you can navigate both the photography portfolio and the blog in it's own way. I made seperate `nav` partials for this purpose. The photo-nav one ranges over the photo series and it's tags, the blog one ranges over the categories (which I use as the blog-side variation on tags).
+
+Ideally, the photo-nav should list the different photo series at the top in chronological order and beneath that a list of the most frequently used tags. Unfortunately, I couldn't get them sorted properly, since my understanding of hugo code is severely lacking. Still, except for this shortcoming, the navigation menus show everything they need to, so they serve their purpose.
 
 Pagination
 ----------
-Of course I needed a way to show my posts over multiple pages. I'd love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option.
+If I'm planning to add more content here in the next few years, I needed a way to show my posts over multiple pages of course. I'd love to have a infinite scroll type blog one day, but a basic page system seemed an easier and more stable option.
 
 I had quite some difficulty wrapping my head around the code, so in the end I took the liberty to "borrow" some code from [here](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/) and added it in as a pagination.html partial to be added to the templates where needed. 
 
@@ -37,7 +39,7 @@ Haven gotten everything to work is one thing (and I was already kinda jubulant a
 
 I knew that the whole CSS portion of it all would take up *at least* as much time, if not more, to get it right, with all the tweaking and finetuning, testing and rebuilding that would come. And I was kind of scared of how to do it all with those flexboxes I'd been reading about.
 
-But then I read about CSS: Grid and it looked like a great way to built a standard layout the easy way. It turns out it's *easier* maybe, but not easy. But with a few lines of codes I made a responsive website. And apparently it's necessary to put those media queries at the end of your css to make them work.
+But then I read about CSS: Grid and it looked like a great way to built a standard layout the easy way. It turns out it's *easier* maybe, but not that easy. But with a few lines of codes I made a sort-of-responsive website. And apparently it's necessary to put those media queries at the end of your css to make them work.
 
 Responsive images
 -----------------
@@ -51,21 +53,21 @@ In the end, I couldn't fix all my problems (yet) but I have a functional site I 
 
 Some things I couldn't implement right away, I'd like to change later on, or want to add in the future:
 
-* Make the menu's work on single pages too (aka: get the code working properly);
+* Make the header menu work on single pages too (in other words: fully utilize the hugo code);
 
 * Make the tag lists dynamic and limited (eg: show only 5 most used tags);
 
-* Built an elegant solution to the photo posts with a function that ranges over all images in a certain folder, removing the need to link every image individually;
+* Built an elegant solution to the photo posts with a function that ranges over all images in a certain folder, removing the need to link every image individually (that's just sloppy);
 
 * Make the images more responsive (and possibly quicker to load?);
 
-* Restyle layout, mainly the header, to feel more modern instead of crammed in a corner;
+* Restyle layout, mainly the header, to feel more modern instead of crammed in a corner and change the mobile layouts;
 
 * Add a graphic logo;
 
 * Get the markdown working properly (some things don't work as they should, like lists!);
 
-* Add info about the pictures that show up only when activated.
+* Add info (metadata) about the pictures that show up only when activated.
 
 
 And probably a lot more.
@@ -79,6 +81,10 @@ From which I shamelessly stole, copied and adapted code.
 * [The Introduction to Hugo Youtube series by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
 
 * [This blog by Zwbetz](https://zwbetz.com/make-a-hugo-blog-from-scratch/)
+
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+* [W3 Schools](https://www.w3schools.com/default.asp)
 
 Closing remarks
 ---------------

@@ -9,6 +9,8 @@ type = "static"
 menu = "main" #added to make the link active#
 +++
 
+![](/img/2018/Selfportrait-1.jpg)
+
 My name is Arno Van den Hende, living in Ghent, Belgium.
 
 I have a Master of Art in philosophy, specifically political philosophy.
