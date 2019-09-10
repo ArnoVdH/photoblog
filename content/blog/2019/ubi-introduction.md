@@ -13,7 +13,7 @@ These last few years we see the idea of a (universal) basic income mentioned. It
 
 Back in 2015 I wrote [my master's thesis](/files/thesis.pdf) on the subject of basic income and libertarianism. Ever since I've wanted to translate and maybe expand a little on the work I did, and share it with the world.
 
-In this blogpost I will try to define and describe what a basic income could (and maybe should) be. What is and isn't a basic income. What some of the intended effects would be and some basic criticisms leveled against it. In a later blogpost I'd like to go deeper into the history of the idea.
+In this blogpost I will try to define and describe what a basic income could (and maybe should) be. What is and isn't a basic income, what some of the intended effects would be and some basic criticisms leveled against it. In a later blogpost I'd like to go deeper into the history of the idea.
 <!--more-->
 
 What is a basic income?
@@ -25,15 +25,24 @@ I'll start by giving a working definition of what I think a universal basic inco
 
 >A basic income is an income, payed to all individual residents of a political community, unconditionally and sufficiently high for a humane existence.
 
+Lets look a little deeper into the constituting elements of the definition and bring some elements into sharper focus.
+
 ### Income
+First the obvious: a basic income is an *income*. This means that it's a *monetary* payment, and not a payment in kind. This is because money can be exchanged easily and universally for other goods and services. Unlike, for instance, vouchers (as proposed by Milton Friedman) that can only be exchanged for a defined good (food, education, and so on). Money gives more options and freedom to the individual in question, although they could act complimentary.
+
+Besides that, it also implies that the income gets payed *regularly*, be it weekly, monthly, years or something else. In other words: it's not a one-time thing or a privilege that's been extended by a benevolent government, but something that can be relied on.
+
+### Individual
+
 
 ### Community
 
-### Individuals
 
 ### Unconditional
 
+
 ### High enough
+
 
 Variations on BI
 ----------------
@@ -48,6 +57,27 @@ Variations on BI
 
 Why a BI?
 ---------
+### Unemployment trap
+
+### Poverty
+
+### Human rights and human decency
+
+### Ecology and quality of life
+
+### Autonomy, power and alternatives
+
+### Redress
 
 Possible problems with a BI
 ---------------------------
+
+### Cost and financing
+
+### Globalisation and migration
+
+### Laziness
+
+### Bad actors, the wrong reasons
+
+### Individualism

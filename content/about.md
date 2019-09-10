@@ -9,4 +9,12 @@ type = "static"
 menu = "main" #added to make the link active#
 +++
 
-This is who I am.
+My name is Arno Van den Hende, living in Ghent, Belgium.
+
+I have a Master of Art in philosophy, specifically political philosophy.
+
+I'm a generalist and enthusiast of a whole range of subjects, among them photography.
+
+That's the *raison d'être* of this site: to serve as a informal portfolio of my amateur photography and a place to write about the things on my mind.
+
+Should you want to contact me, my e-mail adress is `arno.vandenhende@posteo.net`.

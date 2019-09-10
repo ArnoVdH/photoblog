@@ -6,33 +6,34 @@
   box-sizing: border-box;
   font-family: sans-serif;
   text-decoration: none;
-  color: #1e1e1e;
+  color: black;
 }
 
 p {
-  color: #1e1e1e;
+  color: black;
 }
 
 a {
-  color: #890f1d;
+  color: #B00032;
 }
 
 a:hover {
-  color: #a9505a
+  color: #cc2e5a;
 }
 
 code {
+  font-size: 1.4em;
   font-family: monospace;
-  color: #343333;
-  font-weight: bold;
+  font-weight: 600;
+  color: #83878C;
 }
 
 hr {
   margin-top: 0.5em;
   margin-bottom: 1.5em;
   height: 3px;
-  background-color: #890f1d;
-  color: #890f1d;
+  background-color: #B00032;
+  color: #B00032;
 }
 
 /* ===HEADER=== */
@@ -50,7 +51,7 @@ header ul {
 /* Style the links inside the navigation bar */
 header ul a {
   float: left;
-  color: #1e1e1e;
+  color: black;
   display: block;
   text-align: center;
   padding: 14px 16px;
@@ -61,22 +62,21 @@ header ul a {
 
 /* Change the color of links on hover */
 header ul a:hover {
-  border-bottom: 3px solid #890f1d;
+  border-bottom: 3px solid #B00032;
 }
 
 /* Add a color to the active/current link */
 header ul a.active {
-  border-bottom: 3px solid #890f1d;
+  border-bottom: 3px solid #B00032;
 }
 
 /* Make logo alt text black */
 header img {
-  color: #1e1e1e;
+  color: black;
 }
 
 header img:hover {
-  background-color: #f7f7f7;
-  color: #1e1e1e;
+  color: black;
 }
 
 /* ===PHOTO BLOG CONTENT=== */
@@ -90,13 +90,13 @@ header img:hover {
   line-height: 1.5em;
   margin-top: 4em;
   margin-bottom: 2em;
-  color: #1e1e1e;
+  color: black;
   text-align: justify;
   list-style: initial;
 }
 
 .content h1, h2, h3, h4, h5, h6 {
-  color: #474545;
+  color: #83878C;
 }
 
 .content blockquote{
@@ -105,20 +105,21 @@ header img:hover {
   margin-left: 2em;
   padding-left: 0.5em;
   margin-right: 3em;
-  color: #474545;
+  color: #83878C;
   font-weight: 500;
   font-style: italic;
-  border-left: 3px solid #474545;
+  border-left: 3px solid #83878C;
 }
 
 .content blockquote p {
   padding-top: 0em;
+  color: #83878C;
 }
 
 .content h1 {
   font-size: 2em;
   margin-left: -20px;
-  color: #890f1d;
+  color: #B00032;
 }
 
 .content .date {
@@ -140,16 +141,16 @@ header img:hover {
   margin-top: 0.5em;
 }
 
-.content code {
-  font-size: 1.4em;
+.content li {
+  margin-left: 2.5em;
 }
 
 .content a {
-  color: #890f1d
+  color: #B00032
 }
 
 .content a:hover {
-  color: #a9505a;
+  color: #cc2e5a;
 }
 
 .content .read-more {
@@ -213,23 +214,22 @@ header img:hover {
 
 .footer {
   display: block;
-  padding-left: 10px;
-  padding-bottom: 5px,
+  margin-left: 10px;
+  margin-bottom: 5px;
 }
 
 .footer p {
-  color: #343333;
+  color: #83878C;
 }
 
 .footer a {
-  color: #343333;
+  color: #83878C;
 }
 
 /* ===LAYOUT=== */
 
 .header {
   grid-area: hd;
-  background-color: #343333;
 }
 
 .footer {
