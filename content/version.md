@@ -14,6 +14,7 @@ Overview of (major) changes to the website.
 
 * Reworked the `photo-nav` and `blog-nav` partials to sort tags and categories by count and limit them to most used ones
 * Fixed categories list page to show only the summary instead of the complete text
+* Added a book list page
 
 ### 0.9 (2019-09-09)
 
