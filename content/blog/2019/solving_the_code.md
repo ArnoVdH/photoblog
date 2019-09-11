@@ -86,6 +86,8 @@ From which I shamelessly stole, copied and adapted code.
 
 * [W3 Schools](https://www.w3schools.com/default.asp)
 
+* [This blog by Jake Wiesler](https://www.jakewiesler.com/blog/hugo-taxonomies/)
+
 Closing remarks
 ---------------
 I'm very much aware that many of my 'solutions' are very crude or inelegant. But this was and still is my own little learning project. I've had a lot of fun trying to figure out solutions for all the problems that inevitabely kept creeping up on me. 
