@@ -1,8 +1,8 @@
 <nav class="nav">
     <div class="categories">
         <!-- Range over categories -->
-        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-        <li><a href="/categories/{{ $name | urlize }}">{{ $name | humanize }}</a></li>
+        {{ range (first 10 $.Site.Taxonomies.categories.ByCount) }}
+        <li><a href="/categories/{{ .Name | urlize }}">{{ .Name | humanize }}</a></li>
         {{ end }}
     </div>
 </nav>

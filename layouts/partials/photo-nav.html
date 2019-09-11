@@ -8,8 +8,8 @@
 
     <div class="tags">
 <!-- Range over top 5 tags -->
-        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-        <li><a href="/tags/{{ $name | urlize }}">{{ $name | humanize }}</a></li>
+        {{ range (first 5 $.Site.Taxonomies.tags.ByCount) }}
+        <li><a href="/tags/{{ .Name | urlize }}">{{ .Name | humanize }}</a></li>
         {{ end }}
     </div>
 </nav>
