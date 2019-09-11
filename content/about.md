@@ -19,4 +19,4 @@ I'm a generalist and enthusiast of a whole range of subjects, among them photogr
 
 That's the *raison d'être* of this site: to serve as a informal portfolio of my amateur photography and a place to write about the things on my mind.
 
-Should you want to contact me, my e-mail adress is `arno.vandenhende@posteo.net`.
+Should you want to contact me, my e-mail adress is `arno.vandenhende`<span style="display: none;">REMOVE</span>`@posteo.net`.

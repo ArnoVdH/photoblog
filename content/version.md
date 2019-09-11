@@ -10,6 +10,10 @@ type = "static"
 
 Overview of (major) changes to the website.
 
+### 0.9.1 (2019-09-11)
+
+* Reworked the `photo-nav` and `blog-nav` partials to sort tags and categories by count and limit them to most used ones
+
 ### 0.9 (2019-09-09)
 
 * Draft version hosted on Netlify (https://arno.netlify.com/)
@@ -17,7 +21,7 @@ Overview of (major) changes to the website.
 * Lots of tweaks to the css
 * Added this version history static page
 
-### earlier versions
+### Earlier versions
 
 Read [this blogpost]({{< ref "/blog/2019/building_a_website.md" >}}) on how I started building this website.
 
