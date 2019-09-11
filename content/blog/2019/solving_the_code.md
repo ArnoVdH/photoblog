@@ -55,7 +55,7 @@ Some things I couldn't implement right away, I'd like to change later on, or wan
 
 * Make the header menu work on single pages too (in other words: fully utilize the hugo code);
 
-* Make the tag lists dynamic and limited (eg: show only 5 most used tags);
+* Make the tag lists dynamic and limited (eg: show ~~only 5 most used tags~~ series chronologically);
 
 * Built an elegant solution to the photo posts with a function that ranges over all images in a certain folder, removing the need to link every image individually (that's just sloppy);
 
@@ -87,6 +87,8 @@ From which I shamelessly stole, copied and adapted code.
 * [W3 Schools](https://www.w3schools.com/default.asp)
 
 * [This blog by Jake Wiesler](https://www.jakewiesler.com/blog/hugo-taxonomies/)
+
+* [This blog by Desmond Lua, to sort my tag list](https://code.luasoftware.com/tutorials/hugo/hugo-list-tags-sort-by-count/)
 
 Closing remarks
 ---------------

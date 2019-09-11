@@ -149,6 +149,10 @@ header img:hover {
   margin-left: 2.5em;
 }
 
+.content del {
+  text-decoration: line-through;
+}
+
 .content a {
   color: #B00032
 }
