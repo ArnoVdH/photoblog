@@ -7,9 +7,9 @@ description = ""
 draft = false
 +++
 
-It started out as an idea to have my own place on the internet.  
+It started out as an idea to have my own place on the internet, where I have full control.
 
-**Goal: a clean, light website that functions as both a photo portfolio and a personal blog. Building it myself would be an added bonus.**
+**My goal: a clean, light website that functions as both a photo portfolio and a personal blog. Without a host of trackers, but fully usable. Building it myself would be an added bonus.**
 
 <!--more-->
 
