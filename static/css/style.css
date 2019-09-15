@@ -40,6 +40,10 @@ hr {
   color: #B00032;
 }
 
+.pagination {
+  list-style: none;
+}
+
 /* ===HEADER=== */
 /* Add a black background color to the top navigation */
 header ul {
