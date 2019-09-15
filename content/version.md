@@ -21,6 +21,7 @@ Overview of (major) changes to the website.
 
 ### 0.9.2 (2019-09-15)
 * Reorganized responsive css layout for mobile devices (changed order in css file)
+* Added a curriculum (life overview) page
 
 ### 0.9.1 (2019-09-11)
 
