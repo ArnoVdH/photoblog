@@ -18,6 +18,7 @@ Overview of (major) changes to the website.
 * Make images more responsive and lighter
 * Add a graphic logo
 * Add info (metadata) about the pictures that show up only when activated.
+* Buy domain name
 
 ### 0.9.2 (2019-09-15)
 * Reorganized responsive css layout for mobile devices (changed order in css file)
