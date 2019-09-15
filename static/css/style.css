@@ -262,7 +262,6 @@ header img:hover {
 @media only screen and (max-width: 480px){
   .wrapper {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
   grid-auto-rows: minmax(100px; auto);
   grid-template-areas:
     "hd"
@@ -270,30 +269,51 @@ header img:hover {
     "nav"
     "ft"
   }
+
+  * {
+  margin-left: 5px;
+  margin-right: 5px;
+  }
   .content h1 {
-  margin-left: 0px;
+  margin-left: -2px;
   }
   .content h2 {
-  margin-left: 0px;
+  margin-left: -2px;
+  }
+
+  .content .date {
+  margin-left: -2px;
   }
 }
 
 @media only screen and (min-width: 481px) and (max-width: 767px){
   .wrapper {
   display: grid;
-  grid-template-columns: repeat(9, 1fr);
   grid-auto-rows: minmax(100px; auto);
   grid-template-areas:
-    "hd hd hd hd hd hd hd hd hd"
-    "nav nav main main main main main main main"
-    "ft ft main main main main main main main"
+    "hd"
+    "main"
+    "nav"
+    "ft"
   }
-  .content h1 {
-  margin-left: 0px;
-  }
-  .content h2 {
-  margin-left: 0px;
-  }
+  * {
+    margin-left: 5px;
+    margin-right: 5px;
+    }
+    .content h1 {
+    margin-left: -2px;
+    }
+    .content h2 {
+    margin-left: -2px;
+    }
+  
+    .content .date {
+    margin-left: -2px;
+    }
+
+    .blogpost {
+      max-width: initial;
+    }
 }
 
 @media only screen and (min-width: 768px){

@@ -47,7 +47,7 @@ The most radical element is the demand for the basic income to be *unconditional
 
 This unconditionality has two parts. The first being the lack of a *means test*. This means that the income gets paid to everyone, regardless of their means, income or any other (conditional) benefits. So both rich and poor get their basic income. In the current social security systems, the persons has to actively request assistance and then gets scrutinized in a whole range of aspects of their live. Their household conditions, if they have children, a job, their assets, the other benefits they receive, and so on. It's on the basis of this background check that the amount of income they are entitled to under the scheme is calculated and doled out. In a basic income scheme, these are all skipped, and no formal request is needed to receive it.
 
-The second part is the lack of any *work requirements*. This could be seen as an extention of the abolition of other background checks, but it's more than that. Having a job or even the willingness to work is irrelevant. This is probably one of the more contreversial demands, since it means paying people who might not want to reciprocitate the efforts of others or don't deserve their solidarity.
+The second part is the lack of any *work requirements*. This could be seen as an extention of the abolition of other background checks, but it's more than that. Having a job or even the willingness to work is irrelevant. This is probably one of the more contreversial demands, since it means paying people who, according to some views, might not want to reciprocitate the efforts of others or don't deserve their solidarity.
 
 ### High enough
 A last distinction I'd like to make it that between a sufficient and insufficient basic income, because there are some differences between them further down the road that I'd like to point out. This isn't necessarily a commonly accepted distinction.
@@ -71,14 +71,23 @@ What about other social security schemes? Does a basic income take precedence ov
 
 Variations on BI
 ----------------
+There are a few proposals with similar goals and methods that aren't necessarily real basic incomes.
 
 ### Negative income tax
+One of the most well known alternative social security schemes is the negative income tax. This is a system of taxation where people under a certain treshold don't pay taxes but get benefits, payed for with the taxes collected from those above that treshold. Those beneath the treshold get a taxbreak to guarantee a minimum.
+
+While the actual wealth transfers would be significantly smaller than in the case of a BI, it still requires a system of background checks to evaluate eligibility for these tax breaks and thus uncertainty about one's income (see below). 
 
 ![](/img/blog/ubi-comparison.jpeg)
 
 ### Stakeholder grants
+Another proposition is that of the *stakeholder grants* as first proposed by Thomas Paine (together with a basic pension) and more recently elaborated upon by Bruce Ackerman and Anne Alstott. The idea here is that every person under the scheme gets a share in the wealth of the community in the form of a one-time lump-sum payment at the age of majority. Just as in a BI scheme, there won't be any conditions to receiving this grant or any limitations on the way someone can spend their allotted money. They can invest, they can spend, they can gamble, gift it way. The potential and risks are all their own responsibility. The fact that this grant would consist of a much higher sum than a basic income would means that larger endeavours are possible. That's why Ackerman and Alstott call it a "launching pad for succes".
+
+Although this radical anti-paternalist vision has merits, there are some problems with it. Besides irresponsible behaviour, 
 
 ### Participation income
+"Slavery with extra steps"
+
 
 ### Existing forms of BI-like systems
 Child benefits, some old age pensions, alaska fund
@@ -88,7 +97,7 @@ Why a BI?
 
 ### Overhead and the nanny state
 
-### Unemployment trap
+### Unemployment trap & uncertainty
 
 ### Poverty
 
