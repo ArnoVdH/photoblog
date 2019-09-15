@@ -3,7 +3,6 @@
 {{- partial "photo-nav.html" . -}}
 
 <div class="content">
-<div class="photo-blog">
     <ul>
         <!-- Ranges through content/posts/*.md -->
         {{ $paginator := .Paginate (where .Data.Pages "Section" "photo") }}
@@ -20,7 +19,7 @@
         {{ end }}
     </ul>
     {{- partial "pagination.html" . -}}
-</div>
+
 </div>
 
 {{ end }}
