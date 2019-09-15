@@ -286,9 +286,11 @@ header img:hover {
     margin-left: 5px;
     margin-right: 5px;
     }
+
     .content h1 {
     margin-left: -2px;
     }
+
     .content h2 {
     margin-left: -2px;
     }
@@ -297,8 +299,8 @@ header img:hover {
     margin-left: -2px;
     }
 
-    .blogpost {
-      max-width: initial;
+    .content img {
+    margin: 0px;
     }
 
     header {

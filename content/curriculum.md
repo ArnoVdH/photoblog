@@ -58,7 +58,7 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 * Graduated high-school
 
 ## 2000
-Vacation in the UK
+* Vacation in the UK
 
 ## 1994
 * Vacation to Bretagne, France
