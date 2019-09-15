@@ -3,6 +3,8 @@
 {{- partial "photo-nav.html" . -}}
 
 <div class="content">
+<div class="photo-blog">
+
     <h1>{{.Title}}</h1>
     <p>{{ dateFormat "Januari 2006" .Date }}</p>
     <p>{{.Content}}</p>
@@ -16,5 +18,6 @@
                 <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
             {{ end }}
         </div>
+</div>
 </div>
 {{ end }}
