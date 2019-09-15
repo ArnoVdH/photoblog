@@ -10,6 +10,9 @@ type = "static"
 
 Overview of (major) changes to the website.
 
+### 0.9.2 (2019-09-15)
+* Reorganized responsive css layout for mobile devices (changed order in css file)
+
 ### 0.9.1 (2019-09-11)
 
 * Reworked the `photo-nav` and `blog-nav` partials to sort tags and categories by count and limit them to most used ones

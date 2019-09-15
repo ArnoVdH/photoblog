@@ -60,7 +60,7 @@ header ul a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 1.2em;
+  font-size: 1.4em;
   border-bottom: 3px solid transparent;
 }
 
@@ -196,7 +196,7 @@ header img:hover {
 }
 
 .series {
-  font-size: 1.6em;
+  font-size: 1.4em;
   text-transform: capitalize;
 }
 
@@ -259,34 +259,20 @@ header img:hover {
   grid-area: main;
 }
 
-@media only screen and (max-width: 480px){
-  .wrapper {
+@media only screen and (min-width: 1000px){
+.wrapper {
+  min-height: 100vh;
   display: grid;
-  grid-auto-rows: minmax(100px; auto);
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: auto 1fr auto;
   grid-template-areas:
-    "hd"
-    "main"
-    "nav"
-    "ft"
-  }
-
-  * {
-  margin-left: 5px;
-  margin-right: 5px;
-  }
-  .content h1 {
-  margin-left: -2px;
-  }
-  .content h2 {
-  margin-left: -2px;
-  }
-
-  .content .date {
-  margin-left: -2px;
+    "hd hd hd hd hd hd hd hd hd hd"
+    "nav nav main main main main main main main ."
+    "ft ft ft ft ft ft ft ft ft ft"
   }
 }
 
-@media only screen and (min-width: 481px) and (max-width: 767px){
+@media only screen and (max-width: 999px){
   .wrapper {
   display: grid;
   grid-auto-rows: minmax(100px; auto);
@@ -297,6 +283,7 @@ header img:hover {
     "ft"
   }
   * {
+    background-color: blue;
     margin-left: 5px;
     margin-right: 5px;
     }
@@ -314,17 +301,35 @@ header img:hover {
     .blogpost {
       max-width: initial;
     }
+
+    header {
+      width: 100%;
+    }
+
+    .content blockquote{
+      margin-top: 1em;
+      margin-bottom: 1em;
+      margin-left: 1em;
+      padding-left: 0.2em;
+      margin-right: 0em;
 }
 
-@media only screen and (min-width: 768px){
-.wrapper {
-  min-height: 100vh;
-  display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  grid-template-rows: auto 1fr auto;
-  grid-template-areas:
-    "hd hd hd hd hd hd hd hd hd hd"
-    "nav nav main main main main main main main ."
-    "ft ft ft ft ft ft ft ft ft ft"
-}
+@media only screen and (max-width: 480px){
+  * {
+    background-color: yellow;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .content h1 {
+    margin-left: 0px;
+    }
+
+    .content h2 {
+    margin-left: 0px;
+    }
+  
+    .content .date {
+    margin-left: 0px;
+    }
 }
