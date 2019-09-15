@@ -83,11 +83,10 @@ While the actual wealth transfers would be significantly smaller than in the cas
 ### Stakeholder grants
 Another proposition is that of the *stakeholder grants* as first proposed by Thomas Paine (together with a basic pension) and more recently elaborated upon by Bruce Ackerman and Anne Alstott. The idea here is that every person under the scheme gets a share in the wealth of the community in the form of a one-time lump-sum payment at the age of majority. Just as in a BI scheme, there won't be any conditions to receiving this grant or any limitations on the way someone can spend their allotted money. They can invest, they can spend, they can gamble, gift it way. The potential and risks are all their own responsibility. The fact that this grant would consist of a much higher sum than a basic income would means that larger endeavours are possible. That's why Ackerman and Alstott call it a "launching pad for succes".
 
-Although this radical anti-paternalist vision has merits, there are some problems with it. Besides irresponsible behaviour, 
+Although this radical anti-paternalist vision has merits, there are some problems with it. Besides irresponsible behaviour, things like changing character (what I'd do with such a grant could be different as a 40-something than a 20-something) or plain bad luck could mean the grant is wasted, with an undesirable outcome, independent of effort and merit. Answers to these problems are to split up the grant in multiple payments to spread out the risk, but this defeats part of the purpose of this proposal. Another idea is to have the option to forego the grant and opt for a basic-income, and thus a steady income, instead.
 
 ### Participation income
-"Slavery with extra steps"
-
+The idea that people would get an income even if they refuse to work (and thus reciprocitate the scheme) is a major moral problem to some people. Thus it has been proposed to at least require the benificiaries to participate in society by showing a willingness to work at the very least.
 
 ### Existing forms of BI-like systems
 Child benefits, some old age pensions, alaska fund
