@@ -10,6 +10,15 @@ type = "static"
 
 Overview of (major) changes to the website.
 
+### To do
+* Clean up CSS
+* Adapt header menu to fully use hugo code (make single pages and subpages active)
+* List the 'series' chronologically in nav-menu
+* Built shortcode to insert images in photo page from a folder
+* Make images more responsive and lighter
+* Add a graphic logo
+* Add info (metadata) about the pictures that show up only when activated.
+
 ### 0.9.2 (2019-09-15)
 * Reorganized responsive css layout for mobile devices (changed order in css file)
 
