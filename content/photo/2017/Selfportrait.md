@@ -1,6 +1,6 @@
 +++
 title =  "Selfportrait"
-date = 2019-09-15T19:35:02+02:00
+date = 2017-02-02T10:00:00+02:00
 tags = ["film", "selfportrait", "35mm"]
 series = []
 featured_image = ""
