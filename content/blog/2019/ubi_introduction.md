@@ -84,9 +84,12 @@ While the actual wealth transfers would be significantly smaller than in the cas
 
 ![](/img/blog/ubi-comparison.jpeg)
 
+Abstract graph comparison of different social security schemes  
+(source: Real Freedom for All, Van Parijs, 1995, p. )
+
 ### Stakeholder grants
 
-Another proposition is that of the _stakeholder grants_ as first proposed by Thomas Paine (together with a basic pension) and more recently elaborated upon by Bruce Ackerman and Anne Alstott. The idea here is that every person under the scheme gets a share in the wealth of the community in the form of a one-time lump-sum payment at the age of majority. Just as in a BI scheme, there won't be any conditions to receiving this grant or any limitations on the way someone can spend their allotted money. They can invest, they can spend, they can gamble, gift it way. The potential and risks are all their own responsibility. The fact that this grant would consist of a much higher sum than a basic income would means that larger endeavors are possible. That's why Ackerman and Alstott call it a "launching pad for success".
+Another proposition is that of the _stakeholder grants_ as first proposed by Thomas Paine (together with a basic pension), more recently elaborated upon by Bruce Ackerman and Anne Alstott and proposed by Thomas Piketty. The idea here is that every person under the scheme gets a share in the wealth of the community in the form of a one-time lump-sum payment at the age of majority. Just as in a BI scheme, there won't be any conditions to receiving this grant or any limitations on the way someone can spend their allotted money. They can invest, they can spend, they can gamble, gift it way. The potential and risks are all their own responsibility. The fact that this grant would consist of a much higher sum than a basic income would means that larger endeavors are possible. That's why Ackerman and Alstott call it a "launching pad for success".
 
 Although this radical anti-paternalist vision has merits, there are some problems with it. Besides irresponsible behavior, things like changing character (what I'd do with such a grant could be different as a 40-something than a 20-something) or plain bad luck could mean the grant is wasted, with an undesirable outcome, independent of effort and merit. Answers to these problems are to split up the grant in multiple payments to spread out the risk, but this defeats part of the purpose of this proposal. Another idea is to have the option to forego the grant and opt for a basic-income, and thus a steady income, instead.
 
@@ -108,6 +111,8 @@ There's also the Alaska Permanent Fund that has payed out a yearly dividend to a
 
 ### Overhead and the nanny state
 
+Reduce the size of the controlling state aparatus. The state shouldn't decide on what people can or cannot do with their money and when they are or aren't deserving of help. 
+
 ### Unemployment trap & uncertainty
 
 One of the biggest problems with many current systems of unemployment is the unemployment trap (also called welfare or poverty trap). This problem arises from the situation where the cost of going to work is actually bigger than when staying unemployed. If the wage of the potential job is not much higher than the benefits, the added income doesn't compensate for things like the commute or the lost hours you could spend doing something else (such as looking for a better payed job!).
@@ -118,15 +123,29 @@ A basic income would solve both sides of the unemployment trap, since _any_ inco
 
 ### Poverty
 
+Guarantee a living wage, eradicate poverty.
+
 ### Communality
+
+Encourage a multitude of different living arrangements.
 
 ### Human rights and human decency
 
+A BI is a way to guarantee people have the means to secure basic human rights and live with the necessary decency they deserve.
+
 ### Ecology and quality of life
+
+Less work, less consumerism, less polution
+
+More time to do qualitative things in life
 
 ### Autonomy, power and alternatives
 
+The power to say no to a job. The time to search for the best solutions. 
+
 ### Redress and reparations
+
+Intergenerational injustice is difficult to trace. BI could manage this. Those who profited over time would have to pay for those that were disadvantaged by it.
 
 ## Possible problems with a BI
 
