@@ -145,16 +145,34 @@ The power to say no to a job. The time to search for the best solutions.
 
 ### Redress and reparations
 
-Intergenerational injustice is difficult to trace. BI could manage this. Those who profited over time would have to pay for those that were disadvantaged by it.
+Inter-generational injustice is difficult to trace. BI could manage this. Those who profited over time would have to pay for those that were disadvantaged by it.
 
 ## Possible problems with a BI
 
 ### Cost, financing and economics
 
+High costs,
+
+Financing
+
+Economic impact
+
 ### Globalisation and migration
+
+Will a BI attract more economic migrants?
+
+Feasible on anything other than global scale?
 
 ### Laziness
 
+Will people become lazy?
+
+Are lazy people entitled to income without work?
+
 ### Bad actors and the wrong reasons
 
+BI: a "neither left nor right issue"? A lot of potential, but also lots of possibilities to abuse the idea. To destroy the welfare state, to keep hierarchies in place, etc.
+
 ### Individualism
+
+Will a BI facilitate an egotistical society by focussing too much on individuality?
