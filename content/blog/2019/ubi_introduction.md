@@ -86,7 +86,7 @@ While the actual wealth transfers would be significantly smaller than in the cas
 ![](/img/blog/ubi-comparison.jpeg)
 
 ###### Abstract graph comparison of different social security schemes  
-###### (source: Philippe Van Parijs "Real Freedom for All" p. , 1995)
+###### (source: Philippe Van Parijs "Real Freedom for All" p.57, 1995)
 
 ### Stakeholder grants
 
