@@ -84,8 +84,8 @@ While the actual wealth transfers would be significantly smaller than in the cas
 
 ![](/img/blog/ubi-comparison.jpeg)
 
-Abstract graph comparison of different social security schemes  
-(source: Real Freedom for All, Van Parijs, 1995, p. )
+######Abstract graph comparison of different social security schemes  
+######(source: Real Freedom for All, Van Parijs, 1995, p. )
 
 ### Stakeholder grants
 
@@ -111,7 +111,9 @@ There's also the Alaska Permanent Fund that has payed out a yearly dividend to a
 
 ### Overhead and the nanny state
 
-Reduce the size of the controlling state aparatus. The state shouldn't decide on what people can or cannot do with their money and when they are or aren't deserving of help. 
+One aspect that would appeal to adversaries of 'big government' would be the reduced state overhead. Less background checks means less resources spent towards a large supervisory apparatus. The whole spending side of a social security system could be minimized, only maintaining the taxation part.
+
+It also reduces the meddling of the state in people's private affairs. People should (and can) decide how to spend their lives themselves, how to spend their money. The state has no business in decideding which people are or are not deserving of help. This is the critique of the so-called 'nanny state' that decides what is best for their citizens. But in a diverse, pluralistic society, there a multitude of different things could be best for different individuals. And who better to decide what that is than the people themselves?
 
 ### Unemployment trap & uncertainty
 
@@ -121,31 +123,41 @@ Another part of this problem is the element of uncertainty introduced with losin
 
 A basic income would solve both sides of the unemployment trap, since _any_ income earned above the BI would be substantially higher than the BI alone, and because the BI is guaranteed before, during and after employment, there is no element of uncertainty that would disincentivize any attempts at finding a job.
 
-### Poverty
+### Poverty and human rights
 
-Guarantee a living wage, eradicate poverty.
+Giving people at least the minimum to secure their basic needs, you are effectively eradicating poverty. While it wouldn't prevent wasteful spending, it does give people the means to make more meaningful decisions towards it. If you don't have to worry about your income, you can think more long term in your investments.
 
-### Communality
+If we take our interpretation of the poverty line as a minimum for a sufficient BI, than we could also say that we're guaranteeing human rights. And by not patronizing the poor and unemployed, we're also treating them with human decency.
 
-Encourage a multitude of different living arrangements.
+### Lifestyle and ecology
 
-### Human rights and human decency
+Since a BI is payed to invididuals, regardless of their family situation, it facilitates different ways of living. People can decide to stay on their own or pool their resources together in any way they please. It could act as an incentive for communal living and level the field for a plurality of different modes of family life.
 
-A BI is a way to guarantee people have the means to secure basic human rights and live with the necessary decency they deserve.
+A BI could give people a better choice in how to organize their work-life balance. Working less would become a viable option, so people could spend more of their time towards their own pursuits and goals. 
 
-### Ecology and quality of life
-
-Less work, less consumerism, less polution
-
-More time to do qualitative things in life
+[Working less is also an ecological measure.](https://www.theguardian.com/environment/2019/may/22/working-fewer-hours-could-help-tackle-climate-crisis-study) It drastically reduces CO2 emissions by producing less and could disincentivize consumerism.
 
 ### Autonomy, power and alternatives
 
-The power to say no to a job. The time to search for the best solutions. 
+Another central argument for a BI is the redistribution of power. In the sense that people who don't need to worry about their income are more independent. In other words: people become truly autonomous and can make real decisions on how to live their lives.
+
+One way to see this redistribution of power is giving people the power to say 'no' to a job. 
+
+There's also the feminist view: a BI gives people the power to leave a bad situation. A woman can leave her abusive partner for instance, without the fear of falling on hard times because of the lack of a job. On the other hand: 
 
 ### Redress and reparations
 
-Inter-generational injustice is difficult to trace. BI could manage this. Those who profited over time would have to pay for those that were disadvantaged by it.
+An often overlooked use of a BI is that of redress and reparations of past, inter-generational injustice. This type of injustice leaves real harm in its wake, but makes it difficult or even impossible to trace where the guilt lies, what the damages are or who is deserving of how much compensation. A BI could be the best way to manage this discrepancy: the society at large bears the responsability of past mistakes and those who profit the most of those past injustices in our time, would contribute to those whose ancestors were harmed or otherwised disadvantaged by it.
+
+A practical example could be reparation for slavery in the USA. Slavery was a horrible crime against human rights and has still real, measurable effects to this very day. But why would a white person who's ancestors were slaveholders be held accountable to the choices of those ancestors? The answer that they still profit from the exploitation of slaves may be true, but that doesn't confer some sort of guilt on those people. A BI could be an abstract way of going about this issue, because it would mainly advantage those that are worse of, including those worse-off because of these past injustices like slavery. 
+
+### Other reasons?
+
+One reason that has been used a lot is the impact of automation on our economic division of labor.
+
+Appreciation and reevaluation of 'other' forms of labor.
+
+Justice
 
 ## Possible problems with a BI
 
