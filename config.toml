@@ -6,7 +6,7 @@ paginate = 10
 [menu]
 
   [[menu.main]]
-    name = "Photo's"
+    name = "Photos"
     url = "/"
     weight = 1
 

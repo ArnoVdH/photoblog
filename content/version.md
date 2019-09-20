@@ -15,8 +15,9 @@ Overview of (major) changes to the website.
 * Adapt header menu to fully use hugo code (make single pages and subpages active)
 * List the 'series' chronologically in nav-menu
 * Built shortcode to insert images in photo page from a folder
-* Make images more responsive and lighter
-* Add a graphic logo
+* Make images more responsive and lighter (and add lazy loading?)
+* Make page title reference the site as a whole
+* Add a graphic logo (and favicon?)
 * Add info (metadata) about the pictures that show up only when activated.
 * Buy domain name
 
