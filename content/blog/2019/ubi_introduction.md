@@ -8,9 +8,9 @@ title = "Universal Basic Income - an introduction"
 
 ![](/img/blog/calvinhobbes.gif)
 
-(source: Waterson, Bill "The Revenge of the Baby-Sat" 1991)
+<h6>(source: Waterson, Bill "The Revenge of the Baby-Sat" 1991)</h6>
 
-These last few years we see the idea of a (universal) basic income mentioned. It's not all over the news, but it's certainly something you've probably heard mentioning somewhere or read in passing. Not daily, but once in a while. In a think piece somewhere probably, and probably by someone _progressive_. It's a fascinating idea that makes you think. Some people are revolted by it, others think it's a panacea to all society's problems. It's a lot more nuanced of course, but it's worth delving into.
+These last few years we see the idea of a (universal) basic income mentioned. It's not all over the news, but it's certainly something you've probably heard mentioning somewhere or read in passing. Not daily, but once in a while. In a think piece somewhere probably, and probably by someone *progressive*. But it has been defended by lots of great thinkers, including nobelprize winning economists, civil rights leaders like M.L. King, philosophers like Bertrand Russell, and many others. It's a fascinating idea that makes you think. Some people are revolted by it, others think it's a panacea to all society's problems. It's a lot more nuanced of course, but it's worth delving into.
 
 Back in 2015 I wrote [my master's thesis](/files/thesis.pdf) on the subject of distributive justice, basic income and libertarianism. Ever since I've wanted to translate and maybe expand a little on the work I did, and share it with the world. This post is based on the first chapter.
 
@@ -153,13 +153,16 @@ An often overlooked use of a BI is that of redress and reparations of past, inte
 
 A practical example could be reparation for slavery in the USA. Slavery was a horrible crime against human rights and has still real, measurable effects to this very day. But why would a white person who's ancestors were slaveholders be held accountable to the choices of those ancestors? The answer that they still profit from the exploitation of slaves may be true, but that doesn't confer some sort of guilt on those people. A BI could be an abstract way of going about this issue, because it would mainly advantage those that are worse of, including those worse-off because of these past injustices like slavery. 
 
+U+BI proposal.
+
 ### Other reasons?
 
-One reason that has been used a lot is the impact of automation on our economic division of labor.
+One reason that has been used a lot is the impact of automation on our economic division of labor. But hile there has been some speculation of the impact of robots and artificial intelligence on jobs, this type of scare is not new. While certain jobs are definitly under threat by this economic development, and some people will suffer from it, it's unsure it's really the big threat it is made out to be. Diana Coyle calls it "an answer to the wrong question" in this regard ("Work, Inequality, Basic Income" Boston Review / Forum 2, p.64)
+"An answer to the wrong question"?
 
 Appreciation and reevaluation of 'other' forms of labor.
 
-Justice
+An important justification for a basic income that I neglected to cover here is that of justice. That is: the argument that justice *demands* for a basic income to be implemented, regardless of the practical reasons. I hope to elaborate on these more deeply in a later blogpost., but suffice it to say that I personally am very much a proponent of these types of philosophical arguments, rather than some of the more opportunistic arguments from the economic right. As Frederick Douglass said:" Power concedes nothing without a demand. It never did and it never will." So we should be wary when the hegemonic powers start suggesting these progressive measures out of what seems to be the goodness from their hearts. An analysis of their motives is certainly in order.
 
 ## Possible problems with a BI
 
@@ -183,6 +186,8 @@ Will people become lazy?
 
 Are lazy people entitled to income without work?
 
+Decouple work and right to basic needs. 
+
 ### Bad actors and the wrong reasons
 
 BI: a "neither left nor right issue"? A lot of potential, but also lots of possibilities to abuse the idea. To destroy the welfare state, to keep hierarchies in place, etc.
@@ -190,3 +195,12 @@ BI: a "neither left nor right issue"? A lot of potential, but also lots of possi
 ### Individualism
 
 Will a BI facilitate an egotistical society by focussing too much on individuality?
+
+## Further Reading
+
++ **Agrarian Justice** - Thomas Paine (1797)
++ **Real Freedom for All** - Philippe Van Parijs (1995)
++ **Real Freedom Assessed: political theory after Van Parijs** - ed. Reeve & Williams (2003)
++ **Redesigning Distribution** - Ackerman, Alstott & Van Parijs, ed. Wright (2006) 
++ **Basic Income: an anthology of contemporary research** - ed. Widerquist, Noguera, Vanderborght & De Wispelaere (2013)
++ **Work, Inequality, Basic Income** - Boston Review / Forum 2, ed. Joshua Cohen (2017)
