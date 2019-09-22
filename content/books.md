@@ -8,6 +8,7 @@ draft = false
 type = "static"
 +++
 ## Currently reading
++ **Work, Inequality, Basic Income** - Boston Review / Forum 2
 + **The Drowning Girl** - Caitlín R. Kiernan 
 + **Het verdorven genootschap: de vergeten radicalen van de Verlichting** - Philipp Blom
 + **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
