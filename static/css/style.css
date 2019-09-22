@@ -191,6 +191,7 @@ header img:hover {
 
 .blogpost {
   max-width: 50em;
+  list-style: initial;
 }
 
 .blogpost img {
