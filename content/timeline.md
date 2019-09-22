@@ -1,5 +1,5 @@
 +++
-title =  "Curriculum Vitae"
+title =  "Timeline"
 date = 2019-09-15T15:33:00+02:00
 tags = []
 featured_image = ""
