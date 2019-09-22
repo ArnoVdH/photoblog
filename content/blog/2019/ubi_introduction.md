@@ -156,11 +156,10 @@ A practical example could be reparation for slavery in the USA. Slavery was a ho
 ### Other reasons?
 
 One reason that has been used a lot is the impact of automation on our economic division of labor. But hile there has been some speculation of the impact of robots and artificial intelligence on jobs, this type of scare is not new. While certain jobs are definitly under threat by this economic development, and some people will suffer from it, it's unsure it's really the big threat it is made out to be. Diana Coyle calls it "an answer to the wrong question" in this regard ("Work, Inequality, Basic Income" Boston Review / Forum 2, p.64)
-"An answer to the wrong question"?
 
-Appreciation and reevaluation of 'other' forms of labor.
+A BI as proposed here would hopefully imply a huge shift in appreciation of labor and an accompanying reevaluation of certain jobs.
 
-An important justification for a basic income that I neglected to cover here is that of justice. That is: the argument that justice *demands* for a basic income to be implemented, regardless of the practical reasons. I hope to elaborate on these more deeply in a later blogpost., but suffice it to say that I personally am very much a proponent of these types of philosophical arguments, rather than some of the more opportunistic arguments from the economic right. As Frederick Douglass said:" Power concedes nothing without a demand. It never did and it never will." So we should be wary when the hegemonic powers start suggesting these progressive measures out of what seems to be the goodness from their hearts. An analysis of their motives is certainly in order.
+A last, but very important justification for a basic income, that I neglected to cover here, is that of justice. That is: the argument that justice *demands* for a basic income to be implemented, regardless of the practical reasons. I hope to elaborate on these more deeply in a later blogpost., but suffice it to say that I personally am very much a proponent of these types of philosophical arguments, rather than some of the more opportunistic arguments from the economic right. As Frederick Douglass said:" Power concedes nothing without a demand. It never did and it never will." So we should be wary when the hegemonic powers start suggesting these progressive measures out of what seems to be the goodness from their hearts. An analysis of their motives is certainly in order.
 
 ## Possible problems with a BI
 
