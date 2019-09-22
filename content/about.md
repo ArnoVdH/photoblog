@@ -18,6 +18,7 @@ I have a Master of Art in philosophy, specifically political philosophy.
 I'm a generalist and enthusiast of a whole range of subjects, among them photography.
 
 That's the *raison d'être* of this site: to serve as a informal portfolio of my amateur photography and a place to write about the things on my mind. And, more broadly: to escape from the traditional corporate websites that use our data in ways we don't even know and that are harmful for society and democracy. So instead of referring you to facebook, twitter, instagram, goodreads or something else, I give you these pages:
+
 * [Photography (the reason for this site in the first place!)] (/)
 * [Blog](/blog)
 * [Books](/books)

@@ -153,8 +153,6 @@ An often overlooked use of a BI is that of redress and reparations of past, inte
 
 A practical example could be reparation for slavery in the USA. Slavery was a horrible crime against human rights and has still real, measurable effects to this very day. But why would a white person who's ancestors were slaveholders be held accountable to the choices of those ancestors? The answer that they still profit from the exploitation of slaves may be true, but that doesn't confer some sort of guilt on those people. A BI could be an abstract way of going about this issue, because it would mainly advantage those that are worse of, including those worse-off because of these past injustices like slavery. 
 
-U+BI proposal.
-
 ### Other reasons?
 
 One reason that has been used a lot is the impact of automation on our economic division of labor. But hile there has been some speculation of the impact of robots and artificial intelligence on jobs, this type of scare is not new. While certain jobs are definitly under threat by this economic development, and some people will suffer from it, it's unsure it's really the big threat it is made out to be. Diana Coyle calls it "an answer to the wrong question" in this regard ("Work, Inequality, Basic Income" Boston Review / Forum 2, p.64)
