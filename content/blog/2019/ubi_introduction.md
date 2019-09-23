@@ -143,9 +143,9 @@ A BI could give people a better choice in how to organize their work-life balanc
 
 Another central argument for a BI is the redistribution of power. In the sense that people who don't need to worry about their income are more independent. In other words: people become truly autonomous and can make real decisions on how to live their lives.
 
-One way to see this redistribution of power is giving people the power to say 'no' to a job. 
+One way to see this redistribution of power is giving people the power to say 'no' to a job. This equalizes the power between employer and employee, making the playing field of labor negotiations level.
 
-There's also the feminist view: a BI gives people the power to leave a bad situation. A woman can leave her abusive partner for instance, without the fear of falling on hard times because of the lack of a job. On the other hand: 
+There's also the feminist view: a BI gives people the power to leave a bad situation. A woman can leave her abusive partner for instance, without the fear of falling on hard times because of the lack of a job.
 
 ### Redress and reparations
 
@@ -179,11 +179,13 @@ Feasible on anything other than global scale?
 
 ### Laziness
 
-Will people become lazy?
+One of the greatest, intuitive fears that people have when hearing about BI is that people would become lazy. They'd stop working and mooching on their BI, because why work when you've got a livable income? (why is this a problem?) But people seem to have a low opinion of their fellow men, thinking them to be opportunists and of lower moral fibre than they regard themselves. But when asked what they personally would do with such a guaranteed income, if they would act like their caricature of the parasitic other, the answer will almost invariably be "no". Of course not, since if you're basic needs are met, other needs arise, and more specifically: the need for *meaning*. A BI would help people to look for meaningful work or other ways to make their work fulfilling. Does this mean that people would work less? Probably. Would people stop working entirely? Unlikely. There may be some people, but what would they do instead? Would they do nothing of importance (to themselves) or would they try to follow their passions? And could those things not be seen as work in another form, even though it couldn't help finance the BI scheme?
 
-Are lazy people entitled to income without work?
+In Western society, the social security system is built on the presumption of reciprocity. You contribute to the system before having a right to its help. But why should they? Western society also embraces, at least on paper, universal human rights. To fulfill those completely, 
 
-Decouple work and right to basic needs. 
+Are lazy people entitled to income without work? 
+
+The answer to this decouple work and right to basic needs. 
 
 ### Bad actors and the wrong reasons
 
