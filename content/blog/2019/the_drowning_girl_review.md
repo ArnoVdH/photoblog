@@ -7,7 +7,8 @@ featured_image = ""
 title = "Book review: The Drowning Girl - Caitlín R. Kiernan"
 
 +++
-Can you trust a paranoid schizophrenic to tell a _real_ ghost story?
+
+Can you trust a paranoid schizophrenic to tell a _real_ ghost story?  <!--more-->
 
 Published in 2012, this weird gothic horror story by the Irish-born American writer Caitlín R. Kiernan is a psychological labyrinth that starts of slow, but completely mesmerizes you by the time you get to the really weird stuff, somewhere halfway in. Kiernan manages to vividly and convincingly sketch the inner life of someone with a mental illness, without any prejudice.
 
@@ -20,3 +21,7 @@ Different strands of stories, themes and possible hauntings are interwoven throu
 There are two short-stories, written by the narrator, embedded in this novel that could function just as well on their own. I especially liked the one about Albert Perrault as a sinister (and also fictitious) painter transforming a woman into art. 
 
 It's beautiful. But it needs to get worse before it gets _weird_. 
+
+![](https://emyroo.files.wordpress.com/2014/12/perrault1.png)
+
+<h6>Albert Perraults 'Fecunda Ratis' as imagined by Michael Zulli</h6>
