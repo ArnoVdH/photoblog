@@ -38,3 +38,5 @@ The first two weeks were mainly spent building the html-side of the site, until 
 August strarted out somewhat neglectful of my little project. I knew I had only a few more elements I had to fix to have a fully functional (albeit maybe somewhat rudimentary). But by september I had a first draft up and running on Netlify. I couldn't get everything working as I wanted it to, but it was fully functional. Neither the best nor the worst of sites.
 
 No longer could I use the unfinished state of my site as an excuse for not writing what I'm thinking about! From now on it's good old fashioned procrastination again.
+
+For more notes on the evolution of this site, see the [version page](/version).
