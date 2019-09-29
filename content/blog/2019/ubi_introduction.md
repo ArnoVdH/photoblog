@@ -135,7 +135,7 @@ If we take our interpretation of the poverty line as a minimum for a sufficient 
 
 Since a BI is payed to invididuals, regardless of their family situation, it facilitates different ways of living. People can decide to stay on their own or pool their resources together in any way they please. It could act as an incentive for communal living and level the field for a plurality of different modes of family life.
 
-A BI could give people a better choice in how to organize their work-life balance. Working less would become a viable option, so people could spend more of their time towards their own pursuits and goals. 
+A BI could give people a better choice in how to organize their work-life balance. Working less would become a viable option, so people could spend more of their time towards their own pursuits and goals. They could make time for more creative endeavours or just slow down more, avoiding stress and live a healthier, happier life.
 
 [Working less is also an ecological measure.](https://www.theguardian.com/environment/2019/may/22/working-fewer-hours-could-help-tackle-climate-crisis-study) It drastically reduces CO2 emissions by producing less and could disincentivize consumerism.
 
@@ -197,6 +197,8 @@ A truly progressive interpretation should be
 ### Individualism
 
 Will a BI facilitate an egotistical society by focussing too much on individuality?
+
+Is a BI sufficient to protect individuals from the power of corporations? Should unions and worker-rights be protected?
 
 ## Conclusion
 
