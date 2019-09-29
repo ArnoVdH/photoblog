@@ -12,6 +12,7 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 
 ## 2019
 * Vacation in Ostend, Belgium
+* Start building this blog
 * Relationship with Anne
 
 ## 2018
@@ -31,7 +32,7 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 ## 2015
 * Citytrip to Cambridge, UK
 * Graduated from Ghent University
-* Moved to house in Ekkergem with Friends
+* Moved to house in Ekkergem with friends
 
 ## 2014
 * End of relationship with Joke
@@ -57,6 +58,9 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 * Started studying philosophy at Ghent University
 * Graduated high-school
 
+## 2007
+* Walked the West-Highland Way in Scotland, UK (CM holiday)
+
 ## 2000
 * Vacation in the UK
 
@@ -67,4 +71,4 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 * Vacation to Denmark
 
 ## 1990
-* Born in Ghent
+* Born in Ghent, Belgium

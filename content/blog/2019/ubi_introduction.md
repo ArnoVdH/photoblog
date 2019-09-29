@@ -163,6 +163,8 @@ A last, but very important justification for a basic income, that I neglected to
 
 ## Possible problems with a BI
 
+**UNDER CONSTRUCTION**
+
 ### Cost, financing and economics
 
 High costs,
@@ -190,10 +192,15 @@ The answer to this decouple work and right to basic needs.
 ### Bad actors and the wrong reasons
 
 BI: a "neither left nor right issue"? A lot of potential, but also lots of possibilities to abuse the idea. To destroy the welfare state, to keep hierarchies in place, etc.
+A truly progressive interpretation should be 
 
 ### Individualism
 
 Will a BI facilitate an egotistical society by focussing too much on individuality?
+
+## Conclusion
+
+BI is certainly not the panacea that some people try to make of it. It needs advocates on the left to defend it from being hijacked by people who'd use it to destroy social security.
 
 ## Further Reading
 
