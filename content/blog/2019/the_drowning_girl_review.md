@@ -8,7 +8,7 @@ title = "Book review: The Drowning Girl"
 +++
 Can you trust a paranoid schizophrenic to tell a _real_ ghost story?  <!--more-->
 
-Published in 2012, this weird gothic horror story by the Irish-born American writer [**Caitlín R. Kiernan**](https://en.wikipedia.org/wiki/Caitl%C3%ADn_R._Kiernan) is a psychological labyrinth that starts of slow, but completely mesmerizes you by the time you get to the really weird stuff, somewhere halfway in. Kiernan manages to vividly and convincingly sketch the inner life of someone with a mental illness, without any prejudice.
+Published in 2012, this weird gothic horror story by the Irish-born American writer **[Caitlín R. Kiernan](https://en.wikipedia.org/wiki/Caitl%C3%ADn_R._Kiernan)** is a psychological labyrinth that starts of slow, but completely mesmerizes you by the time you get to the really weird stuff, somewhere halfway in. Kiernan manages to vividly and convincingly sketch the inner life of someone with a mental illness, without any prejudice.
 
 The novel is written as a memoir by India Morgan Phelps, shortened to Imp. She tries to recall the events that happened some time before. How she met and consequently lost her lover Abalyn. What the role is of her meeting a woman called Eva for the first time twice - once in July and once in November - in the break-up. She reminisces on a painting she saw when she was young, called "The Drowning Girl" by the (fictitious) 19th century artist Phillip George Saltonstall. She reflects on her mental illness, on the talks with her psychiatrist and on her mother and grandmother who suffered the same condition, but to a fatal end.
 
