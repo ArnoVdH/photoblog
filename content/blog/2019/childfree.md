@@ -9,6 +9,8 @@ title = "Childfree"
 +++
 Since I'm applying to get sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
 
+<!--more-->
+
 ## Critiques
 
 Selfish
@@ -23,9 +25,13 @@ You'll regret not having them
 
 Who takes care of you when you're older?
 
+It's your purpose in life.
+
 ## Reasons
 
 There are multiple reasons I don't want any children, but I think that any one of them would be sufficient to accept my decision. Better yet: I'd argue that the choice to _have_ children should be an active one requiring introspection and argumentation.
+
+Self-deterrmination and reproductive health.
 
 ### Personal
 
@@ -36,6 +42,8 @@ I think I don't have enough time or money as it is.
 ### Ecology
 
 A child is an extra human being that consumes and pollutes.
+
+Overpopulation isn't a Malthusian problem, it's a pollution problem.
 
 ### Responsibility
 
@@ -54,3 +62,5 @@ Life is at best morally neutral.
 ### Reasons for having children
 
 All this is not to say that I'm against having children per se. I think that it's certainly possible to justify having them.
+
+Christine Overall, in het 2005? work "Why Have Children?", analyses the more common arguments for having children and dismisses most of them. She does argue for something.
