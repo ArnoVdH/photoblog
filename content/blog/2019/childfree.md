@@ -39,7 +39,7 @@ I don't like children.
 
 I think I don't have enough time or money as it is.
 
-### Ecology
+### Ecological
 
 A child is an extra human being that consumes and pollutes.
 
@@ -58,6 +58,10 @@ What if there's something wrong with the child?
 It's not just caring for a child, but also being responsible for the fact of its existence, it's experiences, anxieties, etc.
 
 Life is at best morally neutral.
+
+The horrors of life.
+
+I'm not an antinatalist.
 
 ### Reasons for having children
 
