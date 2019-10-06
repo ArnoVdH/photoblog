@@ -2,7 +2,7 @@
 categories = ["philosophy", "personal"]
 date = "2019-10-01T13:20:00+00:00"
 description = ""
-draft = true
+draft = false
 featured_image = ""
 title = "Childfree"
 
@@ -12,7 +12,7 @@ title = "Childfree"
 
 Since I'm applying to get sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
 
-It's something I've been thinking a lot about ever since I first conveived of the possibility of me having kids. As a sixteen-year-old I didn't want them,which was considered a normal thing to say; I got told I'd grow out of it (I didn't). At 20, I had a more strong conviction and had started formulating a host of reasons, some more pessimistic than the others; I got told I'd change my mind when I met someone (I didn't). At 24 I'd lost my first relationship, partly because of my stance on children. In those days, I said I didn't want children *of my own* but I was open to adoption. I made a distinction between the creating of another life, and the raising and educating of one (I still do); I got told I'd change my mind when other people around me would start having them (I didn't). I'm 29 now, I still haven't changed my mind. 
+It's something I've been thinking a lot about ever since I first conveived of the possibility of me having kids. As a sixteen-year-old I didn't want them,which was considered a normal thing to say; I got told I'd grow out of it (I didn't). At 20, I had a more strong conviction and had started formulating a host of reasons, some more pessimistic than the others; I got told I'd change my mind when I met someone (I didn't). At 24 I'd lost my first relationship, partly because of my stance on children. In those days, I said I didn't want children *of my own* but I was open to adoption. I made a distinction between the creating of another life, and the raising and educating of one (I still do); I got told I'd change my mind when other people around me would start having them (I didn't). I'm 29 now, I still haven't changed my mind. Maybe it's time to accept it, both others as myself. That's why I decided to take the permanent step.
 
 <!--more-->
 
@@ -60,7 +60,7 @@ Second, in modern, Western society there is a social security safety net and the
 
 Don't tell me what my purpose is in life. Just don't.
 
-While this isn't an argument that I get to hear a lot, it's used regularly as a sexist argument leveled against women. This reduced them to just utilities to create new life. More viscerally said: they seen as birthing machines without personal agency.
+While this isn't an argument that I get to hear a lot, it's used regularly as a sexist argument leveled against women. This reduced them to just utilities to create new life. More viscerally said: they are seen as birthing machines without personal agency.
 
 ## Reasons
 
@@ -72,11 +72,15 @@ Here I want to list some of my own reasons to answer negatively on the latter qu
 
 ### Personal
 
-I don't like children.
+Something childfree people tend to say a lot is that they don't hate children (on the contrary, they often exclaim they adore them) as some sort of defense mechanism. How could you dislike children, you monster? But I think we should be able to admit this. It's not a personal hate against the child itself (while that's possible, children can be horrible little people), but a general dislike of what they imply: they make a lot of noise, they are helpless and require a lot of attention. 
 
-I think I don't have enough time or money as it is.
+There are egoistic reasons too. I don't have enough time or money as it is. Children cost money and take up time, time I'd like to spent diffently.
+
+I also like to do grown-up things, talk in a grown-up way. I enjoy a lot of things, but in a grown-up way. Even things that are considered *for kids* can be enjoyed as an adult. I have no wish to deal with infantile things I don't get anything out of.
 
 ### Ecological
+
+These are the most generalizable arguments of them all, and least personal. While not conclusive, they are something that everyone should be aware and take account of.
 
 A child is an extra human being that consumes and pollutes.
 
@@ -105,3 +109,9 @@ I'm not an antinatalist.
 All this is not to say that I'm against having children per se. I think that it's certainly possible to justify having them.
 
 Christine Overall, in het 2005? work "Why Have Children?", analyses the more common arguments for having children and dismisses most of them. She does argue for something.
+
+## What I want for society
+
+Staying childfree as an acceptable choice.
+
+Deciding to have children to be a more weighty choice.
