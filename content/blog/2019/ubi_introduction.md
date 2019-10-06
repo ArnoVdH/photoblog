@@ -6,6 +6,8 @@ featured_image = ""
 title = "Universal Basic Income - an introduction"
 +++
 
+**UNDER CONSTRUCTION**
+
 ![](/img/blog/calvinhobbes.gif)
 
 <h6>(source: Waterson, Bill "The Revenge of the Baby-Sat" 1991)</h6>
@@ -164,8 +166,6 @@ A BI as proposed here would hopefully imply a huge shift in appreciation of labo
 A last, but very important justification for a basic income, that I neglected to cover here, is that of justice. That is: the argument that justice *demands* for a basic income to be implemented, regardless of the practical reasons. I hope to elaborate on these more deeply in a later blogpost., but suffice it to say that I personally am very much a proponent of these types of philosophical arguments, rather than some of the more opportunistic arguments from the economic right. As Frederick Douglass said:" Power concedes nothing without a demand. It never did and it never will." So we should be wary when the hegemonic powers start suggesting these progressive measures out of what seems to be the goodness from their hearts. An analysis of their motives is certainly in order.
 
 ## Possible problems with a BI
-
-**UNDER CONSTRUCTION**
 
 ### Cost, financing and economics
 
