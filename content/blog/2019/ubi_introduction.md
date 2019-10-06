@@ -111,6 +111,8 @@ There's also the Alaska Permanent Fund that has payed out a yearly dividend to a
 
 ## Why a BI?
 
+Why would it be worthwhile to switch to a BI system instead of the current means-based benefits type of social security? There are multiple expected advantages where a BI would do more or do things better than the traditional social security systems.
+
 ### Overhead and the nanny state
 
 One aspect that would appeal to adversaries of 'big government' would be the reduced state overhead. Less background checks means less resources spent towards a large supervisory apparatus. The whole spending side of a social security system could be minimized, only maintaining the taxation part.
@@ -188,6 +190,9 @@ But people seem to have a low opinion of their fellow men, thinking them to be o
 In Western society, the social security system is built on the presumption of reciprocity. You contribute to the system before having a right to its help. But why should they? Western society also embraces, at least on paper, universal human rights. To fulfill those completely, people *should* be getting quite a lot of help to give them the means to secure those human rights. These rights should be decoupled from the duty to work.
 
 But even if laziness would turn out to be a problem, why wouldn't those lazy people be entitled to an income?
+Lazy vs crazy
+People from rich background entitled to income without work? why not others?
+Moral problem
 
 ### Bad actors and the wrong reasons
 
