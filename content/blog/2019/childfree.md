@@ -2,17 +2,15 @@
 categories = ["philosophy", "personal"]
 date = "2019-10-01T13:20:00+00:00"
 description = ""
-draft = false
 featured_image = ""
-title = "Childfree"
+title = "On Being Childfree"
 
 +++
-
 **UNDER CONSTRUCTION**
 
-Since I'm applying to get sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
+Since I'm getting sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
 
-It's something I've been thinking a lot about ever since I first conveived of the possibility of me having kids. As a sixteen-year-old I didn't want them,which was considered a normal thing to say; I got told I'd grow out of it (I didn't). At 20, I had a more strong conviction and had started formulating a host of reasons, some more pessimistic than the others; I got told I'd change my mind when I met someone (I didn't). At 24 I'd lost my first relationship, partly because of my stance on children. In those days, I said I didn't want children *of my own* but I was open to adoption. I made a distinction between the creating of another life, and the raising and educating of one (I still do); I got told I'd change my mind when other people around me would start having them (I didn't). I'm 29 now, I still haven't changed my mind. Maybe it's time to accept it, both others as myself. That's why I decided to take the permanent step.
+It's something I've been thinking a lot about ever since I first conceived of the possibility of me having kids. As a sixteen-year-old I didn't want them,which was considered a normal thing to say; I got told I'd grow out of it (I didn't). At 20, I had a more strong conviction and had started formulating a host of reasons, some more pessimistic than the others; I got told I'd change my mind when I met someone (I didn't). At 24 I'd lost my first relationship, partly because of my stance on children. In those days, I said I didn't want children _of my own_ but I was open to adoption. I made a distinction between the creating of another life, and the raising and educating of one (I still do); I got told I'd change my mind when other people around me would start having them (I didn't). I'm 29 now, I still haven't changed my mind. Maybe it's time to accept it, both others as myself. That's why I decided to take the permanent step.
 
 <!--more-->
 
@@ -26,35 +24,37 @@ In the course of the last decade, I've heard a lot of different arguments for ha
 
 This one is weird and can be turned around easily. Firstly, how can we deny something to someone who doesn't even exist (yet)? The very thing that is supposed to be denied, existence, is the thing that is necessary to even be able to deny it anything. The denial of existence can't be selfish, or else you should believe that not doing everything you can to maximize the amount of lives is bad. This leads to some sort of variant of the repugnant conclusion of utilitarianism. And we don't want to go there, wouldn't we?
 
-Besides, couldn't having children be seen as selfish itself? Why do some people have them? To salvage *their* relationship. To have *their* name live on. To give meaning to *their* lives. While I'm not saying that everyone has children because of selfish reasons (or that anyone has children for just one reason, for that matter), there are instances where part of them are selfish.
+Besides, couldn't having children be seen as selfish itself? Why do some people have them? To salvage _their_ relationship. To have _their_ name live on. To give meaning to _their_ lives. While I'm not saying that everyone has children because of selfish reasons (or that anyone has children for just one reason, for that matter), there are instances where part of them are selfish.
 
 The selfish reasons for staying childfree, such as having more free time or money to spend, at least doesn't harm a child.
 
 > You'll change your mind yet.
 
-Why is this argument leveled against childfree people, but *never* against those who want them? Isn't everyone entitled to change their mind? Does that mean we can't ever take their current viewpoint serious? Of course not: we don't question people who say they do want children. 
+Why is this argument leveled against childfree people, but _never_ against those who want them? Isn't everyone entitled to change their mind? Does that mean we can't ever take their current viewpoint serious? Of course not: we don't question people who say they do want children.
 
-Could I still change it? Sure, but not likely. I'd have to live with the decisions I made earlier in life. Just like I would have if I had children and I changed my mind then. But the consequences are just for me. 
+Could I still change it? Sure, but not likely. I'd have to live with the decisions I made earlier in life. Just like I would have if I had children and I changed my mind then. But the consequences are just for me.
 
 > What about your girlfriend? Doesn't she want children?
 
-If my significant other would want children, the relationship wouldn't work. It's simple as that. Staying together would hurt at least one person, and probably more: not having children would make the person that wants them unhappy for missing out; having them would hurt the childfree person and possibly the children themselves too. The best option is a peaceful seperation to give each person the possibility to pursue their own goals in life.
+If my significant other would want children, the relationship wouldn't work. It's simple as that. Staying together would hurt at least one person, and probably more: not having children would make the person that wants them unhappy for missing out; having them would hurt the childfree person and possibly the children themselves too. The best option is a peaceful separation to give each person the possibility to pursue their own goals in life.
+
+I'm also quite lucky to have a partner that supports me in my decision - I'm very much aware of how difficult it can be to find someone like that.
 
 > It's a special and unique experience that your missing out on.
 
-Firstly, isn't any experience a person has, unique, in some way, *to that person*? That would mean that staying childfree would be an equally unique experience, one that people with children are missing out on.
+Firstly, isn't any experience a person has, unique, in some way, _to that person_? That would mean that staying childfree would be an equally unique experience, one that people with children are missing out on.
 
 Secondly, should we do things because they are special and unique experiences? Bungee jumping is a special experience, but we're not saying that people who have never jumped from a bridge with their feet tied to a long elastic band have an incomplete life. What about giving away all your belongings? Or committing murder? Taking poison? We don't expect people to do things just because it gives them special experiences.
 
 > You'll regret not having them.
 
-Isn't it possible to regret having children (apparently not, or you ought not to talk about it at least)? And isn't regret an important part of the human condition?  
+Isn't it possible to regret having children (apparently not, or you ought not to talk about it at least)? And isn't regret an important part of the human condition?
 
 > Who'll take care of you when you're old?
 
 First of all, having children isn't a guarantee that they will be capable or willing to take care of you. For all the good intentions and care and education, people could turn out to be horrible. Or they turn out to be incapable to help, due to disability, sickness, poverty,...
 
-Second, in modern, Western society there is a social security safety net and the possibility to plan ahead for your own needs. Investing in some kind of insurance for old age and saving money, so other people can help you when in need. 
+Second, in modern, Western society there is a social security safety net and the possibility to plan ahead for your own needs. Investing in some kind of insurance for old age and saving money, so other people can help you when in need.
 
 > It's (y)our purpose in life.
 
@@ -66,17 +66,27 @@ While this isn't an argument that I get to hear a lot, it's used regularly as a 
 
 There are multiple reasons I don't want any children, but I think that any one of them would be sufficient to accept my decision. Better yet: I'd argue that the choice to _have_ children should be an active one requiring introspection and argumentation.
 
-I strongly believe in each person's right to self-determination. Logically, this also extends to reproductive health. This is exactly what made the sexual revolution that was the invention of the pill so imporant. In the 20th century, we definitively broke the yoke of the natural drive to reproduce. Suddenly, we were given the choice not to, without the need to give up a normal life (by going into the monastery for instance). This possiblity opened up a lot of reasonings to change the way we view and think about family life and reproductive health. We have a lot more choice and freedom in choosing when, how and with whom we want to have children and *if* we want them.
+I strongly believe in each person's right to self-determination. Logically, this also extends to reproductive health. This is exactly what made the sexual revolution that was the invention of the pill so important. In the 20th century, we definitively broke the yoke of the natural drive to reproduce. Suddenly, we were given the choice not to, without the need to give up a normal life (by going into the monastery for instance). This possibility opened up a lot of reasonings to change the way we view and think about family life and reproductive health. We have a lot more choice and freedom in choosing when, how and with whom we want to have children and _if_ we want them.
 
 Here I want to list some of my own reasons to answer negatively on the latter question.
 
 ### Personal
 
-Something childfree people tend to say a lot is that they don't hate children (on the contrary, they often exclaim they adore them) as some sort of defense mechanism. How could you dislike children, you monster? But I think we should be able to admit this. It's not a personal hate against the child itself (while that's possible, children can be horrible little people), but a general dislike of what they imply: they make a lot of noise, they are helpless and require a lot of attention. 
+Something childfree people tend to say a lot is that they don't hate children (on the contrary, they often exclaim they adore them) as some sort of defense mechanism. How could you dislike children, you monster? But I think we should be able to admit this. It's not a personal hate against the child itself (while that's possible, children can be horrible little people), but a general dislike of what they imply: they make a lot of noise, they are helpless and require a lot of attention.
 
-There are egoistic reasons too. I don't have enough time or money as it is. Children cost money and take up time, time I'd like to spent diffently.
+There are egoistic reasons too. I don't have enough time or money as it is. Children cost money and take up time, time I'd like to spent differently.
 
-I also like to do grown-up things, talk in a grown-up way. I enjoy a lot of things, but in a grown-up way. Even things that are considered *for kids* can be enjoyed as an adult. I have no wish to deal with infantile things I don't get anything out of.
+I also like to do grown-up things, talk in a grown-up way. I enjoy a lot of things, but in a grown-up way. Even things that are considered _for kids_ can be enjoyed as an adult. I have no wish to deal with infantile things I don't get anything out of.
+
+### Responsibility
+
+Having and raising children is a huge responsibility and a life long commitment not to be taken lightly. Not just to a the child in question, but also to yourself, to a partner, friends, family, teachers,... In short: society itself.
+
+I'm also of  the opinion that having children and raising children are two different things (I want neither), the first being more existential, the second being more practical in nature. Raising someone without being responsible for its existence is also a huge responsibility, but one you take up in compassion. Deciding to have child and raise it is more far reaching in scope. See below about the existential side of things.
+
+I'd be afraid to make important mistakes when raising a child.
+
+And lastly, what if there's something wrong with the child? Even when equipped to raise a child, it could turn out to be more than expected, in terms of time, money, effort (physical but also emotional) and happiness. Especially if the quality of life of the child can be doubtful (I'm thinking of children that won't live past a certain age, not children with down syndrome). 
 
 ### Ecological
 
@@ -85,14 +95,6 @@ These are the most generalizable arguments of them all, and least personal. Whil
 A child is an extra human being that consumes and pollutes.
 
 Overpopulation isn't a Malthusian problem, it's a pollution problem.
-
-### Responsibility
-
-It's a heavy responsibility that I'm not sure I want or can bear.
-
-I'd be afraid to make important mistakes when raising a child.
-
-What if there's something wrong with the child?
 
 ### Existential & the value of life
 
@@ -108,7 +110,7 @@ I'm not an antinatalist.
 
 All this is not to say that I'm against having children per se. I think that it's certainly possible to justify having them.
 
-Christine Overall, in het 2005? work "Why Have Children?", analyses the more common arguments for having children and dismisses most of them. She does argue for something.
+Christine Overall, in her 2005? work "Why Have Children?", analyses the more common arguments for having children and dismisses most of them. She does argue for something.
 
 ## What I want for society
 
