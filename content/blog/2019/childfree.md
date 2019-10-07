@@ -10,7 +10,7 @@ title = "Choosing to be Childfree"
 
 Since I'm getting sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
 
-It's something I've been thinking a lot about ever since I first conceived of the possibility of me having kids. As a sixteen-year-old I didn't want them,which was considered a normal thing to say; I got told I'd grow out of it (I didn't). At 20, I had a more strong conviction and had started formulating a host of reasons, some more pessimistic than the others; I got told I'd change my mind when I met someone (I didn't). At 24 I'd lost my first relationship, partly because of my stance on children. In those days, I said I didn't want children _of my own_ but I was open to adoption. I made a distinction between the creating of another life, and the raising and educating of one (I still do); I got told I'd change my mind when other people around me would start having them (I didn't). I'm 29 now, I still haven't changed my mind. Maybe it's time to accept it, both others as myself. That's why I decided to take the permanent step.
+It's something I've been thinking a lot about ever since I first conceived of the possibility of me having kids. As a sixteen-year-old I didn't want them,which was considered a normal thing for a teenage boy to say; I got told I'd grow out of it (I didn't). At 20, I had a more strong conviction and had started formulating a host of reasons, some more pessimistic than the others; I got told I'd change my mind when I met someone (I didn't). At 24 I'd lost my first relationship, partly because of my stance on children. In those days, I said I didn't want children _of my own_ but I was open to adoption. I made a distinction between the creating of another life, and the raising and educating of one (I still do); I got told I'd change my mind when other people around me would start having them (I didn't). I'm 29 now, I still haven't changed my mind. Maybe it's time to accept it, both others as myself. That's why I decided to take the permanent step.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ The main thing I'd like to accomplish by talking and writing about this, is chal
 
 ## Critiques
 
-In the course of the last decade, I've heard a lot of different arguments for having children. Or rather: against not having them. People seem to take the issue very personally and react fiercely when confronted by it. As do I, but in the other direction, to be honest. It's kind of my thing.
+In the course of the last decade, I've heard a lot of different arguments for having children. Or rather: against not having them. I've heard them all. People seem to take the issue very personally and react fiercely when confronted by it. As do I, but in the other direction, to be honest. It's kind of my thing.
 
 > You're selfish (for denying a child's existence).
 
@@ -68,7 +68,7 @@ There are multiple reasons I don't want any children, but I think that any one o
 
 I strongly believe in each person's right to self-determination. Logically, this also extends to reproductive health. This is exactly what made the sexual revolution that was the invention of the pill so important. In the 20th century, we definitively broke the yoke of the natural drive to reproduce. Suddenly, we were given the choice not to, without the need to give up a normal life (by going into the monastery for instance). This possibility opened up a lot of reasonings to change the way we view and think about family life and reproductive health. We have a lot more choice and freedom in choosing when, how and with whom we want to have children and _if_ we want them.
 
-Here I want to list some of my own reasons to answer negatively on the latter question.
+Here I want to list some of my own personal reasons to answer negatively on the latter question.
 
 ### Personal
 
@@ -82,9 +82,9 @@ I also like to do grown-up things, talk in a grown-up way. I enjoy a lot of thin
 
 Having and raising children is a huge responsibility and a life long commitment not to be taken lightly. Not just to a the child in question, but also to yourself, to a partner, friends, family, teachers,... In short: society itself.
 
-I'm also of  the opinion that having children and raising children are two different things (I want neither), the first being more existential, the second being more practical in nature. Raising someone without being responsible for its existence is also a huge responsibility, but one you take up in compassion. Deciding to have child and raise it is more far reaching in scope. See below about the existential side of things. But even raising someone, educating someone, is something I'm not sure I'm fully capable of. I'd be afraid of doing a bad job at it, failing to teach them something important. While some people may be able to deal with these kind of doubts, I can't. 
+I'm also of  the opinion that having children and raising children are two different things (I want neither), the first being more existential, the second being more practical in nature. Raising someone without being responsible for its existence is also a huge responsibility, but one you take up in compassion. Deciding to have child and raise it is more far reaching in scope. See below about the existential side of things. But even raising someone, educating someone, is something I'm not sure I'm fully capable of. I'd be afraid of doing a bad job at it, failing to teach them something important. While some people may be able to deal with these kind of doubts, I can't.
 
-And lastly, what if there's something wrong with the child? Even when equipped to raise a child, it could turn out to be more than expected, in terms of time, money, effort (physical but also emotional) and happiness. Especially if the quality of life of the child can be doubtful (I'm thinking of children that won't live past a certain age, not children with down syndrome). 
+And lastly, what if there's something wrong with the child? Even when equipped to raise a child, it could turn out to be more than expected, in terms of time, money, effort (physical but also emotional) and happiness. Especially if the quality of life of the child can be doubtful (I'm thinking of children that won't live past a certain age, not children with down syndrome).
 
 ### Ecological
 
