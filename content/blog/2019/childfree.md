@@ -3,7 +3,7 @@ categories = ["philosophy", "personal"]
 date = "2019-10-01T13:20:00+00:00"
 description = ""
 featured_image = ""
-title = "On Being Childfree"
+title = "Choosing to be Childfree"
 
 +++
 **UNDER CONSTRUCTION**
@@ -82,9 +82,7 @@ I also like to do grown-up things, talk in a grown-up way. I enjoy a lot of thin
 
 Having and raising children is a huge responsibility and a life long commitment not to be taken lightly. Not just to a the child in question, but also to yourself, to a partner, friends, family, teachers,... In short: society itself.
 
-I'm also of  the opinion that having children and raising children are two different things (I want neither), the first being more existential, the second being more practical in nature. Raising someone without being responsible for its existence is also a huge responsibility, but one you take up in compassion. Deciding to have child and raise it is more far reaching in scope. See below about the existential side of things.
-
-I'd be afraid to make important mistakes when raising a child.
+I'm also of  the opinion that having children and raising children are two different things (I want neither), the first being more existential, the second being more practical in nature. Raising someone without being responsible for its existence is also a huge responsibility, but one you take up in compassion. Deciding to have child and raise it is more far reaching in scope. See below about the existential side of things. But even raising someone, educating someone, is something I'm not sure I'm fully capable of. I'd be afraid of doing a bad job at it, failing to teach them something important. While some people may be able to deal with these kind of doubts, I can't. 
 
 And lastly, what if there's something wrong with the child? Even when equipped to raise a child, it could turn out to be more than expected, in terms of time, money, effort (physical but also emotional) and happiness. Especially if the quality of life of the child can be doubtful (I'm thinking of children that won't live past a certain age, not children with down syndrome). 
 
