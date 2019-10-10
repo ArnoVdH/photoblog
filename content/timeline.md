@@ -20,13 +20,14 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 * Citytrip Prague, Czech Republic
 
 ## 2017
-* Moved to Ghent, Belgium
+* Moved to Maaltebruggestraat, Ghent
 * Started working at ING
 * Roadtrip France
 * Started taking antidepressants
 
 ## 2016
 * Citytrip to Copenhagen, Denmark
+* Started a course in photography at the Academy of Visual Arts
 * Moved back to parents in Lovendegem
 
 ## 2015
@@ -60,9 +61,28 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 
 ## 2007
 * Walked the West-Highland Way in Scotland, UK (CM holiday)
+* School trip to Barcelona, Spain
+
+## 2004
+* CM holiday to Maloja, Switzerland
+
+## 2003
+* CM holiday to Kell am See, Germany
+
+## 2002
+* CM holiday to Heer-sur-Meuse
 
 ## 2000
-* Vacation in the UK
+* Vacation in Wales, the UK
+
+## 1999
+* Vacation to Denmark
+
+## 1998
+* Vacation to Falster, Denmark
+
+## 1996
+* Vacation to Denmark
 
 ## 1994
 * Vacation to Bretagne, France

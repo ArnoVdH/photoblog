@@ -8,7 +8,7 @@ title = "Review: The Lighthouse"
 +++
 **UNDER CONSTRUCTION**
 
-The Lighthouse is Robert Eggers' newest film, after the 18th century psychological horror masterpiece movie The VVitch. This film too is a meticulously put together work of art, with a fabulous dual cast of Daniel Dafoe and Robert Pattinson (trivia: this is the first time I saw a movie with Pattinson), bombastic dialogues, great visuals and the best Lovecraftian atmosphere I've seen in a long time.
+The Lighthouse is [**Robert Eggers'**](https://en.wikipedia.org/wiki/Robert_Eggers) newest film, after the 18th century psychological horror masterpiece movie The VVitch. This film too is a meticulously put together work of art, with a fabulous dual cast of Daniel Dafoe and Robert Pattinson (trivia: this is the first time I saw a movie with Pattinson), bombastic dialogues, great visuals and the best Lovecraftian atmosphere I've seen in a long time.
 
 <!--more-->
 
@@ -26,4 +26,6 @@ And keeping the best for last: the cinematography is superb. The movie was shot 
 
 Robert Eggers is making his name as a preeminent director of quality horror these days, and I'm curious about what he'll make for us in the future. Be sure to give this one a viewing, it's worth it.
 
-![](https://consequenceofsound.net/wp-content/uploads/2019/09/lighthouse_0HERO.jpg)<h6>Daniel Dafoe and Robert Pattinson as the gruffy lighthouse keepers/h6>
+![](https://consequenceofsound.net/wp-content/uploads/2019/09/lighthouse_0HERO.jpg)
+
+<h6>Daniel Dafoe and Robert Pattinson as the gruffy lighthouse keepers</h6>
