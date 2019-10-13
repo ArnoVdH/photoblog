@@ -6,8 +6,6 @@ featured_image = ""
 title = "Choosing to be Childfree"
 
 +++
-**UNDER CONSTRUCTION**
-
 Since I'm getting sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
 
 It's something I've been thinking a lot about ever since I first conceived of the possibility of me having kids. As a sixteen-year-old I didn't want them,which was considered a normal thing for a teenage boy to say; I got told I'd grow out of it (I didn't). At 20, I had a more strong conviction and had started formulating a host of reasons, some more pessimistic than the others; I got told I'd change my mind when I met someone (I didn't). At 24 I'd lost my first relationship, partly because of my stance on children. In those days, I said I didn't want children _of my own_ but I was open to adoption. I made a distinction between the creating of another life, and the raising and educating of one (I still do); I got told I'd change my mind when other people around me would start having them (I didn't). I'm 29 now, I still haven't changed my mind. Maybe it's time to accept it, both others as myself. That's why I decided to take the permanent step.
@@ -88,30 +86,20 @@ And lastly, what if there's something wrong with the child? Even when equipped t
 
 ### Ecological
 
-These are the most generalizable arguments of them all, and least personal. While not conclusive, they are something that everyone should be aware and take account of.
+Most argument against children, I think, are dependant on one's own valuation of certain experiences or outlook in life. But the ecological arguments go beyond those and have harder, more weighty moral value. While not conclusive, they are something that everyone should be aware and take account of.
 
-A child is an extra human being that consumes and pollutes.
-
-Overpopulation isn't a Malthusian problem, it's a pollution problem.
+The idea boiles down to this: a child, any child, is an extra human being that consumes and pollutes. Especially in the West, where we have a carbon footprint multiple times larger than those in the developing world. So every extra person is an extra burden on our planetary carbon capacity. When talking about overpopulation, this is the point, not food production. Overpopulation isn't a Malthusian problem, it's a pollution problem.
 
 ### Existential & the value of life
 
-It's not just caring for a child, but also being responsible for the fact of its existence, it's experiences, anxieties, etc.
+Lastly, there is the existential question: is (more) life worth it? This question needs an answer, because that's also what hangs in the balance. A new life, with it's own experiences, anxieties and problems.
 
-Life is at best morally neutral.
+Other than antinatalist thinkers (like David Benatar), I think that life as such is morally neutral. It's not possible to know if a life will be worth it or not. That is to say: I think it's entirely possible to have a life that has sufficient value to the person in question.
 
-The horrors of life.
+One of the takeaways here should be that, since it's not possible to judge the value of life a priori or as a bystander, it's up to the individual themself, and thus, an argument in favor of total self determination.
 
-I'm not an antinatalist.
+### Is having children always bad?
 
-### Reasons for having children
+All this is not to say that I'm against having children per se. I think that it's certainly possible to justify having them and in the end it's a personal choice, there's no imperative to have or forgo having children. But the argumentative burden does rest on those wanting children, and not the other way around, as it is now.
 
-All this is not to say that I'm against having children per se. I think that it's certainly possible to justify having them.
-
-Christine Overall, in her 2005? work "Why Have Children?", analyses the more common arguments for having children and dismisses most of them. She does argue for something.
-
-## What I want for society
-
-Staying childfree as an acceptable choice.
-
-Deciding to have children to be a more weighty choice.
+Christine Overall, in her 2012 work "Why Have Children?", analyzes the more common arguments for having children and dismisses most of them. She does argue for the active choice to have someone new to be part of your life, with all that this entails. A total commitment.
