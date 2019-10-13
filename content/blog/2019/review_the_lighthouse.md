@@ -22,6 +22,6 @@ And keeping the best for last: the cinematography is superb. The movie was shot 
 
 Robert Eggers is making his name as a preeminent director of quality horror these days, and I'm curious about what he'll make for us in the future. Be sure to give this one a viewing, it's worth it.
 
-![](https://consequenceofsound.net/wp-content/uploads/2019/09/lighthouse_0HERO.jpg)
+![](/img/blog/the_lighthouse.jpg)
 
 <h6>Daniel Dafoe and Robert Pattinson as the gruffy lighthouse keepers</h6>
