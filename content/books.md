@@ -9,8 +9,8 @@ type = "static"
 +++
 ## Currently reading
 
+* **Hard To Be a God** - Arkady & Boris Strugatsky
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2
-* **Het verdorven genootschap: de vergeten radicalen van de Verlichting** - Philipp Blom
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 * **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx
 
@@ -18,6 +18,7 @@ type = "static"
 
 ### 2019
 
+* **Het verdorven genootschap: de vergeten radicalen van de Verlichting** - Philipp Blom ★★★
 * **The Drowning Girl** - Caitlín R. Kiernan ★★★★
 * **The Labyrinth Index** (Laundry Files 9) - Charles Stross ★★★
 * **The Delirium Brief** (Laundry Files 8) - Charles Stross ★★★★

@@ -11,6 +11,7 @@ type = "static"
 For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 
 ## 2019
+* Moved to Brabantdam, Ghent
 * Vacation in Ostend, Belgium
 * Start building this blog
 * Relationship with Anne
@@ -32,6 +33,7 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 
 ## 2015
 * Citytrip to Cambridge, UK
+* Bought my first typewriter
 * Graduated from Ghent University
 * Moved to house in Ekkergem with friends
 
