@@ -19,5 +19,4 @@ fields:
   name: description
   label: description
 pages:
-- content/blog/2019/review-the-lighthouse.md
 - content/blog/2019/childfree.md
