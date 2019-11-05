@@ -1,5 +1,5 @@
 +++
-date = "2019-09-01T10:00:00.000+02:00"
+date = 2019-09-01T08:00:00Z
 description = ""
 featured_image = ""
 tags = []
@@ -9,7 +9,6 @@ type = "static"
 +++
 ## Currently reading
 
-* **Hard To Be a God** - Arkady & Boris Strugatsky
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 * **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx
@@ -18,6 +17,7 @@ type = "static"
 
 ### 2019
 
+* **Hard To Be a God** - Arkady & Boris Strugatsky ★★★
 * **Het verdorven genootschap: de vergeten radicalen van de Verlichting** - Philipp Blom ★★★
 * **The Drowning Girl** - Caitlín R. Kiernan ★★★★
 * **The Labyrinth Index** (Laundry Files 9) - Charles Stross ★★★
