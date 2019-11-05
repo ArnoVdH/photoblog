@@ -1,6 +1,6 @@
 +++
 categories = ["philosophy", "personal"]
-date = "2019-10-01T13:20:00+00:00"
+date = 2019-10-01T13:20:00Z
 description = ""
 featured_image = ""
 title = "Choosing to be Childfree"
@@ -72,7 +72,7 @@ Here I want to list some of my own personal reasons to answer negatively on the 
 
 Something childfree people tend to say a lot is that they don't hate children (on the contrary, they often exclaim they adore them) as some sort of defense mechanism. How could you dislike children, you monster? But I think we should be able to admit this. It's not a personal hate against the child itself (while that's possible, children can be horrible little people), but a general dislike of what they imply: they make a lot of noise, they are helpless and require a lot of attention.
 
-There are egoistic reasons too. I don't have enough time or money as it is. Children cost money and take up time, time I'd like to spent differently.
+There are egoistic reasons too. I don't have enough time or money as it is. Children cost money and take up time, time I'd like to spent differently. When I come home after a full days work, after all the household chores and other necessary tasks, I only have a few short hours to spend for myself. Valuable time I'd like to use for a myriad of things I never get to do even without having to care for some little person. 
 
 I also like to do grown-up things, talk in a grown-up way. I enjoy a lot of things, but in a grown-up way. Even things that are considered _for kids_ can be enjoyed as an adult. I have no wish to deal with infantile things I don't get anything out of.
 
@@ -82,24 +82,26 @@ Having and raising children is a huge responsibility and a life long commitment 
 
 I'm also of  the opinion that having children and raising children are two different things (I want neither), the first being more existential, the second being more practical in nature. Raising someone without being responsible for its existence is also a huge responsibility, but one you take up in compassion. Deciding to have child and raise it is more far reaching in scope. See below about the existential side of things. But even raising someone, educating someone, is something I'm not sure I'm fully capable of. I'd be afraid of doing a bad job at it, failing to teach them something important. While some people may be able to deal with these kind of doubts, I can't.
 
-And lastly, what if there's something wrong with the child? Even when equipped to raise a child, it could turn out to be more than expected, in terms of time, money, effort (physical but also emotional) and happiness. Especially if the quality of life of the child can be doubtful (I'm thinking of children that won't live past a certain age, not children with down syndrome).
+And worst case scenario: what if there's something wrong with the child? Even when equipped to raise a child, it could turn out to be more than expected, in terms of time, money, effort (physical but also emotional) and happiness. Especially if the quality of life of the child can be doubtful (I'm thinking of children that won't live past a certain age, not children with down syndrome). I find the risk too great.
 
 ### Ecological
 
-Most argument against children, I think, are dependant on one's own valuation of certain experiences or outlook in life. But the ecological arguments go beyond those and have harder, more weighty moral value. While not conclusive, they are something that everyone should be aware and take account of.
+Most argument against children, I think, are dependent on one's own valuation of certain experiences or outlook in life. They're subjective. But the ecological arguments go beyond those and have harder, more weighty moral value. While not conclusive, they are something that everyone should be aware and take account of.
 
-The idea boiles down to this: a child, any child, is an extra human being that consumes and pollutes. Especially in the West, where we have a carbon footprint multiple times larger than those in the developing world. So every extra person is an extra burden on our planetary carbon capacity. When talking about overpopulation, this is the point, not food production. Overpopulation isn't a Malthusian problem, it's a pollution problem.
+The idea boils down to this: a child, any child, is an extra human being that consumes and pollutes. Especially in the West, where we have a carbon footprint multiple times larger than those in the developing world. So every extra person is an extra burden on our planetary carbon capacity. When talking about overpopulation, this is the point, not food production. Overpopulation isn't a Malthusian problem, it's a pollution problem. And one that's, rather counter-intuitively, more important in the developed first world.
 
 ### Existential & the value of life
 
 Lastly, there is the existential question: is (more) life worth it? This question needs an answer, because that's also what hangs in the balance. A new life, with it's own experiences, anxieties and problems.
 
-Other than antinatalist thinkers (like David Benatar), I think that life as such is morally neutral. It's not possible to know if a life will be worth it or not. That is to say: I think it's entirely possible to have a life that has sufficient value to the person in question.
+In contrast to antinatalist thinkers (like David Benatar), I think that life as such is morally neutral. It's not possible to know if a life will be worth it or not. That is to say: I think it's entirely possible to have a life that has sufficient value to the person in question.
 
-One of the takeaways here should be that, since it's not possible to judge the value of life a priori or as a bystander, it's up to the individual themself, and thus, an argument in favor of total self determination.
+One of the takeaways here should be that, since it's not possible to judge the value of life a priori or as a bystander, it's up to the individual them self, and thus, an argument in favor of total self determination.
+
+Since it's impossible to evaluate the worth of a life before it exists, the decision should be a weighing of all other aspects by the prospective parent(s) and there is no way of implementing the future life of the person as a factor. Are the conditions suitable, are they prepared to take on the responsibility, are their intentions good,...? There are always elements of a wager inherent in this choice,
 
 ### Is having children always bad?
 
 All this is not to say that I'm against having children per se. I think that it's certainly possible to justify having them and in the end it's a personal choice, there's no imperative to have or forgo having children. But the argumentative burden does rest on those wanting children, and not the other way around, as it is now.
 
-Christine Overall, in her 2012 work "Why Have Children?", analyzes the more common arguments for having children and dismisses most of them. She does argue for the active choice to have someone new to be part of your life, with all that this entails. A total commitment.
+Christine Overall, in her 2012 work "Why Have Children?", analyzes the more common arguments for having children and dismisses most of them. She does argue for the active choice to have someone new to be part of your life, with all that this entails. A total commitment and choice to generate a new relationship, specifically the parent-child relationship.
