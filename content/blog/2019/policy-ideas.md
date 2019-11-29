@@ -13,12 +13,15 @@ Economical
 
 * Introduce higher tax brackets
 * Tax wealth & income from assets and capital
-* 
+* Ban advertisement in public spaces
+* Introduce a non-conditional basic income
+* Collective reduction in working hours (goal: 4 hours a day, 4 days a week, and no wage cuts!)
 
 Political
 
 * Introduce lottery element in legislative procedure
-* 
+* Nationalize public services
+* Give workers at least 1/3 share in companies
 
 Ethical-personal
 
