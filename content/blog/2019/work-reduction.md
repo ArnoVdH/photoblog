@@ -7,3 +7,12 @@ featured_image = ""
 title = "work_reduction"
 
 +++
+Policy
+
+History
+
+Reasons
+
+Feasibility
+
+Demands
