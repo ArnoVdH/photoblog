@@ -19,5 +19,6 @@ fields:
   name: description
   label: description
 pages:
+- content/blog/2019/work-reduction.md
 - content/blog/2019/policy-ideas.md
 - content/blog/2019/childfree.md
