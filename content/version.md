@@ -1,16 +1,16 @@
 +++
-title =  "Version history"
-date = 2019-07-10T10:00:00+02:00
-tags = []
-featured_image = ""
+date = 2019-07-10T08:00:00Z
 description = ""
-draft = false
+featured_image = ""
+tags = []
+title = "Version history"
 type = "static"
-+++
 
++++
 Overview of (major) changes to the website.
 
 ### To do
+
 * Clean up CSS
 * Adapt header menu to fully use hugo code (make single pages and subpages active)
 * List the 'series' chronologically in nav-menu
@@ -19,13 +19,18 @@ Overview of (major) changes to the website.
 * Make page title reference the site as a whole
 * Add a graphic logo (and favicon?)
 * Add info (metadata) about the pictures that show up only when activated.
-* Buy domain name
+
+### 0.9.4 (2019-12-05)
+
+* Bought and linked domain name arnovdh.be
 
 ### 0.9.3 (2019-09-22)
+
 * Added games static page
 * Renamed curriculum to timeline
 
 ### 0.9.2 (2019-09-15)
+
 * Reorganized responsive css layout for mobile devices (changed order in css file)
 * Fixed margins
 * Added a curriculum (life overview) page
@@ -45,7 +50,7 @@ Overview of (major) changes to the website.
 
 ### Earlier versions
 
-Read [this blogpost]({{< ref "/blog/2019/building_a_website.md" >}}) on how I started building this website.
+Read \[this blogpost\]({{< ref "/blog/2019/building_a_website.md" >}}) on how I started building this website.
 
 * Built a basic website with hugo, html & css
 * One part is the photography portfolio
