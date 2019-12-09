@@ -11,13 +11,19 @@ Overview of (major) changes to the website.
 
 ### To do
 
-* Clean up CSS
-* Adapt header menu to fully use hugo code (make single pages and subpages active)
-* List the 'series' chronologically in nav-menu
-* Built shortcode to insert images in photo page from a folder
+#### Important
+
 * Make images more responsive and lighter (and add lazy loading?)
+* Built shortcode to insert images in photo page from a folder
+* Adapt header menu to fully use hugo code (make single pages and subpages active)
+* Clean up CSS
+* Add a graphic logo
+
+#### Less important
+
+* List the 'series' chronologically in nav-menu
 * Make page title reference the site as a whole
-* Add a graphic logo (and favicon?)
+* Add favicon
 * Add info (metadata) about the pictures that show up only when activated.
 
 ### 0.9.4 (2019-12-05)
