@@ -9,6 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
+* **The Russia House** - John le Carré
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 * **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx

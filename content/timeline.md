@@ -11,6 +11,8 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 
 ## 2019
 
+* Got sterilized
+* Citytrip to Paris, France
 * Moved to Brabantdam, Ghent
 * Vacation in Ostend, Belgium
 * Started building this blog
