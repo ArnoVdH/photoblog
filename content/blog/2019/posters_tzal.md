@@ -7,9 +7,9 @@ description = ""
 draft = true
 +++
 
-For years I was a member of a philosophical-minded, freethinking student society in Ghent, called "T.S.G. 't Zal Wel Gaan" ("T.S.G." stands for "taalminnend studentengenootschap" or language-loving student society). It's, as far as I know, the oldest of its kind in Belgium, founded in 1852.
+For years I was a member of a philosophical-minded, freethinking student society in Ghent, called "T.S.G. 't Zal Wel Gaan" ("T.S.G." stands for "taalminnend studentengenootschap" or language-loving student society). It's, as far as I know, the oldest of its kind in Belgium, founded in 1852. It has a long and turbulent history, but that's a story for another time.
 
-During a few years I was a member, I did the visual side of operations, being designing the posters mainly. Here I'd like to share some of the ones I made in the course of those years and maybe elaborate on some of the design decisions (or in other words: who I ripped off).
+During a few years I was a member, I did the visual side of operations, designing the posters mainly. Here I'd like to share some of the ones I made in the course of those years and maybe elaborate on some of the design decisions (or in other words: who I ripped off).
 <!--more-->
 
 oude poster raes

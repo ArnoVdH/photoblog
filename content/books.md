@@ -9,15 +9,17 @@ type = "static"
 +++
 ## Currently reading
 
+* **The Principles of Communism** - Friedrich Engels
 * **The Russia House** - John le Carré
-* **Work, Inequality, Basic Income** - Boston Review / Forum 2
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
-* **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx
 
 ## Read
 
 ### 2019
 
+* **The Whisperer in Darkness** - H.P. Lovecraft ★★★
+* **Work, Inequality, Basic Income** - Boston Review / Forum 2 ★★★
+* **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx ★★★★
 * **Hard To Be a God** - Arkady & Boris Strugatsky ★★★
 * **Het verdorven genootschap: de vergeten radicalen van de Verlichting** - Philipp Blom ★★★
 * **The Drowning Girl** - Caitlín R. Kiernan ★★★★

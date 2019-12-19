@@ -35,7 +35,6 @@ A selection of great games...
 * Hearts of Iron IV
 * The Witcher 3: Wild Hunt
 * Metro: Last Light
-* Uplink
 * Half-Life
 * Half-Life 2
 * Titan Quest
