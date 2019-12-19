@@ -45,9 +45,10 @@ hr {
 }
 
 /* ===HEADER=== */
-/* Add a black background color to the top navigation */
+/* Add a background color to the top navigation */
 header ul {
-  padding-left: 10;
+  padding-left: 7px;
+  padding-top: 7px;
   background-color: white;
   overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
@@ -62,7 +63,7 @@ header ul a {
   color: black;
   display: block;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 20px;
   text-decoration: none;
   font-size: 1.4em;
   border-bottom: 3px solid transparent;
@@ -96,7 +97,7 @@ header img:hover {
 /* ===BLOG CONTENT=== */
 .content {
   line-height: 1.5em;
-  margin-top: 4em;
+  margin-top: 5em;
   margin-bottom: 2em;
   color: black;
   text-align: justify;
@@ -203,7 +204,7 @@ header img:hover {
 
 /* ===PHOTO BLOG NAVIGATION=== */
 .nav {
-  padding-top: 4em;
+  padding-top: 5em;
   padding-left: 1em;
   padding-right: 2.5em;
   text-align: end;
@@ -273,6 +274,7 @@ header img:hover {
 .content {
   grid-area: main;
 }
+
 
 @media only screen and (min-width: 1000px){
 .wrapper {
