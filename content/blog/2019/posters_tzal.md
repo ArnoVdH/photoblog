@@ -12,16 +12,18 @@ For years I was a member of a philosophical-minded, freethinking student society
 During a few years I was a member, I did the visual side of operations, designing the posters mainly. Here I'd like to share some of the ones I made in the course of those years and maybe elaborate on some of the design decisions (or in other words: who I ripped off).
 <!--more-->
 
-oude poster raes
+![](/img/blog/TzalPosters/1_Raes.jpg)
 
-oude poster met kleur
+![](/img/blog/TzalPosters/1_Openingsdebat2011.jpg)
 
-rode poster
+![](/img/blog/TzalPosters/3_Gescinska.jpg)
 
-rode poster met iets speciaals?
+![](/img/blog/TzalPosters/4_VerhaegeIdentiteit.jpg)
 
-rode poster met tekst (benno barnard)
+![](/img/blog/TzalPosters/5_BennoBarnard.jpg)
 
-poster essaywedstrijd
+![](/img/blog/TzalPosters/6_Ecologie.jpg)
 
-poster geuzenprijs
+![](/img/blog/TzalPosters/7_Essaywedstrijd.jpg)
+
+![](/img/blog/TzalPosters/8_Geuzenprijs.jpg)
