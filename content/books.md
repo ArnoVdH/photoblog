@@ -9,7 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
-* **The Principles of Communism** - Friedrich Engels
+* **Lenin on the Train** -  Catherine Merridale
 * **The Russia House** - John le Carré
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
@@ -17,6 +17,7 @@ type = "static"
 
 ### 2019
 
+* **The Principles of Communism** - Friedrich Engels ★★★
 * **The Whisperer in Darkness** - H.P. Lovecraft ★★★
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2 ★★★
 * **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx ★★★★
