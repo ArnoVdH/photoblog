@@ -57,11 +57,11 @@ type = "static"
 * **From Here to Eternity: Traveling the world to find the good death** - Caitlin Doughty ★★
 * **The Code Book: the science of secrecy from ancient Egypt to quantum cryptography** - Simon Singh ★★★★
 * **34 zeer korte verhalen en een vogelkat** - Evelio Rosero ★★★
-* **Duna Messiah** (Dune 2) - Frank Herbert ★
+* **Duna Messiah** (Dune 2) - Frank Herbert ★★
 * **The Blind Owl** - Sadegh Hedayat ★★★
 * **Tirza** - Arnon Grunberg ★★★
 * **Alectryomancer and Other Weird Tales** - Christopher Slatsky ★★
-* **De trein der traagheid** - Johan Daisne ★
+* **De trein der traagheid** - Johan Daisne ★★
 * **De komst van Joachim Stiller** - Hubert Lampo ★★★★★
 * **Solaris** - Stanisław Lem ★★★★★
 * **John Dies at the End** - David Wong ★★
