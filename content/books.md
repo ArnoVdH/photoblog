@@ -9,7 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
-* **Lenin on the Train** -  Catherine Merridale
+* **Will My Cat Eat My Eyeballs?** - Caitlin Doughty
 * **The Russia House** - John le Carré
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
@@ -17,6 +17,7 @@ type = "static"
 
 ### 2019
 
+* **Lenin on the Train** -  Catherine Merridale ★★★
 * **The Principles of Communism** - Friedrich Engels ★★★
 * **The Whisperer in Darkness** - H.P. Lovecraft ★★★
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2 ★★★
