@@ -9,7 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
-* **Lenin on the Train** -  Catherine Merridale
+* **Will My Cat Eat My Eyeballs?** - Caitlin Doughty
 * **The Russia House** - John le Carré
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
@@ -17,6 +17,7 @@ type = "static"
 
 ### 2019
 
+* **Lenin on the Train** -  Catherine Merridale ★★★
 * **The Principles of Communism** - Friedrich Engels ★★★
 * **The Whisperer in Darkness** - H.P. Lovecraft ★★★
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2 ★★★
@@ -56,11 +57,11 @@ type = "static"
 * **From Here to Eternity: Traveling the world to find the good death** - Caitlin Doughty ★★
 * **The Code Book: the science of secrecy from ancient Egypt to quantum cryptography** - Simon Singh ★★★★
 * **34 zeer korte verhalen en een vogelkat** - Evelio Rosero ★★★
-* **Duna Messiah** (Dune 2) - Frank Herbert ★
+* **Duna Messiah** (Dune 2) - Frank Herbert ★★
 * **The Blind Owl** - Sadegh Hedayat ★★★
 * **Tirza** - Arnon Grunberg ★★★
 * **Alectryomancer and Other Weird Tales** - Christopher Slatsky ★★
-* **De trein der traagheid** - Johan Daisne ★
+* **De trein der traagheid** - Johan Daisne ★★
 * **De komst van Joachim Stiller** - Hubert Lampo ★★★★★
 * **Solaris** - Stanisław Lem ★★★★★
 * **John Dies at the End** - David Wong ★★
