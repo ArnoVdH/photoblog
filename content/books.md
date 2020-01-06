@@ -9,6 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
+* **Sapiens: A Brief History of Humankind** - Yuval Noah Harari
 * **Will My Cat Eat My Eyeballs?** - Caitlin Doughty
 * **The Russia House** - John le Carré
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
