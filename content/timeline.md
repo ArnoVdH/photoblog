@@ -11,6 +11,7 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 
 ## 2019
 
+* Citytrip to Eindhoven, The Netherlands
 * Got sterilized
 * Citytrip to Paris, France
 * Moved to Brabantdam, Ghent
