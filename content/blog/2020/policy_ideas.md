@@ -20,12 +20,17 @@ This is a list of policies that I support or am interested in.
 ## Political
 
 * Introduce lottery element in legislative procedure
-* Nationalize public services
-* Give workers at least 1/3 share in companies
+* Nationalize public services, infrastructure and services
+* Give workers a large share (at least 1/3rd) in companies
 
 ## Ethical-personal
 
 * Pro-choice: abortion legalized
-* Euthanasia
+* Euthanasia legalized
 * Decriminalization of drugs
 * Decriminalization of sex work
+
+## Local-regional-national
+
+* Removal of the statues of king Leopold II
+* Abolition of the monarchy
