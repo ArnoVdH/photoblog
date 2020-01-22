@@ -9,12 +9,15 @@ type = "static"
 +++
 ## Currently reading
 
-* **Sapiens: A Brief History of Humankind** - Yuval Noah Harari
-* **Will My Cat Eat My Eyeballs?** - Caitlin Doughty
-* **The Russia House** - John le Carré
+* **In Praise of Shadows** - Junichirō Tanizaki
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
 ## Read
+
+### 2020
+
+* **Sapiens: A Brief History of Humankind** - Yuval Noah Harari ★★
+* **Will My Cat Eat My Eyeballs?** - Caitlin Doughty ★★★
 
 ### 2019
 
