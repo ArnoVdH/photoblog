@@ -9,13 +9,17 @@ type = "static"
 +++
 ## Currently reading
 
-* **In Praise of Shadows** - Junichirō Tanizaki
+* **The Bullet Journal Method** - Ryder Carroll
+* **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
 ## Read
 
 ### 2020
 
+* **War! What Is It Good For?** - Ian Morris ★★★
+* **At the Mountains of Madness** - H.P. Lovecraft ★★★
+* **In Praise of Shadows** - Junichirō Tanizaki ★★★
 * **Sapiens: A Brief History of Humankind** - Yuval Noah Harari ★★
 * **Will My Cat Eat My Eyeballs?** - Caitlin Doughty ★★★
 
