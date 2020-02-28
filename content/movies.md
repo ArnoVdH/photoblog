@@ -7,8 +7,11 @@ title = "Movie list"
 type = "static"
 
 +++
-
 A list of good movies in chronological order.
+
+Watching anyone of these will never be wasted time.
+
+Lesson learned by making this list: I need to watch more older movies.
 
 (1920) Das Cabinet des Dr. Caligari – Robert Wiene
 (1927) Metropolis – Fritz Lang

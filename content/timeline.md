@@ -7,7 +7,7 @@ title = "Timeline"
 type = "static"
 
 +++
-For a professional curricumul vitae, click [here](/files/curriculum.pdf).
+For a professional curriculum vitae, click [here](/files/curriculum.pdf).
 
 ## 2019
 
@@ -22,7 +22,7 @@ For a professional curricumul vitae, click [here](/files/curriculum.pdf).
 ## 2018
 
 * Started working at NEO (National Employment Office)
-* Citytrip Prague, Czech Republic
+* Citytrip to Prague, Czech Republic
 
 ## 2017
 
