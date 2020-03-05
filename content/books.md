@@ -9,7 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
-* **The Plot Against America** - Philip Roth
+* **The Communist Manifesto** - Karl Marx & Friedrich Engels
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
@@ -17,6 +17,7 @@ type = "static"
 
 ### 2020
 
+* **The Plot Against America** - Philip Roth ★★★★
 * **The Bullet Journal Method** - Ryder Carroll ★★★
 * **War! What Is It Good For?** - Ian Morris ★★★
 * **At the Mountains of Madness** - H.P. Lovecraft ★★★
