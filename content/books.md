@@ -9,7 +9,9 @@ type = "static"
 +++
 ## Currently reading
 
-* **The Communist Manifesto** - Karl Marx & Friedrich Engels
+* **Queer** - David J. Getsy
+* **Taal voor de leuk** - Paulien Cornelisse
+* **Metro 2033** (Metro 1) - Dmitry Glukhovsky
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
@@ -17,6 +19,7 @@ type = "static"
 
 ### 2020
 
+* **The Communist Manifesto** - Karl Marx & Friedrich Engels ★★★★
 * **The Plot Against America** - Philip Roth ★★★★
 * **The Bullet Journal Method** - Ryder Carroll ★★★
 * **War! What Is It Good For?** - Ian Morris ★★★
