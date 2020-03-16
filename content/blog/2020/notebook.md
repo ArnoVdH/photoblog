@@ -8,3 +8,7 @@ title = "notebook"
 
 +++
 I started writing a notebook again, something I've done in the past before with varying degrees of success. This time I'm taking inspiration of the Bullet Journal Method, since there's already some overlap with my natural style of journaling.
+
+<!--more-->
+
+Illustrations?

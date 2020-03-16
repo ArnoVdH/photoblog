@@ -38,3 +38,5 @@ It feels real because it's not tailored to the player (to make him feel powerful
 ## Playing Morrowind in 2020
 
 More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The Tamriel Rebuilt project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for more than a decade. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine.
+
+Amount of cliffracers eradicated in my most recent playthrough: 9
