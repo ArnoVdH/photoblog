@@ -1,6 +1,6 @@
 +++
 categories = ["review"]
-date = 2019-11-22T14:16:21Z
+date = 2020-03-20T14:15:21Z
 description = ""
 draft = true
 featured_image = ""
@@ -9,7 +9,12 @@ title = "In Praise of Morrowind"
 +++
 I don't know exactly when I played The Elder Scrolls III: Morrowind for the first time, but I've kept coming back to it for more than a decade. It has inspired lots of dreaming, writing and discussion among friends and even a pen & paper tabletop roleplay campaign.
 
+> Amount of cliffracers eradicated in my most recent playthrough: 34
+
 <!--more-->
+
+![](/img/blog/morrowind/balmora.jpg)
+<h6>Balmora with the Dwemer ruins of Arkngthand in the background</h6>
 
 ## A word on problems
 
@@ -24,19 +29,21 @@ The biggest problems Morrowind has are actually those of design: things that hav
 The originality of design, something that has been missing in the sequels.
 Visual and art design, but also level design.
 
+![](/img/blog/morrowind/puzzle_canal.jpg)
+<h6>The interior of the Puzzle Canal beneath the Palace of Vivec</h6>
+
 ## The Isle of Vvardenfell
 
-The world feels way bigger than it actually is, even when playing with the Morrowind Graphics Extender (MGE XE)
+The world feels way bigger than it actually is, even when playing with the Morrowind Graphics Extender (MGE XE).
 
 ## Lore Galore
 
 The story and the incredibly deep lore.
-The role and function of prophecy.
+
+The role and function of prophecy. You start with a bunch of research errands given to you by Caius Cosades into the specifics of the Nerevarine prophecies and it becomes immediately clear that things aren't as clear cut as just 'there's this prophecy, you are the chosen one, go do the task.'
 
 It feels real because it's not tailored to the player (to make him feel powerful etc) but feels like a complex society, with different interest groups, each with their own values, ideas and goals. Instead of just 'factions' for you to join and run through all the quests they offer you.
 
 ## Playing Morrowind in 2020
 
-More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The Tamriel Rebuilt project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for more than a decade. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine.
-
-Amount of cliffracers eradicated in my most recent playthrough: 9
+More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The Tamriel Rebuilt project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called Skywind. I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.

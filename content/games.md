@@ -55,7 +55,6 @@ A selection of great games...
 * Portal 2
 * BioShock
 * BioShock Infinite
-* Grim Dawn
 * Hotline Miami
 * Red Orchestra 2
 * Rising Storm 2: Vietnam
