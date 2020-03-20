@@ -9,7 +9,7 @@ title = "In Praise of Morrowind"
 +++
 I don't know exactly when I played The Elder Scrolls III: Morrowind for the first time, but I've kept coming back to it for more than a decade. It has inspired lots of dreaming, writing and discussion among friends and even a pen & paper tabletop roleplay campaign.
 
-> Amount of cliffracers eradicated in my most recent playthrough: 34
+### Amount of cliffracers eradicated in my most recent playthrough: 34
 
 <!--more-->
 
