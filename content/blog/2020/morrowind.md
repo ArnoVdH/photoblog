@@ -7,13 +7,13 @@ featured_image = ""
 title = "In Praise of Morrowind"
 
 +++
-I don't know exactly when I played The Elder Scrolls III: Morrowind for the first time, but I've kept coming back to it for more than a decade. It has inspired lots of dreaming, writing and discussion among friends and even a pen & paper tabletop roleplay campaign.
+I don't know exactly when I played The Elder Scrolls III: Morrowind for the first time, but I've kept coming back to it for more than a decade. It has inspired lots of dreaming, writing and discussion among friends and even a pen & paper tabletop roleplay campaign. It has been a game I came back to every few years. What is it that makes Morrowind such a cult classic?
 
-### Amount of cliffracers eradicated in my most recent playthrough: 34
+### Amount of cliffracers eradicated in my most recent playthrough: 107
 
 <!--more-->
 
-![](/img/blog/morrowind/balmora.jpg)
+![](/img/blog/morrowind/balmora.png)
 <h6>Balmora with the Dwemer ruins of Arkngthand in the background</h6>
 
 ## A word on problems
@@ -29,7 +29,7 @@ The biggest problems Morrowind has are actually those of design: things that hav
 The originality of design, something that has been missing in the sequels.
 Visual and art design, but also level design.
 
-![](/img/blog/morrowind/puzzle_canal.jpg)
+![](/img/blog/morrowind/puzzle_canal.png)
 <h6>The interior of the Puzzle Canal beneath the Palace of Vivec</h6>
 
 ## The Isle of Vvardenfell
@@ -46,4 +46,8 @@ It feels real because it's not tailored to the player (to make him feel powerful
 
 ## Playing Morrowind in 2020
 
-More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The Tamriel Rebuilt project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called Skywind. I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
+More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave]https://youtu.be/iR-K2rUP86M)!
+
+I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
+
+![](/img/blog/morrowind/cliff_racers.png)
