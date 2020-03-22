@@ -23,7 +23,7 @@ I remade our visual identity to a recognizable and easily adaptable layout, base
 
 ![](/img/blog/TzalPosters/4_VerhaegeIdentiteit.jpg)
 
-![BennoBarnard](/img/blog/TzalPosters/5_BennoBarnard.jpg)
+![](/img/blog/TzalPosters/5_BennoBarnard.jpg)
 This is one of my best typographical posters I made.
 
 ![](/img/blog/TzalPosters/6_Ecologie.jpg)
