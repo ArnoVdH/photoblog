@@ -13,7 +13,7 @@ I don't know exactly when I played The Elder Scrolls III: Morrowind for the firs
 
 <!--more-->
 
-![](/img/blog/morrowind/balmora.png)
+![](/img/blog/morrowind/balmora.jpg)
 <h6>Balmora with the Dwemer ruins of Arkngthand in the background</h6>
 
 ## A word on problems
@@ -29,7 +29,7 @@ The biggest problems Morrowind has are actually those of design: things that hav
 The originality of design, something that has been missing in the sequels.
 Visual and art design, but also level design.
 
-![](/img/blog/morrowind/puzzle_canal.png)
+![](/img/blog/morrowind/puzzle_canal.jpg)
 <h6>The interior of the Puzzle Canal beneath the Palace of Vivec</h6>
 
 ## The Isle of Vvardenfell
@@ -50,4 +50,4 @@ More than 17 years after its release, the game still inspires people. A huge com
 
 I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
 
-![](/img/blog/morrowind/cliff_racers.png)
+![](/img/blog/morrowind/cliff_racers.jpg)
