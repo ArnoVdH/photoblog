@@ -34,7 +34,9 @@ Visual and art design, but also level design.
 
 ## The Isle of Vvardenfell
 
-The world feels way bigger than it actually is, even when playing with the Morrowind Graphics Extender (MGE XE).
+The land of the game itself is wonderfully crafted and holds up very well; even with MGE XE it doesn't *feel* small, even though the distances involved are quite small. Turning distant lands on makes navigating by sight easier - looking for some Daedric ruins to orient yourself for instance - and makes you feel less like walking in a misty tube with the sky clear above you. But it does this while not making everything visible and obvious, and here we have to thank the game designers and not the MGE XE modders. They did mostly by cleverly using the terrain. Most paths wind around difficult to climb mountains and in the south-western corner of the island they are very clear and inviting to follow. Mountain ranges, foyada's ('fire-rivers')
+
+![](/img/blog/morrowind/seyda_neen.jpg)
 
 ## Lore Galore
 
