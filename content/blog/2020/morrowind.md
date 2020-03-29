@@ -36,6 +36,8 @@ Visual and art design, but also level design.
 
 The land of the game itself is wonderfully crafted and holds up very well; even with MGE XE it doesn't *feel* small, even though the distances involved are quite small. Turning distant lands on makes navigating by sight easier - looking for some Daedric ruins to orient yourself for instance - and makes you feel less like walking in a misty tube with the sky clear above you. But it does this while not making everything visible and obvious, and here we have to thank the game designers and not the MGE XE modders. They did mostly by cleverly using the terrain. Most paths wind around difficult to climb mountains and in the south-western corner of the island they are very clear and inviting to follow. Mountain ranges, foyada's ('fire-rivers', gullies through which lava flows during an eruption), misty and rainy weather, ash storms and Red Mountain itself provide natural limitation on the landscape. Besides these there's also the vegetation (huge trees and mushrooms) and architecture, such as the huge cantons of Vivec, towering above everything.
 
+Vvardenfell is composed of many different regions, each unique but with some similarities to make it a recognizable whole. 
+
 ![](/img/blog/morrowind/seyda_neen.jpg)
 
 ## Lore Galore

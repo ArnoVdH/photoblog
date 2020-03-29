@@ -9,7 +9,6 @@ type = "static"
 +++
 ## Currently reading
 
-* **Queer** - David J. Getsy
 * **Taal voor de leuk** - Paulien Cornelisse
 * **Metro 2033** (Metro 1) - Dmitry Glukhovsky
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
