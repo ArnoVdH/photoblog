@@ -9,7 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
-* **Taal voor de leuk** - Paulien Cornelisse
+* **Dead Interviews** - Dan Crowe
 * **Metro 2033** (Metro 1) - Dmitry Glukhovsky
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
@@ -18,6 +18,7 @@ type = "static"
 
 ### 2020
 
+* **Taal voor de leuk** - Paulien Cornelisse ★★
 * **The Communist Manifesto** - Karl Marx & Friedrich Engels ★★★★
 * **The Plot Against America** - Philip Roth ★★★★
 * **The Bullet Journal Method** - Ryder Carroll ★★★
