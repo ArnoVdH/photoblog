@@ -9,6 +9,9 @@ type = "static"
 +++
 For a professional curriculum vitae, click [here](/files/curriculum.pdf).
 
+## 2020
+* Citytrip to Amsterdam got canceled due to the global coronavirus pandemic
+
 ## 2019
 
 * Citytrip to Eindhoven, The Netherlands
