@@ -7,7 +7,7 @@ featured_image = ""
 title = "In Praise of Morrowind"
 
 +++
-I don't know exactly when I played The Elder Scrolls III: Morrowind for the first time, but I've kept coming back to it for more than a decade. It has inspired lots of dreaming, writing and discussion among friends and even a pen & paper tabletop roleplay campaign. It has been a game I came back to every few years. What is it that makes Morrowind such a cult classic?
+I don't know exactly when I played The Elder Scrolls III: Morrowind for the first time, but I've kept coming back to it for more than a decade. It has inspired lots of dreaming, writing and discussion among friends and even a pen & paper tabletop roleplay campaign. It has been a game I came back to every few years. But what is it that makes Morrowind such an enduring cult classic? And is it really better than its sequels?
 
 ### Amount of cliffracers eradicated in my most recent playthrough: 155
 
@@ -60,3 +60,4 @@ More than 17 years after its release, the game still inspires people. A huge com
 I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
 
 ![](/img/blog/morrowind/cliff_racers.jpg)
+<h6>Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell</h6>
