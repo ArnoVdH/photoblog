@@ -15,6 +15,7 @@ Overview of (major) changes to the website.
 
 * Make images more responsive and lighter (and add lazy loading?)
 * Built shortcode to insert images in photo page from a folder
+* Implement page bundles
 * Adapt header menu to fully use hugo code (make single pages and subpages active)
 * Clean up CSS
 * Add a graphic logo
@@ -24,11 +25,17 @@ Overview of (major) changes to the website.
 * List the 'series' chronologically in nav-menu
 * Make page title reference the site as a whole
 * Add favicon
-* Add info (metadata) about the pictures that show up only when activated.
+* Add info (metadata) about the pictures that show up only when activated
+* Add certain (static) pages to (dropdown?) menu under About
+
+### 0.9.5 (2019-04-12)
+
+* Changed footer to copy-left
 
 ### 0.9.4 (2019-12-05)
 
-* Bought and linked domain name arnovdh.be
+* Bought and linked domain name (https://arnovdh.be/)
+* Added movie list static page
 
 ### 0.9.3 (2019-09-22)
 
