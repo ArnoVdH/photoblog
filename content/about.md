@@ -20,6 +20,6 @@ I got my masters degree in philophy and wrote about universal basic income (UBI)
 
 A lot of the time, I'm walking around with a camera with me and I consider myself somewhat as a amateur photographer. I have been taking pictures regularly and sharing them with friends for at least ten years. I used to host a photo blog on one of the well-known commercial websites, but since they changed their policy to be more restrictive and puritan, I decided to move on. So you'll find a section dedicated to my [photography](/) here, both film and digital.
 
-But in the end, I'd like to think of myself as a generalist. I find it difficult to describe myself in, or limit myself to, just a few things. You'll notice that [my blog](/blog) is a hodge-podge of different subjects. I try to write about many different things that interest me or that I care about. [Books](/books), [life](/timeline), [politics](/categories/politics/), typewriters, [games](/games), history, weird stuff,...
+But in the end, I'd like to think of myself as a generalist. I find it difficult to describe myself in, or limit myself to, just a few things. You'll notice that [my blog](/blog) is a hodge-podge of different subjects. I try to write about many different things that interest me or that I care about. [Books](/books), [life](/timeline), [politics](/categories/politics/), typewriters, [games](/games), history, [movies](/movies), weird stuff,...
 
 Should you want to contact me, my e-mail adress is `arno.vandenhende`<span style="display: none;">REMOVE</span>`@posteo.net`.
