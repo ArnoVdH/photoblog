@@ -2,7 +2,7 @@
 categories = ["philosophy", "politics", "basic income"]
 date = "2019-09-09T15:46:29.000+02:00"
 description = ""
-featured_image = ""
+featured_image = "/img/blog/calvinhobbes.gif"
 title = "Universal Basic Income: an introduction"
 +++
 

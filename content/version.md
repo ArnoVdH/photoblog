@@ -31,6 +31,7 @@ Overview of (major) changes to the website.
 ### 0.9.6 (2020-04-13)
 
 * Changes to blogpost images css
+* Started adding featured images to relevant blogposts
 
 ### 0.9.5 (2020-04-12)
 

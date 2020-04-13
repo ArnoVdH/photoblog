@@ -2,7 +2,7 @@
 title =  "Lessons from the corona-crisis"
 date = 2020-04-12T18:52:21+02:00
 categories = ["personal", "politics"]
-featured_image = ""
+featured_image = "/img/blog/corona-adverts.jpg"
 description = ""
 draft = false
 +++

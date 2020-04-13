@@ -2,7 +2,7 @@
 categories = ["review"]
 date = "2019-10-10T07:37:00+00:00"
 description = ""
-featured_image = ""
+featured_image = "/img/blog/the_lighthouse.jpg"
 title = "Review: The Lighthouse"
 
 +++

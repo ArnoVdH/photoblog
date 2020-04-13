@@ -3,7 +3,7 @@ categories = ["review"]
 date = 2020-03-20T14:15:21Z
 description = ""
 draft = true
-featured_image = ""
+featured_image = "/img/blog/morrowind/balmora.jpg"
 title = "In Praise of Morrowind"
 
 +++
