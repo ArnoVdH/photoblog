@@ -149,6 +149,7 @@ header img:hover {
 .content h6 {
   font-size: 0.7em;
   font-weight: initial;
+  display: block;
   margin-top: 0em;
   margin-bottom: 0em;
   margin-left: 2.5em;

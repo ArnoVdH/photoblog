@@ -28,7 +28,11 @@ Overview of (major) changes to the website.
 * Add info (metadata) about the pictures that show up only when activated
 * Add certain (static) pages to (dropdown?) menu under About
 
-### 0.9.5 (2019-04-12)
+### 0.9.6 (2020-04-13)
+
+* Changes to blogpost images css
+
+### 0.9.5 (2020-04-12)
 
 * Changed footer to copy-left
 
