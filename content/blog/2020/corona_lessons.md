@@ -23,6 +23,7 @@ All the public advertisement panels in my city have been replaced by '#staysafe'
 
 ## Work can be organized differently
 This is most obvious for white-collar workers: it turns out that working from home isn't all that difficult. This and other measures have a huge impact on workers wellbeing: less traffic jams, shorter commute times, consequently less polution, less frustration, beter work-life balance. The infrastructure existed already, it was just being wilfully denied to all lower-tier workers.
+What we've also seen is that workers are perfectly capable of running their own workplaces, oftentimes more socially responsible than the managers and owners. Workers decideding to close the factory because it's non-essential and poses a risk to them, or workers switching production to the fabrication of medical equipment, disinfectant, mouth masks or other much needed goods. These are all small hints that work-place democracy is achievable.
 
 ## Essential workers are under-payed and underfunded
 With lots of workplaces closing and people (temporarily) out of a job, it has become quite clear, not only what jobs are the most essential for our day-to-day lives, but also that these are chronically under appreciated. And it's not just the health care sector that is groaning under the strain - not enough material, beds or staff - but others as well. Most of these are low wage jobs, with difficult hours, low social standing or a lot of job insecurity: the logistics sector, the cashiers and shelf-stockers from the supermarkets, trashmen, package and meal deliverers, public transport personnel and so many more. It took a lot of time for many of them to get the protection they needed to do their job safely, some of the regulations are being flouted by employers, they have to keep working under more stress and more difficult work conditions with little or no extra payment. More risk, no reward.
@@ -45,3 +46,4 @@ Another world is possible. This crisis could teach us how to deal with huge, inv
 \
 \
 Note that additions and changes can be made to this blogpost in the future.
+This post was last updated on april 13.
