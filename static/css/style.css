@@ -151,7 +151,7 @@ header img:hover {
   font-weight: initial;
   margin-top: 0em;
   margin-bottom: 0em;
-  margin-left: auto;
+  margin-left: 2.5em;
   margin-right: auto;
   max-width: 90%;
 }
@@ -197,9 +197,9 @@ header img:hover {
 
 .blogpost img {
   display: block;
-  margin-left: auto;
+  margin-left: 2.5em;
   margin-right: auto;
-  max-width: 90%;
+  max-width: 70%;
 }
 
 /* ===PHOTO BLOG NAVIGATION=== */

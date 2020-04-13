@@ -17,7 +17,7 @@ Despite some not following the guidelines (I'm looking at you, elderly people) -
 ## Advertisement is visual pollution
 All the public advertisement panels in my city have been replaced by '#staysafe' posters. It's still a form of advertisement (for the advert company itself) but born out of necessity and feel-good corporate optimism it forms a stark contrast to the usual panels of models trying to sell you cars, perfume or the newest kitchen appliances at discount rates. They are pleasingly uniform instead of a patchwork bombardement of attention-grabbing images. Just as the (implied) message itself: "we're all in this together, we have one goal, we can do this." It makes clear that these are a form of visual pollution, it saturates our senses, fills our minds with data (I'm loathe to call it 'information') that we never asked for. We could really do without.
 
-<img src="/img/blog/corona-adverts.jpg" width="50%" style="margin-left: Opx; max-width: 90%"/>
+![](/img/blog/corona-adverts.jpg)
 <h6>#staysafe corona adverts at the public transport hub in Ghent</h6>
 
 ## Work can be organized differently
