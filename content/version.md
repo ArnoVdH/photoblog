@@ -7,26 +7,25 @@ title = "Version history"
 type = "static"
 
 +++
-Overview of (major) changes to the website.
+Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### To do
-
-#### Important
-
 * Make images more responsive and lighter (and add lazy loading?)
 * Built shortcode to insert images in photo page from a folder
 * Implement page bundles
 * Adapt header menu to fully use hugo code (make single pages and subpages active)
 * Clean up CSS
 * Add a graphic logo
-
-#### Less important
-
 * List the 'series' chronologically in nav-menu
 * Make page title reference the site as a whole
 * Add favicon
 * Add info (metadata) about the pictures that show up only when activated
 * Add certain (static) pages to (dropdown?) menu under About
+
+### Ideas
+* Implement social networking protocol (Webmention?)
+
+***
 
 ### 0.9.6 (2020-04-13)
 
