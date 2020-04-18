@@ -9,6 +9,7 @@ type = "static"
 +++
 ## Currently reading
 
+* **Are your keys purposely hiding?** - Anne Fonteyn
 * **Dead Interviews** - Dan Crowe
 * **Metro 2033** (Metro 1) - Dmitry Glukhovsky
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
@@ -18,6 +19,7 @@ type = "static"
 
 ### 2020
 
+* **Metro 2033** (Metro 1) - Dmitry Glukhovsky ★★
 * **Taal voor de leuk** - Paulien Cornelisse ★★
 * **The Communist Manifesto** - Karl Marx & Friedrich Engels ★★★★
 * **The Plot Against America** - Philip Roth ★★★★
