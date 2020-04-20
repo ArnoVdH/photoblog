@@ -19,6 +19,7 @@ type = "static"
 
 ### 2020
 
+* **The Hellbound Heart** - Clive Barker ★★★
 * **Metro 2033** (Metro 1) - Dmitry Glukhovsky ★★
 * **Taal voor de leuk** - Paulien Cornelisse ★★
 * **The Communist Manifesto** - Karl Marx & Friedrich Engels ★★★★
