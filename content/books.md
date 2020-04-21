@@ -9,9 +9,9 @@ type = "static"
 +++
 ## Currently reading
 
+* **Red Cavalry** - Isaac Babel
 * **Are your keys purposely hiding?** - Anne Fonteyn
 * **Dead Interviews** - Dan Crowe
-* **Metro 2033** (Metro 1) - Dmitry Glukhovsky
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
