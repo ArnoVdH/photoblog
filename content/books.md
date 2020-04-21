@@ -5,6 +5,7 @@ featured_image = ""
 tags = []
 title = "Book list"
 type = "static"
+menu = "about"
 
 +++
 ## Currently reading

@@ -5,6 +5,7 @@ featured_image = ""
 tags = []
 title = "Games"
 type = "static"
+menu = "about"
 
 +++
 ## Roleplaying Games

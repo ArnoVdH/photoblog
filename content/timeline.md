@@ -5,6 +5,7 @@ featured_image = ""
 tags = []
 title = "Timeline"
 type = "static"
+menu = "about"
 
 +++
 For a professional curriculum vitae, click [here](/files/curriculum.pdf).

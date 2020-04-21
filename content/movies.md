@@ -5,6 +5,7 @@ featured_image = ""
 tags = []
 title = "Movie list"
 type = "static"
+menu = "about"
 
 +++
 A list of good movies in chronological order.
