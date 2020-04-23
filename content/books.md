@@ -12,7 +12,6 @@ menu = "about"
 
 * **Red Cavalry** - Isaac Babel
 * **Are your keys purposely hiding?** - Anne Fonteyn
-* **Dead Interviews** - Dan Crowe
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
@@ -20,6 +19,7 @@ menu = "about"
 
 ### 2020
 
+* **Dead Interviews** - Dan Crowe ★★★
 * **The Hellbound Heart** - Clive Barker ★★★
 * **Metro 2033** (Metro 1) - Dmitry Glukhovsky ★★
 * **Taal voor de leuk** - Paulien Cornelisse ★★
