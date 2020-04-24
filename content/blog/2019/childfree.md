@@ -98,7 +98,7 @@ In contrast to antinatalist thinkers (like David Benatar), I think that life as 
 
 One of the takeaways here should be that, since it's not possible to judge the value of life a priori or as a bystander, it's up to the individual them self, and thus, an argument in favor of total self determination.
 
-Since it's impossible to evaluate the worth of a life before it exists, the decision should be a weighing of all other aspects by the prospective parent(s) and there is no way of implementing the future life of the person as a factor. Are the conditions suitable, are they prepared to take on the responsibility, are their intentions good,...? There are always elements of a wager inherent in this choice,
+Since it's impossible to evaluate the worth of a life before it exists, the decision should be a weighing of all other aspects by the prospective parent(s) and there is no way of implementing the future life of the person as a factor. Are the conditions suitable, are they prepared to take on the responsibility, are their intentions good,...? There are some elements of a wager inherent in this choice.
 
 ### Is having children always bad?
 
