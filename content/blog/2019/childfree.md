@@ -86,7 +86,7 @@ And worst case scenario: what if there's something wrong with the child? Even wh
 
 ### Ecological
 
-Most argument against children, I think, are dependent on one's own valuation of certain experiences or outlook in life. They're subjective. But the ecological arguments go beyond those and have harder, more weighty moral value. While not conclusive, they are something that everyone should be aware and take account of.
+Most arguments against children, I think, are dependent on one's own valuation of certain experiences or outlook in life. They're subjective. But the ecological arguments go beyond those and have harder, more weighty moral value. While not conclusive, they are something that everyone should be aware and take account of.
 
 The idea boils down to this: a child, any child, is an extra human being that consumes and pollutes. Especially in the West, where we have a carbon footprint multiple times larger than those in the developing world. So every extra person is an extra burden on our planetary carbon capacity. When talking about overpopulation, this is the point, not food production. Overpopulation isn't a Malthusian problem, it's a pollution problem. And one that's, rather counter-intuitively, more important in the developed first world.
 
