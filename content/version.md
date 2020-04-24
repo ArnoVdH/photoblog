@@ -71,7 +71,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### Earlier versions
 
-Read \[this blogpost\]({{< ref "/blog/2019/building_a_website.md" >}}) on how I started building this website.
+Read [this blogpost](/blog/2019/building_a_website.md) on how I started building this website.
 
 * Built a basic website with hugo, html & css
 * One part is the photography portfolio
