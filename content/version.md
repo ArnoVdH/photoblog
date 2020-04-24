@@ -27,6 +27,10 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 
+### 0.9.7 (2020-04-24)
+* Changed baseURL to https://arno.netlify.app/ after Netlify decided to migrate
+* Added about-menu data to certain static pages in anticipation of implementation of drop-down About menu
+
 ### 0.9.6 (2020-04-13)
 
 * Changes to blogpost images css

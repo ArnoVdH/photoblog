@@ -1,4 +1,4 @@
-baseURL = "https://arno.netlify.com/"
+baseURL = "https://arno.netlify.app/"
 languageCode = "en-us"
 title = "Arno Van den Hende - Photosopher"
 paginate = 10
