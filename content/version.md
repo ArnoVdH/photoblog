@@ -27,6 +27,10 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 
+### 0.9.8 (2020-04-25)
+* Changed link page name to ':filename' instead of ':slug' for better URL management.
+* Removed ':month' from permalink configuration
+
 ### 0.9.7 (2020-04-24)
 * Changed baseURL to https://arno.netlify.app/ after Netlify decided to migrate
 * Added about-menu data to certain static pages in anticipation of implementation of drop-down About menu
@@ -71,7 +75,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### Earlier versions
 
-Read [this blogpost](/blog/2019/09/building_a_website.md) on how I started building this website.
+Read [this blogpost]({{< ref "/blog/2019/building_a_website.md" >}}) on how I started building this website.
 
 * Built a basic website with hugo, html & css
 * One part is the photography portfolio

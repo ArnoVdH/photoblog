@@ -23,9 +23,9 @@ paginate = 10
   #  weight = 3
 
 [permalinks]
-    blog = "/:section/:year/:month/:slug/"
+    blog = "/:section/:year/:filename/"
     page = "/:slug/"
-    photo = "/:section/:year/:month/:slug/"
+    photo = "/:section/:year/:filename/"
 
 [taxonomies]
     category = "categories"
