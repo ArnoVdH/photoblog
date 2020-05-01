@@ -19,6 +19,8 @@ Intro
 
 ## Design
 
+## Lore and prophecy
+
 ## Playing in 2020
 More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave]https://youtu.be/iR-K2rUP86M)!
 
