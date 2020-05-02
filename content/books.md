@@ -10,7 +10,8 @@ menu = "about"
 +++
 ## Currently reading
 
-* **Red Cavalry** - Isaac Babel
+* **Seven Brief Lessons on Physics** - Carlo Rovelli
+* **Failed It!** - Erik Kessels
 * **Are your keys purposely hiding?** - Anne Fonteyn
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
@@ -19,6 +20,7 @@ menu = "about"
 
 ### 2020
 
+* **Red Cavalry** - Isaac Babel ★★★
 * **Dead Interviews** - Dan Crowe ★★★
 * **The Hellbound Heart** - Clive Barker ★★★
 * **Metro 2033** (Metro 1) - Dmitry Glukhovsky ★★
