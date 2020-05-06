@@ -43,14 +43,14 @@ menu = "about"
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2 ★★★
 * **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx ★★★★
 * **Hard To Be a God** - Arkady & Boris Strugatsky ★★★
-* **Het verdorven genootschap: de vergeten radicalen van de Verlichting** - Philipp Blom ★★★
+* **Het verdorven genootschap** - Philipp Blom ★★★
 * **The Drowning Girl** - Caitlín R. Kiernan ★★★★
 * **The Labyrinth Index** (Laundry Files 9) - Charles Stross ★★★
 * **The Delirium Brief** (Laundry Files 8) - Charles Stross ★★★★
-* **Kill All Normies: online culture wars from 4chan and Tumblr to Trump and the alt-right** - Angela Nagle ★★★
+* **Kill All Normies** - Angela Nagle ★★★
 * **Perdido Street Station** - China Miéville ★★
 * **The Left Hand of Darkness** - Ursula K. Le Guin ★★★★
-* **Hitler's Monsters: a supernatural history of the Third Reich** - Eric Kurlander ★★★★
+* **Hitler's Monsters** - Eric Kurlander ★★★★
 * **Monday Starts on Saturday** - Arkady & Boris Strugatsky ★★★★
 * **Ten Days that Shook the World** - John Reed ★★★★
 * **Failure of a Revolution: Germany 1918-1919** - Sebastian Haffner ★★★★★
@@ -71,11 +71,11 @@ menu = "about"
 
 ### 2017
 
-* **What If?: serious scientific answers to absurd hypothetical questions** - Randall Munroe ★★★
+* **What If?** - Randall Munroe ★★★
 * **Three Moments of an Explosion** - China Miéville ★★★
 * **The City & The City** - China Miéville ★★★★
-* **From Here to Eternity: Traveling the world to find the good death** - Caitlin Doughty ★★
-* **The Code Book: the science of secrecy from ancient Egypt to quantum cryptography** - Simon Singh ★★★★
+* **From Here to Eternity** - Caitlin Doughty ★★
+* **The Code Book** - Simon Singh ★★★★
 * **34 zeer korte verhalen en een vogelkat** - Evelio Rosero ★★★
 * **Duna Messiah** (Dune 2) - Frank Herbert ★★
 * **The Blind Owl** - Sadegh Hedayat ★★★
