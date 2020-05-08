@@ -11,6 +11,8 @@ menu = "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf).
 
 ## 2020
+
+* Adopted two cats: Rops & Alma
 * Citytrip to Amsterdam got canceled due to the global coronavirus pandemic
 
 ## 2019
