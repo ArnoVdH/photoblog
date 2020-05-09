@@ -87,3 +87,34 @@ menu = "about"
 * **John Dies at the End** - David Wong ★★
 * **Snow Crash** - Neal Stephenson ★★★
 * **Dune** (Dune 1) - Frank Herbert ★★★
+
+### 2016
+
+* **The Encyclopedia of the Dead** - Danilo Kiš ★★★★★
+* **Why Orwell Matters** - Christopher Hitchens ★★★
+* **Acceptance** (Southern Reach 3) - Jeff VanderMeer ★★★
+* **Children of Lovecraft** - Ellen Datlow (editor) ★★★
+* **Roadside Picnic** - Arkady & Boris Strugatsky ★★★★★
+* **The Beautiful Thing That Awaits Us All** - Laird Barron ★★
+* **Inferno** - August Strindberg ★★★
+* **Why I Write** - George Orwell ★★★★
+* **Toverijen** - Michel de Ghelderode ★★★★
+* **A Natural History of Hell** - Jeffrey Ford ★★★★
+* **Homage to Catalonia** - George Orwell ★★★★★
+* **The Nightmare Stacks** (Laundry Files 7) - Charles Stross ★★★
+* **Fool Moon** (Dresden Files 2) - Jim Butcher ★★
+* **Storm Front** (Dresden Files 1) - Jim Butcher ★★
+* **A Short History of Decay** - Emil Cioran ★★★★
+* **Authority** (Southern Reach 2) - Jeff VanderMeer ★★★
+* **Fundering voor de metafysica van de zeden** - Immanuel Kant ★★★★★
+* **In the Dust of This Planet** - Eugene Thacker ★★★★
+* **The Dark Forest** (Three-Body Problem 2) - Cixin Liu ★★★★
+* **The Three-Body Problem (Three-Body Problem 1) - Cixin Liu ★★★
+* **Red Plenty** - Francis Spufford ★★★★
+* **Missile Gap** - Charles Stross ★★★
+* **Annihilation** (Southern Reach 1) - Jeff VanderMeer ★★★★★
+* **The Annihilation Score** (Laundry Files 6) - Charles Stross ★★★
+* **The Rhesus Chart** (Laundry Files 5) - Charles Stross ★★★
+* **The Apocalypse Codex** (Laundry Files 4) - Charles Stross ★★★★
+* **The Fuller Memorandum** (Laundry Files 3) - Charles Stross ★★★★
+* **The Jennifer Morgue** (Laundry Files 2) - Charles Stross ★★★
