@@ -109,7 +109,7 @@ menu = "about"
 * **Fundering voor de metafysica van de zeden** - Immanuel Kant ★★★★★
 * **In the Dust of This Planet** - Eugene Thacker ★★★★
 * **The Dark Forest** (Three-Body Problem 2) - Cixin Liu ★★★★
-* **The Three-Body Problem (Three-Body Problem 1) - Cixin Liu ★★★
+* **The Three-Body Problem** (Three-Body Problem 1) - Cixin Liu ★★★
 * **Red Plenty** - Francis Spufford ★★★★
 * **Missile Gap** - Charles Stross ★★★
 * **Annihilation** (Southern Reach 1) - Jeff VanderMeer ★★★★★
