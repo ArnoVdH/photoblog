@@ -11,7 +11,6 @@ menu = "about"
 ## Currently reading
 
 * **The Plague** - Albert Camus
-* **Failed It!** - Erik Kessels
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
@@ -19,6 +18,7 @@ menu = "about"
 
 ### 2020
 
+* **Failed It!** - Erik Kessels ★★
 * **Are your keys purposely hiding?** - Anne Fonteyn ★★★★
 * **Seven Brief Lessons on Physics** - Carlo Rovelli ★★★
 * **Red Cavalry** - Isaac Babel ★★★
