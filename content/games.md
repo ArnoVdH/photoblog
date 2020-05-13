@@ -63,3 +63,4 @@ A selection of great games...
 * Uplink
 * Kerbal Space Program
 * Mount & Blade
+* Disco Elysium
