@@ -40,10 +40,15 @@ As more than half a million people wind up on temporary unemployment benefits in
 ## The United States is fucked (up)
 The numbers speak for themselves. They have surpassed all other heavy hit countries in number of cases and deaths. The unemployment has spiked and millions of people are consequently losing their (private) health insurance. This, more than anything, reveals the huge flaws of the American health care system. Monitzing human life and scamming people out of their hard-earned money and into debt. This will be a heavy blow to the US global hegemony, but I'm unsure if their current course can be changed in the short term. 
 
+## It's the ideal time to re-read Camus' The Plague
+The collective experience.
+The hopeless perseverance.
+Living without a (certain) future.
+
 ## What should we remember from all of this?
 Another world is possible. This crisis could teach us how to deal with huge, invisible dangers as a collective. I'm of course hinting at the issue of climate catastrophy. I think that changes of the same *magnitude* are te be expected, but not the same *kind*. That is: the collective effort will be just as difficult and the necessary societal solidarity needs to be just as high. The difference that we won't need social distancing for that.
 
 \
 \
 Note that additions and changes can be made to this blogpost in the future.
-This post was last updated on april 13.
+This post was last updated on may 17.
