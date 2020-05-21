@@ -10,6 +10,7 @@ menu = "about"
 +++
 ## Currently reading
 
+* **De meeste mensen deugen** - Rutger Bregman
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
 * **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
