@@ -12,14 +12,11 @@ menu = "about"
 
 * **China: A History** - John Keay
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey
-* **Python Crash Course: a hands-on, project-based introduction to programming** - Eric Matthes
 
 ## Read
-
 ### 2020
-
-* **Pandemic!** - Slavoj Žižek ★★★★
-* **Agents of Dreamland** - Caitlín R. Kiernan ★★★★
+* **Pandemic!** - Slavoj Žižek ★★★
+* **Agents of Dreamland** - Caitlín R. Kiernan ★★★
 * **We Have Always Lived in the Castle** - Shirley Jackson ★★★
 * **De meeste mensen deugen** - Rutger Bregman ★★★
 * **The Plague** - Albert Camus ★★★★★
@@ -41,7 +38,6 @@ menu = "about"
 * **Will My Cat Eat My Eyeballs?** - Caitlin Doughty ★★★
 
 ### 2019
-
 * **Lenin on the Train** -  Catherine Merridale ★★★
 * **The Principles of Communism** - Friedrich Engels ★★★
 * **The Whisperer in Darkness** - H.P. Lovecraft ★★★
@@ -61,7 +57,6 @@ menu = "about"
 * **Failure of a Revolution: Germany 1918-1919** - Sebastian Haffner ★★★★★
 
 ### 2018
-
 * **Hedendaagse antiverlichting** - Ico Maly ★★★★
 * **The Aztecs: A Very Short Introduction** - David Carrasco ★★
 * **Baltimore, or, The Steadfast Tin Soldier and the Vampire** - Mike Mignola ★★★
@@ -75,7 +70,6 @@ menu = "about"
 * **Exquisite Corpse** - Poppy Z. Brite ★
 
 ### 2017
-
 * **What If?** - Randall Munroe ★★★
 * **Three Moments of an Explosion** - China Miéville ★★★
 * **The City & The City** - China Miéville ★★★★
@@ -94,7 +88,6 @@ menu = "about"
 * **Dune** (Dune 1) - Frank Herbert ★★★
 
 ### 2016
-
 * **The Encyclopedia of the Dead** - Danilo Kiš ★★★★★
 * **Why Orwell Matters** - Christopher Hitchens ★★★
 * **Acceptance** (Southern Reach 3) - Jeff VanderMeer ★★★
