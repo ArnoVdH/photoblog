@@ -19,6 +19,9 @@ Other books like this.
 
 Nuanced arguments. Mixes history, psychology and philosophy. Especially the big classical psychological cases that are still central in a lot of narratives such as the stanford prison experiment, the milgram experiment and the kitty genevese case.
 
+![](/img/blog/humankind.jpg)
+<h6><i>The Ideal City</i> of Urbino, unknown painter, ca. 15th century</h6>
+
 Hopeful message.
 
 Writing style. Didn't like it, would've liked it to be more rigurous but that would diminish its reach. I'd say it doesn't stand in the way of the value of this book.
