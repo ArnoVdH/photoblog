@@ -3,7 +3,7 @@ date = 2019-09-01T08:00:00Z
 description = ""
 featured_image = ""
 tags = []
-title = "Book list"
+title = "Books"
 type = "static"
 menu = "about"
 

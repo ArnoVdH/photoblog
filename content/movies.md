@@ -3,7 +3,7 @@ date = 2020-01-16T21:05:00Z
 description = ""
 featured_image = ""
 tags = []
-title = "Movie list"
+title = "Movies"
 type = "static"
 menu = "about"
 
