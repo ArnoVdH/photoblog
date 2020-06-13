@@ -11,10 +11,10 @@ menu = "about"
 ## Currently reading
 
 * **China: A History** - John Keay
-* **Marx, Capital and the Madness of Economic Reason** - David Harvey
 
 ## Read
 ### 2020
+* **Marx, Capital and the Madness of Economic Reason** - David Harvey ★★★★
 * **Pandemic!** - Slavoj Žižek ★★★
 * **Agents of Dreamland** - Caitlín R. Kiernan ★★★
 * **We Have Always Lived in the Castle** - Shirley Jackson ★★★
