@@ -9,7 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
-
+* **Gideon the Ninth** - Tamsyn Muir
 * **China: A History** - John Keay
 
 ## Read
