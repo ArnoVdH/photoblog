@@ -15,7 +15,7 @@ During a few years I was a member, I did the visual side of operations, designin
 ![](/img/blog/TzalPosters/1_Raes.jpg)
 One of the very first posters I made for the memorial lecture for Koen Raes, political philosopher from Ghent University. This was my own adaption from our previous visual identity.
 
-![](/img/blog/TzalPosters/1_Openingsdebat2011.jpg)
+![](/img/blog/TzalPosters/2_Openingsdebat2011.jpg)
 Poster for our opening debate of 2011.
 
 ![](/img/blog/TzalPosters/3_Gescinska.jpg)
