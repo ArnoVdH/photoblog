@@ -157,6 +157,10 @@ header img:hover {
   color: #83878C;
 }
 
+.content h6 i {
+  color: #83878C;
+}
+
 .content p {
   margin-top: 0.5em;
 }
