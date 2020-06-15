@@ -27,6 +27,8 @@ Not an easy one. And absolutely not complete. I am no high-tech wizzkid, no priv
 
 ## Social networking
 
+Webmention???
+
 ## Maps & route planning
 
 ## Cloud storage
