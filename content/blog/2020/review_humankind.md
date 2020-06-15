@@ -6,7 +6,7 @@ featured_image = "/img/blog/humankind.jpg"
 title = "Review: Humankind"
 
 +++
-Humankind is a best-seller in the Netherlands and Flanders, where it's called 'De meeste mensen deugen' (literally *most people are good*), written by [Rutger Bregman](https://nl.wikipedia.org/wiki/Rutger_Bregman). It's quite voluminous and claims to justify a radically different image of humanity. It has been hailed as a masterpiece of optimism in the press and quite a few people in my *milieu* have praised it too. This made me somewhat sceptical about it, analogous to Sapiens by Harari (which I found to be horribly superficial and totally devoid of anything interesting). Unjustified, so it turned out. I was positively surprised by the book. It's a flame, a flicker in these dark times that we, that society can be bettered.
+Humankind is a best-seller in the Netherlands and Flanders, where it's called 'De meeste mensen deugen' (literally *most people are good*), written by [Rutger Bregman](https://nl.wikipedia.org/wiki/Rutger_Bregman). It's quite voluminous and claims to justify a radically different image of humanity. It has been hailed as a masterpiece of optimism in the press and quite a few people in my *milieu* have praised it too. This made me somewhat sceptical about it, analogous to Sapiens by Harari (which I found to be horribly superficial and totally devoid of anything interesting). Unjustified, so it turned out. I was positively surprised by the book. It's a flame, a flicker in these dark times that we, a hope that society can be bettered.
 
 <!--more-->
 
