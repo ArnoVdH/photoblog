@@ -7,11 +7,28 @@ description = ""
 draft = true
 +++
 
+Looking for alternatives for the big corporations.
 
+My personal journey.
+
+Not an easy one. And absolutely not complete. I am no high-tech wizzkid, no privacy saint, nor a recluse.
 
 <!--more-->
 
-Resources, CO2 emissions from websites
-Countered by low-tech solutions: static pages, no trackers etc, default fonts, lightweight images (haven't done that one yet)
-https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website
+## E-mail
 
+## Calendar
+
+## Chat & messaging
+
+## Search page
+
+## News
+
+## Social networking
+
+## Maps & route planning
+
+## Cloud storage
+
+## Operating systems
