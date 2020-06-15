@@ -6,7 +6,7 @@ featured_image = "/img/blog/humankind.jpg"
 title = "Review: Humankind"
 
 +++
-Humankind is a best-seller in the Netherlands and Flanders, where it's called 'De meeste mensen deugen' (literally *most people are good*), written by [Rutger Bregman](https://nl.wikipedia.org/wiki/Rutger_Bregman). It's quite voluminous and claims to justify a radically different image of humanity. It has been hailed as a masterpiece of optimism in the press and quite a few people in my *milieu* have praised it too. This made me somewhat sceptical about it, analogous to Sapiens by Harari (which I found to be horribly superficial and totally devoid of anything interesting). Unjustified, so it turned out. I was positively surprised by the book. It's a flame, a flicker in these dark times that we, a hope that society can be bettered.
+Humankind is a best-seller in the Netherlands and Flanders, where it's called 'De meeste mensen deugen' (literally *most people are good*), written by [Rutger Bregman](https://nl.wikipedia.org/wiki/Rutger_Bregman). It's quite voluminous and claims to justify a radically different image of humanity. It has been hailed as a masterpiece of optimism in the press and quite a few people in my *milieu* have praised it too. This made me somewhat sceptical about it, analogous to Sapiens by Harari (which I frankly hated). Unjustified, so it turned out. I was positively surprised by the book. It's a flame, a flicker in these dark times that we, a hope that society can be bettered.
 
 <!--more-->
 
@@ -15,7 +15,7 @@ Bregman is a Dutch historian and journalist. He writes for [De Correspondent](ht
 ![](/img/blog/bregman.jpg)
 <h6>Rutger Bregman by Belgian photographer Stephan Vanfleteren</h6>
 
-This is a book that fits within the wider phenomenon of all encompassing *explanations* (for lack of a better word) of humanity, both in a historical as a existential sense. That is to say: they try to grapple with some of the large questions in life. Who and what are we, where do we come from as a being and society and what can it tells us about our future? Another well known book in this genre is Sapiens by Yuval Noah Harari; which I also read this year, but found profoundly lacking. Humankind is Bregman's try at the big question of human nature.
+This is a book that fits within the wider phenomenon of all encompassing *explanations* (for lack of a better word) of humanity, both in a historical as a existential sense. That is to say: they try to grapple with some of the large questions in life. Who and what are we, where do we come from as a being and society and what can it tells us about our future? Another well known book in this genre is Sapiens by Yuval Noah Harari; which I also read this year, but found profoundly lacking, superficial and devoid of anything interesting. Humankind is Bregman's try at the big question of human nature.
 
 What bothered me from the beginning on was his writing style. I would have liked for it to be more rigorous and dry. Some of the analogies and anecdotes are superficial and his characterization of his 'good man' as *homo puppy* comes across as childish. Bregman obviously tries to reach a broad as possible public and it probably works, but because of this it exists in between different registers.
 
