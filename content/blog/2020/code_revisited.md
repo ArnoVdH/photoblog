@@ -41,8 +41,8 @@ https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
 ### Lazy lazy-loading
 Lazy-loading comes built-in with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
 
-I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html) blog's code as a render hook to force all `<img>` tags to have the `loading=lazy` attribute.
-https://web.dev/native-lazy-loading/
+I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html) blog's code as a render hook to force all `<img>` tags to have the `loading=lazy` attribute. This works on local server but not on deployed version. Why?
+https://web.dev/native-lazy-loading/ 
 
 ### Dropdown menu's
 I have a few pages that I like to share and that fit under my about page, so I wanted to include a drop-down menu for this. This meant harnassing the possibilities of the hugo menu templates and some messing about with css.
