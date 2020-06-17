@@ -27,9 +27,9 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 ### 0.9.9 (2020-06-17)
-* Added a render hook to make images lazy-loading. Code taken from [here](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html).
+* Added a render hook to make images lazy-loading. Code taken from [here](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html)
 * Added shortcodes folder
-* Made a leaf bundle for a photoblog post
+* added a _markup folder
 
 ### 0.9.8 (2020-04-25)
 * Changed link page name to ':filename' instead of ':slug' for better URL management.

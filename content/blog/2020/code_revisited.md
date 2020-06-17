@@ -14,13 +14,13 @@ There are still some things I want to fix and implement on this website, while a
 <!--more-->
 
 ## Things I'd like to achieve with these updates
-* Introduce lazyloading and responsive images to make the photography pages *a lot* faster to load :x:
-* Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more :x:
-* Re-style blogpost images to be more consistent :x:
-* Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo 
-* Look into web feed functionality :x:
-* Rewrite 'About' page :x:
-* Reach a state that I could describe as being fully functional (version 1.0) :x:
+* Introduce lazyloading and responsive images to make the photography pages *a lot* faster to load ✔
+* Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more ✘
+* Re-style blogpost images to be more consistent ✘
+* Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo ✘
+* Look into web feed functionality ✘
+* Rewrite 'About' page ✘
+* Reach a state that I could describe as being fully functional (version 1.0) ✘
 
 All changes will also be documented on the [approriate page](/version)
 
