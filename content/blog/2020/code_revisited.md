@@ -14,11 +14,12 @@ There are still some things I want to fix and implement on this website, while a
 <!--more-->
 
 ## Things I'd like to achieve with these updates
-* introduce lazyloading and responsive images to make the photography pages *a lot* faster to load
-* add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more
-* re-style blogpost images to be more consistent
-* built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo
+* Introduce lazyloading and responsive images to make the photography pages *a lot* faster to load
+* Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more
+* Re-style blogpost images to be more consistent
+* Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo
 * Look into web feed functionality
+* Rewrite 'About' page
 * Reach a state that I could describe as being fully functional (version 1.0)
 
 All changes will also be documented on the [approriate page](/version)
@@ -33,6 +34,7 @@ https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website
 https://gohugo.io/content-management/page-bundles/
 https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/
 https://www.ii.com/hugo-bundles/
+https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
 
 ### Responsive images
 
