@@ -14,13 +14,13 @@ There are still some things I want to fix and implement on this website, while a
 <!--more-->
 
 ## Things I'd like to achieve with these updates
-* Introduce lazyloading and responsive images to make the photography pages *a lot* faster to load
-* Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more
-* Re-style blogpost images to be more consistent
-* Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo
-* Look into web feed functionality
-* Rewrite 'About' page
-* Reach a state that I could describe as being fully functional (version 1.0)
+* Introduce lazyloading and responsive images to make the photography pages *a lot* faster to load :x:
+* Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more :x:
+* Re-style blogpost images to be more consistent :x:
+* Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo 
+* Look into web feed functionality :x:
+* Rewrite 'About' page :x:
+* Reach a state that I could describe as being fully functional (version 1.0) :x:
 
 All changes will also be documented on the [approriate page](/version)
 
@@ -40,7 +40,8 @@ https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
 
 ### Lazy lazy-loading
 Lazy-loading comes built-in with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
-https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html
+
+I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html) blog's code as a render hook to force all `<img>` tags to have the `loading=lazy` attribute.
 https://web.dev/native-lazy-loading/
 
 ### Dropdown menu's
