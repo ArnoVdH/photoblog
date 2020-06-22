@@ -1,5 +1,5 @@
 +++
-title =  "Web_alternatives"
+title =  "Web Alternatives"
 date = 2020-06-14T10:44:34+02:00
 categories = []
 featured_image = ""
@@ -29,6 +29,8 @@ The biggest hurdle in switching e-mail addresses is changing all your accounts t
 
 ## Calendar
 **Status: done ✔**
+
+The actual calendar was easy: it came with a posteo account (together with an adress book). Easy enough to use on my desktop. The problem was setting it up to sync with an app on my smartphone, so I could use it as my planner. This required quite a bit of trial and error and fiddling. In the end I used aCalendar+ as the calendar app itself and DAVx<sup>5</sup> to make synching with CalDAV possible.
 
 ## Chat & messaging
 **Status: done ✔**
