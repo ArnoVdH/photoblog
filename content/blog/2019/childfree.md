@@ -105,3 +105,5 @@ Since it's impossible to evaluate the worth of a life before it exists, the deci
 All this is not to say that I'm against having children per se. I think that it's certainly possible to justify having them and in the end it's a personal choice, there's no imperative to have or forgo having children. But the argumentative burden does rest on those wanting children, and not the other way around, as it is now.
 
 Christine Overall, in her 2012 work "Why Have Children?", analyzes the more common arguments for having children and dismisses most of them. She does argue for the active choice to have someone new to be part of your life, with all that this entails. A total commitment and choice to generate a new relationship, specifically the parent-child relationship.
+
+> **Update june 2020:** I was interviewed by some students in journalism about my choice. You can read, listen and watch [here](https://readymag.com/ahsjournalistiek/bewustkinderloos/) (in Dutch).
