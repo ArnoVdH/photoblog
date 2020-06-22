@@ -1,5 +1,5 @@
 +++
-title =  "The code revisited"
+title =  "The Code Revisited"
 date = 2020-06-15T10:44:34+02:00
 categories = ["hugo"]
 featured_image = ""
