@@ -10,27 +10,47 @@ draft = true
 Looking for alternatives for the big corporations.
 
 My personal journey.
+Sad by design (book)?
 
 Not an easy one. And absolutely not complete. I am no high-tech wizzkid, no privacy saint, nor a recluse.
 
 <!--more-->
 
+A quick word on self-hosting: in quite a few of the cases below, self-hosting would be a great option, especially if you're tech-savvy enough and have a higher risk profile. I'm neither, so I choose other options.
+
 ## E-mail
+**Status: done ✔**
+
+This was actually pretty easy to do. One of the reasons, I guess, is that, for one thing, e-mail has a long established history pre-dating the internet giants. There are quite a few privacy oriented possibilities available.
+
+I opted to use [posteo](https://posteo.de/en), a German e-mail provider with quite a comprehensive privacy policy and transparent communication and a very fair pricing policy (1 euro per month). I think that paying for such a service is worth it; this way I don't get served advertisements and the provider will have less incentive to sell-out and compromise my data. Posteo uses green energy to run their services and offer multiple security measures such as encryption, 2FA (two-factor authentication) and anonymous payment options.
+
+The biggest hurdle in switching e-mail addresses is changing all your accounts to use your new address. This takes some time but I would encourage you to make use of this moment to start using a **[password manager](https://en.wikipedia.org/wiki/Password_manager)** for added security and easy account management. I myself use [Bitwarden](https://bitwarden.com/).
 
 ## Calendar
+**Status: done ✔**
 
 ## Chat & messaging
+**Status: done ✔**
 
 ## Search page
+**Status: done ✔**
 
-## News
+## News & Feed
+**Status: in progress**
+
+Reclaim your webfeed?
 
 ## Social networking
+**Status: to do ✘**
 
 Webmention???
 
 ## Maps & route planning
+**Status: to do ✘**
 
 ## Cloud storage
+**Status: to do ✘**
 
 ## Operating systems
+**Status: to do ✘**
