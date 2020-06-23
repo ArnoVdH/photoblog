@@ -5,7 +5,7 @@ tags = ["film", "portrait", "medium-format"]
 series = []
 featured_image = "/img/2018/Karavaanserail/Karavaanserail-3.jpg"
 description = ""
-draft = false
+draft = true
 +++
 
 ![](/img/2018/Karavaanserail/Karavaanserail-1.jpg)

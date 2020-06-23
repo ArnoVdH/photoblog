@@ -5,7 +5,7 @@ tags = ["film", "travel", "35mm"]
 series = ["Prague"]
 featured_image = "/img/2018/PragueColor/PragueColor-04.jpg"
 description = ""
-draft = false
+draft = true
 +++
 
 ![](/img/2018/PragueColor/PragueColor-01.jpg)

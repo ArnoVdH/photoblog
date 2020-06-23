@@ -5,7 +5,7 @@ tags = ["film", "France", "travel", "black and white", "35mm"]
 series = []
 featured_image = "/img/2017/RoadtripFranceBnW/RoadtripFranceBnW-2.jpg"
 description = ""
-draft = false
+draft = true
 +++
 
 ![](/img/2017/RoadtripFranceBnW/RoadtripFranceBnW-1.jpg)

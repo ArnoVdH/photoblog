@@ -5,7 +5,7 @@ tags = ["digital", "cyanotype", "portrait"]
 series = ["Cyanotypes"]
 featured_image = "/img/2017/CyanoPortraits/CyanoPortrait-6.jpg"
 description = ""
-draft = false
+draft = true
 +++
 
 ![](/img/2017/CyanoPortraits/CyanoPortrait-1.jpg)

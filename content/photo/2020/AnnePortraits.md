@@ -5,7 +5,7 @@ tags = ["portrait", "digital", "Canon 70D"]
 series = []
 featured_image = "/img/2020/Anne1/anne-2.jpg"
 description = ""
-draft = false
+draft = true
 +++
 
 ![](/img/2020/Anne1/anne-1.jpg)

@@ -5,7 +5,7 @@ tags = ["film", "Leica M2"]
 series = []
 featured_image = "/img/2019/parijs-1.jpg"
 description = ""
-draft = false
+draft = true
 +++
 
 ![](/img/2019/parijs-1.jpg)
