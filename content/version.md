@@ -26,6 +26,9 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 * Implement social networking protocol (Webmention?)
 
 ***
+### 0.9.10 (2020-06-23)
+* Changed baseURL to https://arnovdh.be/ to keep the blog's URL constant
+
 ### 0.9.9 (2020-06-17)
 * Added a render hook to make images lazy-loading. Code taken from [here](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html)
 * Added shortcodes folder
