@@ -8,4 +8,4 @@ description = ""
 draft = false
 +++
 
-![](/img/2016andBefore/Typeslugs.jpg)
+{{< photopost >}}

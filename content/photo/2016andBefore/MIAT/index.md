@@ -8,8 +8,4 @@ description = ""
 draft = false
 +++
 
-![](/img/2016andBefore/MiatMachines/MiatMachines1.jpg)
-
-![](/img/2016andBefore/MiatMachines/MiatMachines2.jpg)
-
-![](/img/2016andBefore/MiatMachines/MiatMachines3.jpg)
+{{< photopost >}}
