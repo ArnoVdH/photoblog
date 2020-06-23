@@ -27,7 +27,8 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 * Added shortcodes folder
 * Made a photopost.html shortcode to range over images in page bundles to make photoposts easier. 
 * Built page-bundles to render the photoblog, using the shortcode mentioned above.
-* Removed all single photoblog pages 
+* Removed all single photoblog pages
+* Compressed all photoblog images an additional ±45% in size
 
 ### 0.9.9 (2020-06-17)
 * Added a render hook to make images lazy-loading. Code taken from [here](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html)

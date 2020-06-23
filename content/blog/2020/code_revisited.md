@@ -27,9 +27,7 @@ There are still some things I want to fix and implement on this website, while a
 All changes will also be documented on the [approriate page](/version)
 
 ## The idea of light-weight, sustainable webdesign
-Some time ago I stumbled upon [this article](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website) from low-tech magazine about why and how to built 'low-tech' (probably more correctly called 'light-weight') websites.
-
-
+Some time ago I stumbled upon [this article](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website) from Low-tech Magazine about why and how to built 'low-tech' (probably more correctly called 'light-weight') websites.
 
 Internet usage consumes a lot of energy and thus produces quite a lot of CO2 emissions. - Resources, CO2 emissions from websites
 Countered by low-tech solutions: static pages, no trackers etc, default fonts, lightweight images (haven't done that one yet)
@@ -60,7 +58,7 @@ I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-
 ### Image quality
 I usually resize my images to 1200 pixels on the long side. This is, in my opinion, a good size to show off the picture. But what about file-size? As a sample: compressing a 1200 by 800 jpeg image with 100, 80 and 50 quality settings (in Adobe Lightroom) gives me files of 592 kB, 300 kB and 157 kB respectively. Lowering the image quality (which is the same as a higher level of jpeg compression) even a little can reduce file size significantly while having almost no visible impact. This is why I compress at least to 80 in Lightroom. From that point on, the impact can vary wildly depending on the image.
 
-For good measure I passed all my photographs through another stage of compression to shave off an additional 45%, give or take.
+For good measure I passed all my photographs through another stage of compression to shave off an additional 45%, give or take. This halved the load of the home page!
 
 ### Responsive images
 Imma skip this for now
