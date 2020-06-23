@@ -10,9 +10,6 @@ type = "static"
 Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### To do
-* Make images more responsive and lighter (and add lazy loading?)
-* Built shortcode to insert images in photo page from a folder
-* Implement page bundles
 * Adapt header menu to fully use hugo code (make single pages and subpages active)
 * Clean up CSS
 * Add a graphic logo
@@ -24,6 +21,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### Ideas
 * Implement social networking protocol (Webmention?)
+* Implement RSS
 
 ***
 ### 0.9.10 (2020-06-23)
