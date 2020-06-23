@@ -17,7 +17,7 @@ There are still some things I want to fix and implement on this website, while a
 
 ## Things I'd like to achieve with these updates
 * Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo ✔
-* Introduce lazyloading (and responsive images?) to make the photography pages *a lot* faster to load ✔
+* Introduce lazyloading and lower image file size (and use responsive images?) to make the photography pages *a lot* faster to load ✔
 * Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more ✘
 * Re-style blogpost images to be more consistent ✘
 * Look into web feed functionality ✘
@@ -38,11 +38,6 @@ The only difficult thing for me to change here are the images; since it's partly
 
 ## The solutions
 
-### Image quality
-I usually resize my images to 1200 pixels on the long side. This is, in my opinion, a good size to show off the picture. But what about file-size? As a sample: compressing a 1200 by 800 jpeg image with 100, 80 and 50 quality settings (in Adobe Lightroom) gives me files of 592 kB, 300 kB and 157 kB respectively. Lowering the image quality (which is the same as a higher level of jpeg compression) even a little can reduce file size significantly while having almost no visible impact. This is why I compress at least to 80 in Lightroom. From that point on, the impact can vary wildly depending on the image.
-
-For good measure I passed all my photographs through another stage of compression to shave off an additional 45%, give or take.
-
 ### Page bundles & shortcode
 I made custom shortcode in layouts/shortcodes called photopost.html to range over all images inside of a given bundle:
 
@@ -61,6 +56,11 @@ I still find it difficult to wrap my head around how all of this works in detail
 Lazy-loading comes [built-in](https://web.dev/native-lazy-loading/) with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
 
 I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html) blog's code as a render hook to force all `<img>` tags to have the `loading=lazy` attribute.
+
+### Image quality
+I usually resize my images to 1200 pixels on the long side. This is, in my opinion, a good size to show off the picture. But what about file-size? As a sample: compressing a 1200 by 800 jpeg image with 100, 80 and 50 quality settings (in Adobe Lightroom) gives me files of 592 kB, 300 kB and 157 kB respectively. Lowering the image quality (which is the same as a higher level of jpeg compression) even a little can reduce file size significantly while having almost no visible impact. This is why I compress at least to 80 in Lightroom. From that point on, the impact can vary wildly depending on the image.
+
+For good measure I passed all my photographs through another stage of compression to shave off an additional 45%, give or take.
 
 ### Responsive images
 Imma skip this for now
