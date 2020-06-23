@@ -14,10 +14,10 @@ There are still some things I want to fix and implement on this website, while a
 <!--more-->
 
 ## Things I'd like to achieve with these updates
+* Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo ✔
 * Introduce lazyloading and responsive images to make the photography pages *a lot* faster to load ✔
 * Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more ✘
 * Re-style blogpost images to be more consistent ✘
-* Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo ✘
 * Look into web feed functionality ✘
 * Rewrite 'About' page ✘
 * Reach a state that I could describe as being fully functional (version 1.0) ✘
@@ -31,18 +31,24 @@ https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website
 
 ## The solutions
 ### Page bundles
-https://gohugo.io/content-management/page-bundles/
-https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/
-https://www.ii.com/hugo-bundles/
-https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
-
-### Responsive images
+I made custom shortcode in layouts/shortcodes called `photopost.html` to range over all images inside of the bundle:
+```
+{{ $myImage := .Page.Resources.Match "**.jpg" }}
+{{ with $myImage }}
+    {{ range . }}
+        <img loading=lazy src="{{.Permalink }}">
+    {{ end }}
+{{ end }}
+```
+I still find it difficult to wrap my head around how all of this works in detail. I used [Regis' blogpost](https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/) as starting point and adapted my code from there.
 
 ### Lazy lazy-loading
 Lazy-loading comes built-in with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
 
 I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html) blog's code as a render hook to force all `<img>` tags to have the `loading=lazy` attribute.
 https://web.dev/native-lazy-loading/
+
+### Responsive images
 
 ### Dropdown menu's
 I have a few pages that I like to share and that fit under my about page, so I wanted to include a drop-down menu for this. This meant harnassing the possibilities of the hugo menu templates and some messing about with css.
