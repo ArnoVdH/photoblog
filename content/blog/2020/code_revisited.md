@@ -66,7 +66,19 @@ Imma skip this for now
 ### Dropdown menu's
 I have a few pages that I like to share and that fit under my about page, so I wanted to include a drop-down menu for this. This meant harnassing the possibilities of the hugo menu templates and some messing about with css.
 
+Added 'about' menu to the relevant pages' frontmatter.
+Rewrote header template to make a sublist that ranges over these menu's.
+Added css that transformed it into a dropdown menu.
+
 ### Restyle blogpost images
+These are just images flung into the post right now, sometimes with a little caption that doesn't quite line up.
+
+### Rewrite the About page
+[See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
 
 ### Web feed functionality
 https://gohugo.io/templates/rss/
+Should be able to generate these automatically...
+
+### Conclusion
+From now on this isn't just a 'technically functional website' but one that I can say is 'done'.
