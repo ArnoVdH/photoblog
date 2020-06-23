@@ -24,7 +24,7 @@ There are still some things I want to fix and implement on this website, while a
 * Rewrite 'About' page ✘
 * Reach a state that I could describe as being fully functional (version 1.0) ✘
 
-All changes will also be documented on the [approriate page](/version)
+All changes will also be documented on the [approriate page](/version).
 
 ## The idea of light-weight, sustainable webdesign
 Some time ago I stumbled upon [this article](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website) from Low-tech Magazine about why and how to built 'low-tech' (probably more correctly called 'light-weight') websites.
@@ -50,15 +50,18 @@ I made custom shortcode in layouts/shortcodes called photopost.html to range ove
 
 I still find it difficult to wrap my head around how all of this works in detail. I used [Regis' blogpost](https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/) as starting point and adapted my code from there.
 
+Changed the featured image to `{{ .Resources.GetMatch "**.jpg" }}` to fetch the first image in the bundle as featured image.
+FIX FEATURED IMAGES
+
 ### Lazy lazy-loading
 Lazy-loading comes [built-in](https://web.dev/native-lazy-loading/) with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
 
 I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html) blog's code as a render hook to force all `<img>` tags to have the `loading=lazy` attribute.
 
 ### Image quality
-I usually resize my images to 1200 pixels on the long side. This is, in my opinion, a good size to show off the picture. But what about file-size? As a sample: compressing a 1200 by 800 jpeg image with 100, 80 and 50 quality settings (in Adobe Lightroom) gives me files of 592 kB, 300 kB and 157 kB respectively. Lowering the image quality (which is the same as a higher level of jpeg compression) even a little can reduce file size significantly while having almost no visible impact. This is why I compress at least to 80 in Lightroom. From that point on, the impact can vary wildly depending on the image.
+I usually resize my images to 1200 pixels on the long side. This is, in my opinion, a good size to show off the picture. But what about file-size? As a sample: compressing a 1200 by 800 jpeg image with 100, 80 and 50 quality settings (in Adobe Lightroom) gives me files of 592 kB, 300 kB and 157 kB respectively. Lowering the image quality (which is the same as using a higher level of jpeg compression) even a little can reduce file size significantly while having almost no visible impact. This is why I compress at least to 80 in Lightroom. From that point on, the impact can vary wildly depending on the image.
 
-For good measure I passed all my photographs through another stage of compression to shave off an additional 45%, give or take. This halved the load of the home page!
+For good measure I passed all my photographs through another round of compression to shave off an additional 45%, give or take. This *halved* the load of the home page!
 
 ### Responsive images
 Imma skip this for now
@@ -71,14 +74,16 @@ Rewrote header template to make a sublist that ranges over these menu's.
 Added css that transformed it into a dropdown menu.
 
 ### Restyle blogpost images
-These are just images flung into the post right now, sometimes with a little caption that doesn't quite line up.
+These were just images flung into the post until now, sometimes with a little caption that didn't quite line up.
 
 ### Rewrite the About page
 [See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
+
+FIX SELF PORTRAIT!
 
 ### Web feed functionality
 https://gohugo.io/templates/rss/
 Should be able to generate these automatically...
 
 ### Conclusion
-From now on this isn't just a 'technically functional website' but one that I can say is 'done'.
+From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
