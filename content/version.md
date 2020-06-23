@@ -9,7 +9,7 @@ type = "static"
 +++
 Overview of to-do's, ideas for, and (major) changes to the website.
 
-### To do
+### To do & ideas
 * Adapt header menu to fully use hugo code (make single pages and subpages active)
 * Clean up CSS
 * Add a graphic logo
@@ -18,8 +18,6 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 * Add favicon
 * Add info (metadata) about the pictures that show up only when activated
 * Add certain (static) pages to (dropdown?) menu under About
-
-### Ideas
 * Implement social networking protocol (Webmention?)
 * Implement RSS
 
@@ -28,7 +26,8 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 * Changed baseURL to https://arnovdh.be/ to keep the blog's URL constant
 * Added shortcodes folder
 * Made a photopost.html shortcode to range over images in page bundles to make photoposts easier. 
-* Set all old photoposts to draft=true and built bundles for all of them 
+* Built page-bundles to render the photoblog, using the shortcode mentioned above.
+* Removed all single photoblog pages 
 
 ### 0.9.9 (2020-06-17)
 * Added a render hook to make images lazy-loading. Code taken from [here](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html)

@@ -7,6 +7,8 @@ description = ""
 draft = true
 +++
 
+**Work in progress**
+
 I've built this website almost a year ago during the summer days. This year, the summer arrived two months earlier than it is supposed to and this takes me back mentally to those days. Maybe that's why I've been looking into the behind-the-screens mess that is this blog. First lesson learned: letting things lie for long times will make it more difficult to pick things up where you left them. Who would've thought?
 
 There are still some things I want to fix and implement on this website, while also keeping it simple and light. I'll try and explain what and how in this post. Mind you: I'm absolutely no web developer or anything remotely like that.
@@ -43,10 +45,9 @@ I made custom shortcode in layouts/shortcodes called `photopost.html` to range o
 I still find it difficult to wrap my head around how all of this works in detail. I used [Regis' blogpost](https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/) as starting point and adapted my code from there.
 
 ### Lazy lazy-loading
-Lazy-loading comes built-in with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
+Lazy-loading comes [built-in](https://web.dev/native-lazy-loading/) with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
 
 I used [this](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html) blog's code as a render hook to force all `<img>` tags to have the `loading=lazy` attribute.
-https://web.dev/native-lazy-loading/
 
 ### Responsive images
 
