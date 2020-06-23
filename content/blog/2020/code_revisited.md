@@ -41,6 +41,8 @@ The only difficult thing for me to change here are the images; since it's partly
 ### Image quality
 I usually resize my images to 1200 pixels on the long side. This is, in my opinion, a good size to show off the picture. But what about file-size? As a sample: compressing a 1200 by 800 jpeg image with 100, 80 and 50 quality settings (in Adobe Lightroom) gives me files of 592 kB, 300 kB and 157 kB respectively. Lowering the image quality (which is the same as a higher level of jpeg compression) even a little can reduce file size significantly while having almost no visible impact. This is why I compress at least to 80 in Lightroom. From that point on, the impact can vary wildly depending on the image.
 
+For good measure I passed all my photographs through another stage of compression to shave off an additional 45%, give or take.
+
 ### Page bundles & shortcode
 I made custom shortcode in layouts/shortcodes called photopost.html to range over all images inside of a given bundle:
 
