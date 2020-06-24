@@ -1,6 +1,6 @@
 <header class="header">
     <ul>
-        <li><a href=/><img src="" alt="AVdH"></a></li>  
+        <li><a href=/><img src="/logo.png" alt="AVdH"></a></li>  
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
         <li><a class="header-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
