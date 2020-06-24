@@ -5,5 +5,14 @@
         {{ range .Site.Menus.main }}
         <li><a class="header-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
         {{ end }}
+        <div class="dropdown">
+        <li><a class="header-item dropbutton" href="/about">About</a></li>
+            <u class="dropdown-menu">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.about }}
+                <li><a class="dropdown-item{{if or ($currentPage.IsMenuCurrent "about" .) ($currentPage.HasMenuCurrent "About" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+                {{ end }}
+            </u>
+        </div>
     </ul>
 </header>

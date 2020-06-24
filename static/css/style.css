@@ -88,6 +88,27 @@ header img:hover {
   color: black;
 }
 
+/* ===Dropdown menu header === */
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown-menu a {
+  display: block;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
 /* ===PHOTO BLOG CONTENT=== */
 .content img {
     max-width: 100vw;
