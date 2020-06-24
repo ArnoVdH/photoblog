@@ -97,17 +97,22 @@ header img:hover {
 
 .dropdown-menu {
   display: none;
-  position: absolute;
+  position: relative;
   z-index: 1;
 }
 
 .dropdown-menu a {
+  color: black;
   display: block;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: 1.4em;
 }
 
 .dropdown:hover .dropdown-menu {
   display: block;
-}
+  }
 
 /* ===PHOTO BLOG CONTENT=== */
 .content img {
