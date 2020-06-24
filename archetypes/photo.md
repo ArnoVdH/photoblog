@@ -1,5 +1,5 @@
 +++
-title =  "{{ replace .TranslationBaseName "-" " " | title }}"
+title =  "{{ replace .Name "-" " " | title }}"
 date = {{ .Date }}
 tags = []
 series = []
@@ -8,7 +8,4 @@ description = ""
 draft = true
 +++
 
-![](/img/#imglocation)
-**Title**
-Location
-Camera & lens & film type
+{{< photopost >}
