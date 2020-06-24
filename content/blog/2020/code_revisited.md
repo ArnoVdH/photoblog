@@ -20,8 +20,9 @@ There are still some things I want to fix and implement on this website, while a
 * Introduce lazyloading and lower image file size (and use responsive images?) to make the photography pages *a lot* faster to load ✔
 * Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more ✘
 * Re-style blogpost images to be more consistent ✘
+* Adapt header to use favicon ✔
 * Look into web feed functionality ✘
-* Rewrite 'About' page ✘
+* Rewrite 'About' page ✘✘
 * Reach a state that I could describe as being fully functional (version 1.0) ✘
 
 All changes will also be documented on the [approriate page](/version).
@@ -81,6 +82,9 @@ These were just images flung into the post until now, sometimes with a little ca
 [See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
 
 FIX SELF PORTRAIT!
+
+### Favicon
+Added a simple favicon to the head.html template.
 
 ### Web feed functionality
 https://gohugo.io/templates/rss/
