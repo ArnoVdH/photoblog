@@ -9,8 +9,6 @@ type = "static"
 menu = "main" #added to make the link active#
 +++
 
-<img src="/img/2018/Selfportrait-1.jpg" width="50%" style="margin-left: 0px;"/>
-
 Hi, my name is Arno. I'm an 20-something civil-servant, philosopher and geek.
 This is my personal website, to use as I see fit.
 
