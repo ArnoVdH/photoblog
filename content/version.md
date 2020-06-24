@@ -12,16 +12,17 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 ### To do & ideas
 * Adapt header menu to fully use hugo code (make single pages and subpages active)
 * Clean up CSS
-* Add a graphic logo
 * List the 'series' chronologically in nav-menu
 * Make page title reference the site as a whole
-* Add favicon
 * Add info (metadata) about the pictures that show up only when activated
 * Add certain (static) pages to (dropdown?) menu under About
 * Implement social networking protocol (Webmention?)
 * Implement RSS
 
 ***
+### 0.9.11 (2020-06-24)
+* Added favicon to head.html partial
+
 ### 0.9.10 (2020-06-23)
 * Changed baseURL to https://arnovdh.be/ to keep the blog's URL constant
 * Added shortcodes folder
