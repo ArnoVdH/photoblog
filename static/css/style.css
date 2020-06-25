@@ -74,6 +74,7 @@ hr {
 /* Logo */
 .logo {
     position: fixed;
+    text-align: end;
     font-size: 1.4em;
     padding-top: 1em;
     padding-left: 1em;
@@ -207,12 +208,14 @@ header ul a.active {
     max-width: 46em;
     max-height: 25em;
     margin-left: 2em;
+    margin-top: 0.5em;
 }
 
 .blogpost figcaption{
     margin-top: -0.5em;
     max-width: 46em;
     margin-left: 2em;
+    margin-bottom: 1em;
 }
 
 .blogpost figcaption p{
