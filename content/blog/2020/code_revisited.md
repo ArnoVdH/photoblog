@@ -20,6 +20,7 @@ There are still some things I want to fix and implement on this website, while a
 * Introduce lazyloading and lower image file size (and use responsive images?) to make the photography pages *a lot* faster to load ✔
 * Add a dropdown 'about' menu in the header ✔
 * Re-style blogpost images to be more consistent ✘
+* Re-write css ✘
 * Adapt header to use favicon ✔
 * Look into web feed functionality ✘
 * Rewrite 'About' page ✘
@@ -73,7 +74,16 @@ For good measure I passed all my photographs through another round of compressio
 I have a few static pages that I like to share and that fit under my about page, so I wanted to include a drop-down menu for this. This meant going back to hugo menu templates. I added a new menu type (called 'about') to range over as a submenu. Then I used some (probably very sloppy) css code to position this menu under 'About' and make it hidden unless when hovered over.
 
 ### Restyle blogpost images
-These were just images flung into the post until now, sometimes with a little caption that didn't quite line up.
+These were just images flung into the post until now, sometimes with a little caption that didn't quite line up. I started using the 'figure' shortcode so I could add captions easily and add classes.
+
+### Rewrite CSS
+Man, what a nightmarish mess this is, even after rewriting it all. I changed how a few things are handled without changing the design of my blog.
+
+Things still to do:
+* Fix the logo-type
+* Fix the drop-down-menu
+* Add inline-images in blogposts with seperate class
+* Restyle for tablets & smartphone
 
 ### Rewrite the About page
 [See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
