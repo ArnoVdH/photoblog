@@ -8,12 +8,12 @@
         {{ end }}
         <div class="dropdown">
         <li><a class="header-item dropbutton" href="/about">About</a></li>
-            <u class="dropdown-menu">
+            <ul class="dropdown-menu">
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.about }}
                 <li><a class="dropdown-item{{if or ($currentPage.IsMenuCurrent "about" .) ($currentPage.HasMenuCurrent "About" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
                 {{ end }}
-            </u>
+            </ul>
         </div>
     </ul>
 </header>
