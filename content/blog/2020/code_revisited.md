@@ -5,28 +5,6 @@ categories = ["hugo"]
 featured_image = ""
 description = ""
 draft = false
-
-==============================================================================================
-
-### Rewrite the About page
-[See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
-
-FIX SELF PORTRAIT!
-
-### Web feed functionality
-**TO DO**
-https://gohugo.io/templates/rss/
-Should be able to generate these automatically...
-
-### Conclusion
-From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
-
-Changed the featured image to `{{ .Resources.GetMatch "**.jpg" }}` to fetch the first image in the bundle as featured image.
-
-FIX FEATURED IMAGES-> NOT DONE!!!
-
-==============================================================================================
-
 +++
 
 **Work in progress**
