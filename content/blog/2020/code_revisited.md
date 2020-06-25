@@ -4,7 +4,29 @@ date = 2020-06-15T10:44:34+02:00
 categories = ["hugo"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
+
+==============================================================================================
+
+### Rewrite the About page
+[See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
+
+FIX SELF PORTRAIT!
+
+### Web feed functionality
+**TO DO**
+https://gohugo.io/templates/rss/
+Should be able to generate these automatically...
+
+### Conclusion
+From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
+
+Changed the featured image to `{{ .Resources.GetMatch "**.jpg" }}` to fetch the first image in the bundle as featured image.
+
+FIX FEATURED IMAGES-> NOT DONE!!!
+
+==============================================================================================
+
 +++
 
 **Work in progress**
@@ -19,8 +41,8 @@ There are still some things I want to fix and implement on this website, while a
 * Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo ✔
 * Introduce lazyloading and lower image file size (and use responsive images?) to make the photography pages *a lot* faster to load ✔
 * Add a dropdown 'about' menu in the header ✔
-* Re-style blogpost images to be more consistent ✘
-* Re-write css ✘
+* Re-style blogpost images to be more consistent ✔
+* Re-write css ✔
 * Adapt header to use favicon ✔
 * Look into web feed functionality ✘
 * Rewrite 'About' page ✘
@@ -53,10 +75,6 @@ I made custom shortcode in layouts/shortcodes called photopost.html to range ove
 
 I still find it difficult to wrap my head around how all of this works in detail. I used [Regis' blogpost](https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/) as starting point and adapted my code from there.
 
-Changed the featured image to `{{ .Resources.GetMatch "**.jpg" }}` to fetch the first image in the bundle as featured image.
-
-FIX FEATURED IMAGES-> NOT DONE!!!
-
 ### Lazy lazy-loading
 Lazy-loading comes [built-in](https://web.dev/native-lazy-loading/) with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
 
@@ -80,23 +98,9 @@ These were just images flung into the post until now, sometimes with a little ca
 Man, what a nightmarish mess this is, even after rewriting it all. I changed how a few things are handled without changing the design of my blog.
 
 Things still to do:
-* Fix the logo-type
-* Fix the drop-down-menu
+* Fix the logo-type (align right)
+* Fix the drop-down-menu (dropdown too big)
 * Add inline-images in blogposts with seperate class
-* Restyle for tablets & smartphone
-
-### Rewrite the About page
-[See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
-
-FIX SELF PORTRAIT!
 
 ### Favicon
 Made a simple typographical favicon to make the website recognizable in a browser tab. I converted this through a [favicon generator](https://realfavicongenerator.net/) and added some of the files (the .ico and .png files to be precize) to my static folder and added the necessary code to my head.html template.
-
-### Web feed functionality
-**TO DO**
-https://gohugo.io/templates/rss/
-Should be able to generate these automatically...
-
-### Conclusion
-From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
