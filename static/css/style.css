@@ -121,6 +121,7 @@ header ul a.active {
     display: none;
     position: relative;
     z-index: 1;
+    transition: 2s;
 }
 
 .dropdown:hover .dropdown-menu{
@@ -260,11 +261,73 @@ header ul a.active {
       grid-template-columns: repeat(10, 1fr);
       grid-template-rows: auto 1fr auto;
       grid-template-areas:
-        " . lg hd hd hd hd hd hd hd hd"
+        "lg lg hd hd hd hd hd hd hd hd"
         "nv nv mn mn mn mn mn mn mn  ."
         "ft ft ft ft ft ft ft ft ft ft"
       }
 }
 /* Tablet */
-
+@media only screen and (max-width: 999px){
+    .wrapper {
+    display: grid;
+    grid-auto-rows: minmax(100px; auto);
+    grid-template-areas:
+      "hd"
+      "mn"
+      "nv"
+      "ft"
+    }
+    
+    .content {
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 5em;
+    }
+  
+    .content h1 {
+        margin-left: -2px;
+     }
+  
+    .content h2 {
+        margin-left: -2px;
+    }
+    
+    .content .date {
+        margin-left: -2px;
+    }
+  
+    header {
+        width: 100%;
+    }
+  
+    .content blockquote{
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 1em;
+        padding-left: 0.2em;
+        margin-right: 0em;
+    }
+    
+    .nav {
+        text-align: end;
+    }
+}
 /* Phone */
+@media only screen and (max-width: 480px){
+    * {
+      margin-left: 2px;
+      margin-right: 2px;
+    }
+  
+    .content h1 {
+      margin-left: 0px;
+      }
+  
+      .content h2 {
+      margin-left: 0px;
+      }
+    
+      .content .date {
+      margin-left: 0px;
+      }
+  }
