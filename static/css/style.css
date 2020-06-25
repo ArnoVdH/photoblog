@@ -136,7 +136,12 @@ header ul a.active {
 }
 .categories {
     font-size: 1.2em;
-    text-transform: capitalize;
+}
+.series {
+    font-size: 1.8em;
+}
+.tags {
+    font-size: 1.2em;
 }
 
 /* PAGINATION */
