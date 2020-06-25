@@ -99,6 +99,9 @@ header img:hover {
   display: none;
   position: relative;
   z-index: 1;
+  width: auto;
+  overflow: hidden;
+  background-color: transparent;
 }
 
 .dropdown-menu a {
@@ -108,10 +111,11 @@ header img:hover {
   padding: 14px 20px;
   text-decoration: none;
   font-size: 1.4em;
+  background-color: transparent;
 }
 
 .dropdown:hover .dropdown-menu {
-  display: block;
+  display: inline-flex;
   }
 
 /* ===PHOTO BLOG CONTENT=== */
