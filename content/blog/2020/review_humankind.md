@@ -12,8 +12,7 @@ Humankind is a best-seller in the Netherlands and Flanders, where it's called 'D
 
 Bregman is a Dutch historian and journalist. He writes for [De Correspondent](https://decorrespondent.nl/), a news site focussing on well researched long-read articles and not on daily news - without disregarding topical news items entirely. He's also a well known advocate of a universal basic income, which is how I got to know about him years ago when researching and writing on the same topic.
 
-![](/img/blog/bregman.jpg)
-<h6>Rutger Bregman by Belgian photographer Stephan Vanfleteren</h6>
+{{< figure src="/img/blog/bregman.jpg" class="inline-img" caption="Rutger Bregman by Belgian photographer Stephan Vanfleteren">}}
 
 This is a book that fits within the wider phenomenon of all encompassing *explanations* (for lack of a better word) of humanity, both in a historical as a existential sense. That is to say: they try to grapple with some of the large questions in life. Who and what are we, where do we come from as a being and society and what can it tells us about our future? Another well known book in this genre is Sapiens by Yuval Noah Harari; which I also read this year, but found profoundly lacking, superficial and devoid of anything interesting. Humankind is Bregman's try at the big question of human nature.
 
@@ -23,8 +22,7 @@ Content-wise he weaves a narrative that's a mix of history, psychology, philosop
 
 His writing style notwithstanding, the arguments Bregman makes are nuanced and clear. He repeats a pattern of introduction into an idea, explaining it and how it seems common knowledge, then exposing the problems with it by confronting it with other (more recent) evidence and reinterpreting the earlier idea. It's a very intellectually honest way of going about this, I think. Most importantly, he does this with the big psychological experiments from the 20th century, ones that have had a lasting impact in how we view human nature, namely the Stanford prison experiment, the Milgram experiment and the murder of Kitty Genovese. Each of these are well known and still taught in schools and universities around the world. I myself encountered these quite a few times. But Bregman shows that there are deep problems with all of these cases, some from experimental problems, others plain fraudulence or a sensationalist interpretation of events.
 
-![](/img/blog/humankind.jpg)
-<h6><i>The Ideal City</i> of Urbino, unknown painter, ca. 15th century</h6>
+{{< figure src="/img/blog/humankind.jpg" caption="*The Ideal City* of Urbino, unknown painter, ca. 15th century">}}
 
 My main criticism towards the book would be that for all the optimism he spouts about human nature and society, Bregman says little about contemporary influences that undermine our good nature. I am thinking of our economic ideology that encourages competition instead of cooperation or social media - which are often designed specifically to take advantage of some of our weaknesses to generate 'clicks', 'engagement' and above all else revenue - undermining our social fabric and democracies. So while our base nature could be good, there seems to be no way to harness that inherent goodness in the face of systemic challenges.
 
