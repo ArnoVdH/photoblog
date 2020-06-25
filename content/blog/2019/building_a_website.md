@@ -13,8 +13,7 @@ It started out as an idea to have my own place on the internet, where I have ful
 
 <!--more-->
 
-Early 2019: exploring possibilities
------------------------------------
+## Early 2019: exploring possibilities
 
 I don't have any background in graphic or web design or programming. Building my own website is a personal challenge and learning experience 
 
@@ -24,8 +23,7 @@ At first I looked into building with wordpress, since it's so ubiquitous on the 
 
 Wordpress also felt cumbersome. A friend told me about looking into static website generators and he himself was dabbling with Jekyll. When researching this I found out about Hugo and decided to try it out since it's simplicity of needing only one binary. Very easy to set up and start building.
 
-Summer 2019: Building with Hugo
--------------------------------
+## Summer 2019: Building with Hugo
 
 In early july I built my hugo setup on a laptop with Lubuntu, VS Code and GitHub. 
 

@@ -22,6 +22,4 @@ And keeping the best for last: the cinematography is superb. The movie was shot 
 
 Robert Eggers is making his name as a preeminent director of quality horror these days, and I'm curious about what he'll make for us in the future. Be sure to give this one a viewing, it's worth it.
 
-![](/img/blog/the_lighthouse.jpg)
-
-<h6>Willem Dafoe and Robert Pattinson as the gruffy lighthouse keepers</h6>
+{{< figure src="/img/blog/the_lighthouse.jpg" caption="Willem Dafoe and Robert Pattinson as the gruffy lighthouse keepers" >}}
