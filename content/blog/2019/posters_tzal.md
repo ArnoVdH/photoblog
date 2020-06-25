@@ -4,7 +4,7 @@ date = 2019-11-22T15:45:27+01:00
 categories = ["personal", "design"]
 featured_image = ""
 description = ""
-draft = false
+draft = true
 +++
 
 For years I was a member of a philosophical-minded, freethinking student society in Ghent, called "T.S.G. 't Zal Wel Gaan" ("T.S.G." stands for "taalminnend studentengenootschap" or language-loving student society). It's, as far as I know, the oldest of its kind in Belgium, founded in 1852. It has a long and turbulent history, but that's a story for another time.
