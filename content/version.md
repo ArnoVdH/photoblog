@@ -20,6 +20,11 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 * Implement RSS
 
 ***
+### 0.9.12 (2020-06-25)
+* Rewrote the css stylesheet from scratch (unfortunately this did *not* make it easier to fix my original problem)
+* Switched to using the 'figure' shortcode from hugo for images (and associated captions) in blogposts
+* Moved the logotype AVdH outside of the `<header>` scope
+
 ### 0.9.11 (2020-06-24)
 * Added favicon to head.html partial
 * Added nested list in header.html for dropdown menu
