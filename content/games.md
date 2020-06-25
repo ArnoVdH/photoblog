@@ -14,8 +14,8 @@ I used to play a lot, but now only sporadically.
 
 * Warhammer Fantasy Roleplay, 2nd edition
 * Warhammer 40.000: Rogue Trader
-* Shadowrun
-* Dungeons & Dragons
+* Shadowrun, 5th edition
+* Dungeons & Dragons, 5th edition
 * Mazes & Minotaurs
 * Call of C'thulhu
 * a whole range of one-off story-games in different settings and with varying rulesets
@@ -25,6 +25,8 @@ I used to play a lot, but now only sporadically.
 * Arkham Horror
 * Twilight Struggle
 * Stratego
+* Mythos Tales
+* Guillotine
 
 ## Computer Games
 
