@@ -36,7 +36,7 @@ a:hover {
 }
 
 code {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-family: monospace;
     font-weight: 500;
     color: #83878C;
@@ -73,13 +73,11 @@ hr {
 /* HEADER */
 /* Logo */
 .logo {
-    float: right;
-    display: block;
-    text-align: end;
+    position: fixed;
     font-size: 1.4em;
     padding-top: 1em;
+    padding-left: 1em;
     background-color: white;
-    width: 100%;
 }
 
 /* Main menu */
@@ -99,6 +97,7 @@ header ul a {
     display: block;
     text-align: center;
     font-size: 1.4em;
+    width: 4em;
     border-bottom: 3px solid transparent;
     padding: 0.5em 0.5em 0.5em 0em;
 }
@@ -112,6 +111,20 @@ header ul a.active {
 }
 
 /* Dropdown menu */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    display: none;
+    position: relative;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: inline-block;
+}
 
 /* NAVIGATION */
 .nav {
@@ -187,14 +200,26 @@ header ul a.active {
 
 .blogpost img {
     max-width: 46em;
+    max-height: 25em;
     margin-left: 2em;
 }
 
 .blogpost figcaption{
+    margin-top: -0.5em;
     max-width: 46em;
     margin-left: 2em;
+}
+
+.blogpost figcaption p{
     line-height: normal;
-    font-size: 0.7;
+    font-size: 0.7em;
+    color: #83878C;
+}
+
+.blogpost figcaption em {
+    line-height: normal;
+    font-size: 0.9em;
+    color: #83878C;
 }
 
 .content .read-more {
@@ -227,7 +252,7 @@ header ul a.active {
       grid-template-columns: repeat(10, 1fr);
       grid-template-rows: auto 1fr auto;
       grid-template-areas:
-        "lg lg hd hd hd hd hd hd hd hd"
+        " . lg hd hd hd hd hd hd hd hd"
         "nv nv mn mn mn mn mn mn mn  ."
         "ft ft ft ft ft ft ft ft ft ft"
       }
