@@ -1,383 +1,68 @@
-/* ===GENERAL=== */
-
+/* GENERAL */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
-  text-decoration: none;
-  color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: sans-serif;
-}
-
-p {
-  color: black;
+    color: #83878C;
 }
 
 a {
-  color: #B00032;
+    color: #B00032;
 }
 
 a:hover {
-  color: #cc2e5a;
+    color: #cc2e5a;
 }
 
 code {
-  font-size: 1.4em;
-  font-family: monospace;
-  font-weight: 600;
-  color: #83878C;
+    font-size: 1.3em;
+    font-family: monospace;
+    font-weight: 500;
+    color: #83878C;
 }
 
 hr {
-  margin-top: 0.5em;
-  margin-bottom: 1.5em;
-  height: 3px;
-  background-color: #B00032;
-  color: #B00032;
+    color: #B00032;
+    background-color: #B00032;
+    height: 3px;
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
 }
 
+/* HEADER */
+
+/* PHOTO BLOG NAV */
+
+/* BLOG NAV */
+
+/* PAGINATION */
 .pagination {
-  list-style: none;
-}
-
-/* ===HEADER=== */
-/* Add a background color to the top navigation */
-header ul {
-  padding-left: 7px;
-  padding-top: 7px;
-  background-color: white;
-  overflow: hidden;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
-  list-style: none;
-}
-
-/* Style the links inside the navigation bar */
-header ul a {
-  float: left;
-  color: black;
-  display: block;
-  text-align: center;
-  padding: 14px 20px;
-  text-decoration: none;
-  font-size: 1.4em;
-  border-bottom: 3px solid transparent;
-}
-
-/* Change the color of links on hover */
-header ul a:hover {
-  border-bottom: 3px solid #B00032;
-}
-
-/* Add a color to the active/current link */
-header ul a.active {
-  border-bottom: 3px solid #B00032;
-}
-
-/* Make logo alt text black */
-header img {
-  color: black;
-}
-
-header img:hover {
-  color: black;
-}
-
-/* ===Dropdown menu header === */
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-menu {
-  display: none;
-  position: relative;
-  z-index: 1;
-  width: auto;
-  overflow: hidden;
-  background-color: transparent;
-}
-
-.dropdown-menu a {
-  color: black;
-  display: block;
-  text-align: center;
-  padding: 14px 20px;
-  text-decoration: none;
-  font-size: 1.4em;
-  background-color: transparent;
-}
-
-.dropdown:hover .dropdown-menu {
-  display: inline-flex;
-  }
-
-/* ===PHOTO BLOG CONTENT=== */
-.content img {
-    max-width: 100vw;
-    max-height: 90vh;
-}
-
-/* ===BLOG CONTENT=== */
-.content {
-  line-height: 1.5em;
-  margin-top: 5em;
-  margin-bottom: 2em;
-  color: black;
-  text-align: justify;
-  list-style: initial;
-}
-
-.content h2, h3, h4, h5, h6 {
-  color: #83878C;
-}
-
-.content blockquote{
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 2em;
-  padding-left: 0.5em;
-  margin-right: 3em;
-  color: #83878C;
-  font-weight: 500;
-  font-style: italic;
-  border-left: 3px solid #83878C;
-}
-
-.content blockquote p {
-  padding-top: 0em;
-  color: #83878C;
-}
-
-.content h1 {
-  font-size: 2em;
-  margin-left: -20px;
-  color: #B00032;
-}
-
-.content .date {
-  margin-left: -20px;
-  margin-bottom: 1em;
-}
-
-.content h2 {
-  margin-top: 1em;
-  margin-left: -20px;
-}
-
-.content h3 {
-  font-weight: bold;
-  margin-top: 1em;
-}
-
-.content h6 {
-  font-size: 0.7em;
-  font-weight: initial;
-  display: block;
-  margin-top: 0em;
-  margin-bottom: 0em;
-  margin-left: 2.5em;
-  max-width: 90%;
-  color: #83878C;
-}
-
-.content h6 i {
-  color: #83878C;
-}
-
-.content p {
-  margin-top: 0.5em;
-}
-
-.content li {
-  margin-left: 2.5em;
-}
-
-.content del {
-  text-decoration: line-through;
-}
-
-.content a {
-  color: #B00032
-}
-
-.content a:hover {
-  color: #cc2e5a;
-}
-
-.content .read-more {
-  margin-top: 0.5em;
-}
-
-.tag-cat-list hr {
-  margin-top: 5em;
-  margin-bottom: 0em;
-  width: 30%;
-}
-
-.tag-cat-list {
-  font-size: 0.9em;
-}
-
-.blogpost {
-  max-width: 50em;
-  list-style: initial;
-}
-
-.blogpost img {
-  display: block;
-  margin-left: 2.5em;
-  max-width: 90%;
-}
-
-/* ===PHOTO BLOG NAVIGATION=== */
-.nav {
-  padding-top: 5em;
-  padding-left: 1em;
-  padding-right: 2.5em;
-  text-align: end;
-  list-style: none;
-}
-
-.series {
-  font-size: 1.4em;
-  text-transform: capitalize;
-}
-
-.tags {
-  font-size: 1em;
-  text-transform: capitalize;
-}
-
-/* ===BLOG NAVIGATION=== */
-.categories {
-  font-size: 1.2em;
-  text-transform: capitalize;
-}
-
-/* ===PAGINATION BUTTONS=== */
-.pagination {
-  display: inline-flex;
-  text-align: center;
-  justify-content: center;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    list-style: none;
 }
 
 .pagination a {
-  color: black;
-  float: left;
-  padding: 8px 16px;
-  text-decoration: none;
+    color: black;
+    float: left;
+    padding: 8px 16px;
 }
 
-/* ===FOOTER=== */
-
+/* FOOTER */
 .footer {
-  display: block;
-  margin-left: 10px;
-  margin-bottom: 5px;
+    display: block;
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+    color: #83878C;
 }
 
-.footer p {
-  color: #83878C;
-}
+/* CONTENT */
 
-.footer a {
-  color: #83878C;
-}
-
-/* ===LAYOUT=== */
-
-.header {
-  grid-area: hd;
-}
-
-.footer {
-  grid-area: ft;
-}
-
-.nav, .sidebar {
-  grid-area: nav;
-}
-
-.content {
-  grid-area: main;
-}
-
-
-@media only screen and (min-width: 1000px){
-.wrapper {
-  min-height: 100vh;
-  display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  grid-template-rows: auto 1fr auto;
-  grid-template-areas:
-    "hd hd hd hd hd hd hd hd hd hd"
-    "nav nav main main main main main main main ."
-    "ft ft ft ft ft ft ft ft ft ft"
-  }
-}
-
-@media only screen and (max-width: 999px){
-  .wrapper {
-  display: grid;
-  grid-auto-rows: minmax(100px; auto);
-  grid-template-areas:
-    "hd"
-    "main"
-    "nav"
-    "ft"
-  }
-  
-  .content {
-    margin-left: 5px;
-    margin-right: 5px;
-    }
-
-    .content h1 {
-    margin-left: -2px;
-    }
-
-    .content h2 {
-    margin-left: -2px;
-    }
-  
-    .content .date {
-    margin-left: -2px;
-    }
-
-    header {
-      width: 100%;
-    }
-
-    .content blockquote{
-      margin-top: 1em;
-      margin-bottom: 1em;
-      margin-left: 1em;
-      padding-left: 0.2em;
-      margin-right: 0em;
-}
-
-@media only screen and (max-width: 480px){
-  * {
-    margin-left: 2px;
-    margin-right: 2px;
-  }
-
-  .content h1 {
-    margin-left: 0px;
-    }
-
-    .content h2 {
-    margin-left: 0px;
-    }
-  
-    .content .date {
-    margin-left: 0px;
-    }
-}
+/* LAYOUT */
