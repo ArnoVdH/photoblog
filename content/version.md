@@ -23,6 +23,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 ### 0.9.11 (2020-06-24)
 * Added favicon to head.html partial
 * Added nested list in header.html for dropdown menu
+* Added css to make dropdown menu (semi)functional
 
 ### 0.9.10 (2020-06-23)
 * Changed baseURL to https://arnovdh.be/ to keep the blog's URL constant
