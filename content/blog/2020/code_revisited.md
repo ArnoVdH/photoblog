@@ -18,11 +18,11 @@ There are still some things I want to fix and implement on this website, while a
 ## Things I'd like to achieve with these updates
 * Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo ✔
 * Introduce lazyloading and lower image file size (and use responsive images?) to make the photography pages *a lot* faster to load ✔
-* Add a dropdown 'about' menu in the header; possible reworking the header system completely to utilize hugo's capabilities more ✘
+* Add a dropdown 'about' menu in the header ✔
 * Re-style blogpost images to be more consistent ✘
 * Adapt header to use favicon ✔
 * Look into web feed functionality ✘
-* Rewrite 'About' page ✘✘
+* Rewrite 'About' page ✘
 * Reach a state that I could describe as being fully functional (version 1.0) ✘
 
 All changes will also be documented on the [approriate page](/version).
@@ -67,14 +67,10 @@ I usually resize my images to 1200 pixels on the long side. This is, in my opini
 For good measure I passed all my photographs through another round of compression to shave off an additional 45%, give or take. This *halved* the load of the home page!
 
 ### Responsive images
-Imma skip this for now
+**TO DO**
 
 ### Dropdown menu's
-I have a few pages that I like to share and that fit under my about page, so I wanted to include a drop-down menu for this. This meant harnassing the possibilities of the hugo menu templates and some messing about with css.
-
-Added 'about' menu to the relevant pages' frontmatter.
-Rewrote header template to make a sublist that ranges over these menu's.
-Added css that transformed it into a dropdown menu.
+I have a few static pages that I like to share and that fit under my about page, so I wanted to include a drop-down menu for this. This meant going back to hugo menu templates. I added a new menu type (called 'about') to range over as a submenu. Then I used some (probably very sloppy) css code to position this menu under 'About' and make it hidden unless when hovered over.
 
 ### Restyle blogpost images
 These were just images flung into the post until now, sometimes with a little caption that didn't quite line up.
@@ -88,6 +84,7 @@ FIX SELF PORTRAIT!
 Made a simple typographical favicon to make the website recognizable in a browser tab. I converted this through a [favicon generator](https://realfavicongenerator.net/) and added some of the files (the .ico and .png files to be precize) to my static folder and added the necessary code to my head.html template.
 
 ### Web feed functionality
+**TO DO**
 https://gohugo.io/templates/rss/
 Should be able to generate these automatically...
 
