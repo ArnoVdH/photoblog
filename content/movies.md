@@ -10,7 +10,7 @@ menu = "about"
 +++
 A list of good movies in chronological order.
 
-Watching anyone of these will never be wasted time.
+Watching any one of these will never be wasted time.
 
 Lesson learned by making this list: I need to watch more older movies.
 
@@ -158,7 +158,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * (2009) Fantastic Mr. Fox - Wes Anderson
 
 ### 2010s
-* (2010) Martin Scorsese – Shutter Island
+* (2010) Shutter Island - Martin Scorsese
 * (2010) Sound of Noise – Ola Simonssen & Johannes Stjärne Nilsson
 * (2010) The Bang Bang Club - Steven Silver
 * (2010) Exit Through the Gift Shop - Banksy
@@ -191,3 +191,5 @@ Lesson learned by making this list: I need to watch more older movies.
 * (2018) BlacKkKlansman - Spike Lee
 * (2019) The Lighthouse - Robert Eggers
 * (2019) 1917
+
+### 2020s
