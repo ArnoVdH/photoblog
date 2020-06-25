@@ -9,6 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **Python Crash Course** - Eric Matthes
 * **Gideon the Ninth** - Tamsyn Muir
 * **China: A History** - John Keay
 
