@@ -91,9 +91,7 @@ Made a simple typographical favicon to make the website recognizable in a browse
 FIX SELF PORTRAIT!
 
 ### Web feed functionality
-**TO DO**
-https://gohugo.io/templates/rss/
-Should be able to generate these automatically...
+Hugo has a simple built in [rss page template](https://gohugo.io/templates/rss/). I just put the relevant code in the head.html file to get it to work.
 
 ### Conclusion
 From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
