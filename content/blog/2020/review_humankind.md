@@ -12,7 +12,7 @@ Humankind is a best-seller in the Netherlands and Flanders, where it's called 'D
 
 Bregman is a Dutch historian and journalist. He writes for [De Correspondent](https://decorrespondent.nl/), a news site focussing on well researched long-read articles and not on daily news - without disregarding topical news items entirely. He's also a well known advocate of a universal basic income, which is how I got to know about him years ago when researching and writing on the same topic.
 
-{{< figure src="/img/blog/bregman.jpg" class="inline-img" caption="Rutger Bregman by Belgian photographer Stephan Vanfleteren">}}
+{{< figure src="/img/bregman.jpg" class="inline-img" caption="Rutger Bregman by Belgian photographer Stephan Vanfleteren">}}
 
 This is a book that fits within the wider phenomenon of all encompassing *explanations* (for lack of a better word) of humanity, both in a historical as a existential sense. That is to say: they try to grapple with some of the large questions in life. Who and what are we, where do we come from as a being and society and what can it tells us about our future? Another well known book in this genre is Sapiens by Yuval Noah Harari; which I also read this year, but found profoundly lacking, superficial and devoid of anything interesting. Humankind is Bregman's try at the big question of human nature.
 

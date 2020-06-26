@@ -26,19 +26,11 @@ More than 17 years after its release, the game still inspires people. A huge com
 
 I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
 
-![](/img/blog/morrowind/puzzle_canal.jpg)
-<h6>The interior of the Puzzle Canal beneath the Palace of Vivec</h6>
 
-![](/img/blog/morrowind/seyda_neen.jpg)
-<h6>View from the docks of Seyda Neen</h6>
-
-![](/img/blog/morrowind/balmora.jpg)
-<h6>Balmora with the Dwemer ruins of Arkngthand in the background</h6>
-
-![](/img/blog/morrowind/cliff_racers.jpg)
-<h6>Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell</h6>
-
-
+{{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
+{{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
+{{< figure src="/img/morrowind/balmora.jpg" class="" caption="Balmora with the Dwemer ruins of Arkngthand in the background">}}
+{{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell">}}
 
 
 

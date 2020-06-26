@@ -6,7 +6,7 @@ featured_image = "/img/blog/calvinhobbes.gif"
 title = "Universal Basic Income: an introduction"
 +++
 
-{{< figure src="/img/blog/calvinhobbes.gif" caption="Source: Bill Waterson 'The Revenge of the Baby-Sat' 1991" >}}
+{{< figure src="/img/calvinhobbes.gif" caption="Source: Bill Waterson 'The Revenge of the Baby-Sat' 1991" >}}
 
 These last few years we see the idea of a (universal) basic income mentioned. It's not all over the news, but it's certainly something you've probably heard mentioning somewhere or read in passing. Not daily, but once in a while. In a think piece somewhere probably, and probably by someone *progressive*. But it has been defended by lots of great thinkers, including nobelprize winning economists, civil rights leaders like M.L. King, philosophers like Bertrand Russell, and many others. It's a fascinating idea that makes you think. Some people are revolted by it, others think it's a panacea to all society's problems. It's a lot more nuanced of course, but it's worth delving into.
 
