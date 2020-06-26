@@ -130,7 +130,7 @@ header ul a.active {
 
 /* NAVIGATION */
 .nav {
-    padding-top: 4.5em;
+    padding-top: 5em;
     padding-left: 1em;
     padding-right: 2.5em;
     text-align: end;
@@ -175,7 +175,7 @@ header ul a.active {
 /* CONTENT */
 .content {
     line-height: 1.5em;
-    margin-top: 4.5em;
+    margin-top: 5em;
     text-align: justify;
 }
 
@@ -208,7 +208,7 @@ header ul a.active {
 .blogpost img {
     max-width: 46em;
     max-height: 25em;
-    margin: 1em 2em 1em 2em;
+    margin: 1em 2em 0em 2em;
 }
 
 .blogpost .inline-img {
