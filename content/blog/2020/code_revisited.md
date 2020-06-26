@@ -17,7 +17,7 @@ There are still some things I want to fix and implement on this website, while a
 
 ## Things I'd like to achieve with these updates
 * Built a way to make photo posts easier, using a function to range over the images and/or the concept of page bundles in hugo ✔
-* Introduce lazyloading and lower image file size (and use responsive images?) to make the photography pages *a lot* faster to load ✔
+* Introduce lazyloading and lower image file size to make the photography pages *a lot* faster to load ✔
 * Add a dropdown 'about' menu in the header ✔
 * Re-style blogpost images to be more consistent ✔
 * Re-write css ✔
