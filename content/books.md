@@ -10,11 +10,11 @@ menu = "about"
 +++
 ## Currently reading
 * **Python Crash Course** - Eric Matthes
-* **Gideon the Ninth** - Tamsyn Muir
 * **China: A History** - John Keay
 
 ## Read
 ### 2020
+* **Gideon the Ninth** - Tamsyn Muir ★★
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey ★★★★
 * **Pandemic!** - Slavoj Žižek ★★★
 * **Agents of Dreamland** - Caitlín R. Kiernan ★★★
