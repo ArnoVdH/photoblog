@@ -1,6 +1,6 @@
 +++
 date = 2020-01-16T21:05:00Z
-description = ""
+description = "A list of good movies in chronological order"
 featured_image = ""
 tags = []
 title = "Movies"
@@ -173,7 +173,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * (2013) All Is Lost – J. C. Chandor
 * (2013) Under the Skin – Jonathan Glazer
 * (2014) The Grand Budapest Hotel – Wes Anderson
-* (2014) Birdman or * (The Unexpected Virtue of Ignorance) – Alejandro G. Iñárritu
+* (2014) Birdman or (The Unexpected Virtue of Ignorance) – Alejandro G. Iñárritu
 * (2014) What We Do in the Shadows - Taika Waititi & Jemaine Clement
 * (2015) The Lobster – Yorgos Lanthimos
 * (2015) Mad Max: Fury Road – George Miller
