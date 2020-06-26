@@ -9,6 +9,8 @@ type = "static"
 # menu = "main" #added to make the link active#
 +++
 
+{{< figure src="/img/me.jpg" class="inline-img" >}}
+
 Hi, my name is Arno. I'm an 20-something civil-servant, philosopher and geek.
 This is my personal website, to use as I see fit.
 
