@@ -213,6 +213,7 @@ header ul a.active {
 
 .blogpost .inline-img {
     float: left;
+    margin-left: -1em;
 }
 
 .blogpost figcaption{
