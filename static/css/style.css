@@ -208,8 +208,11 @@ header ul a.active {
 .blogpost img {
     max-width: 46em;
     max-height: 25em;
-    margin-left: 2em;
-    margin-top: 0.5em;
+    margin: 1em 2em 1em 2em;
+}
+
+.blogpost .inline-img {
+    float: left;
 }
 
 .blogpost figcaption{
