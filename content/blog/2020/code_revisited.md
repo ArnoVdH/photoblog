@@ -80,4 +80,4 @@ Made a simple typographical favicon to make the website recognizable in a browse
 Hugo has a simple built in [rss page template](https://gohugo.io/templates/rss/). I just put the relevant code in the head.html file to get it to work. From now on my blog can be subscribed to!
 
 ### Conclusion
-This isn't just a 'technically functional website' anymore but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
+This isn't just a 'technically functional website' anymore but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do. Some other ideas or changes are mentioned on the version-page.
