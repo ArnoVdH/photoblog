@@ -19,14 +19,15 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 * Implement responsive images
 
 ***
-### 0.9.13 (2020-06-26)
+
+### 1.0 (2020-06-26)
 * Added RSS feed functionality
-* Added css style for inline images
-* Restyled header css for mobile use; at least it's functional
+* Added CSS style for inline images
+* Restyled header CSS for mobile use; at least it's functional
 * Reorganized the static/img folder and matching links
 
 ### 0.9.12 (2020-06-25)
-* Rewrote the css stylesheet from scratch (unfortunately this did *not* make it easier to fix my original problem)
+* Rewrote the CSS stylesheet from scratch (unfortunately this did *not* make it easier to fix my original problem)
 * Switched to using the 'figure' shortcode from hugo for images (and associated captions) in blogposts
 * Moved the logotype AVdH outside of the `<header>` scope
 
@@ -57,7 +58,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### 0.9.6 (2020-04-13)
 
-* Changes to blogpost images css
+* Changes to blogpost images CSS
 * Started adding featured images to relevant blogposts & for all photo posts
 
 ### 0.9.5 (2020-04-12)
@@ -76,7 +77,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### 0.9.2 (2019-09-15)
 
-* Reorganized responsive css layout for mobile devices (changed order in css file)
+* Reorganized responsive CSS layout for mobile devices (changed order in CSS file)
 * Fixed margins
 * Added a curriculum (life overview) page
 
@@ -90,7 +91,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 * Draft version hosted on Netlify (https://arno.netlify.com/)
 * Started the ubi-introduction blogpost
-* Lots of tweaks to the css
+* Lots of tweaks to the CSS
 * Added this version history static page
 
 ### Earlier versions
