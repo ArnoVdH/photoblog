@@ -9,17 +9,12 @@ type = "static"
 # menu = "main" #added to make the link active#
 +++
 
-{{< figure src="/img/me.jpg" class="inline-img" >}}
+{{< figure src="/img/me.jpg" class="inline-img" >}}I'm Arno, a 30-years old civil-servant, philosopher and generalist geek. 
 
-Hi, my name is Arno. I'm an 20-something civil-servant, philosopher and geek.
-This is my personal website, to use as I see fit.
+I live in Ghent, Belgium, where I was born. I grew up outside of town but returned here to study philosophy at the university and stayed here. I love this city with it's exciting blend of history, culture and social life. On my days off, chances are you find me somehwere in a coffee bar writing, reading or debating friends, or walking around town with my camera. During working hours I'm an administrative expert for the Belgian federal social security.
 
-I live in Ghent, Belgium. I was born there, but grew up outside of town. When I started to study philosophy in university, I moved here permanently. I love this city, with it's great mix of history, culture and social life. Chances are, you can find me on days off somewhere in a hipster coffee bar having discussions with friends, reading a book or typing stuff on my laptop. On working days, I'm an administrative expert for the Belgian federal social security. 
+During my university studies I specialized in ethics, political philosophy, critical philosophy and social commentary. I wrote my [masters dissertation](/files/thesis.pdf) (pdf in Dutch) on universal basic income and libertarianism; a subject about which I'm still very passionate.
 
-I got my masters degree in philosophy and wrote about universal basic income (UBI) and libertarianism - you can read more about that [here](/categories/basic-income/). My interests lie in ethics, political philosophy, critical philosophy and social commentary. 
-
-A lot of the time, I'm walking around with a camera with me and I consider myself somewhat as a amateur photographer. I have been taking pictures regularly and sharing them with friends for at least ten years. I used to host a photo blog on one of the well-known commercial websites, but since they changed their policy to be more restrictive and puritan, I decided to move on. So you'll find a section dedicated to my [photography](/) here, both film and digital.
-
-But in the end, I'd like to think of myself as a generalist. I find it difficult to describe myself in, or limit myself to, just a few things. You'll notice that [my blog](/blog) is a hodge-podge of different subjects. I try to write about many different things that interest me or that I care about. [Books](/books), [life](/timeline), [politics](/categories/politics/), typewriters, [games](/games), history, [movies](/movies), weird stuff,...
+I have a broad range of interests that I like to explore. That's what this blog is for, both a personal project and the means to share these interests with the world. Modest thinkpieces, reviews, photographs,... All belong here.
 
 Should you want to contact me, my e-mail adress is `arno.vandenhende`<span style="display: none;">REMOVE</span>`@posteo.net`.

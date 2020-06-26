@@ -23,7 +23,7 @@ There are still some things I want to fix and implement on this website, while a
 * Re-write css ✔
 * Adapt header to use favicon ✔
 * Look into web feed functionality ✔
-* Rewrite 'About' page ✘
+* Rewrite 'About' page ✔
 * Reach a state that I could describe as being fully functional (version 1.0) ✘
 
 All changes will also be documented on the [approriate page](/version).
@@ -76,7 +76,7 @@ Man, what a nightmarish mess this is, even after rewriting it all. I changed how
 Made a simple typographical favicon to make the website recognizable in a browser tab. I converted this through a [favicon generator](https://realfavicongenerator.net/) and added some of the files (the .ico and .png files to be precize) to my static folder and added the necessary code to my head.html template.
 
 ### Rewrite the About page
-[See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
+[See for yourself.](/about) Less links to scattered page, those can now be easily found and reached through the dropdown menu's described above.
 
 ### Web feed functionality
 Hugo has a simple built in [rss page template](https://gohugo.io/templates/rss/). I just put the relevant code in the head.html file to get it to work. From now on my blog can be subscribed to!
