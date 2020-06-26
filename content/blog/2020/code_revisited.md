@@ -7,8 +7,6 @@ description = ""
 draft = false
 +++
 
-**Work in progress**
-
 I've built this website almost a year ago during the summer days. This year, the summer arrived two months earlier than it is supposed to and this takes me back mentally to those days. Maybe that's why I've been looking into the behind-the-screens mess that is this blog. First lesson learned: letting things lie for long times will make it more difficult to pick things up where you left them. Who would've thought?
 
 There are still some things I want to fix and implement on this website, while also keeping it simple and light. I'll try and explain what and how in this post. Mind you: I'm absolutely no web developer or anything remotely like that.
@@ -24,7 +22,7 @@ There are still some things I want to fix and implement on this website, while a
 * Adapt header to use favicon ✔
 * Look into web feed functionality ✔
 * Rewrite 'About' page ✔
-* Reach a state that I could describe as being fully functional (version 1.0) ✘
+* Reach a state that I could describe as being fully functional (version 1.0) ✔
 
 All changes will also be documented on the [approriate page](/version).
 
@@ -82,4 +80,4 @@ Made a simple typographical favicon to make the website recognizable in a browse
 Hugo has a simple built in [rss page template](https://gohugo.io/templates/rss/). I just put the relevant code in the head.html file to get it to work. From now on my blog can be subscribed to!
 
 ### Conclusion
-From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
+This isn't just a 'technically functional website' anymore but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
