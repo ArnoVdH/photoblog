@@ -324,13 +324,30 @@ header ul a.active {
   
     .content h1 {
       margin-left: 0px;
-      }
+    }
   
-      .content h2 {
+    .content h2 {
       margin-left: 0px;
-      }
+    }
     
-      .content .date {
+    .date {
       margin-left: 0px;
-      }
+      margin-bottom: 0em;
+    }
+
+    .dropdown-menu{
+        display: inline-flex;
+        margin-left: -7.9em;
+    }
+
+    .dropdown:hover .dropdown-menu{
+        display: inline-flex;
+    }
+
+
+    header ul a {
+        font-size: 1em;
+        width: 3.5em;
+    }
+
   }

@@ -22,6 +22,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 ### 0.9.13 (2020-06-26)
 * Added RSS feed functionality
 * Added css style for inline images
+* Restyled header css for mobile use; at least it's functional
 * Reorganized the static/img folder and matching links
 
 ### 0.9.12 (2020-06-25)
