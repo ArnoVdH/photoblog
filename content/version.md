@@ -10,14 +10,13 @@ type = "static"
 Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### To do & ideas
-* Adapt header menu to fully use hugo code (make single pages and subpages active)
-* Clean up CSS
 * List the 'series' chronologically in nav-menu
-* Make page title reference the site as a whole
 * Add info (metadata) about the pictures that show up only when activated
-* Add certain (static) pages to (dropdown?) menu under About
 * Implement social networking protocol (Webmention?)
-* Implement RSS
+* Change how layout works
+* Restyle menu & add logotype
+* Fix featured image in page bundles
+* Implement responsive images
 
 ***
 ### 0.9.13 (2020-06-26)

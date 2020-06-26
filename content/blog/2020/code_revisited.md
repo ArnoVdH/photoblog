@@ -70,15 +70,16 @@ I have a few static pages that I like to share and that fit under my about page,
 These were just images flung into the post until now, sometimes with a little caption that didn't quite line up. I started using the 'figure' shortcode so I could add captions easily and add classes.
 
 ### Rewrite CSS
-Man, what a nightmarish mess this is, even after rewriting it all. I changed how a few things are handled without changing the design of my blog.
-
-Things still to do:
-* Fix the logo-type (align right)
-* Fix the drop-down-menu (dropdown too big)
-* Add inline-images in blogposts with seperate class
+Man, what a nightmarish mess this is, even after rewriting it all. I changed how a few things are handled without changing the design of my blog too much.
 
 ### Favicon
 Made a simple typographical favicon to make the website recognizable in a browser tab. I converted this through a [favicon generator](https://realfavicongenerator.net/) and added some of the files (the .ico and .png files to be precize) to my static folder and added the necessary code to my head.html template.
 
+### Rewrite the About page
+[See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
+
 ### Web feed functionality
 Hugo has a simple built in [rss page template](https://gohugo.io/templates/rss/). I just put the relevant code in the head.html file to get it to work. From now on my blog can be subscribed to!
+
+### Conclusion
+From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
