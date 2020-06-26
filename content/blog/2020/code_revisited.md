@@ -53,6 +53,8 @@ I made custom shortcode in layouts/shortcodes called photopost.html to range ove
 
 I still find it difficult to wrap my head around how all of this works in detail. I used [Regis' blogpost](https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/) as starting point and adapted my code from there.
 
+FIX FEATURED IMAGES
+
 ### Lazy lazy-loading
 Lazy-loading comes [built-in](https://web.dev/native-lazy-loading/) with the newest web browsers. I decided to make use of this so I could skip the whole java-script portion of my problem - the lazy way to introduce lazy-loading! The downside is that not all browser support this currently and some older browsers just never will. But ask yourself: why are you still using Internet Explorer?
 
@@ -82,3 +84,20 @@ Things still to do:
 
 ### Favicon
 Made a simple typographical favicon to make the website recognizable in a browser tab. I converted this through a [favicon generator](https://realfavicongenerator.net/) and added some of the files (the .ico and .png files to be precize) to my static folder and added the necessary code to my head.html template.
+
+### Rewrite the About page
+[See for yourself.](/about) Less links to pages you can easily find and reach through the dropdown menu's described above.
+
+FIX SELF PORTRAIT!
+
+### Web feed functionality
+**TO DO**
+https://gohugo.io/templates/rss/
+Should be able to generate these automatically...
+
+### Conclusion
+From now on this isn't just a 'technically functional website' but one that I can say is 'done'. That isn't to say that there are not more improvements or additions to be made, but none are necessary to have the site do what I want it to do.
+
+Changed the featured image to `{{ .Resources.GetMatch "**.jpg" }}` to fetch the first image in the bundle as featured image.
+
+FIX FEATURED IMAGES
