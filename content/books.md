@@ -1,6 +1,6 @@
 +++
 date = 2019-09-01T08:00:00Z
-description = ""
+description = "My reading history"
 featured_image = ""
 tags = []
 title = "Books"
