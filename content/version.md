@@ -1,6 +1,6 @@
 +++
 date = 2019-07-10T08:00:00Z
-description = ""
+description = "Version history of this blog"
 featured_image = ""
 tags = []
 title = "Version history"
@@ -21,6 +21,8 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 ***
 ### 0.9.13 (2020-06-26)
 * Added RSS feed functionality
+* Added css style for inline images
+* Reorganized the static/img folder and matching links
 
 ### 0.9.12 (2020-06-25)
 * Rewrote the css stylesheet from scratch (unfortunately this did *not* make it easier to fix my original problem)
