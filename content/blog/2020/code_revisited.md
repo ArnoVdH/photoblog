@@ -61,7 +61,7 @@ I usually resize my images to 1200 pixels on the long side. This is, in my opini
 
 For good measure I passed all my photographs through another round of compression to shave off an additional 45%, give or take. This *halved* the load of the home page!
 
-### Dropdown menu's
+### Dropdown menus
 I have a few static pages that I like to share and that fit under my about page, so I wanted to include a drop-down menu for this. This meant going back to hugo menu templates. I added a new menu type (called 'about') to range over as a submenu. Then I used some (probably very sloppy) css code to position this menu under 'About' and make it hidden unless when hovered over.
 
 ### Restyle blogpost images
@@ -74,7 +74,7 @@ Man, what a nightmarish mess this is, even after rewriting it all. I changed how
 Made a simple typographical favicon to make the website recognizable in a browser tab. I converted this through a [favicon generator](https://realfavicongenerator.net/) and added some of the files (the .ico and .png files to be precize) to my static folder and added the necessary code to my head.html template.
 
 ### Rewrite the About page
-[See for yourself.](/about) Less links to scattered page, those can now be easily found and reached through the dropdown menu's described above.
+[See for yourself.](/about) Less links to scattered pages, those can now be easily found and reached through the dropdown menu's described above.
 
 ### Web feed functionality
 Hugo has a simple built in [rss page template](https://gohugo.io/templates/rss/). I just put the relevant code in the head.html file to get it to work. From now on my blog can be subscribed to!
