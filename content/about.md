@@ -3,13 +3,14 @@ title =  "About"
 date = 2019-07-08T22:15:02+02:00
 tags = []
 featured_image = ""
-description = ""
+description = "A page about myself"
 draft = false
 type = "static"
 # menu = "main" #added to make the link active#
 +++
+{{< figure src="/img/me.jpg" class="inline-img" >}}
 
-{{< figure src="/img/me.jpg" class="inline-img" >}}I'm Arno, a 30-years old civil-servant, philosopher and generalist geek. 
+I'm Arno, a 30-years old civil-servant, philosopher and generalist geek. 
 
 I live in Ghent, Belgium, where I was born. I grew up outside of town but returned here to study philosophy at the university and stayed here. I love this city with it's exciting blend of history, culture and social life. On my days off, chances are you find me somehwere in a coffee bar writing, reading or debating friends, or walking around town with my camera. During working hours I'm an administrative expert for the Belgian federal social security.
 
