@@ -1,6 +1,6 @@
 +++
 date = 2019-09-15T13:33:00Z
-description = ""
+description = "An overview of my life"
 featured_image = ""
 tags = []
 title = "Timeline"

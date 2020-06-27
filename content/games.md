@@ -1,6 +1,6 @@
 +++
 date = "2019-09-22T10:00:00.000+02:00"
-description = ""
+description = "A list of games I play(ed)"
 featured_image = ""
 tags = []
 title = "Games"
