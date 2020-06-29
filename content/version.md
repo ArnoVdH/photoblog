@@ -17,6 +17,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 * Restyle menu & add logotype
 * Fix featured image in page bundles
 * Implement responsive images
+* Fixes for mobile view
 
 ***
 
