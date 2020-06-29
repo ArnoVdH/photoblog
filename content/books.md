@@ -21,7 +21,7 @@ menu = "about"
 * **Pandemic!** - Slavoj Žižek ★★★
 * **Agents of Dreamland** - Caitlín R. Kiernan ★★★
 * **We Have Always Lived in the Castle** - Shirley Jackson ★★★
-* **De meeste mensen deugen** - Rutger Bregman ★★★
+* **De meeste mensen deugen** - Rutger Bregman ★★★★
 * **The Plague** - Albert Camus ★★★★★
 * **Failed It!** - Erik Kessels ★★
 * **Are your keys purposely hiding?** - Anne Fonteyn ★★★★
