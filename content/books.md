@@ -9,12 +9,13 @@ menu = "about"
 
 +++
 ## Currently reading
-* **A Tomb for Boris Davidovich** - Danilo Kiš 
+* **The State and Revolution** - Vladimir Lenin
 * **Python Crash Course** - Eric Matthes
 * **China: A History** - John Keay
 
 ## Read
 ### 2020
+* **A Tomb for Boris Davidovich** - Danilo Kiš ★★★★
 * **Switch Bitch** - Roald Dahl ★★★
 * **Gideon the Ninth** - Tamsyn Muir ★★
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey ★★★★
