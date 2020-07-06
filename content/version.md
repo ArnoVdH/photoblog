@@ -1,6 +1,6 @@
 +++
 date = 2019-07-10T08:00:00Z
-description = ""
+description = "Version history of this blog"
 featured_image = ""
 tags = []
 title = "Version history"
@@ -9,27 +9,45 @@ type = "static"
 +++
 Overview of to-do's, ideas for, and (major) changes to the website.
 
-### To do
-* Make images more responsive and lighter (and add lazy loading?)
-* Built shortcode to insert images in photo page from a folder
-* Implement page bundles
-* Adapt header menu to fully use hugo code (make single pages and subpages active)
-* Clean up CSS
-* Add a graphic logo
+### To do & ideas
 * List the 'series' chronologically in nav-menu
-* Make page title reference the site as a whole
-* Add favicon
 * Add info (metadata) about the pictures that show up only when activated
-* Add certain (static) pages to (dropdown?) menu under About
-
-### Ideas
 * Implement social networking protocol (Webmention?)
+* Change how layout works
+* Restyle menu & add logotype
+* Fix featured image in page bundles
+* Implement responsive images
+* Fixes for mobile view
 
 ***
-### 0.9.9 (2020-06-17)
-* Added a render hook to make images lazy-loading. Code taken from [here](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html). This works on local server but not on deployed version.
+
+### 1.0 (2020-06-26)
+* Added RSS feed functionality
+* Added CSS style for inline images
+* Restyled header CSS for mobile use; at least it's functional
+* Reorganized the static/img folder and matching links
+
+### 0.9.12 (2020-06-25)
+* Rewrote the CSS stylesheet from scratch (unfortunately this did *not* make it easier to fix my original problem)
+* Switched to using the 'figure' shortcode from hugo for images (and associated captions) in blogposts
+* Moved the logotype AVdH outside of the `<header>` scope
+
+### 0.9.11 (2020-06-24)
+* Added favicon to head.html partial
+* Added nested list in header.html for dropdown menu
+* Added css to make dropdown menu (semi)functional
+
+### 0.9.10 (2020-06-23)
+* Changed baseURL to https://arnovdh.be/ to keep the blog's URL constant
 * Added shortcodes folder
-* Made a leaf bundle for a photoblog post
+* Made a photopost.html shortcode to range over images in page bundles to make photoposts easier. 
+* Built page-bundles to render the photoblog, using the shortcode mentioned above.
+* Removed all single photoblog pages
+* Compressed all photoblog images an additional ±45% in size
+
+### 0.9.9 (2020-06-17)
+* Added a render hook to make images lazy-loading. Code taken from [here](https://nickmchardy.com/2020/05/adding-lazy-loading-for-images-in-hugo-static-site-generator.html)
+* added a _markup folder
 
 ### 0.9.8 (2020-04-25)
 * Changed link page name to ':filename' instead of ':slug' for better URL management.
@@ -41,7 +59,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### 0.9.6 (2020-04-13)
 
-* Changes to blogpost images css
+* Changes to blogpost images CSS
 * Started adding featured images to relevant blogposts & for all photo posts
 
 ### 0.9.5 (2020-04-12)
@@ -60,7 +78,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ### 0.9.2 (2019-09-15)
 
-* Reorganized responsive css layout for mobile devices (changed order in css file)
+* Reorganized responsive CSS layout for mobile devices (changed order in CSS file)
 * Fixed margins
 * Added a curriculum (life overview) page
 
@@ -74,7 +92,7 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 * Draft version hosted on Netlify (https://arno.netlify.com/)
 * Started the ubi-introduction blogpost
-* Lots of tweaks to the css
+* Lots of tweaks to the CSS
 * Added this version history static page
 
 ### Earlier versions
