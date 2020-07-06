@@ -9,11 +9,15 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Gideon the Ninth** - Tamsyn Muir
+* **The State and Revolution** - Vladimir Lenin
+* **Python Crash Course** - Eric Matthes
 * **China: A History** - John Keay
 
 ## Read
 ### 2020
+* **A Tomb for Boris Davidovich** - Danilo Kiš ★★★★
+* **Switch Bitch** - Roald Dahl ★★★
+* **Gideon the Ninth** - Tamsyn Muir ★★
 * **Marx, Capital and the Madness of Economic Reason** - David Harvey ★★★★
 * **Pandemic!** - Slavoj Žižek ★★★
 * **Agents of Dreamland** - Caitlín R. Kiernan ★★★

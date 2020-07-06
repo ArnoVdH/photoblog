@@ -14,12 +14,27 @@ Intro
 <!--more-->
 
 ## A Word on Problems
+Game has problems of course.
+Combat.
+Limitations of the engine.
 
 ## The World of Vvardenfell
+Feels larger than it is.
+Feels alien.
+You get around by following descriptions of the path, not always a marker on a map.
+Looks good even with distant land generated in MGEXE.
+Extended with Tamriel Rebuilt over the years.
+
+MUSHROOMS
 
 ## Design
+Architecture
+Mud architecture, Telvanni wizard towers, Vivec city, ancestral tombs & old strongholds.
+
+It's telling that the least original elements are those that are actually from outside of Morrowind and Dunmer culture proper: Empire architecture is based on the Roman styles, Nord elements are medieval and viking influenced...
 
 ## Lore and prophecy
+You're only  the hero because you make it so.
 
 ## Playing in 2020
 More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave]https://youtu.be/iR-K2rUP86M)!
