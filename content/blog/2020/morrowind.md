@@ -49,6 +49,8 @@ I reinstalled the game and did another playthrough during the covid-19 crisis an
 {{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
 {{< figure src="/img/morrowind/balmora.jpg" class="" caption="Balmora with the Dwemer ruins of Arkngthand in the background">}}
 {{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell">}}
+{{< figure src="/img/morrowind/mournhold.jpg" class="" caption="The city of Mournhold, as seen in Tamriel Rebuilt">}}
+{{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
 
 
 
