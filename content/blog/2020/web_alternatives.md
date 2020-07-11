@@ -1,7 +1,7 @@
 +++
 title =  "Web Alternatives"
 date = 2020-06-14T10:44:34+02:00
-categories = []
+categories = ["personal", "online-life"]
 featured_image = ""
 description = ""
 draft = true
@@ -27,6 +27,13 @@ I opted to use [posteo](https://posteo.de/en), a German e-mail provider with qui
 
 The biggest hurdle in switching e-mail addresses is changing all your accounts to use your new address. This takes some time but I would encourage you to make use of this moment to start using a **[password manager](https://en.wikipedia.org/wiki/Password_manager)** for added security and easy account management. I myself use [Bitwarden](https://bitwarden.com/).
 
+## Security
+**Status: done ✔**
+
+Pasword manager
+
+Two factor Authentication
+
 ## Calendar
 **Status: done ✔**
 
@@ -35,24 +42,67 @@ The actual calendar was easy: it came with a posteo account (together with an ad
 ## Chat & messaging
 **Status: done ✔**
 
+Signal
+
 ## Search page
 **Status: done ✔**
+
+Verschillende alternatieven, ecosia, duckduckgo, searx,... uiteindeijk gekozen voor qwant.
 
 ## News & Feed
 **Status: in progress**
 
 Reclaim your webfeed?
+Feed aggregator.
 
 ## Social networking
 **Status: to do ✘**
 
 Webmention???
+Mastodon
+Diaspora
 
 ## Maps & route planning
 **Status: to do ✘**
 
+OpenStreetMap
+Geen openbaar vervoer :(
+
 ## Cloud storage
 **Status: to do ✘**
 
-## Operating systems
+* NextCloud
+
+## Desktop operating system
 **Status: to do ✘**
+
+I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use.
+
+Independant/dependant?
+Debian (stabiel)
+    Ubuntu (huge, stabiel)
+Arch (slim, clutter-free, well documented)
+    Manjaro (toegankelijk, rolling release,...)
+Void (nieuw? ontoegankelijk)
+Fedora (reinstall nodig om de zoveel tijd, laat maar)
+Gentoo (blijkbaar out of favor)
+Solus (???) - https://getsol.us/home/
+
+
+Questions:
+-Rolling release?
+-Desktop environment?
+-Proprietary software allowed?
+-Difficulty?
+-Ecosystem?
+-Package manager?
+-Gaming feasible?
+
+## Mobile operating System
+There are a few possibilities:
+* LineageOS
+* /e/
+* Replicant
+* GrapheneOS
+
+Software via F-droid.
