@@ -1,7 +1,7 @@
 +++
-title =  "Web_alternatives"
+title =  "Web Alternatives"
 date = 2020-06-14T10:44:34+02:00
-categories = ["personal", "online-life"]
+categories = ["personal", "internet"]
 featured_image = ""
 description = ""
 draft = true
