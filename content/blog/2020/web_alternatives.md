@@ -46,7 +46,7 @@ I sent a message to friend and family that I would stop using WhatsApp and that 
 ## Search page
 **Status: done ✔**
 
-Verschillende alternatieven, ecosia, duckduckgo, searx,... uiteindeijk gekozen voor qwant.
+There are multiple alternative search engines to replace the omnipresent Google. For a time I used Searchpage, but they have been since bought by an advertising company so I decided to switch over again. Some other alternatives I considered where Ecosia (focus on ecology by planting trees with revenue), DuckDuckGo (focus on privacy but based in the US), Searx (open-source, privacy-oriented, federated and meta-search) and Qwant (EU based, focus on privacy, proprietary software but developed in collaboration with the French government among others). For now, I've been using Qwant and I'm quite happy with the results.
 
 ## News & Feed
 **Status: in progress**
@@ -68,6 +68,7 @@ Geen openbaar vervoer :(
 
 ## Cloud storage
 **Status: done ✔**
+
 I wanted a service that worked well on multiple platforms (Windows, Linux, Android), offered a decent amount of free storage space and had reasonable pricing for future use. Respect for privacy was also important. I ended up using [pCloud](https://www.pcloud.com/eu) for this.
 
 ## Desktop operating system
