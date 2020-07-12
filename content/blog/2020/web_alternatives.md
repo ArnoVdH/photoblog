@@ -4,16 +4,19 @@ date = 2020-07-12T21:03:00+02:00
 categories = ["personal", "internet"]
 featured_image = ""
 description = "A post about my efforts to get away from the big data corps"
-draft = true
+draft = false
 +++
+This blogpost is an overview of more open, more respectful and more private alternatives to the ones I and a lot of other people have been using until now, often for free. It's an attempt to claim back ownership of my virtual self.
 
-Looking for alternatives for the big corporations.
-
-My personal journey.
-
-Not an easy one. And absolutely not complete. I am no high-tech wizzkid, no privacy saint, nor a recluse.
+Why did I do this? These last few years I've started to shift away from trusting the big data corporations such as Google and Facebook. I'm suspicious about the free services these companies offer us. Not only are they invasive of our privacy, they also profit of the enormous amount of data that we generate for them. This way these companies have a huge impact on our consumption, on our ideas, on our relations, on our society and democracy. They are also not held accountable for anything and sooner or later the repercussions will catch up with us - if they haven't already.
 
 <!--more-->
+
+I decided somewhere last year that I needed to change my own internet habits and the services that enable them. While my shift towards suspicions was quite sudden, it also dawned on me that actually stepping away from it all would be hard. Not just because it's difficult to find alternatives - it is a little, but sites like [AlternativeTo](https://alternativeto.net/) give lots of crowd-sourced options - but more importantly because they are imbedded in your social life too: people share the same social networks, use overlapping services that have great integration (collaborative working with Google Docs for instance), or account-managing through other social media (logging in with your Facebook or Google account). Of course it's always possible to find alternatives of step away from these corporations entirely - well, not *really* entirely since they also keep track of non-users with shadow accounts - but once you're a user that's been pulled into the ecosystem of Big Tech, you're bound to lose something when quitting.
+
+So this is more than just a list of choices, this is also the still unfinished journey to save myself, and reclaim ownership, as data-set. This website is part of that, as an outlet for what I do. But there is so much more to do. So I tried to break this journey up into different parts. Some of them are done, some of them are a work in progress, some of them have been thought about but not yet implemented and others are just very difficult to find satisfactory solutions for.
+
+I also know that I'm far from perfect. There will be people who'll have issues with some of my choices, think they know it all better (and they probably do). I am not a high-tech wizzkid that's capable of doing everything himself, nor am I a privacy saint or a recluse who's prepared to give it all up in the name of security.
 
 A quick word on self-hosting: in quite a few of the cases below, self-hosting would be a great option, especially if you're tech-savvy enough and have a higher risk profile. I'm neither, so I chose other options.
 
