@@ -56,9 +56,11 @@ One of the things I use Facebook for, just like many other people on our planet 
 ## Social networking
 **Status: to do ✘**
 
-Webmention???
-Mastodon
-Diaspora
+I honestly think this will be the most difficult part of the transitioning, since this isn't just a technical problem to be overcome, but more importantly a social one. Due to the network effect, switching to another network means a huge loss. Unfortunately most commercial social networks don't communicate between eachother, let alone federate.
+
+There are some alternative social networks, mostly federated and built around technology like ActivityPub. There's Mastodon (a Twitter clone), Diaspora (a Facebook like social network) and some more. But most of these are very niche.
+
+Another possibility would be to make a social network between websites themselves. This could be done through some sort of advanced RSS or the Webmention technology.
 
 ## Maps & route planning
 **Status: to do ✘**
