@@ -24,12 +24,10 @@ This was actually pretty easy to do. One of the reasons, I guess, is that, for o
 
 I opted to use [posteo](https://posteo.de/en), a German e-mail provider with quite a comprehensive privacy policy and transparent communication and a very fair pricing policy (1 euro per month). I think that paying for such a service is worth it; this way I don't get served advertisements and the provider will have less incentive to sell-out and compromise my data. Posteo uses green energy to run their services and offer multiple security measures such as encryption, 2FA (two-factor authentication) and anonymous payment options.
 
-The biggest hurdle in switching e-mail addresses is changing all your accounts to use your new address. This takes some time but I would encourage you to make use of this moment to start using a **[password manager](https://en.wikipedia.org/wiki/Password_manager)** for added security and easy account management. I myself use [Bitwarden](https://bitwarden.com/).
-
 ## Security
 **Status: done ✔**
 
-Pasword manager
+I really needed to start using unique and more difficult passwords for all my accounts, so that one leak wouldn't compromise everything. For years I had the bad habit of using only a limited set of (far too easy) passwords. Switching to another e-mail provider proved to be the ideal reason to start using a **[password manager](https://en.wikipedia.org/wiki/Password_manager)** for added security and easy account management. I myself use [Bitwarden](https://bitwarden.com/). It's open-source and has encrypted cloud storage of your password vault so I can access it on multiple devices easily.
 
 Two factor Authentication
 
@@ -55,28 +53,27 @@ Verschillende alternatieven, ecosia, duckduckgo, searx,... uiteindeijk gekozen v
 
 One of the things I use Facebook for, just like many other people on our planet these days, is as a source of news. This is problematic to say the least, but they *are* pretty good at giving you a good overview without overwhelming the user. This was a huge problem when I tried to switch to using a regular RSS feed: as soon as I started following two or three news-sources, I quickly became overwhelmed by updates and notifications. This seemed counterproductive. So I started looking for a feed aggregator that has some way of filtering or an algorithm that keeps it accessible to me.
 
-Reclaim your webfeed?
-Feed aggregator.
-
 ## Social networking
+**Status: to do ✘**
 
 Webmention???
 Mastodon
 Diaspora
 
 ## Maps & route planning
+**Status: to do ✘**
 
 OpenStreetMap
 Geen openbaar vervoer :(
 
 ## Cloud storage
-
-* NextCloud
+**Status: done ✔**
+I wanted a service that worked well on multiple platforms (Windows, Linux, Android), offered a decent amount of free storage space and had reasonable pricing for future use. Respect for privacy was also important. I ended up using [pCloud](https://www.pcloud.com/eu) for this.
 
 ## Desktop operating system
 **Status: to do ✘**
 
-I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](https://manjaro.org/). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux. 
+I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](https://manjaro.org/). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux. It's also an experiment in gaming for me, using [Proton](https://github.com/ValveSoftware/Proton).
 
 ## Mobile operating System
 **Status: to do ✘**
