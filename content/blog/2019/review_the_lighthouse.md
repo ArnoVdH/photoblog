@@ -6,7 +6,7 @@ featured_image = "/img/blog/the_lighthouse.jpg"
 title = "Review: The Lighthouse"
 
 +++
-The Lighthouse is [**Robert Eggers'**](https://en.wikipedia.org/wiki/Robert_Eggers) newest film, after the 18th century psychological horror masterpiece movie The VVitch. This film too is a meticulously put together work of art, with a fabulous dual cast of Willem Dafoe and Robert Pattinson (trivia: this is the first time I saw a movie with Pattinson), bombastic dialogues, great visuals and the best Lovecraftian atmosphere I've seen in a long time.
+The Lighthouse is [Robert Eggers'](https://en.wikipedia.org/wiki/Robert_Eggers) newest film, after the 18th century psychological horror masterpiece movie The VVitch. This film too is a meticulously put together work of art, with a fabulous dual cast of Willem Dafoe and Robert Pattinson (trivia: this is the first time I saw a movie with Pattinson), bombastic dialogues, great visuals and the best Lovecraftian atmosphere I've seen in a long time.
 
 <!--more-->
 
@@ -22,6 +22,4 @@ And keeping the best for last: the cinematography is superb. The movie was shot 
 
 Robert Eggers is making his name as a preeminent director of quality horror these days, and I'm curious about what he'll make for us in the future. Be sure to give this one a viewing, it's worth it.
 
-![](/img/blog/the_lighthouse.jpg)
-
-<h6>Willem Dafoe and Robert Pattinson as the gruffy lighthouse keepers</h6>
+{{< figure src="/img/the_lighthouse.jpg" caption="Willem Dafoe and Robert Pattinson as the gruffy lighthouse keepers" >}}

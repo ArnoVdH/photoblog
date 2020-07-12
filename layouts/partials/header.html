@@ -1,9 +1,23 @@
+<div class="empty"></div>
+
+<a class="logo"href=/><img src="/logo.png" alt="AVdH"></a>
+
 <header class="header">
     <ul>
-        <li><a href=/><img src="" alt="AVdH"></a></li>  
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
         <li><a class="header-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
         {{ end }}
+        <div class="dropdown">
+        <li><a class="header-item dropbutton" href="/about">About</a></li>
+            <u class="dropdown-menu">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.about }}
+                <li><a class="dropdown-item{{if or ($currentPage.IsMenuCurrent "about" .) ($currentPage.HasMenuCurrent "About" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+                {{ end }}
+            </u>
+        </div>
     </ul>
 </header>
+
+<div class="empty"></div>

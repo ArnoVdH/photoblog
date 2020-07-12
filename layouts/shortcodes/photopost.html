@@ -1,0 +1,7 @@
+{{ $myImage := .Page.Resources.Match "**.jpg" }}
+{{ with $myImage }}
+    {{ range . }}
+        <br>
+        <img loading=lazy src="{{.Permalink }}">
+    {{ end }}
+{{ end }}

@@ -1,353 +1,354 @@
-/* ===GENERAL=== */
-
+/* GENERAL */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
-  text-decoration: none;
-  color: black;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "RennerBookBold", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: black;
 }
 
 p {
-  color: black;
+    margin-top: 0.5em;
+}
+
+h1 {
+    font-size: 2em;
+    margin-left: -20px;
+    color: #B00032;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #83878C;
+    margin-top: 1em;
+}
+
+h2 {
+    margin-left: -20px;
 }
 
 a {
-  color: #B00032;
+    color: #B00032;
 }
 
 a:hover {
-  color: #cc2e5a;
+    color: #cc2e5a;
 }
 
 code {
-  font-size: 1.4em;
-  font-family: monospace;
-  font-weight: 600;
-  color: #83878C;
+    font-size: 1.2em;
+    font-family: monospace;
+    font-weight: 500;
+    color: #83878C;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 3px solid #83878C;
+    margin: 1em 3em 1em 1.7em;
+    padding-left: 0.3em;
+}
+
+blockquote p {
+    color: #83878C;
+  }
+
+del {
+    text-decoration: line-through;
 }
 
 hr {
-  margin-top: 0.5em;
-  margin-bottom: 1.5em;
-  height: 3px;
-  background-color: #B00032;
-  color: #B00032;
+    color: #B00032;
+    background-color: #B00032;
+    height: 3px;
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
 }
 
-.pagination {
-  list-style: none;
+.date {
+    margin-left: -20px;
+    margin-bottom: 0.5em;
 }
 
-/* ===HEADER=== */
-/* Add a background color to the top navigation */
+/* HEADER */
+/* Logo */
+.logo {
+    position: fixed;
+    width: 100%;
+    font-size: 1.4em;
+    padding: 1em 0em 0.5em 1em;
+    background-color: whitesmoke;
+    border-bottom: 3px solid transparent;
+}
+
+/* Main menu */
 header ul {
-  padding-left: 7px;
-  padding-top: 7px;
-  background-color: white;
-  overflow: hidden;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
-  list-style: none;
+    position: fixed;
+    top: 0;
+    width: 30em;
+    list-style: none;
+    overflow: hidden;
+    padding-top: 0.5em;
+    background-color: whitesmoke;
 }
 
-/* Style the links inside the navigation bar */
 header ul a {
-  float: left;
-  color: black;
-  display: block;
-  text-align: center;
-  padding: 14px 20px;
-  text-decoration: none;
-  font-size: 1.4em;
-  border-bottom: 3px solid transparent;
+    float: left;
+    color: black;
+    display: block;
+    text-align: center;
+    font-size: 1.4em;
+    width: 4em;
+    border-bottom: 3px solid transparent;
+    padding: 0.5em 0.5em 0.5em 0em;
 }
 
-/* Change the color of links on hover */
 header ul a:hover {
-  border-bottom: 3px solid #B00032;
+    border-bottom: 3px solid #B00032;
 }
 
-/* Add a color to the active/current link */
 header ul a.active {
-  border-bottom: 3px solid #B00032;
+    border-bottom: 3px solid #B00032;
 }
 
-/* Make logo alt text black */
-header img {
-  color: black;
+/* Dropdown menu */
+.dropdown {
+    position: relative;
+    display: inline-block;
 }
 
-header img:hover {
-  color: black;
+.dropdown-menu {
+    display: none;
+    position: relative;
+    z-index: 1;
+    transition: 2s;
 }
 
-/* ===PHOTO BLOG CONTENT=== */
-.content img {
-    max-width: 100vw;
-    max-height: 90vh;
+.dropdown:hover .dropdown-menu{
+    display: inline-block;
 }
 
-/* ===BLOG CONTENT=== */
-.content {
-  line-height: 1.5em;
-  margin-top: 5em;
-  margin-bottom: 2em;
-  color: black;
-  text-align: justify;
-  list-style: initial;
-}
-
-.content h2, h3, h4, h5, h6 {
-  color: #83878C;
-}
-
-.content blockquote{
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 2em;
-  padding-left: 0.5em;
-  margin-right: 3em;
-  color: #83878C;
-  font-weight: 500;
-  font-style: italic;
-  border-left: 3px solid #83878C;
-}
-
-.content blockquote p {
-  padding-top: 0em;
-  color: #83878C;
-}
-
-.content h1 {
-  font-size: 2em;
-  margin-left: -20px;
-  color: #B00032;
-}
-
-.content .date {
-  margin-left: -20px;
-  margin-bottom: 1em;
-}
-
-.content h2 {
-  margin-top: 1em;
-  margin-left: -20px;
-}
-
-.content h3 {
-  font-weight: bold;
-  margin-top: 1em;
-}
-
-.content h6 {
-  font-size: 0.7em;
-  font-weight: initial;
-  display: block;
-  margin-top: 0em;
-  margin-bottom: 0em;
-  margin-left: 2.5em;
-  max-width: 90%;
-  color: #83878C;
-}
-
-.content h6 i {
-  color: #83878C;
-}
-
-.content p {
-  margin-top: 0.5em;
-}
-
-.content li {
-  margin-left: 2.5em;
-}
-
-.content del {
-  text-decoration: line-through;
-}
-
-.content a {
-  color: #B00032
-}
-
-.content a:hover {
-  color: #cc2e5a;
-}
-
-.content .read-more {
-  margin-top: 0.5em;
-}
-
-.tag-cat-list hr {
-  margin-top: 5em;
-  margin-bottom: 0em;
-  width: 30%;
-}
-
-.tag-cat-list {
-  font-size: 0.9em;
-}
-
-.blogpost {
-  max-width: 50em;
-  list-style: initial;
-}
-
-.blogpost img {
-  display: block;
-  margin-left: 2.5em;
-  max-width: 90%;
-}
-
-/* ===PHOTO BLOG NAVIGATION=== */
+/* NAVIGATION */
 .nav {
-  padding-top: 5em;
-  padding-left: 1em;
-  padding-right: 2.5em;
-  text-align: end;
-  list-style: none;
+    padding-top: 5em;
+    padding-left: 1em;
+    padding-right: 2.5em;
+    text-align: end;
+    list-style: none;
 }
-
-.series {
-  font-size: 1.4em;
-  text-transform: capitalize;
-}
-
-.tags {
-  font-size: 1em;
-  text-transform: capitalize;
-}
-
-/* ===BLOG NAVIGATION=== */
 .categories {
-  font-size: 1.2em;
-  text-transform: capitalize;
+    font-size: 1.2em;
+}
+.series {
+    font-size: 1.8em;
+}
+.tags {
+    font-size: 1.2em;
 }
 
-/* ===PAGINATION BUTTONS=== */
+/* PAGINATION */
 .pagination {
-  display: inline-flex;
-  text-align: center;
-  justify-content: center;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    list-style: none;
 }
 
 .pagination a {
-  color: black;
-  float: left;
-  padding: 8px 16px;
-  text-decoration: none;
+    color: black;
+    float: left;
+    padding: 8px 16px;
 }
 
-/* ===FOOTER=== */
-
+/* FOOTER */
 .footer {
-  display: block;
-  margin-left: 10px;
-  margin-bottom: 5px;
+    display: block;
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+    color: #83878C;
 }
 
-.footer p {
-  color: #83878C;
+.footer p, .footer a {
+    color: #83878C;
 }
 
-.footer a {
-  color: #83878C;
-}
-
-/* ===LAYOUT=== */
-
-.header {
-  grid-area: hd;
-}
-
-.footer {
-  grid-area: ft;
-}
-
-.nav, .sidebar {
-  grid-area: nav;
-}
-
+/* CONTENT */
 .content {
-  grid-area: main;
+    line-height: 1.5em;
+    margin-top: 5em;
+    text-align: justify;
 }
 
+.content ul {
+    margin-left: 2em;
+    margin-top: 0.5em;
+}
 
+.tag-catlist {
+    font-size: 0.9em;
+}
+
+.tag-cat-list hr {
+    margin-top: 3em;
+    margin-bottom: 0em;
+    width: 30%;
+}
+
+/* Photoblog*/
+.content img {
+    max-height: 85vh;
+    max-width: 80vw;
+}
+
+/* Blogpost */
+.blogpost {
+    max-width: 50em;
+}
+
+.blogpost img {
+    max-width: 46em;
+    max-height: 25em;
+    margin: 1em 2em 0em 2em;
+}
+
+.blogpost .inline-img {
+    float: left;
+    margin-left: -1em;
+}
+
+.blogpost figcaption{
+    margin-top: -0.5em;
+    max-width: 46em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+
+.blogpost figcaption p{
+    line-height: normal;
+    font-size: 0.7em;
+    color: #83878C;
+}
+
+.blogpost figcaption em {
+    line-height: normal;
+    font-size: 0.9em;
+    color: #83878C;
+}
+
+.content .read-more {
+    margin-top: 0.5em;
+}
+
+/* LAYOUT */
+/* Define areas */
+.header {
+    grid-area: hd;
+}
+.footer {
+    grid-area: ft;
+}
+.nav, .sidebar {
+    grid-area: nv;
+}
+.content {
+    grid-area: mn;
+}
+.logo {
+    grid-area: lg;
+}
+
+/* Desktop */
 @media only screen and (min-width: 1000px){
-.wrapper {
-  min-height: 100vh;
-  display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  grid-template-rows: auto 1fr auto;
-  grid-template-areas:
-    "hd hd hd hd hd hd hd hd hd hd"
-    "nav nav main main main main main main main ."
-    "ft ft ft ft ft ft ft ft ft ft"
-  }
+    .wrapper {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      grid-template-rows: auto 1fr auto;
+      grid-template-areas:
+        "lg lg hd hd hd hd hd hd hd hd"
+        "nv nv mn mn mn mn mn mn mn  ."
+        "ft ft ft ft ft ft ft ft ft ft"
+      }
 }
-
+/* Tablet */
 @media only screen and (max-width: 999px){
-  .wrapper {
-  display: grid;
-  grid-auto-rows: minmax(100px; auto);
-  grid-template-areas:
-    "hd"
-    "main"
-    "nav"
-    "ft"
-  }
-  
-  .content {
-    margin-left: 5px;
-    margin-right: 5px;
+    .wrapper {
+    display: grid;
+    grid-auto-rows: minmax(100px; auto);
+    grid-template-areas:
+      "hd"
+      "mn"
+      "nv"
+      "ft"
     }
-
+    
+    .content {
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 5em;
+    }
+  
     .content h1 {
-    margin-left: -2px;
-    }
-
+        margin-left: -2px;
+     }
+  
     .content h2 {
-    margin-left: -2px;
+        margin-left: -2px;
+    }
+    
+    .content .date {
+        margin-left: -2px;
     }
   
-    .content .date {
-    margin-left: -2px;
-    }
-
     header {
-      width: 100%;
-    }
-
-    .content blockquote{
-      margin-top: 1em;
-      margin-bottom: 1em;
-      margin-left: 1em;
-      padding-left: 0.2em;
-      margin-right: 0em;
-}
-
-@media only screen and (max-width: 480px){
-  * {
-    margin-left: 2px;
-    margin-right: 2px;
-  }
-
-  .content h1 {
-    margin-left: 0px;
-    }
-
-    .content h2 {
-    margin-left: 0px;
+        width: 100%;
     }
   
-    .content .date {
-    margin-left: 0px;
+    .content blockquote{
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 1em;
+        padding-left: 0.2em;
+        margin-right: 0em;
+    }
+    
+    .nav {
+        text-align: end;
     }
 }
+/* Phone */
+@media only screen and (max-width: 480px){
+    * {
+      margin-left: 2px;
+      margin-right: 2px;
+    }
+  
+    .content h1 {
+      margin-left: 0px;
+    }
+  
+    .content h2 {
+      margin-left: 0px;
+    }
+    
+    .date {
+      margin-left: 0px;
+      margin-bottom: 0em;
+    }
+
+    .dropdown-menu{
+        display: inline-flex;
+        margin-left: -7.9em;
+    }
+
+    .dropdown:hover .dropdown-menu{
+        display: inline-flex;
+    }
+
+
+    header ul a {
+        font-size: 1em;
+        width: 3.5em;
+    }
+
+  }

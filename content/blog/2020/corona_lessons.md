@@ -17,9 +17,7 @@ Despite some not following the guidelines (I'm looking at you, elderly people) -
 ## Advertisement is visual pollution
 All the public advertisement panels in my city have been replaced by '#staysafe' posters. They are pleasingly uniform instead of a patchwork bombardement of attention-grabbing images. Just as the (implied) message itself: "we're all in this together, we have one goal, we can do this." It's still a form of advertisement (for the advert company itself) but born out of necessity and feel-good corporate optimism it forms a stark contrast to the usual panels of models trying to sell you cars, perfume or the newest kitchen appliances at discount rates. It makes clear that these are a form of visual pollution, it saturates our senses, fills our minds with data (I'm loathe to call it 'information') that we never asked for. We could really do without.
 
-
-![](/img/blog/corona-adverts.jpg)
-<h6>#staysafe corona adverts at the public transport hub in Ghent</h6>
+{{< figure src="/img/corona-adverts.jpg" caption="#staysafe corona adverts at the public transport hub in Ghent" >}}
 
 ## Work can be organized differently
 This is most obvious for white-collar workers: it turns out that working from home isn't all that difficult. This and other measures have a huge impact on workers wellbeing: less traffic jams, shorter commute times, consequently less polution, less frustration, beter work-life balance. The infrastructure existed already, it was just being wilfully denied to all lower-tier workers.
