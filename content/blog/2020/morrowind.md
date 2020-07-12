@@ -39,6 +39,8 @@ You're only  the hero because you make it so.
 ## Tribunal & Bloodmoon
 Tribunal is mediocre. The City of Mournhold feels empty: vast spaces with almost nothing to do. The dungeons are interesting though, although the idea of 'lost underground city' is sometimes hit or miss.
 
+Never played Bloodmoon before, in all these years of me playing Morrowind!
+
 ## Playing in 2020
 More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave]https://youtu.be/iR-K2rUP86M)!
 
