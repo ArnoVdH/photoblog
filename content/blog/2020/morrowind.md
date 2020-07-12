@@ -11,12 +11,36 @@ Intro
 
 ### Cliffracers eradicated in my most recent playthrough: 155
 
+{{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell">}}
+
 <!--more-->
 
+> Finarion Sarothryn, a imprisoned Witchblade, arrives in Seyda Neen.
+
+> Finarion works for the Blades
+
+> Finarion explores Vvardenfell
+
+> Finarion discovers the Nerevarine prophesies
+
+> Finarion works to fulfill the prophecies and becomes Hortator of the three houses
+
+> Finarion meets Vivec
+
+> Finarion defeats Dagoth-Ur
+
+> Finarion in Mournhold
+
+> Finarion on Solstheim
+
 ## A Word on Problems
-Game has problems of course.
-Combat.
-Limitations of the engine.
+I'd like to start by recognizing that the game has problems. Although I'm a huge fanboy, I try to be critical of things. Nothing is more annoying than someone not being able to contextualize their object of adoration.
+
+First of all there is the obvious problem of age. The game came out in 2002 so it's obviously limited by the technology of its time. The modding community has done wonders with it though and solved quite a few of its limitations in graphics and a lot of the latent bugs have been fixed by the community. 
+
+The biggest problem is probably the combat system.  
+
+Some people don't like the dialogue system in the game, but I beg to differ. The text-and-hyperlink-based system lowers the entry-level for mods (no need for professional voice-actors or expensive audio equipment) without breaking immersion. The hyperlink system offers a way to delve into the lore as deep as you want to. This system does break down a bit when using the journal, where everything gets muddled because of this. Even the addition of an quest-index did only a little to alleviate this.
 
 ## The World of Vvardenfell
 Feels larger than it is.
@@ -36,16 +60,21 @@ It's telling that the least original elements are those that are actually from o
 ## Lore and prophecy
 You're only  the hero because you make it so.
 
+## Tribunal & Bloodmoon
+Tribunal is mediocre. The City of Mournhold feels empty: vast spaces with almost nothing to do. The dungeons are interesting though, although the idea of 'lost underground city' is sometimes hit or miss.
+
+Never played Bloodmoon before, in all these years of me playing Morrowind!
+
 ## Playing in 2020
 More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave]https://youtu.be/iR-K2rUP86M)!
 
 I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
 
-
 {{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
 {{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
 {{< figure src="/img/morrowind/balmora.jpg" class="" caption="Balmora with the Dwemer ruins of Arkngthand in the background">}}
-{{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell">}}
+{{< figure src="/img/morrowind/mournhold.jpg" class="" caption="The city of Mournhold, as seen in Tamriel Rebuilt">}}
+{{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
 
 
 
