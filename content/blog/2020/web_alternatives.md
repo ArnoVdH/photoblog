@@ -30,7 +30,7 @@ I opted to use [posteo](https://posteo.de/en), a German e-mail provider with qui
 ## Security
 **Status: done ✔**
 
-I really needed to start using unique and more difficult passwords for all my accounts, so that one leak wouldn't compromise everything. For years I had the bad habit of using only a limited set of (far too easy) passwords. Switching to another e-mail provider proved to be the ideal reason to start using a **[password manager](https://en.wikipedia.org/wiki/Password_manager)** for added security and easy account management. I myself use [Bitwarden](https://bitwarden.com/). It's open-source and has encrypted cloud storage of your password vault so I can access it on multiple devices easily.
+I really needed to start using unique and more difficult passwords for all my accounts, so that one leak wouldn't compromise everything. For years I had the bad habit of using only a limited set of (far too easy) passwords. Switching to another e-mail provider proved to be the ideal reason to start using a [password manager](https://en.wikipedia.org/wiki/Password_manager) for added security and easy account management. I myself use [Bitwarden](https://bitwarden.com/). It's open-source and has encrypted cloud storage of your password vault so I can access it on multiple devices easily.
 
 ## Calendar
 **Status: done ✔**
