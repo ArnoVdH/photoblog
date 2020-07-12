@@ -11,12 +11,36 @@ Intro
 
 ### Cliffracers eradicated in my most recent playthrough: 155
 
+{{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell">}}
+
 <!--more-->
 
+> Finarion Sarothryn, a imprisoned Witchblade, arrives in Seyda Neen.
+
+> Finarion works for the Blades
+
+> Finarion explores Vvardenfell
+
+> Finarion discovers the Nerevarine prophesies
+
+> Finarion works to fulfill the prophecies and becomes Hortator of the three houses
+
+> Finarion meets Vivec
+
+> Finarion defeats Dagoth-Ur
+
+> Finarion in Mournhold
+
+> Finarion on Solstheim
+
 ## A Word on Problems
-Game has problems of course.
-Combat.
-Limitations of the engine.
+I'd like to start by recognizing that the game has problems. Although I'm a huge fanboy, I try to be critical of things. Nothing is more annoying than someone not being able to contextualize their object of adoration.
+
+First of all there is the obvious problem of age. The game came out in 2002 so it's obviously limited by the technology of its time. The modding community has done wonders with it though and solved quite a few of its limitations in graphics and a lot of the latent bugs have been fixed by the community. 
+
+The biggest problem is probably the combat system.  
+
+Some people don't like the dialogue system in the game, but I beg to differ. The text-and-hyperlink-based system lowers the entry-level for mods (no need for professional voice-actors or expensive audio equipment) without breaking immersion. The hyperlink system offers a way to delve into the lore as deep as you want to. This system does break down a bit when using the journal, where everything gets muddled because of this. Even the addition of an quest-index did only a little to alleviate this.
 
 ## The World of Vvardenfell
 Feels larger than it is.
@@ -46,23 +70,9 @@ More than 17 years after its release, the game still inspires people. A huge com
 
 I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
 
-![](/img/blog/morrowind/puzzle_canal.jpg)
-<h6>The interior of the Puzzle Canal beneath the Palace of Vivec</h6>
-
-![](/img/blog/morrowind/seyda_neen.jpg)
-<h6>View from the docks of Seyda Neen</h6>
-
-![](/img/blog/morrowind/balmora.jpg)
-<h6>Balmora with the Dwemer ruins of Arkngthand in the background</h6>
-
-![](/img/blog/morrowind/cliff_racers.jpg)
-<h6>Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell</h6>
-
-
 {{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
 {{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
 {{< figure src="/img/morrowind/balmora.jpg" class="" caption="Balmora with the Dwemer ruins of Arkngthand in the background">}}
-{{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell">}}
 {{< figure src="/img/morrowind/mournhold.jpg" class="" caption="The city of Mournhold, as seen in Tamriel Rebuilt">}}
 {{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
 
