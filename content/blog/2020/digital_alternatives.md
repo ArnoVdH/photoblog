@@ -1,5 +1,5 @@
 +++
-title =  "Web Alternatives"
+title =  "Digital Alternatives"
 date = 2020-07-12T21:03:00+02:00
 categories = ["personal", "internet"]
 featured_image = "/img/matrixcode.jpg"
