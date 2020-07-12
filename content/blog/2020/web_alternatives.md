@@ -1,9 +1,9 @@
 +++
 title =  "Web Alternatives"
-date = 2020-06-14T10:44:34+02:00
+date = 2020-07-12T21:03:00+02:00
 categories = ["personal", "internet"]
 featured_image = ""
-description = ""
+description = "A post about my efforts to get away from the big data corps"
 draft = true
 +++
 
@@ -28,8 +28,6 @@ I opted to use [posteo](https://posteo.de/en), a German e-mail provider with qui
 **Status: done ✔**
 
 I really needed to start using unique and more difficult passwords for all my accounts, so that one leak wouldn't compromise everything. For years I had the bad habit of using only a limited set of (far too easy) passwords. Switching to another e-mail provider proved to be the ideal reason to start using a **[password manager](https://en.wikipedia.org/wiki/Password_manager)** for added security and easy account management. I myself use [Bitwarden](https://bitwarden.com/). It's open-source and has encrypted cloud storage of your password vault so I can access it on multiple devices easily.
-
-Two factor Authentication
 
 ## Calendar
 **Status: done ✔**
@@ -65,8 +63,7 @@ Another possibility would be to make a social network between websites themselve
 ## Maps & route planning
 **Status: to do ✘**
 
-OpenStreetMap
-Geen openbaar vervoer :(
+There aren't really that many alternatives to Google Maps, since making a (world)map isn't very easy. The most well-known is OpenStreetMap, a collaborative, open-source effort that works pretty well... Except for public transport help it seems. Which is unfortunate since I do rely on it quite a bit.
 
 ## Cloud storage
 **Status: done ✔**
