@@ -39,8 +39,11 @@ Two factor Authentication
 The actual calendar was easy: it came with a posteo account (together with an adress book). Easy enough to use on my desktop. The problem was setting it up to sync with an app on my smartphone, so I could use it as my planner. This required quite a bit of trial and error and fiddling. In the end I used aCalendar+ as the calendar app itself and DAVx<sup>5</sup>, a payed app, to make synching with CalDAV possible. I've been using it for more than a year now and I'm very happy with it. The only issue that I encountered were some birthdays that had their month and day switched, which led to some akward conversations, but all took it in good humour.
 
 ## Chat & messaging
+**Status: done ✔**
 
-Signal
+More than a year ago I did some research into this and I decided to stop using WhatsApp and Facebook Messenger on my smartphone and switch to Signal completely. Signal *isn't* the most secure messaging app out there, but it's very accessible. It's run by a non-profit organisation and it's software is completely open-source and the encryption protocol they developed is also used by WhatsApp.
+
+I sent a message to friend and family that I would stop using WhatsApp and that they could reach me through Signal (with a little explanation urging them to do the same) or through regular text messages (sms). My core group of friends followed, my family didn't. So be it.
 
 ## Search page
 **Status: done ✔**
@@ -49,6 +52,8 @@ Verschillende alternatieven, ecosia, duckduckgo, searx,... uiteindeijk gekozen v
 
 ## News & Feed
 **Status: in progress**
+
+One of the things I use Facebook for, just like many other people on our planet these days, is as a source of news. This is problematic to say the least, but they *are* pretty good at giving you a good overview without overwhelming the user. This was a huge problem when I tried to switch to using a regular RSS feed: as soon as I started following two or three news-sources, I quickly became overwhelmed by updates and notifications. This seemed counterproductive. So I started looking for a feed aggregator that has some way of filtering or an algorithm that keeps it accessible to me.
 
 Reclaim your webfeed?
 Feed aggregator.
@@ -71,7 +76,7 @@ Geen openbaar vervoer :(
 ## Desktop operating system
 **Status: to do ✘**
 
-I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use.
+I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux.
 
 Independant/dependant?
 Debian (stabiel)
