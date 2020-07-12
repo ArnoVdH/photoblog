@@ -2,11 +2,11 @@
 title =  "Web Alternatives"
 date = 2020-07-12T21:03:00+02:00
 categories = ["personal", "internet"]
-featured_image = ""
+featured_image = "/img/matrixcode.jpg"
 description = "A post about my efforts to get away from the big data corps"
 draft = false
 +++
-This blogpost is an overview of more open, more respectful and more private alternatives to the ones I and a lot of other people have been using until now, often for free. It's an attempt to claim back ownership of my virtual self.
+This blogpost is a list about my search for digital alternatives that are more open, more respectful and more private than the ones I and a lot of other people have been using until now, often for free. It's an attempt to claim back ownership of my virtual self. 
 
 Why did I do this? These last few years I've started to shift away from trusting the big data corporations such as Google and Facebook. I'm suspicious about the free services these companies offer us. Not only are they invasive of our privacy, they also profit of the enormous amount of data that we generate for them. This way these companies have a huge impact on our consumption, on our ideas, on our relations, on our society and democracy. They are also not held accountable for anything and sooner or later the repercussions will catch up with us - if they haven't already.
 
