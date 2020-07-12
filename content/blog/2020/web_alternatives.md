@@ -41,7 +41,7 @@ The actual calendar was easy: it came with a posteo account (together with an ad
 ## Chat & messaging
 **Status: done ✔**
 
-More than a year ago I did some research into this and I decided to stop using WhatsApp and Facebook Messenger on my smartphone and switch to Signal completely. Signal *isn't* the most secure messaging app out there, but it's very accessible. It's run by a non-profit organisation and it's software is completely open-source and the encryption protocol they developed is also used by WhatsApp.
+More than a year ago I did some research into this and I decided to stop using WhatsApp and Facebook Messenger on my smartphone and switch to [Signal](https://signal.org/) completely. Signal *isn't* the most secure messaging app out there, but it's very accessible. It's run by a non-profit organisation and it's software is completely open-source and the encryption protocol they developed is also used by WhatsApp.
 
 I sent a message to friend and family that I would stop using WhatsApp and that they could reach me through Signal (with a little explanation urging them to do the same) or through regular text messages (sms). My core group of friends followed, my family didn't. So be it.
 
@@ -76,33 +76,9 @@ Geen openbaar vervoer :(
 ## Desktop operating system
 **Status: to do ✘**
 
-I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux.
-
-Independant/dependant?
-Debian (stabiel)
-    Ubuntu (huge, stabiel)
-Arch (slim, clutter-free, well documented)
-    Manjaro (toegankelijk, rolling release,...)
-Void (nieuw? ontoegankelijk)
-Fedora (reinstall nodig om de zoveel tijd, laat maar)
-Gentoo (blijkbaar out of favor)
-Solus (???) - https://getsol.us/home/
-
-
-Questions:
--Rolling release?
--Desktop environment?
--Proprietary software allowed?
--Difficulty?
--Ecosystem?
--Package manager?
--Gaming feasible?
+I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](https://manjaro.org/). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux. 
 
 ## Mobile operating System
-There are a few possibilities:
-* LineageOS
-* /e/
-* Replicant
-* GrapheneOS
+**Status: to do ✘**
 
-Software via F-droid.
+This is something I would want to do in the future, but is big hurdle since the Android platform is more tightly integrated and would require more work to be able to do all the things I expect of a smartphone. The main possible OS replacement for Android seems to be [LineageOS](https://lineageos.org/) right now. Instead of using the Google Play Store to install apps, there's the F-droid store with open-source alternatives.
