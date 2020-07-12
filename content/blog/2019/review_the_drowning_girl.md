@@ -22,4 +22,6 @@ There are two short-stories, written by the narrator, embedded in this novel tha
 
 Go read it. The book is beautiful. And like everything in life, needs to get worse before it gets _weird_.
 
-{{< figure src="/img/perrault.png" caption="Albert Perraults 'Fecunda Ratis' as imagined by Michael Zulli" >}}
+![](/img/blog/perrault.png)
+
+<h6>Albert Perraults 'Fecunda Ratis' as imagined by Michael Zulli</h6>

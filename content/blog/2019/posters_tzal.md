@@ -4,25 +4,33 @@ date = 2019-11-22T15:45:27+01:00
 categories = ["personal", "design"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 +++
 
 For years I was a member of a philosophical-minded, freethinking student society in Ghent, called "T.S.G. 't Zal Wel Gaan" ("T.S.G." stands for "taalminnend studentengenootschap" or language-loving student society). It's, as far as I know, the oldest of its kind in Belgium, founded in 1852. It has a long and turbulent history, but that's a story for another time.
 
 During a few years I was a member, I did the visual side of operations, designing the posters mainly. Here I'd like to share some of the ones I made in the course of those years and maybe elaborate on some of the design decisions (or in other words: who I ripped off).
 <!--more-->
-{{< figure src="/img/tzalposters/1_Raes.jpg" class="poster" caption="**Memorial lecture for Koen Raes** One of the very first posters I made; it was an adaption of the existing visual style.">}}
 
-{{< figure src="/img/tzalposters/2_Openingsdebat2011.jpg" class="poster" caption="**Opening debate 2011**">}}
+![](/img/blog/TzalPosters/1_Raes.jpg)
+One of the very first posters I made for the memorial lecture for Koen Raes, political philosopher from Ghent University. This was my own adaption from our previous visual identity.
 
-{{< figure src="/img/tzalposters/3_Gescinska.jpg" class="poster" caption="**Alicja Gescinska on Catholic sexual morality**  I redesigned our visual style to be easily adaptable; based upon the ideas of Jan Tschichold.">}}
+![](/img/blog/TzalPosters/2_Openingsdebat2011.jpg)
+Poster for our opening debate of 2011.
 
-{{< figure src="/img/tzalposters/4_VerhaegeIdentiteit.jpg" class="poster" caption="**Paul Verhaeghe on Identity**">}}
+![](/img/blog/TzalPosters/3_Gescinska.jpg)
+I remade our visual identity to a recognizable and easily adaptable layout, based on some ideas by Jan Tschichold, the famous modernist typographer whom I *totally* ripped off.
 
-{{< figure src="/img/tzalposters/5_BennoBarnard.jpg" class="poster" caption="**Writer Benno Barnard on the Dutch language** This is one of the best typographical posters I made.">}}
+![](/img/blog/TzalPosters/4_VerhaegeIdentiteit.jpg)
 
-{{< figure src="/img/tzalposters/6_Ecologie.jpg" class="poster" caption="**Evening on ecology and sustainable growth** The new style was flexible; changing colours didn't make it unrecognizable.">}}
+![](/img/blog/TzalPosters/5_BennoBarnard.jpg)
+This is one of my best typographical posters I made.
 
-{{< figure src="/img/tzalposters/7_Essaywedstrijd.jpg" class="poster" caption="**Essay contest** One of the last designs I did. I kept it typographical, in theme with the subject. The design was a success: the winning essay was written by someone who found out about the contest through this poster.">}}
+![](/img/blog/TzalPosters/6_Ecologie.jpg)
+The layout turned out to be very flexible in terms of colour, since it's the easily recognizable forms that are what make it so easy to recognize in the first place.
 
-{{< figure src="/img/tzalposters/8_Geuzenprijs.jpg" class="poster" caption="**Geuzen Award**">}}
+![](/img/blog/TzalPosters/7_Essaywedstrijd.jpg)
+One of my last projects was to design the poster for the essay contest we held, and with succes: the winning essay was written by someone who found out about it through them.
+
+![](/img/blog/TzalPosters/8_Geuzenprijs.jpg)
+The essay contest was held together with our *Geuzen* award. I've kept the same principles until the very end: abstract forms, solid colours, balanced typography.

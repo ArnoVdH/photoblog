@@ -1,6 +1,6 @@
 +++
 date = "2019-09-22T10:00:00.000+02:00"
-description = "A list of games I play(ed)"
+description = ""
 featured_image = ""
 tags = []
 title = "Games"
@@ -14,8 +14,8 @@ I used to play a lot, but now only sporadically.
 
 * Warhammer Fantasy Roleplay, 2nd edition
 * Warhammer 40.000: Rogue Trader
-* Shadowrun, 5th edition
-* Dungeons & Dragons, 5th edition
+* Shadowrun
+* Dungeons & Dragons
 * Mazes & Minotaurs
 * Call of C'thulhu
 * a whole range of one-off story-games in different settings and with varying rulesets
@@ -25,8 +25,6 @@ I used to play a lot, but now only sporadically.
 * Arkham Horror
 * Twilight Struggle
 * Stratego
-* Mythos Tales
-* Guillotine
 
 ## Computer Games
 
