@@ -1,6 +1,6 @@
 +++
 title =  "In Praise of Morrowind"
-date = 2020-04-15T18:24:41+02:00
+date = 2020-07-13T10:00:00+02:00
 categories = ["review"]
 featured_image = "/img/blog/morrowind/balmora.jpg"
 description = ""
@@ -11,27 +11,9 @@ Intro
 
 ### Cliffracers eradicated in my most recent playthrough: 155
 
-{{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell">}}
+{{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers, the scourge of Vvardenfell">}}
 
 <!--more-->
-
-> Finarion Sarothryn, a imprisoned Witchblade, arrives in Seyda Neen.
-
-> Finarion works for the Blades
-
-> Finarion explores Vvardenfell
-
-> Finarion discovers the Nerevarine prophesies
-
-> Finarion works to fulfill the prophecies and becomes Hortator of the three houses
-
-> Finarion meets Vivec
-
-> Finarion defeats Dagoth-Ur
-
-> Finarion in Mournhold
-
-> Finarion on Solstheim
 
 ## A Word on Problems
 I'd like to start by recognizing that the game has problems. Although I'm a huge fanboy, I try to be critical of things. Nothing is more annoying than someone not being able to contextualize their object of adoration.
@@ -66,7 +48,7 @@ Tribunal is mediocre. The City of Mournhold feels empty: vast spaces with almost
 Never played Bloodmoon before, in all these years of me playing Morrowind!
 
 ## Playing in 2020
-More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave]https://youtu.be/iR-K2rUP86M)!
+More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). Another big project is [OpenMW](https://openmw.org/en/), a new engine for the game that runs on modern hardware and adds native support of new technologies. There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave](https://youtu.be/iR-K2rUP86M)!
 
 I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
 
@@ -76,7 +58,25 @@ I reinstalled the game and did another playthrough during the covid-19 crisis an
 {{< figure src="/img/morrowind/mournhold.jpg" class="" caption="The city of Mournhold, as seen in Tamriel Rebuilt">}}
 {{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
 
+---
 
+> Finarion Sarothryn, a imprisoned Dunmer Witchblade, born of uncertain parents under a certain sign, arrives in Seyda Neen. Sent to the mysterious island of Vvardenfell on orders of emperor Uriel Septim VII with a missive to the Imperial Blades, the Empire's secret service.
+
+> Finarion works for the Blades
+
+> Finarion explores Vvardenfell
+
+> Finarion discovers the Nerevarine prophesies
+
+> Finarion works to fulfill the prophecies and becomes Hortator of the three houses
+
+> Finarion meets Vivec
+
+> Finarion defeats Dagoth-Ur
+
+> Finarion in Mournhold
+
+> Finarion on Solstheim
 
 ---
 
