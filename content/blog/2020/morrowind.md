@@ -7,7 +7,7 @@ description = ""
 draft = true
 +++
 
-Intro
+There's one game I find myself getting back to every few years, over and over again, and that's The Elder Scrolls III: Morrowind.
 
 ### Cliffracers eradicated in my most recent playthrough: 155
 
