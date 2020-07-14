@@ -21,6 +21,9 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 
+### 1.0.2 (2020-07-14)
+* Added a RSS icon and link to the footer
+
 ### 1.0.1 (2020-07-12)
 * Because of some wonky mergers done through another computer I lost most of my work since june. I had to revert and restore an older version. It's possible that some older issues were 'restored' with it.
 
