@@ -37,7 +37,7 @@ The landscaping too is something that deserves admiration: the island, dominated
 
 Besides that, it also feels like a believable place: the differences in between regions are carefully balanced with its similarities. Red Mountain provides a grateful justification for this: whole parts of the land are influenced by it: foyadas ('fire rivers') cutting through the landscape, lands filled with volcanic activity and covered in ash. These contrast nicely with the more lush and habitable regions such as the swamplike Bitter Coast, the verdant Ascadian Isles or the rocky Zafirbel Bay, dotted with many islands, both inhabited as barren, and rocks jutting out of the sea.
 
-This 2020 playthrough was also one of the first times really exploring the larger landmass created by the Tamriel Rebuilt project. 
+This 2020 playthrough was also one of the first times really exploring the larger landmass created by the Tamriel Rebuilt project.  Large parts are little more than empty places to wander through, with almost no npc's, let alone any content in the name of quests or interiors. But this alone is already a triumph of the community and shows of some of the originality in landscaping that is possible and often with more attention for the distant-land look.
 
 {{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
 
