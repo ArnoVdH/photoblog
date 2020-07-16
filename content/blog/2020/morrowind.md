@@ -2,7 +2,7 @@
 title =  "In Praise of Morrowind"
 date = 2020-07-13T10:00:00+02:00
 categories = ["review", "gaming"]
-featured_image = "/img/blog/morrowind/balmora.jpg"
+featured_image = "/img/morrowind/balmora.jpg"
 description = ""
 draft = true
 +++
@@ -55,12 +55,14 @@ design of enemies: daedric creatures, dwemer constructs,... weapons and armour: 
 ## Lore and prophecy
 You're only  the hero because you make it so.
 
+{{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
+
 ## Tribunal & Bloodmoon
 Tribunal is a bit of a mixed bag. The City of Mournhold feels empty. Even though the architecture is interesting, the vast spaces are sparsely populated with almost nothing to do. The dungeons are interesting though, the idea of 'lost underground city', haunted catacombs and antediluvian Dwemer ruins are engaging and impressive.
 
-{{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
-
 Although I've played Morrowind quite a lot, completing the main quest, explorer the world time and again, I never ventured into the Bloodmoon expansion before, except for a short trip to Fort Frostmoth and a quick return trip. So this playthrough was the first time exploring the snowy forests and defiling its ancient barrows. While the expansion is well rounded in itself, the isle of Solstheim just isn't that interesting as the rest of Morrowind. It's in effect a premonition of the later games that step back from weird, original world-building and a move towards more traditional fantasy settings, in this case the viking-like Nords.
+
+{{< figure src="/img/morrowind/solstheim.jpg" class="" caption="Solstheim's coastline: a rocky, cold and desolate beauty">}}
 
 ## Playing in 2020
 More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). Another big project is [OpenMW](https://openmw.org/en/), a new engine for the game that runs on modern hardware and adds native support of new technologies. There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave](https://youtu.be/iR-K2rUP86M)!
