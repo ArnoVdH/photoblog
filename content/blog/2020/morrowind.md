@@ -1,7 +1,7 @@
 +++
 title =  "In Praise of Morrowind"
 date = 2020-07-13T10:00:00+02:00
-categories = ["review"]
+categories = ["review", "gaming"]
 featured_image = "/img/blog/morrowind/balmora.jpg"
 description = ""
 draft = true
@@ -20,22 +20,32 @@ I'd like to start by recognizing that the game has problems. Although I'm a huge
 
 First of all there is the obvious problem of age. The game came out in 2002 so it's obviously limited by the technology of its time. The modding community has done wonders with it though and solved quite a few of its limitations in graphics and a lot of the latent bugs have been fixed by the community. 
 
-The biggest problem is probably the combat system.  
+The biggest problem, to new players or maybe even in general, is probably the combat system. It's actually quite a standard implementation of dice-based mechanics from tabletop rpg's, but it doesn't work well with the first person combat that the game presents you with. It exists in between both those worlds and is therefore a bit uncanny. This is rectified in later iterations of The Elder Scrolls games.
 
 Some people don't like the dialogue system in the game, but I beg to differ. The text-and-hyperlink-based system lowers the entry-level for mods (no need for professional voice-actors or expensive audio equipment) without breaking immersion. The hyperlink system offers a way to delve into the lore as deep as you want to. This system does break down a bit when using the journal, where everything gets muddled because of this. Even the addition of an quest-index did only a little to alleviate this.
 
+{{< figure src="/img/morrowind/balmora.jpg" class="" caption="Balmora with the Dwemer ruins of Arkngthand in the background">}}
+
+A last limitation is that of the technology. Released in 2002, the game engine is dated and has its limitations. Graphically the game's textures are smudgy and effects are lacking, the island shrouded in a weird fog that limits your view distance (which one friend of mine thinks adds to the mystery of the island, so to view this as a deficiency is rather subjective). Quite a lot of these shortcomings can ben rectified by mods. There are loads of them, and also third-party programs and add-ons for managing and expanding the games possibilities. Community code patches fix lots of problems, tweak a lot of issues for a more enjoyable experience and add new possibilities for other mods. And then there are the huge Morrowind Graphics Extender XE (that adds loads of graphic options, such as rendering distant lands and adding shaders), Tamriel Rebuilt (reconstructiong all of the Morrowind province) and OpenMW (building a whole new engine for the game). These are not only what makes the game great, but are also proof of the quality of the original itself. 
+
 ## The World of Vvardenfell
+More than the other The Elder Scrolls gmes, the island of Vvardenfell feels really alien. 
 Feels larger than it is.
 Feels alien.
 You get around by following descriptions of the path, not always a marker on a map.
 Looks good even with distant land generated in MGEXE.
 Extended with Tamriel Rebuilt over the years.
 
+{{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
+
 MUSHROOMS
 
 ## Design
+The alien-ness extends beyond just the geography, fauna and flora. Arguably more important is the strange culture you end up in as an outsider.
 Architecture
 Mud architecture, Telvanni wizard towers, Vivec city, ancestral tombs & old strongholds.
+
+{{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
 
 It's telling that the least original elements are those that are actually from outside of Morrowind and Dunmer culture proper: Empire architecture is based on the Roman styles, Nord elements are medieval and viking influenced...
 
@@ -43,20 +53,18 @@ It's telling that the least original elements are those that are actually from o
 You're only  the hero because you make it so.
 
 ## Tribunal & Bloodmoon
-Tribunal is mediocre. The City of Mournhold feels empty: vast spaces with almost nothing to do. The dungeons are interesting though, although the idea of 'lost underground city' is sometimes hit or miss.
+Tribunal is a bit of a mixed bag. The City of Mournhold feels empty. Even though the architecture is interesting, the vast spaces are sparsely populated with almost nothing to do. The dungeons are interesting though, the idea of 'lost underground city', haunted catacombs and antediluvian Dwemer ruins are engaging and impressive.
 
-Never played Bloodmoon before, in all these years of me playing Morrowind!
+{{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
+
+Although I've played Morrowind quite a lot, completing the main quest, explorer the world time and again, I never ventured into the Bloodmoon expansion before, except for a short trip to Fort Frostmoth and a quick return trip. So this playthrough was the first time exploring the snowy forests and defiling its ancient barrows. While the expansion is well rounded in itself, the isle of Solstheim just isn't that interesting as the rest of Morrowind. It's in effect a premonition of the later games that step back from weird, original world-building and a move towards more traditional fantasy settings, in this case the viking-like Nords.
 
 ## Playing in 2020
 More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). Another big project is [OpenMW](https://openmw.org/en/), a new engine for the game that runs on modern hardware and adds native support of new technologies. There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave](https://youtu.be/iR-K2rUP86M)!
 
 I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
 
-{{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
-{{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
-{{< figure src="/img/morrowind/balmora.jpg" class="" caption="Balmora with the Dwemer ruins of Arkngthand in the background">}}
 {{< figure src="/img/morrowind/mournhold.jpg" class="" caption="The city of Mournhold, as seen in Tamriel Rebuilt">}}
-{{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
 
 ---
 

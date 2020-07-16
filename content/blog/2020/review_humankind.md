@@ -1,5 +1,5 @@
 +++
-categories = ["review"]
+categories = ["review", "books"]
 date = 2020-05-21T12:00:00Z
 description = ""
 featured_image = "/img/blog/humankind.jpg"

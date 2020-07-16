@@ -1,5 +1,5 @@
 +++
-categories = ["review"]
+categories = ["review", "series"]
 date = 2020-01-05T17:10:00Z
 description = ""
 featured_image = ""
