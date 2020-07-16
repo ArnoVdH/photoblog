@@ -11,10 +11,10 @@ menu = "about"
 ## Currently reading
 * **The State and Revolution** - Vladimir Lenin
 * **Python Crash Course** - Eric Matthes
-* **China: A History** - John Keay
 
 ## Read
 ### 2020
+* **China: A History** - John Keay ★★★★
 * **A Tomb for Boris Davidovich** - Danilo Kiš ★★★★
 * **Switch Bitch** - Roald Dahl ★★★
 * **Gideon the Ninth** - Tamsyn Muir ★★
