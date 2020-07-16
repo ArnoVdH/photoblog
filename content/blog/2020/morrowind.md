@@ -7,7 +7,7 @@ description = ""
 draft = true
 +++
 
-There's one game I find myself getting back to every few years, over and over again, and that's The Elder Scrolls III: Morrowind.
+There's one game I find myself getting back to every few years, over and over again, and that's The Elder Scrolls III: Morrowind. It's also a popular topic of discussion, inspiration and reminiscence among friends of mine - a shared experience to touch upon every now and then, each having their own favorite parts of it. It definitly has achieve a sort of cult-status, but what exactly makes it such an enduring classic? And is it really better than its sequels? This is what I'd like to explore in this blogpost.
 
 ### Cliffracers eradicated in my most recent playthrough: 155
 
@@ -29,16 +29,17 @@ Some people don't like the dialogue system in the game, but I beg to differ. The
 A last limitation is that of the technology. Released in 2002, the game engine is dated and has its limitations. Graphically the game's textures are smudgy and effects are lacking, the island shrouded in a weird fog that limits your view distance (which one friend of mine thinks adds to the mystery of the island, so to view this as a deficiency is rather subjective). Quite a lot of these shortcomings can ben rectified by mods. There are loads of them, and also third-party programs and add-ons for managing and expanding the games possibilities. Community code patches fix lots of problems, tweak a lot of issues for a more enjoyable experience and add new possibilities for other mods. And then there are the huge Morrowind Graphics Extender XE (that adds loads of graphic options, such as rendering distant lands and adding shaders), Tamriel Rebuilt (reconstructiong all of the Morrowind province) and OpenMW (building a whole new engine for the game). These are not only what makes the game great, but are also proof of the quality of the original itself. 
 
 ## The World of Vvardenfell
-More than the other The Elder Scrolls gmes, the island of Vvardenfell feels really alien. 
-Feels larger than it is.
-Feels alien.
-You get around by following descriptions of the path, not always a marker on a map.
-Looks good even with distant land generated in MGEXE.
-Extended with Tamriel Rebuilt over the years.
+More than the other The Elder Scrolls gmes, the island of Vvardenfell feels really alien. It's filled with wonderfully unique fauna, such as nixhounds, guars (both wild and tamed pack-animals) and the scourge of the cliffracers, or the floating jellyfish like netches, the mudcrabs and the staple of the local economy: the kwama that breed in underground lairs that function as 'egg-mines'. The only generic animals native to the land are rats. And I haven't mentioned the myriad of other creatures that can be encountered in dungeons, temples, ruins or caves everywhere, that dot the landscape.
+
+The flora too is unique. Most recognizable are the giant mushrooms that grow in multiple regions instead of trees. The House Telvanni wizards even made their dwellings in magically grown ones, giving their cities an organic and confusing feel to them. But lots of other plants are important, culturally as foodstaples or as alchemical ingredients. Giant sponges, bulbous roots, saltrice, ash yams, all kinds of flowers and weeds, are all original and have their own set of properties.
+
+The landscaping too is something that deserves admiration: the island, dominated by its large volcano, isn't actually all that big (around half of Oblivion and Skyrim), but it does feel huge by smart placement of obstacles, landmarks and travel options. There is no fast-travel options, except for payed-for transportation by boat and siltstrider (oh, did I mention giant fleas that are used as caravan transports?) or teleportation to fixed points such as temples and mages guilds, and only around half the island is quickly accessible through any of these means. The Ashlands, one of the hundred little islets of Azura's Coast, the inner Grazelands or the desolate Molag Amur volcanic pits require the player to at least travel there on foot from a distant outpost. While this was primarily a smart way to make the most of the limited viewing distance to create a sense of distance and space, it's a testament of its ingenuity that it holds up very well with the MGE XE distant lands generated. The added visual fidelity never did away with the necessity of following vague directions and roadsigns to get to where you want to be. It makes it a litter easier maybe, by being able to orient yourself with some distant daedric ruins for instance, but it never spoils the search.
+
+Besides that, it also feels like a believable place: the differences in between regions are carefully balanced with its similarities. Red Mountain provides a grateful justification for this: whole parts of the land are influenced by it: foyadas ('fire rivers') cutting through the landscape, lands filled with volcanic activity and covered in ash. These contrast nicely with the more lush and habitable regions such as the swamplike Bitter Coast, the verdant Ascadian Isles or the rocky Zafirbel Bay, dotted with many islands, both inhabited as barren, and rocks jutting out of the sea.
+
+This 2020 playthrough was also one of the first times really exploring the larger landmass created by the Tamriel Rebuilt project. 
 
 {{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
-
-MUSHROOMS
 
 ## Design
 The alien-ness extends beyond just the geography, fauna and flora. Arguably more important is the strange culture you end up in as an outsider.
@@ -48,6 +49,8 @@ Mud architecture, Telvanni wizard towers, Vivec city, ancestral tombs & old stro
 {{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
 
 It's telling that the least original elements are those that are actually from outside of Morrowind and Dunmer culture proper: Empire architecture is based on the Roman styles, Nord elements are medieval and viking influenced...
+
+design of enemies: daedric creatures, dwemer constructs,... weapons and armour: kinda clunky and a bit too edgy. Unfortunately there's no incentive to keep using lower-end armour although it's design is actually more integrated into the culture, such as chittin or bonemold, functioning also as survival outfits for the often hostile environments with it's diseases and ashstorms.
 
 ## Lore and prophecy
 You're only  the hero because you make it so.
@@ -66,83 +69,4 @@ I reinstalled the game and did another playthrough during the covid-19 crisis an
 
 {{< figure src="/img/morrowind/mournhold.jpg" class="" caption="The city of Mournhold, as seen in Tamriel Rebuilt">}}
 
----
-
-> Finarion Sarothryn, a imprisoned Dunmer Witchblade, born of uncertain parents under a certain sign, arrives in Seyda Neen. Sent to the mysterious island of Vvardenfell on orders of emperor Uriel Septim VII with a missive to the Imperial Blades, the Empire's secret service.
-
-> Finarion works for the Blades
-
-> Finarion explores Vvardenfell
-
-> Finarion discovers the Nerevarine prophesies
-
-> Finarion works to fulfill the prophecies and becomes Hortator of the three houses
-
-> Finarion meets Vivec
-
-> Finarion defeats Dagoth-Ur
-
-> Finarion in Mournhold
-
-> Finarion on Solstheim
-
----
-
-BAD VERION
-
----
-
-I don't know exactly when I played The Elder Scrolls III: Morrowind for the first time, but I've kept coming back to it for more than a decade. It has inspired lots of dreaming, writing and discussion among friends and even a pen & paper tabletop roleplay campaign. It has been a game I came back to every few years. But what is it that makes Morrowind such an enduring cult classic? And is it really better than its sequels?
-
-### Amount of cliffracers eradicated in my most recent playthrough: 155
-
-<!--more-->
-
-![](/img/blog/morrowind/balmora.jpg)
-<h6>Balmora with the Dwemer ruins of Arkngthand in the background</h6>
-
-## A word on problems
-
-Before I start exalting the genius of Morrowind, I will admit there are, of course, problems with the game. Games, as media-type, generally have two forms of problems: technological problems and problems having to do with the actual content. The overlap between the two are the design problems, where there is a feedback loop between both sides.
-
-The technological problems have to do with limitations on performance and other bottlenecks. Since Morrowind came out in 2002, we can expect the game engine to be limited in lots of aspects. This hasn't stopped modders to get the most out of the engine and even built the Morrowind Graphics Extender (MGE XE) to overcome some of these limitations. It's a testament to its enduring allure that people went through all the trouble to built these mods, plugins, addons and extenders on their own time, and this makes many, if not most, of the technological limitations due to its age moot.
-
-The biggest problems Morrowind has are actually those of design: things that have been coded into the game and are difficult to fix even with mods. The main problem in this regard has always been the combat system. It's the legacy of the pen & paper inspired roleplaying games with their abstract dice rolls which gives the first person combat a uncanny feeling, lacking the physicality that later games such as Oblivion and Skyrim did have. 
-
-## The Elder Design
-
-The originality of design, something that has been missing in the sequels.
-Visual and art design, but also level design.
-
-![](/img/blog/morrowind/puzzle_canal.jpg)
-<h6>The interior of the Puzzle Canal beneath the Palace of Vivec</h6>
-
-## The Isle of Vvardenfell
-
-The land of the game itself is wonderfully crafted and holds up very well; even with MGE XE it doesn't *feel* small, even though the distances involved are quite small. Turning distant lands on makes navigating by sight easier - looking for some Daedric ruins to orient yourself for instance - and makes you feel less like walking in a misty tube with the sky clear above you. But it does this while not making everything visible and obvious, and here we have to thank the game designers and not the MGE XE modders. They did mostly by cleverly using the terrain. Most paths wind around difficult to climb mountains and in the south-western corner of the island they are very clear and inviting to follow. Mountain ranges, foyada's ('fire-rivers', gullies through which lava flows during an eruption), misty and rainy weather, ash storms and Red Mountain itself provide natural limitation on the landscape. Besides these there's also the vegetation (huge trees and mushrooms) and architecture, such as the huge cantons of Vivec, towering above everything.
-
-Vvardenfell is composed of many different regions, each unique but with some similarities to make it a recognizable whole. There are the Sheogorad and Azura's Coast regions, both dotted with thousands of needle like rocks. The West Gash and Grazelands are similar biomes, but the former is crossed with gullies and canyons and the latter is a wide open expanse. The same goes for the different Ashland regions: Ald'ruhn, being one of the only inhabited places there, is a harsh place to live; Molag Amur where lava lakes make it difficult to navigate; the northren Ashlands, uninhabited save for the camp of the Urshilaku tribe; and finally Red Mountain itself, surrounded by the Ghostfence to keep the worst horrors contained. Navigating the Ashlands is a difficult task, especially with the sudden ash-storms, sent by Dagoth-Ur, that orientation difficult and spread blight-disease.
-
-Each region also has it's own style of towns and cities, and the architecture says a lot about who lives there. Each of the three Great Houses has their own distinct style. The Telvanni have their curling wizard's towers that may be somewhat confusing to walk around in, the Hlaalu plantations are stylish and blocky and Redoran architecture is very organic and reminiscent of crustaceans (actually, their council is located in a huge empty crab shell). There's also the Imperial style, clashing with the native environment, which conveys just how much of a foreign thing the Imperial administration is (even though it's the most cliché Western-medieval-fantasy-style buildings).
-
-Apart from the regions, the island is strewn with tombs, caves and other hide-outs. Ruins aplenty too: ancient fortresses - long forgotten; daedric ruins swarming with demonic creatures and hostile worshippers; Dwemer strongholds, eerily empty except for their still animated mechanical guardians. Another commonon sight are mines, probably the most important industry of Morrowind: ebony and glass mines, strictly guarded by the Imperial administration, but also the kwama egg-mines that provide one of the food staples of the land.
-
-![](/img/blog/morrowind/seyda_neen.jpg)
-<h6>View from the docks of Seyda Neen</h6>
-
-## Lore Galore
-
-The story and the incredibly deep lore.
-
-The role and function of prophecy. You start with a bunch of research errands given to you by Caius Cosades into the specifics of the Nerevarine prophecies and it becomes immediately clear that things aren't as clear cut as just 'there's this prophecy, you are the chosen one, go do the task.'
-
-It feels real because it's not tailored to the player (to make him feel powerful etc) but feels like a complex society, with different interest groups, each with their own values, ideas and goals. Instead of just 'factions' for you to join and run through all the quests they offer you.
-
-## Playing Morrowind in 2020
-
-More than 17 years after its release, the game still inspires people. A huge community of fans keeps making art and mods for the game. The [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) project has been working the extended Morrowind province (in contrast to just the island of Vvardenfell in the original game) for two decades. Seperate mods are being released daily and there is a team working on a full remake of the game in the newer Skyrim engine, called [Skywind](https://tesrskywind.com/). There's even a musician called Young Scrolls making music inspired by Morrowind: definitely check out [Balmora Vice](https://youtu.be/pRErZ4PTY70) or [Dagothwave]https://youtu.be/iR-K2rUP86M)!
-
-I reinstalled the game and did another playthrough during the covid-19 crisis and wrote this piece. I used the [Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide) and [Thasthus' guide](https://github.com/Tyler799/Morrowind-2019/blob/master/Morrowind_2019.md) as a basis and learned to work with [Wrye Mash](https://danaeplays.thenet.sk/wrye-mash/) to install and manage the huge amount of mods.
-
-![](/img/blog/morrowind/cliff_racers.jpg)
-<h6>Saint-Jiub deliver us: cliffracers - the scourge of Vvardenfell</h6>
+One thing I wonder is how will all this change by 2030? Or 2040? Will this game reach a certain status enjoyed by some movies or other artwork? Will it still be playable, the community alive? Will we recognize the modders work as being a vital part and even some sort of digital archeology for keeping the old game alive, both by updating it for contemporary use or by remaking it? But also: will I still play it? And will I still find something new to appreciate that I didn't before?
