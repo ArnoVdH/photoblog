@@ -8,7 +8,7 @@ draft = false
 type = "static"
 # menu = "main" #added to make the link active#
 +++
-{{< figure src="/img/me.jpg" class="inline-img" >}}
+{{< figure src="/img/me2.jpg" class="inline-img" >}}
 
 I'm Arno, a 30-years old civil-servant, philosopher and generalist geek. 
 
