@@ -41,16 +41,20 @@ This 2020 playthrough was also one of the first times really exploring the large
 
 {{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
 
-## Design
-The alienness extends beyond just the geography, fauna and flora. Arguably more important is the strange culture you end up in as an outsider.
-Architecture
-Mud architecture, Telvanni wizard towers, Vivec city, ancestral tombs & old strongholds.
+## Culture and Design
+The alienness extends beyond just the geography, fauna and flora. Arguably more important is the strange Dunmer culture you end up in as an outsider. Isolationist and unwelcoming, it's not the first thing you'd expect of a fantasy world. But this closed-off society itself isn't monolithic; there are competing political cliques and houses, commercial interests that clash, old folkloristic clans that hold different traditions sacred and subversive sects. Luckily, for a newcomer, there's the more welcoming, comspolitan Imperial outposts and forts - although in slow decline.
 
-It's telling that the least original elements are those that are actually from outside of Morrowind and Dunmer culture proper: Empire architecture is based on the Roman styles, Nord elements are medieval and viking influenced...
+One of the most important design elements is the wildly varying but distinct Dunmer architecture. While the 'savage' nomadic Ashlander tribes live in yurts, the settled Dunmer of the Great Houses live in permanent structures: there are plantations, towns, temples and cities to be found, and the style depends on the ruling elite. But all of these are decendants from the Velothi style, that was taught by the daedric prince Boethiah. All of them use common elements and materials in their structures, namely the loam used and the rather organic appearance of the shapes, even for the rather rectangular Hlaalu structures. The Temple architecture of Vivec resonates in the smaller temples with their cupolas and tunnel-like interiors. The Redoran incorporate insect and crab-like forms and motifs (and even a huge crab-shell as the exterior of their council house). The only ones really diverging from the Velothi pattern are the Telvanni wizards who build magical plant towers and likewise styled town around them, where access is limited by a users lack of magical ability, since levitation is a necessary skill to reach the upper reaches of the towers and power.
+
+ Besides the cities themselves, there are other structures of interest spread around the world. The many tombs are in the same Velothi style for the settled houses, build into the ground. The ancient and lost Dunmer strongholds look a bit like Mayan buildings, made of boulders and on an elevated platform, and emanate a terror that's warranted, since these are often filled with danger. This is in contrast to the underground Dwemer fortresses, filled with angular furniture, steam pipes and some sort of magical-electric lighting - testament to their rational-scientific nature. And last, but not least, the daedric shrines have their own twisted architecture: angular, madness-inducing spires and vaults, betraying no certain origin of their style, with spiked incense-burners hanging from the ceiling, belching greyish smoke, these places are always interesting yet fraught with many dangers.
+
+It's telling that the least original elements are those that are actually from outside of Morrowind and Dunmer culture proper: Empire architecture is based on the Roman styles and Nord elements are medieval and viking influence. These are the two most direct neighbours, geographically speaking, so elements of these can be found in many places. But these are rather new additions to the landscape and obviously foreign.
 
 {{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
 
-design of enemies: daedric creatures, dwemer constructs,... weapons and armour: kinda clunky and a bit too edgy. Unfortunately there's no incentive to keep using lower-end armour although it's design is actually more integrated into the culture, such as chittin or bonemold, functioning also as survival outfits for the often hostile environments with it's diseases and ashstorms.
+There's also a highly diverse set of enemies you'll encounter, besides the general fauna of the world. The least original of which are the undead; skeletons are standard fare for fantasy games, but the twisted bone walkers are vile and dread-inducing. Ghosts are also common, which makes sense considering the central role that ancestor worship plays in ancient Dunmer culture, even skirting the edges of necromancy. There's also the diverse daedra - beings summoned from other planes of existence - that don't look alike and haunt the old shrines en get summoned by oftentimes mad cultists. The underground fortresses of the Dwemer were left functioning after their sudden disappearance, with their constructs - spidery robots and steam machines - still running. Because of the fact that a lot of these ruins are situated on Red Mountain, these are often inhabited by the disciples and henchmen of Dagoth Ur: ash vampires and their kin, dunmer mutated beyond recognition by the 'divine' corprus disease, mentally twisted by dream-visions.
+
+As regards to weapons and armor: the most interesting, native designs such as chitin and bonemold weapons and armour, are evocative and inspiring. The closed helmets that are suited for life and survival in harsh conditions in the ashlands and are sourced from local resources such as giant insects are very much in keeping up with the allround theme. Unfortunately these are mostly low-level items, quickly overclassed by the more powerfull orcish, glass, ebony or daedric sets, that are mostly clunky, garish and a little bit too edgy (both literally and figuratively) in their design. There's almost no reason to stick for a longer time to those more cultural appropriate outfits.
 
 ## Lore and prophecy
 You're only  the hero because you make it so.
@@ -59,10 +63,12 @@ You're only  the hero because you make it so.
 
 The role of necromancy and ancestor worship in Dunmer culture.
 
-The history of Vvardenfell, the Chimer, Dwemer & Dunmer and the Tribunal.
+The history of Vvardenfell, the Chimer, Dwemer & Dunmer and the Tribunal. Tonal architecture of the Dwemer.
 
 ## Tribunal & Bloodmoon
-Tribunal is a bit of a mixed bag. The City of Mournhold feels empty. Even though the architecture is interesting, the vast spaces are sparsely populated with almost nothing to do. The dungeons are interesting though, the idea of 'lost underground city', haunted catacombs and antediluvian Dwemer ruins are engaging and impressive.
+Morrowind was followed up with two expansions: Tribunal in the same year en Bloodmoon in 2003, rather quick given that there were numerous problems with the base game upon release (not that I know much about it, I wouldn't play it for a few more years, as I was only twelve at the time).
+
+Tribunal is a bit of a mixed bag. The City of Mournhold feels empty. Even though the architecture is interesting, the vast spaces are sparsely populated with almost nothing to do, besides the main questline. The dungeons are interesting though, the idea of 'lost underground city', haunted catacombs and antediluvian Dwemer ruins are engaging and impressive.
 
 Although I've played Morrowind quite a lot, completing the main quest, explorer the world time and again, I never ventured into the Bloodmoon expansion before, except for a short trip to Fort Frostmoth and a quick return trip. So this playthrough was the first time exploring the snowy forests and defiling its ancient barrows. While the expansion is well rounded in itself, the isle of Solstheim just isn't that interesting as the rest of Morrowind. It's in effect a premonition of the later games that step back from weird, original world-building and a move towards more traditional fantasy settings, in this case the viking-like Nords.
 
