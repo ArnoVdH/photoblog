@@ -8,7 +8,7 @@ type = "static"
 menu = "about"
 
 +++
-For a professional curriculum vitae, click [here](/files/curriculum.pdf).
+For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 41 kB PDF).
 
 ### 2020
 * Adopted two cats: Rops & Alma
