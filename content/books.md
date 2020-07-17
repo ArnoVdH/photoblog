@@ -9,6 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **The Devil All the Time** - Donald Ray Pollock
 * **The State and Revolution** - Vladimir Lenin
 * **Python Crash Course** - Eric Matthes
 
