@@ -46,9 +46,9 @@ The alienness extends beyond just the geography, fauna and flora. Arguably more 
 Architecture
 Mud architecture, Telvanni wizard towers, Vivec city, ancestral tombs & old strongholds.
 
-{{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
-
 It's telling that the least original elements are those that are actually from outside of Morrowind and Dunmer culture proper: Empire architecture is based on the Roman styles, Nord elements are medieval and viking influenced...
+
+{{< figure src="/img/morrowind/puzzle_canal.jpg" class="" caption="The interior of the Puzzle Canal beneath the Palace of Vivec">}}
 
 design of enemies: daedric creatures, dwemer constructs,... weapons and armour: kinda clunky and a bit too edgy. Unfortunately there's no incentive to keep using lower-end armour although it's design is actually more integrated into the culture, such as chittin or bonemold, functioning also as survival outfits for the often hostile environments with it's diseases and ashstorms.
 
@@ -56,6 +56,10 @@ design of enemies: daedric creatures, dwemer constructs,... weapons and armour: 
 You're only  the hero because you make it so.
 
 {{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
+
+The role of necromancy and ancestor worship in Dunmer culture.
+
+The history of Vvardenfell, the Chimer, Dwemer & Dunmer and the Tribunal.
 
 ## Tribunal & Bloodmoon
 Tribunal is a bit of a mixed bag. The City of Mournhold feels empty. Even though the architecture is interesting, the vast spaces are sparsely populated with almost nothing to do. The dungeons are interesting though, the idea of 'lost underground city', haunted catacombs and antediluvian Dwemer ruins are engaging and impressive.
