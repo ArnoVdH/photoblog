@@ -4,7 +4,7 @@ date = 2020-07-13T10:00:00+02:00
 categories = ["review", "gaming"]
 featured_image = "/img/morrowind/balmora.jpg"
 description = ""
-draft = true
+draft = false
 +++
 
 There's one game I find myself getting back to every few years, over and over again, and that's The Elder Scrolls III: Morrowind. It's also a popular topic of discussion, inspiration and reminiscence among friends of mine - a shared experience to touch upon every now and then, each having their own favorite parts of it. It definitly has achieve a sort of cult-status, but what exactly makes it such an enduring classic? And is it really better than its sequels? This is what I'd like to explore in this blogpost.
@@ -39,7 +39,7 @@ Besides that, it also feels like a believable place: the differences in between 
 
 This 2020 playthrough was also one of the first times really exploring the larger landmass created by the Tamriel Rebuilt project.  Large parts are little more than empty places to wander through, with almost no npc's, let alone any content in the name of quests or interiors. But this alone is already a triumph of the community and shows of some of the originality in landscaping that is possible and often with more attention for the distant-land look.
 
-{{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen">}}
+{{< figure src="/img/morrowind/seyda_neen.jpg" class="" caption="View from the docks of Seyda Neen, with the silhouette of Baar Dau visible in the distance">}}
 
 ## Culture and Design
 The alienness extends beyond just the geography, fauna and flora. Arguably more important is the strange Dunmer culture you end up in as an outsider. Isolationist and unwelcoming, it's not the first thing you'd expect of a fantasy world. But this closed-off society itself isn't monolithic; there are competing political cliques and houses, commercial interests that clash, old folkloristic clans that hold different traditions sacred and subversive sects. Luckily, for a newcomer, there's the more welcoming, comspolitan Imperial outposts and forts - although in slow decline.
@@ -57,13 +57,13 @@ There's also a highly diverse set of enemies you'll encounter, besides the gener
 As regards to weapons and armor: the most interesting, native designs such as chitin and bonemold weapons and armour, are evocative and inspiring. The closed helmets that are suited for life and survival in harsh conditions in the ashlands and are sourced from local resources such as giant insects are very much in keeping up with the allround theme. Unfortunately these are mostly low-level items, quickly overclassed by the more powerfull orcish, glass, ebony or daedric sets, that are mostly clunky, garish and a little bit too edgy (both literally and figuratively) in their design. There's almost no reason to stick for a longer time to those more cultural appropriate outfits.
 
 ## Lore and prophecy
-You're only  the hero because you make it so.
+One of the most interesting aspects of Morrowind, in my opinion, is the way that it deals with its main storyline. In most singleplayer roleplaying games, the player is the central hero and their path to greatness is pre-determined. Take Skyrim, one of Morrowins successors, for example, you *are* the Dragonborn; there's not much you can do about it yourself. In contrast: in Morrowind you just happen to confirm to a few elements of the Nerevarine prophecy (uncertain parentage, but certain birthsign), which isn't all that special in itself. You are sent there with a purpose even unbeknownst to yourself to learn about the prophecies en see what's what. These legends, stories and prophecies turn out to conflict one another, with parts of it only preserved in an oral tradition while other texts are being surpressed by the Temple authorities. As you go further along the path, you learn that you're not the first or only Nerevarine-pretender. Many have gone before, all have been persecuted, all have ultimately failed. In the end, you never *become* the Nerevarine, but different factions start to recognize you as such, ending in official recognition by the Tribunal Temple and Vivec himself, who rescinds the order of persecution. It's an interesting reflection on how prophecies function and one of the few games that take such an approach to being a hero. 
 
 {{< figure src="/img/morrowind/almalexia.jpg" class="" caption="The Temple of Almalexia herself">}}
 
-The role of necromancy and ancestor worship in Dunmer culture.
+Besides the role of prophecy, there is a huge and rich background lore. The history of Vvardenfell and Morrowind alone compromises quite a bit of (in-game) books and texts, about the Velothi exodus, the wars between the Chimer (the ancestors of the Dunmer) and the Dwemer, the invasion and subsequent repelling of the Nord invasion by an alliance between the Chimer leader Nerevar and the Dwemer king Dumac, how a dispute about occult magic on the Heart of Lorkhan lead to open war again, about the sudden disappearance of the whole Dwemer race in the midst of the Battle of Red Mountain and the different interpretations of the treason by the Tribunal, where Nerevar was killed, Dagoth Ur got banished and the Tribunal made themselves living gods. But also later historical events, that are (tellingly) ignored by many Dunmer themselves, such as the invasion and annexation by the Empire of the Septims, with Vvardenfell as a Temple reserve with its own law, or it's later opening up to outsider development (a mere 13 years before the events of the game itself).
 
-The history of Vvardenfell, the Chimer, Dwemer & Dunmer and the Tribunal. Tonal architecture of the Dwemer.
+This special nature of the Vvardenfell Temple administration leads to some discrepancies with established custom on the Imperial mainland, such as slavery being legal and a more permissive stance towards necromancy - a huge aspects of Dunmer culture involves ancestor worship and involves summoning ghosts of said ancestors in necromantic rituals. All of these make for a highly unique mix, even inside the lands of Tamriel. There are some other regions that have similar strange customs and possibilities. Unfortunately the developers haven't chosen these for their sequels (yet) and have instead opted for more traditional settings such as the Imperial province of Cyrodill and the Nord lands of Skyrim. One can only hope that a future visit to Elsweyr or Black Marsh get the unique treatment they deserve.
 
 ## Tribunal & Bloodmoon
 Morrowind was followed up with two expansions: Tribunal in the same year en Bloodmoon in 2003, rather quick given that there were numerous problems with the base game upon release (not that I know much about it, I wouldn't play it for a few more years, as I was only twelve at the time).
