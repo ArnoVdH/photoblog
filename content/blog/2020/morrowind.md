@@ -9,7 +9,7 @@ draft = false
 
 There's one game I find myself getting back to every few years, over and over again, and that's The Elder Scrolls III: Morrowind. It's also a popular topic of discussion, inspiration and reminiscence among friends of mine - a shared experience to touch upon every now and then, each having their own favorite parts of it. It definitly has achieve a sort of cult-status, but what exactly makes it such an enduring classic? And is it really better than its sequels? This is what I'd like to explore in this blogpost.
 
-### Cliffracers eradicated in my most recent playthrough: 155
+### Cliffracers eradicated in my most recent playthrough: 198
 
 {{< figure src="/img/morrowind/cliff_racers.jpg" class="" caption="Saint-Jiub deliver us: cliffracers, the scourge of Vvardenfell">}}
 
