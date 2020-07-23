@@ -9,11 +9,11 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The State and Revolution** - Vladimir Lenin
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **The State and Revolution** - Vladimir Lenin ★★★★
 * **The Devil All the Time** - Donald Ray Pollock ★★★
 * **China: A History** - John Keay ★★★★
 * **A Tomb for Boris Davidovich** - Danilo Kiš ★★★★
