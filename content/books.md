@@ -9,6 +9,8 @@ menu = "about"
 
 +++
 ## Currently reading
+* **Children of Time** - Adrian Tchaikovsky
+* **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
