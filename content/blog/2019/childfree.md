@@ -4,6 +4,7 @@ date = 2019-10-01T13:20:00Z
 description = ""
 featured_image = ""
 title = "Choosing to be Childfree"
+lastmod = 2020-06-18T18:00:00Z
 
 +++
 Since I'm getting sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
