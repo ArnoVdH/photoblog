@@ -5,6 +5,8 @@ categories = ["personal", "internet"]
 featured_image = "/img/matrixcode.jpg"
 description = "A post about my efforts to get away from the big data corps"
 draft = false
+lastmod = 2020-07-27T22:15:00Z
+
 +++
 This blogpost is a list about my search for digital alternatives that are more open, more respectful and more private than the ones I and a lot of other people have been using until now, often for free. It's an attempt to claim back ownership of my virtual self. 
 
@@ -74,9 +76,9 @@ There aren't really that many alternatives to Google Maps, since making a (world
 I wanted a service that worked well on multiple platforms (Windows, Linux, Android), offered a decent amount of free storage space and had reasonable pricing for future use. Respect for privacy was also important. I ended up using [pCloud](https://www.pcloud.com/eu) for this.
 
 ## Desktop operating system
-**Status: to do ✘**
+**Status: done ✔**
 
-I'm hoping to make the definite switch to Linux at the end of this year. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](https://manjaro.org/). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux. It's also an experiment in gaming for me, using [Proton](https://github.com/ValveSoftware/Proton).
+I made the switch to Linux during the summer. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](https://manjaro.org/). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux. It's also an experiment in gaming for me, using [Proton](https://github.com/ValveSoftware/Proton).
 
 ## Mobile operating System
 **Status: to do ✘**
