@@ -5,6 +5,7 @@ categories = []
 featured_image = ""
 description = ""
 draft = true
+lastmod = ""
 +++
 
 <!--more-->
