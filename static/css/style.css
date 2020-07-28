@@ -258,7 +258,7 @@ header ul a.active {
 }
 
 /* Desktop */
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 1024){
     .wrapper {
       min-height: 100vh;
       display: grid;
@@ -271,7 +271,7 @@ header ul a.active {
       }
 }
 /* Tablet */
-@media only screen and (max-width: 999px){
+@media only screen and (max-width: 1023){
     .wrapper {
     display: grid;
     grid-auto-rows: minmax(100px; auto);
@@ -282,10 +282,19 @@ header ul a.active {
       "ft"
     }
     
+    .blogpost {
+        max-width: 95vw;
+    }
+
+    .blogpost img {
+        max-width: 80vw;
+        max-height: 20vh;
+        margin: 1em 2em 0em 2em;
+    }
     .content {
         margin-left: 5px;
         margin-right: 5px;
-        margin-top: 5em;
+        margin-top: 4em;
     }
   
     .content h1 {
@@ -313,7 +322,11 @@ header ul a.active {
     }
     
     .nav {
-        text-align: end;
+        padding-top: 2em;
+        padding-left: 1em;
+        padding-right: 2.5em;
+        text-align: start;
+        list-style: none;
     }
 }
 /* Phone */
@@ -322,7 +335,7 @@ header ul a.active {
       margin-left: 2px;
       margin-right: 2px;
     }
-  
+
     .content h1 {
       margin-left: 0px;
     }

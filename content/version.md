@@ -21,6 +21,9 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 
+### 1.0.3 (2020-07-28)
+* Changes to mobile css
+
 ### 1.0.2 (2020-07-14)
 * Added a RSS icon and link to the footer
 
