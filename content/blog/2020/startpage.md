@@ -1,7 +1,7 @@
 +++
 title =  "Startpage"
 date = 2020-07-31T18:04:43+02:00
-categories = []
+categories = ["project", "internet"]
 featured_image = ""
 description = ""
 draft = true

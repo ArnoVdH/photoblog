@@ -1,7 +1,7 @@
 +++
 title =  "Building a Website"
 date = 2019-09-01T10:00:00+02:00
-categories = ["intro", "hugo"]
+categories = ["intro", "hugo", "project"]
 featured_image = ""
 description = ""
 draft = false

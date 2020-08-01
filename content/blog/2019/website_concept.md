@@ -1,7 +1,7 @@
 +++
 title =  "Website concept"
 date = 2019-07-14T16:09:53+02:00
-categories = ["intro"]
+categories = ["intro", "project"]
 featured_image = ""
 description = ""
 draft = false
