@@ -9,12 +9,13 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Children of Time** - Adrian Tchaikovsky
+* **The Master and Margarita** - Mikhail Bulgakov
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **Children of Time** - Adrian Tchaikovsky ★★★
 * **The State and Revolution** - Vladimir Lenin ★★★★
 * **The Devil All the Time** - Donald Ray Pollock ★★★
 * **China: A History** - John Keay ★★★★
