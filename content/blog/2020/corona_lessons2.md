@@ -9,3 +9,10 @@ draft = true
 
 <!--more-->
 
+## Mental health
+
+## Job privilege
+
+## The recession that is looming
+
+## Cracks are showing
