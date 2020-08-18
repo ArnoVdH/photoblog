@@ -9,6 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **The Linux Command Line** - William E. Shotts Jr.
 * **The Master and Margarita** - Mikhail Bulgakov
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
