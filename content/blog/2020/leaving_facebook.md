@@ -76,9 +76,10 @@ Part of the plan will be the utilization of older and proven methods of communic
 ### Download data
 
 ### Disable Facebook feed
-As a first step
+As a first step towards removing Facebook, I'll follow the example of a friend of mine who shut down his feed and only uses it to interact with certain groups he's part of and to chat.
 
 ### Remove Instagram
+Instagram is part of the Facebook ecosystem. Even though there's arguably a somewhat more accepting and positive atmosphere in my own personal experience, there's still a lot wrong with it: extensive censorship, puritanism, advertisement, lack of privacy.
 
 ### Remove Facebook
 
