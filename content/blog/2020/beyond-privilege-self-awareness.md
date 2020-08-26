@@ -11,6 +11,8 @@ There is a presupposition that, as a white cishet male trying to acknowledge his
 
 BREAK
 
+I wrote this post while reading the book 'Why I No Longer Talk to White People About Race'. I am aware how un-asked for it is for yet another white person to write about the issue, but I hope that I can make clear that it's not about the issue of 'privilege' itself but the perception of it by the hegemonic demographics and how to live a normal, healthy life while being aware.(tm) 
+
 ### From equality to awereness
 
 I guess you could call me intersectionalist, since I find myself at the intersection of a lot of different privileges: I'm white, I'm a man, I'm straight, I'm not an immigrant, I have a university degree, a middle-class job. That last one is probably the only thing that I could claim is something I'm knowledgable of: I come from a working-class background and class-consciousness (and the accompanying analyses and viewpoints) is very important to me. This is probably one of the contributing factors in why _inequality_ is something that gets my blood boiling and I'm quite a bit less interesting in some other intersections of privilege. Incidentally, the other big reason why inequality is so important to me, namely my professional background as a political philosopher interested in distributive justice, is probably, if I'm really honest with myself, also determined by the class-consciousness. There is some, if not circularity, then at least some sort of weird loop at play here.
@@ -25,6 +27,6 @@ blabla
 
 The thing is not to care too much about yourself.
 
-Actually, as a man, becoming more aware of your own privilege is also a way towards a more healthy masculinity. I'm a lot less bothered by things people think or say about me but I am bewildered by how much it bothers 
+Actually, as a man, becoming more aware of your own privilege is also a way towards a more healthy masculinity. I'm a lot less bothered by things people think or say about me but I am bewildered by how much it bothers
 
 In the end I still think that class is, to me, a central concept in the way I think about how our world functions, but the other intersections are equally as important to get a full grasp of how power operates and how it keeps people from uniting in their class interests, each having their own important contribution of continuing the domineering capitalist system.
