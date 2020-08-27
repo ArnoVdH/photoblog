@@ -10,12 +10,13 @@ menu = "about"
 +++
 ## Currently reading
 * **The Linux Command Line** - William E. Shotts Jr.
-* **The Master and Margarita** - Mikhail Bulgakov
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **Why I'm No Longer Talking to White People About Race** - Reni Eddo-Lodge ★★★★
+* **The Master and Margarita** - Mikhail Bulgakov ★★★★
 * **Children of Time** - Adrian Tchaikovsky ★★★
 * **The State and Revolution** - Vladimir Lenin ★★★★
 * **The Devil All the Time** - Donald Ray Pollock ★★★
