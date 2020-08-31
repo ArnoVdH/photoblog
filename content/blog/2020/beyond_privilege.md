@@ -7,7 +7,7 @@ featured_image = ""
 title = "Beyond privilege self-awareness"
 
 +++
-There is a presupposition that, as a white cishet male (all the words!) trying to acknowledge his *privileges*, I must be utterly miserable and emasculated by the experience. Full of self-hate and constantly apolizing; digging myself deeper, groveling before the relevant opressed demographic. Castigating myself and my 'fellow people' before the altar of the false god of *political correctness*. This is simply not true in my experience, which I'll try to explain here.
+There is a presupposition that, as a white cishet male (all the words!) trying to acknowledge his *privileges*, I must be utterly miserable and emasculated by the experience. Full of self-hate and constantly apolizing; digging myself deeper, groveling before the relevant opressed demographic. Castigating myself and my 'fellow people' before the altar of the false god of *political correctness*.[^1] This is simply not true in my experience, which I'll try to explain here.
 
 <!--more-->
 
@@ -19,6 +19,7 @@ I find myself at the crossroads of a lot of different privileges: I'm white, I'm
 But, at least it doesn't end there. My own personal passions - or more correctly: my class-interests - for radical liberty and (even more radical) equality were important for the formation of some of my ideas on other subjects as well, even if maybe just on paper. Some things were more important to me then others (and can one blame someone for their progress being directed at limited issues at a time?). What started as indignation against economic inequality led to indignation about gender equality and the inherent sexism in our society. Class, as a marxist concept, came sneaking into my thoughts as well and then a (admitattely still very limited) awereness of heteronormativity and LGBTQ+ issues. And throughout all this, racism has been something I thought I was always very clear about. A lesson: your awareness is probably still limited, even after a big *aha erlebnis*. I guess you could call me an apprentice-intersectionalist.
 
 ### What does it mean to be aware of privilege?
+
 Realize and accept that you have biases and ideas that have been formed and influenced by privilege.
 
 Accept that unprivileged people experience things differently, even if it's not immediately visible.
@@ -29,14 +30,11 @@ Apologize when necessary: this has *nothing* to do with the whole concept but is
 
 It's a learning experience. Just keep doing you and change when you do something that's not cool, radical or groovy. But practically I don't really use these concepts all that much in my daily talk. Only when something relevant should pop up I try to give some pushback by trying to point out 
 
-### Cucked by feminazi SJW's!
-
-
 ### What comes after a moment of realization?
-The thing is not to care too much about yourself.
+You continue being you. Just like waking up every day changes who you are every day, so does listening to others and becoming more aware of your position in society and it's power relations. It doesn't alter your identity, unless you think that your self is subordinate to something outside of you (in which case changing yourself also doesn't alter this external element).
 
-Actually, as a man, becoming more aware of your own privilege is also a way towards a more healthy masculinity. I'm a lot less bothered by things people think or say about me but I am bewildered by how much it bothers
+Since it's an ongoing proces of learning (and unlearning), some might think that I'll never reach a stage where I can be comfortable with myself. But I'd like to argue the opposite: what good is it to keep heaping up things to be angry about when your privileges are questioned and exposed? I (try to) listen, learn, process and go on with my life, hopefully a little bit wiser and better equipped to go on about my life. Actually, as a man, becoming more aware of your own (male, but also other) privilege is also a way towards a more healthy masculinity. I'm a lot less bothered by things people think or say about me but I am bewildered by how much it bothers others. What does it matter when people label me, for example, as gay if to me that's just a failed insult? In the end, the little effort it takes frees up so much mental head-space to deal with other, more interesting and rewarding things.
 
-In the end I still think that class is, to me, a central concept in the way I think about how our world functions, but the other intersections are equally as important to get a full grasp of how power operates and how it keeps people from uniting in their class interests, each having their own important contribution of continuing the domineering capitalist system.
+In the end, I still think that class is, to me, a central concept in the way I think about how our world functions, but the other intersections are equally as important to get a full grasp of how power operates and how it keeps people from uniting in their class interests, each having their own important contribution of continuing the domineering capitalist system.
 
 [^1] I'm of the opinion that the whole 'PC-culture' hysteria is a reactionary red herring to distract us all from their hegemony over contemporary discourse, but that's a topic for another blogpost.
