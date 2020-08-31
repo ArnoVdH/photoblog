@@ -9,6 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **Sad by Design** - Geert Lovink
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
