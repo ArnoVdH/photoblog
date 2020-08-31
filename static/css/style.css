@@ -223,6 +223,11 @@ header ul a.active {
     margin-bottom: 1em;
 }
 
+.blogpost sup {
+    color: #83878C;
+    size: smaller;
+}
+
 .blogpost figcaption p{
     line-height: normal;
     font-size: 0.7em;
@@ -237,6 +242,16 @@ header ul a.active {
 
 .content .read-more {
     margin-top: 0.5em;
+}
+
+.footnotes p {
+    margin-left: 2em;
+    font-size: smaller;
+    color: #83878C;
+}
+
+.footnotes hr {
+    display: none;
 }
 
 /* LAYOUT */
