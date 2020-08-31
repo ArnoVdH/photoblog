@@ -2,7 +2,7 @@
 categories = ["politics", "personal"]
 date = 2020-08-26T21:30:00Z
 description = ""
-draft = true
+draft = false
 featured_image = ""
 title = "Beyond privilege self-awareness"
 
@@ -19,19 +19,22 @@ I find myself at the crossroads of a lot of different privileges: I'm white, I'm
 But, at least it doesn't end there. My own personal passions - or more correctly: my class-interests - for radical liberty and (even more radical) equality were important for the formation of some of my ideas on other subjects as well, even if maybe just on paper. Some things were more important to me then others (and can one blame someone for their progress being directed at limited issues at a time?). What started as indignation against economic inequality led to indignation about gender equality and the inherent sexism in our society. Class, as a marxist concept, came sneaking into my thoughts as well and then a (admitattely still very limited) awereness of heteronormativity and LGBTQ+ issues. And throughout all this, racism has been something I thought I was always very clear about. A lesson: your awareness is probably still limited, even after a big *aha erlebnis*. I guess you could call me an apprentice-intersectionalist.
 
 ### What does it mean to be aware of privilege?
+If my own journey is representative, I would say that being aware of privilege is more *becoming* aware of privilege. It's not something you become instantaneously, no matter how many books you read, debates you watch, discussions you have, people you meet... But through all of this, there are some things that help out:
+* Realize and accept that you have biases and ideas that have been formed and influenced by privilege
+* Accept that unprivileged people experience things differently, even if it's not immediately visible
+* Be prepared to listen to someone when they point out your privilege, bias or faux-pas
+* Apologize when necessary: this has *nothing* to do with the whole concept but is just basic human decency
 
-Realize and accept that you have biases and ideas that have been formed and influenced by privilege.
+Ultimately, if doing this consciously is in some way too oppressive a burden to bear, you could just adhere to two very general and completely non-politicized principles:
+* Trust the other to act in good faith: i.e. they don't try to fool you when telling you something, so it's probably worth it to listen to their side of a (hi)story
+* Act and talk to people in such a way as you would do to friends: if you know something makes a friend uncomfortable, you'd probably avoid it for their sake
 
-Accept that unprivileged people experience things differently, even if it's not immediately visible.
+(Is it just me or is Kantian deontological ethics still the best?)
 
-Be prepared to listen to someone when they point out your privilege, bias or faux-pas.
-
-Apologize when necessary: this has *nothing* to do with the whole concept but is just basic human decency, like you would apologize to a friend when forgetting their birthday.
-
-It's a learning experience. Just keep doing you and change when you do something that's not cool, radical or groovy. But practically I don't really use these concepts all that much in my daily talk. Only when something relevant should pop up I try to give some pushback by trying to point out 
+In practice, I don't really use these concepts all that much in my daily talk (which doesn't mean I don't use them daily). Only when something relevant should pop up I try to give some pushback by trying to point out 
 
 ### What comes after a moment of realization?
-You continue being you. Just like waking up every day changes who you are every day, so does listening to others and becoming more aware of your position in society and it's power relations. It doesn't alter your identity, unless you think that your self is subordinate to something outside of you (in which case changing yourself also doesn't alter this external element).
+It's a learning experience. Just keep doing you and change when you do something that's not cool, radical or groovy. Just like waking up every day changes who you are every day, so does listening to others and becoming more aware of your position in society and it's power relations. It doesn't alter your identity, unless you think that your self is subordinate to something outside of you (in which case changing yourself also doesn't alter this external element).
 
 Since it's an ongoing proces of learning (and unlearning), some might think that I'll never reach a stage where I can be comfortable with myself. But I'd like to argue the opposite: what good is it to keep heaping up things to be angry about when your privileges are questioned and exposed? I (try to) listen, learn, process and go on with my life, hopefully a little bit wiser and better equipped to go on about my life. Actually, as a man, becoming more aware of your own (male, but also other) privilege is also a way towards a more healthy masculinity. I'm a lot less bothered by things people think or say about me but I am bewildered by how much it bothers others. What does it matter when people label me, for example, as gay if to me that's just a failed insult? In the end, the little effort it takes frees up so much mental head-space to deal with other, more interesting and rewarding things.
 
