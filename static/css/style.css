@@ -245,14 +245,15 @@ header ul a.active {
 }
 
 .footnotes li {
-    margin-left: 2em;
-    margin-top: 2em;
-    font-size: 0.7em;
+    font-size: 0.8;
     color: #83878C;
 }
 
 .footnotes hr {
-    display: none;
+    margin-top: 3em;
+    margin-bottom: 0em;
+    width: 30%;
+    color: #83878C;
 }
 
 /* LAYOUT */
