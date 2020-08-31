@@ -244,7 +244,7 @@ header ul a.active {
     margin-top: 0.5em;
 }
 
-.footnotes p {
+.footnotes li {
     margin-left: 2em;
     margin-top: 2em;
     font-size: 0.7em;
