@@ -246,7 +246,8 @@ header ul a.active {
 
 .footnotes p {
     margin-left: 2em;
-    font-size: smaller;
+    margin-top: 2em;
+    font-size: 0.7em;
     color: #83878C;
 }
 
