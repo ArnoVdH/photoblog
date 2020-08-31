@@ -7,7 +7,7 @@ featured_image = ""
 title = "Beyond privilege self-awareness"
 
 +++
-There is a presupposition that, as a white cishet male (all the words!) trying to acknowledge his *privileges*, I must be utterly miserable and emasculated by the experience. Full of self-hate and constantly apolizing; digging myself deeper, groveling before the relevant opressed demographic. Castigating myself and my 'fellow people' before the altar of the false god of *political correctness*.[^1] This is simply not true in my experience, which I'll try to explain here.
+There is a presupposition that, as a white cishet male (all the words!) trying to acknowledge his *privileges*, I must be utterly miserable and emasculated by the experience. Full of self-hate and constantly apolizing; digging myself deeper, groveling before the relevant opressed demographic. Castigating myself and my 'fellow people' before the altar of the false god of *political correctness*.[^*] This is simply not true in my experience, which I'll try to explain here.
 
 <!--more-->
 
@@ -40,4 +40,4 @@ Since it's an ongoing proces of learning (and unlearning), some might think that
 
 In the end, I still think that class is, to me, a central concept in the way I think about how our world functions, but the other intersections are equally as important to get a full grasp of how power operates and how it keeps people from uniting in their class interests, each having their own important contribution of continuing the domineering capitalist system.
 
-[^1] I'm of the opinion that the whole 'PC-culture' hysteria is a reactionary red herring to distract us all from their hegemony over contemporary discourse, but that's a topic for another blogpost.
+[^*]: I'm of the opinion that the whole 'PC-culture' hysteria is a reactionary red herring to distract us all from their hegemony over contemporary discourse, but that's a topic for another blogpost.
