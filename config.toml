@@ -38,3 +38,6 @@ paginate = 10
 [frontmatter]
 date = ["publishDate", "date", "lastmod"]
 publishDate = ["publishDate", "date"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
