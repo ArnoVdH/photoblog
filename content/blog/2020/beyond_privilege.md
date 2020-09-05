@@ -20,6 +20,7 @@ But, at least it doesn't end there. My own personal passions - or more correctly
 
 ### What does it mean to be aware of privilege?
 If my own journey is representative, I would say that being aware of privilege is more *becoming* aware of privilege. It's not something you become instantaneously, no matter how many books you read, debates you watch, discussions you have, people you meet... But through all of this, there are some things that help out:
+
 * Realize and accept that you have biases and ideas that have been formed and influenced by privilege
 * Accept that unprivileged people experience things differently, even if it's not immediately visible
 * Be prepared to listen to someone when they point out your privilege, bias or faux-pas
