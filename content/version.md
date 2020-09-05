@@ -21,8 +21,11 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 
+### 1.2.0 (2020-08-31)
+* Added CSS for footnotes
+
 ### 1.1.0 (2020-07-28)
-* Changed mobile css to make blog usable: limited width of posts and (also height of) images
+* Changed mobile CSS to make blog usable: limited width of posts and (also height of) images
 
 ### 1.0.2 (2020-07-14)
 * Added a RSS icon and link to the footer

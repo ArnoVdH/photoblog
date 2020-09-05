@@ -9,6 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **Song for the Unraveling of the World** - Brian Evenson
 * **Sad by Design** - Geert Lovink
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
