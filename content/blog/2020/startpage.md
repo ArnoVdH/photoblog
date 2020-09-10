@@ -13,6 +13,7 @@ It's not that big of an idea and there's a small scene online of people designin
 <!--more-->
 
 Some of the goals I have for the startpage:
+
 * Sober layout. I like the 'terminal' style because it also communicates the self-reliance idea into your browser. And it looks cool, damn it!
 * A comprehensive collection of my most used sites for easy access
 * A functional search bar, preferably with some sort of autocomplete function
