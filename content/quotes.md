@@ -22,3 +22,5 @@ draft = true
 "If a man, holding a belief which he was taught in childhood or persuaded of afterwards, keeps down and pushes away any doubt which arise about it in his mind, purposely avoids the reading of books and the company of men that call into question or discuss it, and regards as impious those questions which cannot easily be asked without disturbing it – the life of that man is one long sin against mankind." - William Clifford
 
 "Justice is the first virtue of social instituations, as truth is of systems of thought. A theory however elegant and economical must be rejected or revised if it is untrue; likewikse laws and institutions no matter how efficient and well-arranged must be reformed or abolished if they are unjust." - John Rawls
+
+"Cyberpunk was a warning, not an aspiration." - Mike Pondsmith

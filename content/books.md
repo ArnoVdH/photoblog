@@ -9,7 +9,6 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Song for the Unraveling of the World** - Brian Evenson
 * **Sad by Design** - Geert Lovink
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
@@ -17,6 +16,7 @@ menu = "about"
 
 ## Read
 ### 2020
+* **Song for the Unraveling of the World** - Brian Evenson ★★★
 * **Why I'm No Longer Talking to White People About Race** - Reni Eddo-Lodge ★★★★
 * **The Master and Margarita** - Mikhail Bulgakov ★★★★
 * **Children of Time** - Adrian Tchaikovsky ★★★
