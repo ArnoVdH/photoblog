@@ -85,18 +85,29 @@ menu = "about"
 * **What If?** - Randall Munroe ★★★
 * **Three Moments of an Explosion** - China Miéville ★★★
 * **The City & The City** - China Miéville ★★★★
+* **John Dies at the End** - David Wong ★★
 * **From Here to Eternity** - Caitlin Doughty ★★
 * **The Code Book** - Simon Singh ★★★★
 * **34 zeer korte verhalen en een vogelkat** - Evelio Rosero ★★★
 * **Duna Messiah** (Dune 2) - Frank Herbert ★★
 * **The Blind Owl** - Sadegh Hedayat ★★★
 * **Tirza** - Arnon Grunberg ★★★
+* **The Crying of Lot 49** - Thomas Pynchon ★★★★
 * **Alectryomancer and Other Weird Tales** - Christopher Slatsky ★★
+* **The Handmaid's Tale** - Margaret Atwood ★★★★
 * **De trein der traagheid** - Johan Daisne ★★
 * **De komst van Joachim Stiller** - Hubert Lampo ★★★★★
 * **Solaris** - Stanisław Lem ★★★★★
-* **John Dies at the End** - David Wong ★★
+* **Liberty or Death** - Peter McPhee ★★★
+* **Understanding a Photograph** - John Berger
+* **Mort** - Terry Pratchett ★★
+* **The Light Fantastic** - Terry Pratchett ★★
+* **Do Android Dream of Electric Sheep?** - Philip K. Dick ★★★★
+* **The Necrophiliac** - Gabrielle Wittkop ★★★★★
+* **Death's End** (Three-Body Problem 3) - Cixin Liu ★★★
 * **Snow Crash** - Neal Stephenson ★★★
+* **Anarchy Works** - Peter Gelderloos ★★★★
+* **Modern Romance** - Aziz Ansari ★★★
 * **Dune** (Dune 1) - Frank Herbert ★★★
 
 ### 2016
