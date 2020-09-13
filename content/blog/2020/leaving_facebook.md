@@ -63,6 +63,9 @@ Let's face it: I *will* lose something substantial here. A service and tool[^4] 
 * I'll have to actively look for events
 * I'll miss out on a lot of awesome artists and their work
 * An easy way to organize and coordinate through shared group pages
+* Important (and semi-important) life-events of people will elude me
+
+After writing this remarkebly short list, 
 
 ### Necessary?
 
@@ -75,6 +78,7 @@ If you have a business of any kind these days, it's unfortunately always in your
 
 ## The Plan
 Since leaving Facebook is quite the undertaking, it requires a plan. There are some suggestions to be found online, such as articles in [The New York Times](https://www.nytimes.com/2018/10/10/technology/personaltech/how-to-delete-facebook-instagram-account.html) and [Lifewire](https://www.lifewire.com/close-facebook-and-shut-down-your-account-2654265); even the occasional article about [failing to quit](https://www.theverge.com/2018/4/28/17293056/facebook-deletefacebook-social-network-monopoly). There are also various online communities such as [r/corpfree](https://www.reddit.com/r/CorpFree/) where users gather to give tips and alternatives, or maybe deride you for still using social media altogether. (I am aware of the irony of using Reddit in this instance)
+
 Part of the plan will be the utilization of older and proven methods of communication. This wil require more work and maybe some side costs, but remember: you'll pay for things one way or another.
 
 ### Update and maintain a comprehensive contact list
