@@ -9,13 +9,13 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Ten Arguments For Deleting Your Social Media Accounts Right Now** - Jaron Lanier
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **Ten Arguments For Deleting Your Social Media Accounts Right Now** - Jaron Lanier ★★★
 * **Sad by Design** - Geert Lovink ★★★
 * **Song for the Unraveling of the World** - Brian Evenson ★★★
 * **Why I'm No Longer Talking to White People About Race** - Reni Eddo-Lodge ★★★★
