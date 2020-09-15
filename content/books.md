@@ -9,6 +9,8 @@ menu = "about"
 
 +++
 ## Currently reading
+* **The German Ideology** - Karl Marx & Friedrich Engels
+* **Drive Your Plow Over the Bones of the Dead** - Olga Tokarczuk
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
