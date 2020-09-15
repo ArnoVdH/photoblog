@@ -2,7 +2,7 @@
 title =  "Leaving Facebook (part 1)"
 date = 2020-09-15T22:27:00+02:00
 categories = ["personal", "internet"]
-featured_image = ""
+featured_image = "/img/matrixcode.jpg"
 description = ""
 draft = false
 lastmod = "2020-09-15T22:40:00+02:00"
