@@ -1,16 +1,16 @@
 +++
 title =  "Leaving Facebook: The Reason"
-date = 2020-09-15T22:27:43+02:00
+date = 2020-09-15T22:27:00+02:00
 categories = ["personal", "internet"]
 featured_image = ""
 description = ""
 draft = false
-lastmod = ""
+lastmod = "2020-09-15T22:40:00+02:00"
 
 +++
 Over the past few years I've become increasingly uneasy with Facebook and social media in general. I've had an account for over a decade now (since 2008) and it has become such an integrated presence in my life that it's difficult for me to imagine it otherwise. But year after year, new revelations become public, new scandals get out, another terrible event get exacerbated, more misinformation spreads,... My insight into the technological, psychological and polticial functioning of social media on us as individuals and society has grown. And the negative conclusion is inescapable: it's not good.
 
-I *know* that I should quit - I've known that for some years now. I've made quite some changes to my online behaviour already. I cut out a whole bunch of Google owned apps, got rid of WhatsApp and switched to Signal, removed the Facebook app and Facebook Messenger from my phone. But in the end, I still have and use Facebook daily. There's friends I keep in contact with, events to keep track of, updates about things I like (literally, in the case of Facebook). The idea to leave it all behind gives me some sort of anxiety: *I'll lose so much.* 
+I *know* that I should quit - I've known that for some years now. I've made quite some changes to my online behaviour already. I cut out a whole bunch of Google owned apps, got rid of WhatsApp and switched to Signal, removed the Facebook app and Facebook Messenger from my phone. But in the end, I still have and use Facebook on daily basis. There are friends I keep in contact with, events to keep track of, updates about things I like (literally, in the case of Facebook). The idea to leave it all behind gives me nothing short of anxiety: *I'll lose so much.* 
 
 **Therefore I have resolved to pledge to quit Facebook by the end of this *annus horribilis*.**
 
