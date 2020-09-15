@@ -244,8 +244,11 @@ header ul a.active {
     margin-top: 0.5em;
 }
 
-.footnotes li {
+.footnotes {
     margin-top: 3em;
+}
+
+.footnotes li {
     font-size: 0.7;
     color: #83878C;
 }
