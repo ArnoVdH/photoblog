@@ -4,7 +4,7 @@ date = 2020-09-11T14:59:43+02:00
 categories = ["personal", "internet"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 lastmod = ""
 
 +++
@@ -54,6 +54,13 @@ While some tech-companies have said they would intervene, the major issue still 
 Ever since the rise of social media and manipulative tech giants, we've seen the steady erosion of our (admittedly flawed) democracies. Faith in the media as trustworthy declined and so-called 'fake news' and conspiracy theories are on the rise. The value of truth and the meaning of words has become fuzzy. And now, not for the first time, the right has expertly used this, in tandem with the decline in the economic system under 'late-stage' capitalism, to further their cause. The targeted ads make it possible to influence the fractured (working) classes, while the left specifically needs these to be united to excercise their power. I fear that, at the minimum, we'll see continued hollowing-out of our democracies and the rule of law. This means regression on all fronts, increasing repression and an overall grim future.
 
 Where, at some times during the 20th century, it could be argued that capitalism and democracy went hand in hand, these have since parted ways. It's not, and never has been, in capitalism's intrinsic interests to support democratic principles. It is, in my opinion, folly to hope for a solution within a capitalist framework to fix these issues. Any solution will have to be contrary to this profit-oriented logic and will need to include a return to democratic participation in how to shape the fundamentals of our society, including the digital.
+
+## I should leave
+All this leads to the conclusion that has been looming over my thoughts these last few years: the best thing to do is to leave the corporate social media platforms. The companies themselves won't change as they don't have any incentive to. The only thing that arguably could create this incentive is for them to lose users, making their platform less valuable to advertisers. 
+
+But if I (and other like-minded people) leave the platform, won't I abandon online discourse to the very elements I object to? Do I have an obligation to stay and try to counteract this? Try and have some sort of positive influence? I think the positive influence, if any, I can have is neglible. It's a delusion to think that my efforts would outweigh the algorithms. And even then, is it worth it for me? It costs a ton of mental energy to combat the 24/7 propaganda and advertising machine. I think these are things that shouldn't be asked of any one individual to endure.
+
+Is this a condemnation of *all* social media? No, I think there are other, better ways to harness the potential of networks and the internet. More on that in a future blogpost. Is it certain that I won't return? No, I can't say for sure that I'll be able to keep my resolution. Maybe I'll return eventually, with a clean slate or under a pseudonym. But at least I will have tried.
 
 [^1]: I prefer to think about the cost the users (as individuals or, preferably, as a community) have to bear instead of the price the tech giants should have to pay (by way of a data-tax for example), because it's more empowering to the users.
 
