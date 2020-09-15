@@ -1,5 +1,5 @@
 +++
-title =  "Leaving Facebook: The Plan"
+title =  "Leaving Facebook (part 2)"
 date = 2020-09-11T14:59:43+02:00
 categories = ["personal", "internet"]
 featured_image = ""
