@@ -1,6 +1,6 @@
 +++
 title =  "Leaving Facebook: The Reason"
-date = 2020-09-11T14:59:43+02:00
+date = 2020-09-15T22:27:43+02:00
 categories = ["personal", "internet"]
 featured_image = ""
 description = ""
