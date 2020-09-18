@@ -18,4 +18,4 @@ During my university studies I specialized in ethics, political philosophy, crit
 
 I have a broad range of interests that I like to explore. That's what this blog is for, both a personal project and the means to share these interests with the world. I am a bibliophile, collector of art and curiosities and father to two adorable cats: Rops and Alma.
 
-Should you want to contact me, my e-mail adress is `arno.vandenhende`<span style="display: none;">REMOVE</span>`@posteo.net`.
+Should you want to contact me or comment on one of my posts, my e-mail adress is `arno.vandenhende`<span style="display: none;">REMOVE</span>`@posteo.net`.
