@@ -10,13 +10,13 @@ menu = "about"
 +++
 ## Currently reading
 * **The German Ideology** - Karl Marx & Friedrich Engels
-* **Drive Your Plow Over the Bones of the Dead** - Olga Tokarczuk
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **Drive Your Plow Over the Bones of the Dead** - Olga Tokarczuk ★★★★
 * **Ten Arguments For Deleting Your Social Media Accounts Right Now** - Jaron Lanier ★★★
 * **Sad by Design** - Geert Lovink ★★★
 * **Song for the Unraveling of the World** - Brian Evenson ★★★
