@@ -9,7 +9,7 @@ lastmod = ""
 
 +++
 
-Knowing the problems of corporate social media, and Facebook in particular, is one thing, but the practical process of leaving it is a whole other topic in itself. That's what I'l try to expand upon here. Or in other words: what's the actual *plan*?
+Knowing the problems of corporate social media, and Facebook in particular, is one thing, but the practical process of leaving it is a whole other topic in itself. That's what I'l try to expand upon here. Or in other words: what's the actual *plan*? I'll make a guess at the costs and benefits of leaving Facebook and I'll look into some constructive steps I (and others too of course!) can take to transition to a post-Facebook lifestyle.
 
 <!--more-->
 
