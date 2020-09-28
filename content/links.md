@@ -8,3 +8,9 @@ draft = true
 type = "static"
 # menu = "main" #added to make the link active#
 +++
+
+## General
+Mastodon instance
+
+## Blogs
+Fons
