@@ -84,6 +84,8 @@ Deleting Facebook takes a whopping 30 days, in which you can always log back in 
 ## Endgoal: peace of mind
 That's endgoal here. I hope to have more mental space, less distraction and more control on what information I get to see. This won't be an immediate transition and I'll probably experience a period of anxiety, probably loneliness and maybe even depression. But there's light at the other side of the corporate tunnel and I'm sure I can count on the help and support of my friends. It's a small step for humankind, but a big step for me personally.
 
+I hope to write a part 3 where I describe my experiences and a look back at the process somewhere early next year.
+
 [^1]: In the recent Netflix documentary 'The Social Dilemma' Tristan Harris posits that tools are 'patient' objects, waiting for you to use them, while social media *demands* your attention and input. "[W]e've moved away from having a tools-based technology environment to an addiction- and manipulation-based technology environment."
 
 [^2]: Does anyone remember MSN Messenger, where you put these cryptic messages in your chat-name that, in essence, functioned as some sort of status update avant-la-lettre?
