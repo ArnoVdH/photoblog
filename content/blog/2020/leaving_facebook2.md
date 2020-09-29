@@ -4,7 +4,7 @@ date = 2020-09-29T15:13:00+02:00
 categories = ["personal", "internet", "#deletefacebook"]
 featured_image = ""
 description = ""
-draft = true
+draft = false
 lastmod = ""
 
 +++
