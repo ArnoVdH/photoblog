@@ -1,5 +1,5 @@
 +++
-categories = ["review", "books"]
+categories = ["Review", "Books"]
 date = "2019-09-24T06:28:00+00:00"
 description = ""
 featured_image = "/img/blog/perrault.png"

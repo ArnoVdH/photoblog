@@ -1,7 +1,7 @@
 +++
 title =  "The Code Revisited"
 date = 2020-06-15T10:44:34+02:00
-categories = ["hugo", "project"]
+categories = ["Hugo", "Project"]
 featured_image = ""
 description = ""
 draft = false

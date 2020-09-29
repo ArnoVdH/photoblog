@@ -1,5 +1,5 @@
 +++
-categories = ["philosophy", "politics", "basic income"]
+categories = ["Philosophy", "Politics", "Basic Income"]
 date = "2019-09-09T15:46:29.000+02:00"
 description = ""
 featured_image = "/img/blog/calvinhobbes.gif"

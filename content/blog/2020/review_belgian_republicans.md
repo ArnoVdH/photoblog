@@ -1,7 +1,7 @@
 +++
 title =  "Review: Belgian Republicans"
 date = 2020-08-01T15:26:27+02:00
-categories = ["review", "books"]
+categories = ["Review", "Books"]
 featured_image = ""
 description = ""
 draft = true

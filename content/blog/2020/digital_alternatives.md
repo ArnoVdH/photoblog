@@ -1,7 +1,7 @@
 +++
 title =  "Digital Alternatives"
 date = 2020-07-12T21:03:00+02:00
-categories = ["personal", "internet", "project"]
+categories = ["Personal", "Internet", "Project"]
 featured_image = "/img/matrixcode.jpg"
 description = "A post about my efforts to get away from the big data corps"
 draft = false

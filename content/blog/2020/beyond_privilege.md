@@ -1,5 +1,5 @@
 +++
-categories = ["politics", "personal"]
+categories = ["Politics", "Personal"]
 date = 2020-08-26T21:30:00Z
 description = ""
 draft = false

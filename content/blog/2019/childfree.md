@@ -1,5 +1,5 @@
 +++
-categories = ["philosophy", "personal"]
+categories = ["Philosophy", "Personal"]
 date = 2019-10-01T13:20:00Z
 description = ""
 featured_image = ""

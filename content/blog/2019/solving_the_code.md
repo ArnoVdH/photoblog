@@ -1,7 +1,7 @@
 +++
 title =  "Solving the Code"
 date = 2019-09-07T10:00:00+02:00
-categories = ["intro", "hugo", "project"]
+categories = ["Intro", "Hugo", "Project"]
 featured_image = ""
 description = ""
 draft = false

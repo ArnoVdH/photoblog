@@ -1,7 +1,7 @@
 +++
 title =  "In Praise of Morrowind"
 date = 2020-07-13T10:00:00+02:00
-categories = ["review", "gaming"]
+categories = ["Review", "Gaming"]
 featured_image = "/img/morrowind/balmora.jpg"
 description = ""
 draft = false

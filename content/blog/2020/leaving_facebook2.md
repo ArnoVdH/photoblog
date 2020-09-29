@@ -1,7 +1,7 @@
 +++
 title =  "Leaving Facebook (part 2)"
 date = 2020-09-29T15:13:00+02:00
-categories = ["personal", "internet", "%40deletefacebook"]
+categories = ["Personal", "Internet", "DeleteFacebook"]
 featured_image = ""
 description = ""
 draft = false

@@ -1,7 +1,7 @@
 +++
 title =  "Posters TSG 't Zal Wel Gaan"
 date = 2019-11-22T15:45:27+01:00
-categories = ["personal", "design"]
+categories = ["Personal", "Design"]
 featured_image = ""
 description = ""
 draft = true

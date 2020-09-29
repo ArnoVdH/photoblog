@@ -1,7 +1,7 @@
 +++
 title =  "Books of 2020 (non-fiction)"
 date = 2020-09-29T15:24:28+02:00
-categories = ["books", "review"]
+categories = ["Books", "Review"]
 featured_image = ""
 description = ""
 draft = true
