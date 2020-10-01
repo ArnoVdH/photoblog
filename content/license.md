@@ -4,7 +4,7 @@ date = 2020-10-01T15:55:00+02:00
 tags = []
 featured_image = ""
 description = "The licence applicable to everything on this site"
-draft = true
+draft = false
 type = "static"
 # menu = "main" #added to make the link active#
 +++
