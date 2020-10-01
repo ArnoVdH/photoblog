@@ -21,6 +21,9 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 
+### 1.3.0 (2020-10-01)
+* Added a license page for the website with a Creative Commonse BY-NC-SA license.
+
 ### 1.2.0 (2020-08-31)
 * Added CSS for footnotes
 
