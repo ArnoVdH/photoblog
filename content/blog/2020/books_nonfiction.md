@@ -39,9 +39,15 @@ The surprise of the year. I expected something similar to Harari but I was pleas
 ### Pandemic! - Slavoj Žižek
 
 ### Marx, Capital and the Madness of Economic Reason - David Harvey
+
 ### China: A History - John Keay
+
 ### The State and Revolution - Vladimir Lenin
+
 ### Why I'm No Longer Talking to White People About Race - Reni Eddo-Lodge
+
 ### Sad by Design - Geert Lovink
+
 ### Ten Arguments For Deleting Your Social Media Accounts Right Now - Jaron Lanier
+
 ### Ze zijn ons vergeten - Peter Mertens
