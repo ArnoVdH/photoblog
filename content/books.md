@@ -9,7 +9,6 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Trial** - Franz Kafka
 * **The German Ideology** - Karl Marx & Friedrich Engels
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
@@ -17,6 +16,8 @@ menu = "about"
 
 ## Read
 ### 2020
+* **The Haunter of the Dark** - H.P. Lovecraft ★★★★★
+* **The Trial** - Franz Kafka ★★★★
 * **Ze zijn ons vergeten** - Peter Mertens ★★★★
 * **Drive Your Plow Over the Bones of the Dead** - Olga Tokarczuk ★★★★
 * **Ten Arguments For Deleting Your Social Media Accounts Right Now** - Jaron Lanier ★★★

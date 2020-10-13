@@ -11,6 +11,7 @@ menu = "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 41 kB PDF).
 
 ### 2020
+* Started using the Fediverse, hosting my own Mastodon and Pleroma instances
 * Switched to Linux as default OS
 * Adopted two cats: Rops & Alma
 * Citytrip to Amsterdam got canceled due to the global coronavirus pandemic
