@@ -11,6 +11,7 @@ menu = "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 41 kB PDF).
 
 ### 2020
+* Started working at the Federal Public Service - Finance
 * Started using the Fediverse, hosting my own Mastodon and Pleroma instances
 * Switched to Linux as default OS
 * Adopted two cats: Rops & Alma
@@ -27,7 +28,7 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 * Relationship with Anne
 
 ### 2018
-* Started working at NEO (National Employment Office)
+* Started working at the NEO (National Employment Office)
 * Citytrip to Prague, Czech Republic
 
 ### 2017
