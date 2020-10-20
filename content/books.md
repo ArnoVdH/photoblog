@@ -16,7 +16,7 @@ menu = "about"
 
 ## Read
 ### 2020
-* **The Fisherman** - John Langan ★★★★★
+* **The Fisherman** - John Langan ★★★★
 * **The Haunter of the Dark** - H.P. Lovecraft ★★★★★
 * **The Trial** - Franz Kafka ★★★★
 * **Ze zijn ons vergeten** - Peter Mertens ★★★★
