@@ -49,7 +49,7 @@ I wouldn't be me if I didn't ponder a little on this decision of mine.
 
 I have a deep aversion towards charity (the Christian *caritas*), because it originates in a patronizing attitude and tacitly accepting an unjust society. That is to say, in a just society there would be no need for charity. Doesn't this make me a hypocrite then?
 
-I don't think it necessiraly has to be. I won't be donating to institutionilized charities or NGOs but directly to the people intended, some of whom do their thing regardless of my donations and often free of charge too. It's not a patronizing stance but one of support and encouragement.
+I don't think it necessarily has to be. I won't be donating to institutionilized charities or NGOs but directly to the people intended, some of whom do their thing regardless of my donations and often free of charge too. It's not a patronizing stance but one of support and encouragement.
 
 [^1]: For personal reasons I won't disclose the amount I'm donating, only the recipient.
 [^2]: For artists I'm planning to order artwork or merchandise as a way to support them.
