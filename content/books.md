@@ -9,7 +9,6 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Fisherman** - John Langan
 * **The German Ideology** - Karl Marx & Friedrich Engels
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
@@ -17,6 +16,7 @@ menu = "about"
 
 ## Read
 ### 2020
+* **The Fisherman** - John Langan ★★★★★
 * **The Haunter of the Dark** - H.P. Lovecraft ★★★★★
 * **The Trial** - Franz Kafka ★★★★
 * **Ze zijn ons vergeten** - Peter Mertens ★★★★
