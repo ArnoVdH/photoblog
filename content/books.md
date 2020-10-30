@@ -9,6 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **The Wind-Up Bird Chronicle** - Haruki Murakami
 * **The German Ideology** - Karl Marx & Friedrich Engels
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte

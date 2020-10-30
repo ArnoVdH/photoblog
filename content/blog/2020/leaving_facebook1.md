@@ -5,7 +5,7 @@ categories = ["Personal", "Internet", "Delete Facebook"]
 featured_image = "/img/matrixcode.jpg"
 description = ""
 draft = false
-lastmod = "2020-09-15T22:40:00+02:00"
+lastmod = "2020-10-29T13:46:00+02:00"
 
 +++
 Over the past few years I've become increasingly uneasy with Facebook and social media in general. I've had an account for over a decade now (since 2008) and it has become such an integrated presence in my life that it's difficult for me to imagine it otherwise. But year after year, new revelations become public, new scandals get out, another terrible event get exacerbated, more misinformation spreads,... My insight into the technological, psychological and polticial functioning of social media on us as individuals and society has grown. And the negative conclusion is inescapable: it's not good.
@@ -62,7 +62,7 @@ But if I (and other like-minded people) leave the platform, won't I abandon onli
 
 Is this a condemnation of *all* social media? No, I think there are other, better ways to harness the potential of networks and the internet. More on that in a future blogpost. Is it certain that I won't return? No, I can't say for sure that I'll be able to keep my resolution. Maybe I'll return eventually, with a clean slate or under a pseudonym. But at least I will have tried.
 
-[^1]: I prefer to think about the cost the users (as individuals or, preferably, as a community) have to bear instead of the price the tech giants should have to pay (by way of a data-tax for example), because it's more empowering to the users.
+[^1]: I prefer to think about the cost the users (as individuals or, preferably, as a community) have to bear instead of the price the tech giants should have to pay (by way of a data-tax for example), because it's more empowering to the users. See also [this article](https://www.eff.org/deeplinks/2020/10/why-getting-paid-your-data-bad-deal) by the EFF on the subject.
 
 [^2]: Some of my pictures were falsely flagged as being inappropriate, and although I could and did appeal, those were eventually overturned for no good reason, making it impossible to reinstate some of my personal photography.
 
