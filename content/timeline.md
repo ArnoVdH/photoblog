@@ -11,6 +11,7 @@ menu = "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 41 kB PDF).
 
 ### 2020
+* Planned journey with the Trans-Mongolian Express through Russia and China was cancelled.
 * Started working at the Federal Public Service - Finance
 * Started using the Fediverse, hosting my own Mastodon and Pleroma instances
 * Switched to Linux as default OS
