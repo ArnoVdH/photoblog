@@ -7,7 +7,7 @@ description = "Links to sites I recommend"
 draft = true
 type = "static"
 lastmod = 2020-11-01T12:22:00Z
-menu = "main" #added to make the link active
+menu = "about" #added to make the link active
 +++
 
 ## General
