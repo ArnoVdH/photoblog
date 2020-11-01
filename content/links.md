@@ -6,11 +6,20 @@ featured_image = ""
 description = "Links to sites I recommend"
 draft = true
 type = "static"
-# menu = "main" #added to make the link active#
+lastmod = 2020-11-01T12:22:00Z
+menu = "main" #added to make the link active
 +++
 
 ## General
-Mastodon instance
+* [Necronomic.online](https://necronomic.online/): my self-hosted fediverse instance running [Pleroma](https://pleroma.social/)
 
 ## Blogs
-Fons
+* [Druivelse Filosofie](https://fonsdewulf.wordpress.com): blog by my friend Fons [Dutch]
+
+## Articles
+* [Into the Personal-Website-Verse](https://matthiasott.com/articles/into-the-personal-website-verse): on the reappraisal of the personal website and the importance of having a links-page
+* [Bewust kinderloos](https://readymag.com/ahsjournalistiek/bewustkinderloos/): article where I, together with some others, am interviewed about my childfree stance [Dutch]
+* [How to Build a Low-tech Website?](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website): on building lightweight and easily accessible websites
+* [The Uninhabitable Earth, Annotated Edition](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html): hard-hitting article on the broad range of consequences of climate change
+* [Political correctness: how the right invented a phantom enemy](https://www.theguardian.com/us-news/2016/nov/30/political-correctness-how-the-right-invented-phantom-enemy-donald-trump): on the origins of political correctness
+* [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/): interesting comparison of four different possible post-capitalist societies, on two axis: egalitarianism vs hierarchy and abundance vs scarcity.
