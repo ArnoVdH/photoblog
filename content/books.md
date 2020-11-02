@@ -10,13 +10,13 @@ menu = "about"
 +++
 ## Currently reading
 * **The Wind-Up Bird Chronicle** - Haruki Murakami
-* **The German Ideology** - Karl Marx & Friedrich Engels
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **The German Ideology** - Karl Marx & Friedrich Engels ★★★
 * **The Fisherman** - John Langan ★★★★
 * **The Haunter of the Dark** - H.P. Lovecraft ★★★★★
 * **The Trial** - Franz Kafka ★★★★
