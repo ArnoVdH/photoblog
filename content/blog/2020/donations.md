@@ -5,7 +5,7 @@ categories = ["personal"]
 featured_image = ""
 description = ""
 draft = false
-lastmod = ""
+lastmod = "2020-11-08T12:00:00+01:00"
 +++
 The coming year I want to give a monthly donation[^1] to projects, creators[^2] and organizations that I think are worthwhile, changing the recipient every month. I do this because supporting multiple projects continuously is difficult. The costs quickly adds up so that it's difficult to give support to the wide range of the deserving.
 
@@ -16,7 +16,7 @@ I don't intend this as a performative act, a judgement towards others or a way t
 
 Any suggestions for worthwhile projects are welcome!
 
-## The List (year CCXXIX)
+## The List[^3]
 ### Vendémiaire
 **Who?** [The Document Foundation](https://www.documentfoundation.org/), the non-profit organization that develops **[LibreOffice](https://www.libreoffice.org/)**, a free/libre open-source office suite.
 
@@ -53,3 +53,4 @@ I don't think it necessarily has to be. I won't be donating to institutionilized
 
 [^1]: For personal reasons I won't disclose the amount I'm donating, only the recipient.
 [^2]: For artists I'm planning to order artwork or merchandise as a way to support them.
+[^3]: It's the year CCXXIX in this calendar

@@ -24,3 +24,8 @@ menu = "about"
 * [The Uninhabitable Earth, Annotated Edition](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html): hard-hitting article on the broad range of consequences of climate change
 * [Political correctness: how the right invented a phantom enemy](https://www.theguardian.com/us-news/2016/nov/30/political-correctness-how-the-right-invented-phantom-enemy-donald-trump): on the origins of political correctness
 * [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/): interesting comparison of four different possible post-capitalist societies, on two axis: egalitarianism vs hierarchy and abundance vs scarcity
+
+## Creators
+### Video essays
+* [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Ollie Thorn makes engaging video essays on philosophy and politics
+* [ContraPoints](https://www.youtube.com/c/ContraPoints/): Nathalie Wynn makes dramatic video essays on politics and queerness
