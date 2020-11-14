@@ -9,6 +9,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **Dead Lies Dreaming** (Dead Lies Dreaming 1) - Charles Stross
 * **The Linux Command Line** - William E. Shotts Jr.
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes

@@ -36,5 +36,6 @@ I'm also choosing for a (somewhat) small form-factor pc (sffpc), RGP lightning a
 * Music player: cmus
 * Video player: VLC
 * System monitor: Conky?
+* RGB control: OpenRGB
 
 ### Images

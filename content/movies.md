@@ -169,7 +169,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2012 **Jagten** – Thomas Vinterberg
 * 2012 **Django Unchained** – Quentin Tarantino
 * 2013 **Her** – Spike Jonze
-* 2013 *All Is Lost* – J. C. Chandor
+* 2013 **All Is Lost** – J. C. Chandor
 * 2013 **Under the Skin** – Jonathan Glazer
 * 2014 **The Grand Budapest Hotel** – Wes Anderson
 * 2014 **Birdman or (The Unexpected Virtue of Ignorance)** – Alejandro G. Iñárritu
