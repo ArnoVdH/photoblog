@@ -9,13 +9,14 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Dead Lies Dreaming** (Dead Lies Dreaming 1) - Charles Stross
-* **The Linux Command Line** - William E. Shotts Jr.
+* **The Ministry for the Future** - Kim Stanley Robinson
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **Dead Lies Dreaming** (Dead Lies Dreaming 1) - Charles Stross ★★
+* **The Linux Command Line** - William E. Shotts Jr. ★★★
 * **The Wind-Up Bird Chronicle** - Haruki Murakami ★★★★
 * **The German Ideology** - Karl Marx & Friedrich Engels ★★★
 * **The Fisherman** - John Langan ★★★★
@@ -108,7 +109,7 @@ menu = "about"
 * **De komst van Joachim Stiller** - Hubert Lampo ★★★★★
 * **Solaris** - Stanisław Lem ★★★★★
 * **Liberty or Death** - Peter McPhee ★★★
-* **Understanding a Photograph** - John Berger
+* **Understanding a Photograph** - John Berger ★★★★
 * **Mort** - Terry Pratchett ★★
 * **The Light Fantastic** - Terry Pratchett ★★
 * **Do Android Dream of Electric Sheep?** - Philip K. Dick ★★★★

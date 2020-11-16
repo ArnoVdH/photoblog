@@ -23,6 +23,9 @@ Any suggestions for worthwhile projects are welcome!
 **Why?** I've been using LibreOffice for some years now, and OpenOffice before that (of which LibreOffice is a fork). The OpenOffice project has become irrelevant since the acquirement by Apache, but LibreOffice is very much an active and thriving project. I started using it somewhere in 2013 when writing my master thesis and have been very happy with it.
 
 ### Brumaire
+**Who?** [Kat Zoekt Thuis](https://www.katzoektthuis.be/) is an organization that acts as a network of foster families for stray cats and kittens. They operate mainly in the region of Ghent and Brugers.
+
+**Why?** [Our two cats](/img/rops_alma.jpg) are adopted through them and are such a wonderful addition to our lives. But the organization works through gifts and voltuneers and doesn't receive any subsidies. Since we can't help on a practical level, I decided to help them a little financially. 
 
 ### Frimaire
 
