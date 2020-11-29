@@ -9,12 +9,14 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Ministry for the Future** - Kim Stanley Robinson
+* **Mouthful of Birds** - Samanta Schweblin
 * **Belgische republikeinen** - Els Witte
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **Four Futures** - Peter Frase ★★★
+* **The Ministry for the Future** - Kim Stanley Robinson ★★★
 * **Dead Lies Dreaming** (Dead Lies Dreaming 1) - Charles Stross ★★
 * **The Linux Command Line** - William E. Shotts Jr. ★★★
 * **The Wind-Up Bird Chronicle** - Haruki Murakami ★★★★
