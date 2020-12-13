@@ -9,12 +9,15 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Mouthful of Birds** - Samanta Schweblin
-* **Belgische republikeinen** - Els Witte
+* **De nacht voor de echtscheiding** - Sándor Márai
 * **Python Crash Course** - Eric Matthes
 
 ## Read
 ### 2020
+* **This World is Full of Monsters** - Jeff VanderMeer ★★
+* **Prosper's Demon** - K.J. Parker ★★★
+* **Belgische republikeinen** - Els Witte ★★★★
+* **Mouthful of Birds** - Samanta Schweblin ★★
 * **Four Futures** - Peter Frase ★★★
 * **The Ministry for the Future** - Kim Stanley Robinson ★★★
 * **Dead Lies Dreaming** (Dead Lies Dreaming 1) - Charles Stross ★★
