@@ -9,11 +9,12 @@ menu = "about"
 
 +++
 ## Currently reading
-* **De nacht voor de echtscheiding** - Sándor Márai
-* **Python Crash Course** - Eric Matthes
+* **Là-Bas** - Joris-Karl Huysmans
 
 ## Read
 ### 2020
+* **Blackshirts and Reds** - Michael Parenti ★★★★
+* **De nacht voor de echtscheiding** - Sándor Márai ★★
 * **This World is Full of Monsters** - Jeff VanderMeer ★★
 * **Prosper's Demon** - K.J. Parker ★★★
 * **Belgische republikeinen** - Els Witte ★★★★

@@ -28,6 +28,9 @@ Any suggestions for worthwhile projects are welcome!
 **Why?** [Our two cats](/img/rops_alma.jpg) are adopted through them and are such a wonderful addition to our lives. But the organization works through gifts and voltuneers and doesn't receive any subsidies. Since we can't help on a practical level, I decided to help them a little financially. 
 
 ### Frimaire
+**Who?** [Apollonia Saintclair](https://apolloniasaintclair.com/) is a Swiss artist of erotic - and often weird - art. 
+
+**Why?** I've been following her work since my early Tumblr days. Finally being able to get one of her works, as a present for my girlfriend, it felt good to show some support for someone I've been enjoying for this long.
 
 ### Nivôse
 
