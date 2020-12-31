@@ -1,6 +1,6 @@
 +++
 title =  "Books of 2020 (non-fiction)"
-date = 2020-12-31T15:12:00+02:00
+date = 2020-12-31T12:00:00+02:00
 categories = ["Books", "Review"]
 featured_image = ""
 description = ""
