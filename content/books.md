@@ -9,10 +9,11 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Là-Bas** - Joris-Karl Huysmans
+* **The Age of Surveillance Capitalism** - Shashana Zuboff
 
 ## Read
 ### 2020
+* **Là-Bas** - Joris-Karl Huysmans ★★★
 * **Blackshirts and Reds** - Michael Parenti ★★★★
 * **De nacht voor de echtscheiding** - Sándor Márai ★★
 * **This World is Full of Monsters** - Jeff VanderMeer ★★

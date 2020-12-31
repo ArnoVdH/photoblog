@@ -43,3 +43,25 @@ lastmod = ""
 ### Song for the Unraveling of the World - Brian Evenson
 
 ### Drive Your Plow Over the Bones of the Dead - Olga Tokarczuk
+
+### The Trial - Franz Kafka
+
+### The Haunter of the Dark - H.P. Lovecraft
+
+### The Fisherman - John Langan
+
+### The Wind-Up Bird Chronicle - Haruki Murakami
+
+### Dead Lies Dreaming (Dead Lies Dreaming 1) - Charles Stross
+
+### The Ministry for the Future - Kim Stanley Robinson
+
+### Mouthful of Birds - Samanta Schweblin
+
+### Prosper's Demon - K.J. Parker
+
+### This World is Full of Monsters - Jeff VanderMeer
+
+### De nacht voor de echtscheiding - Sándor Márai
+
+### Là-Bas - Joris-Karl Huysmans

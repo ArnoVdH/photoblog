@@ -29,3 +29,8 @@ menu = "about"
 ### Video essays
 * [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Ollie Thorn makes engaging video essays on philosophy and politics
 * [ContraPoints](https://www.youtube.com/c/ContraPoints/): Nathalie Wynn makes dramatic video essays on politics and queerness
+
+### Visual arts
+* [Kirsten Goemaere](http://www.punkie.be/): Local artist creating collages, illustrations and paintings
+* [Apollonia Saintclair](https://apolloniasaintclair.com/): Swiss artist of erotic - and often weird - art
+* [Matt Bailey](https://www.baileyillustration.com/): Tattoo artist and illustrator of voluptuous women and skeletons
