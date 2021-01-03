@@ -5,9 +5,9 @@ categories = ["Books", "Review"]
 featured_image = ""
 description = ""
 draft = false
-lastmod = ""
+lastmod = "2021-01-03T12:00:00+02:00"
 +++
-2020 was a good year, at least in terms of books read. And I don't think that the global pandemic had that much to do with it. I've read over XX books, which is probably a record (it is at least since 2016 when I started to keep a list of the books I read). But I haven't written many reviews. In this blogpost I'll go over the non-fiction works that I've read, chronologically, and write some of my thoughts about them.
+2020 was a good year, at least in terms of books read. And I don't think that the global pandemic had that much to do with it. I've read over 50 books, which is probably a record (it is at least since 2016 when I started to keep a list of the books I read). But I haven't written many reviews. In this blogpost I'll go over the non-fiction works that I've read, chronologically, and write some of my thoughts about them.
 <!--more-->
 
 ### Will My Cat Eat My Eyeballs? - Caitlin Dought
@@ -23,10 +23,10 @@ Amusing essays on the importance of light or, more importantly, the lack thereof
 Yet another all-encompassing history of humanity, but this time much more limited in scope, revoling around one hypothesis: war has, in the long term, made our societies more peaceful. In contrast with Harari, Morris' story is much more empirical (except for the boring evolutionary chapter) and thus convincing.
 
 ### The Bullet Journal Method - Ryder Carroll
-Lots of interesting tips about how to organize your own notebook. I've found it really helps me be more productive, if I can just hang on. Oh, and my journal is always an ugly but functional ugly mess.
+Lots of interesting tips about how to organize your own notebook. I've found it really helps me be more productive, if I can just hang on. Oh, and my journal is always an ugly but functional ugly mess, in contrast to the fancy images you see online.
 
 ### The Communist Manifesto - Karl Marx & Friedrich Engels
-A classic I've reread. Interesting but actually the least interesting marxist text I read this year.
+A classic I've reread. Important but actually the least interesting marxist text I read this year.
 
 ### Taal voor de leuk - Paulien Cornelisse
 Short and amusing reflections on the Dutch language. Nothing special.
@@ -41,7 +41,7 @@ The surprise of the year. I expected something similar to Harari but I was pleas
 A little pamphlet that came out in April, only after the WHO declared covid-19 a pandemic. In it Žižek tries to make sense of what is happening. Definitely need to be re-read in the future to see how it holds up.
 
 ### Marx, Capital and the Madness of Economic Reason - David Harvey
-In depth analysis of Marx' Capital and the relevancy for today economy. Tough nut, but worthwhile.
+In depth analysis of Marx' Capital and the relevancy for todays economy. Tough nut, but worthwhile.
 
 ### China: A History - John Keay
 Since I was planning on travelling to China at the end of the year, I figured I should start digging into the history of the country. It's vast, not just geographically but historically. I still have difficulty wrapping my head around it, but this book helped at least to get some of the large lines into my head.
