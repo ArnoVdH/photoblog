@@ -8,15 +8,17 @@ type = "static"
 menu = "about"
 
 +++
-For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 41 kB PDF).
+For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 42 kB PDF).
+
+### 2021
+* Deleted Facebook account
 
 ### 2020
-* Planned journey with the Trans-Mongolian Express through Russia and China was cancelled.
 * Started working at the Federal Public Service - Finance
-* Started using the Fediverse, hosting my own Mastodon and Pleroma instances
+* Started using the Fediverse
 * Switched to Linux as default OS
 * Adopted two cats: Rops & Alma
-* Citytrip to Amsterdam got cancelled due to the global coronavirus pandemic
+* Outbreak of the corona-virus pandemic, cancelling all major travel plans for the year
 
 ### 2019
 * Citytrip to Eindhoven, The Netherlands
@@ -57,14 +59,13 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 * Moved to studio at Kortrijksesteenweg, Ghent
 * Relationship with Joke
 
-### 2012
-
 ### 2011
 * Moved to house at Blaisantvest, Ghent, with friends, called "The Barrow"
 * Citytrip to Barcelona, Spain
 
 ### 2010
 * First time voting in the national elections (federal level)
+* Citytrip to Berlin, Germany
 
 ### 2009
 * Moved into student-chamber at Visserij, Ghent
@@ -73,12 +74,16 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 * Citytrip to Berlin, Germany with KMF (Student society for moral sciences and philosophy)
 
 ### 2008
+* Made a Facebook account
 * Started studying philosophy at Ghent University
 * Graduated high-school
 
 ### 2007
 * Walked the West-Highland Way in Scotland, UK (CM holiday)
 * School trip to Barcelona, Spain
+
+### 2005
+* CM holiday to Saint-Cecile, Belgium
 
 ### 2004
 * CM holiday to Maloja, Switzerland
@@ -87,7 +92,7 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 * CM holiday to Kell am See, Germany
 
 ### 2002
-* CM holiday to Heer-sur-Meuse
+* CM holiday to Heer-sur-Meuse, Belgium
 
 ### 2001
 * Started wearing glasses

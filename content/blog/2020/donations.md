@@ -33,6 +33,9 @@ Any suggestions for worthwhile projects are welcome!
 **Why?** I've been following her work since my early Tumblr days. Finally being able to get one of her works, as a present for my girlfriend, it felt good to show some support for someone I've been enjoying for this long.
 
 ### Nivôse
+**Who?** The [Wikimedia Foundation](https://wikimediafoundation.org/) is the non-profit organization supporting, funding and hosting a whole host of Wikimedia projects, of which [Wikipedia](https://www.wikipedia.org/) is the largest and most well-known.
+
+**Why?** Wikipedia turns 20 and has been a huge resource for people of my generation - think of all the school projects that used it! - and for me personally. About almost any subject I could think of there's a page for me to read and find further sources (something I do more as I get older). All these years I've more or less taken its existence for granted. This has changed now and I'm happy to contribute a little financially to this beautiful project.
 
 ### Pluviôse
 

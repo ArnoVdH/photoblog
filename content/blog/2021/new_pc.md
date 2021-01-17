@@ -1,6 +1,6 @@
 +++
 title =  "Building a new pc"
-date = 2020-11-08T12:05:42+01:00
+date = 2021-01-08T12:05:42+01:00
 categories = ["Personal", "Project", "Computer"]
 featured_image = ""
 description = ""
@@ -22,14 +22,14 @@ I'm also choosing for a (somewhat) small form-factor pc (sffpc), RGP lightning a
 * GPU: AMD Radeon 6800 XT
 * Storage: Samsung 970 EVO M.2 SSD 1TB
 * Cooling: Cooler Master ML240 V2 liquid cooling AIO + Noctua NF-P12 redux
-* Monitor: LG 27GL850 27" (1440p)
+* Monitor: LG 27GL850 27" (1440p, 144Hz) + Philips 272B 27" (1440p, 75Hz)
 
 ### Software
 
 * OS: Arch Linux
 * DE: Xfce (+ i3?)
 * Terminal:
-* File manager: 
+* File manager: Thunar
 * Browser: Firefox
 * E-mail: Thunderbird
 * Office: LibreOffice

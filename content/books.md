@@ -12,6 +12,9 @@ menu = "about"
 * **The Age of Surveillance Capitalism** - Shashana Zuboff
 
 ## Read
+### 2021
+* **The Horror at Red Hook** - H.P. Lovecraft ★★
+
 ### 2020
 * **Là-Bas** - Joris-Karl Huysmans ★★★
 * **Blackshirts and Reds** - Michael Parenti ★★★★
