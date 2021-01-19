@@ -9,7 +9,8 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Age of Surveillance Capitalism** - Shashana Zuboff
+* **The Ballad of Black Tom** - Victor LaValle
+* **The Age of Surveillance Capitalism** - Shoshana Zuboff
 
 ## Read
 ### 2021

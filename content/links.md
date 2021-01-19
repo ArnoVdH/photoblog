@@ -10,8 +10,9 @@ lastmod = 2020-11-01T12:22:00Z
 menu = "about"
 +++
 
-## General
+## Social
 * [Necronomic.online](https://necronomic.online/): my self-hosted fediverse instance running [Pleroma](https://pleroma.social/)
+* [BookWyrm](https://bookwyrm.social/user/mysteriarch): federated book-reading network
 
 ## Blogs
 * [Druivelse Filosofie](https://fonsdewulf.wordpress.com): blog by my friend Fons [Dutch]
