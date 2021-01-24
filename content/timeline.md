@@ -64,6 +64,7 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 * Citytrip to Barcelona, Spain
 
 ### 2010
+* Bought my first (digital) SLR
 * First time voting in the national elections (federal level)
 * Citytrip to Berlin, Germany
 

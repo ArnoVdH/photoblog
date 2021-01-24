@@ -9,11 +9,11 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Ballad of Black Tom** - Victor LaValle
 * **The Age of Surveillance Capitalism** - Shoshana Zuboff
 
 ## Read
 ### 2021
+* **The Ballad of Black Tom** - Victor LaValle ★★★
 * **The Horror at Red Hook** - H.P. Lovecraft ★★
 
 ### 2020

@@ -22,6 +22,9 @@ Overview of to-do's, ideas for, and (major) changes to the website.
 
 ***
 
+### 1.3.2 (2021-01-19)
+* Changed the copyleft footer info to display the current year with a small script
+
 ### 1.3.1 (2020-11-01)
 * Added a 'links' static page
 
