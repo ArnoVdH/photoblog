@@ -9,10 +9,16 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Age of Surveillance Capitalism** - Shoshana Zuboff
+* **Cannibalism: A Perfectly Natural History** - Bill Schutt
+* **The Melancholy of Resistance** - Lásló Krasznahorkai
 
 ## Read
 ### 2021
+* **1491** - Charles C. Mann ★★★
+* **The Thackery T. Lambshead Pocket Guide to Eccentric & Discredited Diseases** - Jeff VanderMeer (editor) ★★★
+* **The Age of Surveillance Capitalism** - Shoshana Zuboff ★★★★★
+* **The Name of the Rose** - Umberto Eco ★★★★
+* **Axiom's End** (Noumena 1) - Lindsay Ellis ★★
 * **The Ballad of Black Tom** - Victor LaValle ★★★
 * **The Horror at Red Hook** - H.P. Lovecraft ★★
 
