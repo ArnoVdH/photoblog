@@ -1,5 +1,5 @@
 +++
-categories = ["Personal", "Project", "Computer"]
+categories = ["Project", "Computer"]
 date = 2021-03-30T10:05:42Z
 description = ""
 featured_image = ""
