@@ -38,9 +38,6 @@ Any suggestions for worthwhile projects are welcome!
 **Why?** Wikipedia turns 20 and has been a huge resource for people of my generation - think of all the school projects that used it! - and for me personally. About almost any subject I could think of there's a page for me to read and find further sources (something I do more as I get older). All these years I've more or less taken its existence for granted. This has changed now and I'm happy to contribute a little financially to this beautiful project.
 
 ### Pluviôse
-**Who?** [Matt Bailey]() is an English illustrator and tattoo artist who mainly draws skulls and (naked) women.
-
-**Why?** I've been following him for quite some years on Instagram and I like both his artstyle as his demeanor (he has some nice anti-fascist illustrations too).
 
 ### Ventôse
 
