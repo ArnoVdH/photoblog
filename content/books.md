@@ -15,9 +15,9 @@ menu = "about"
 
 ## Read
 ### 2021
-* **Can Political Violence Ever Be Justified?** - Elizabeth Frazer & Kimberly Hutchings
-* **Cannibalism** - Bill Schutt
-* **1491** - Charles C. Mann
+* **Can Political Violence Ever Be Justified?** - Elizabeth Frazer & Kimberly Hutchings ★★★★
+* **Cannibalism** - Bill Schutt ★★★★
+* **1491** - Charles C. Mann ★★★
 * **The Thackery T. Lambshead Pocket Guide to Eccentric & Discredited Diseases** - Jeff VanderMeer & Mark Roberts ★★★
 * **The Age of Surveillance Capitalism** - Shoshana Zuboff ★★★★★
 * **The Name of the Rose** - Umberto Eco ★★★★
