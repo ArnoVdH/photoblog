@@ -1,5 +1,6 @@
 +++
 date = "2019-09-22T10:00:00.000+02:00"
+lastmod = 2021-04-21T17:50:00Z
 description = "A list of games I play(ed)"
 featured_image = ""
 tags = []
@@ -66,3 +67,5 @@ A selection of great games...
 * Kerbal Space Program
 * Mount & Blade
 * Disco Elysium
+* Workers & Resources: Soviet Republic
+* Red Dead Redemption 2

@@ -1,17 +1,17 @@
 +++
 title =  "Links"
 date = 2019-07-08T22:15:02+02:00
+lastmod = 2021-04-21T17:45:00Z
 tags = []
 featured_image = ""
 description = "Links to sites I recommend"
 draft = false
 type = "static"
-lastmod = 2020-11-01T12:22:00Z
 menu = "about"
 +++
 
 ## Social
-* [Necronomic.online](https://necronomic.online/): my self-hosted fediverse instance running [Pleroma](https://pleroma.social/)
+* [Mastodon](https://ondergrond.org/@mysteriarch): my place on the Fediverse
 * [BookWyrm](https://bookwyrm.social/user/mysteriarch): federated book-reading network
 
 ## Blogs

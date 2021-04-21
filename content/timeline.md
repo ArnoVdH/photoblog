@@ -1,5 +1,6 @@
 +++
 date = 2019-09-15T13:33:00Z
+lastmod = 2021-04-21T17:40:00Z
 description = "An overview of my life"
 featured_image = ""
 tags = []
@@ -11,6 +12,7 @@ menu = "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 42 kB PDF).
 
 ### 2021
+* Built my own computer for the first time
 * Deleted Facebook account
 
 ### 2020
