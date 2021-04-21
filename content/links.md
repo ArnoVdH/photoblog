@@ -1,7 +1,7 @@
 +++
 title =  "Links"
 date = 2019-07-08T22:15:02+02:00
-lastmod = 2021-04-21T18:05:00Z
+lastmod = 2021-04-21T19:30:00Z
 tags = []
 featured_image = ""
 description = "Links to sites I recommend"
@@ -13,6 +13,7 @@ menu = "about"
 ## Social
 * [Mastodon](https://ondergrond.org/@mysteriarch): my place on the Fediverse
 * [BookWyrm](https://bookwyrm.social/user/mysteriarch): federated book-reading network
+* [Steam](https://steamcommunity.com/id/thorontur/): gaming platform
 
 ## Blogs
 * [Druivelse Filosofie](https://fonsdewulf.wordpress.com): blog by my friend Fons [Dutch]
@@ -31,7 +32,7 @@ menu = "about"
 * [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/): Great in-depth podcasts about some of the great revolutions of the modern age: the French Revolution, the Springtime of Nations of 1848, the Paris Commune and the Russian Revolution(s)
 
 ### Video essays
-* [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Ollie Thorn makes engaging video essays on philosophy and politics
+* [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Abigail Thorn makes engaging video essays on philosophy and politics
 * [ContraPoints](https://www.youtube.com/c/ContraPoints/): Nathalie Wynn makes dramatic video essays on politics and queerness
 
 ### Visual arts

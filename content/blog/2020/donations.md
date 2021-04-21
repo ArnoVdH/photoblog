@@ -1,11 +1,11 @@
 +++
 title =  "Donations"
 date = 2020-10-16T21:33:58+02:00
+lastmod = 2021-04-21T19:35:00Z
 categories = ["Personal"]
 featured_image = ""
 description = ""
 draft = false
-lastmod = "2020-11-08T12:00:00+01:00"
 +++
 The coming year I want to give a monthly donation[^1] to projects, creators[^2] and organizations that I think are worthwhile, changing the recipient every month. I do this because supporting multiple projects continuously is difficult. The costs quickly adds up so that it's difficult to give support to the wide range of the deserving.
 
@@ -38,15 +38,24 @@ Any suggestions for worthwhile projects are welcome!
 **Why?** Wikipedia turns 20 and has been a huge resource for people of my generation - think of all the school projects that used it! - and for me personally. About almost any subject I could think of there's a page for me to read and find further sources (something I do more as I get older). All these years I've more or less taken its existence for granted. This has changed now and I'm happy to contribute a little financially to this beautiful project.
 
 ### Pluviôse
-**Who?** [Matt Bailey]() is an English illustrator and tattoo artist who mainly draws skulls and (naked) women.
+**Who?** Mike Duncan, maker of the [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/) podcasts.
+
+**Why?** I've been listening to his series (and the one before that: The History of Rome) for years now. I've enjoyed countless hours listening to him navigating the tumultous historical episodes, always with enough room for humorous remarks.
+
+### Ventôse
+**Who?** The [Electronic Frontier Foundation (EFF)](https://www.eff.org/) is a nonprofit organisation that defends digital privacy, rights and liberties.
+
+**Why?** The internet and many of the companies and governments that operate on it have warped the initial promise of freedom, knowledge and democracy towards more nefarious, capitalist goals. The EFF has been an institution since 1990 (my year of birth!) who critically examines these developments and defends rights and liberties
+
+### Germinal
+**Who?** [Matt Bailey](https://www.baileyillustration.com/) is an English illustrator and tattoo artist who mainly draws skulls and (naked) women.
 
 **Why?** I've been following him for quite some years on Instagram and I like both his artstyle as his demeanor (he has some nice anti-fascist illustrations too).
 
-### Ventôse
-
-### Germinal
-
 ### Floréal
+**Who?** 
+
+**Why?** 
 
 ### Prairial
 
