@@ -1,7 +1,7 @@
 +++
 title =  "Leaving Facebook (part 1)"
 date = 2020-09-15T22:27:00+02:00
-categories = ["Personal", "Internet", "Delete Facebook"]
+categories = ["Internet", "Delete Facebook"]
 featured_image = "/img/matrixcode.jpg"
 description = ""
 draft = false

@@ -1,6 +1,6 @@
 +++
 title =  "Building a new pc"
-date = 2021-01-08T12:05:42+01:00
+date = 2021-03-21T12:00:00+01:00
 categories = ["Project", "Computer"]
 featured_image = ""
 description = ""

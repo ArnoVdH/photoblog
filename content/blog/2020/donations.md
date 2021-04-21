@@ -1,7 +1,7 @@
 +++
 title =  "Donations"
 date = 2020-10-16T21:33:58+02:00
-categories = ["personal"]
+categories = ["Personal"]
 featured_image = ""
 description = ""
 draft = false
