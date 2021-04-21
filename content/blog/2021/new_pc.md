@@ -1,6 +1,7 @@
 +++
 title =  "Building a new pc"
 date = 2021-03-21T12:00:00+01:00
+lastmod = 2021-04-21T17:55:00Z
 categories = ["Project", "Computer"]
 featured_image = ""
 description = ""
@@ -31,6 +32,7 @@ I decided to ditch Manjaro and switch to Arch itself, the base for Manjaro anywa
 {{< figure src="/img/newpc/neofetch.png" >}}
 
 Some other software choices I made:
+
 * Desktop Environment: Gnome (with pop-shell)
 * Terminal emulator: Alacritty
 * Browser: Firefox
