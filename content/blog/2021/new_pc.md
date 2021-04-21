@@ -6,7 +6,6 @@ categories = ["Project", "Computer"]
 featured_image = ""
 description = ""
 draft = false
-lastmod = ""
 +++
 I was originally planning on doing the Trans-Siberian and Trans-Mongolian express this winter, but due to the ongoing pandemic that plan fell through. To console myself I decided to redirect the money planned for this into a new pc build. This will be the first time actually building one myself from scratch.
 <!--more-->
