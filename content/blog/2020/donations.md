@@ -45,7 +45,7 @@ Any suggestions for worthwhile projects are welcome!
 ### Ventôse
 **Who?** The [Electronic Frontier Foundation (EFF)](https://www.eff.org/) is a nonprofit organisation that defends digital privacy, rights and liberties.
 
-**Why?** The internet and many of the companies and governments that operate on it have warped the initial promise of freedom, knowledge and democracy towards more nefarious, capitalist goals. The EFF has been an institution since 1990 (my year of birth!) who critically examines these developments and defends rights and liberties
+**Why?** The internet and many of the companies and governments that operate on it have warped the initial promise of freedom, knowledge and democracy towards more nefarious, capitalist goals. The EFF has been an institution since 1990 (my year of birth!) who critically examines these developments and defends rights and liberties.
 
 ### Germinal
 **Who?** [Matt Bailey](https://www.baileyillustration.com/) is an English illustrator and tattoo artist who mainly draws skulls and (naked) women.
@@ -53,9 +53,6 @@ Any suggestions for worthwhile projects are welcome!
 **Why?** I've been following him for quite some years on Instagram and I like both his artstyle as his demeanor (he has some nice anti-fascist illustrations too).
 
 ### Floréal
-**Who?** 
-
-**Why?** 
 
 ### Prairial
 

@@ -1,5 +1,6 @@
 +++
 categories = ["Politics", "Personal"]
+lastmod = 2021-04-23T20:00:00Z
 date = 2020-08-26T21:30:00Z
 description = ""
 draft = false
@@ -27,6 +28,7 @@ If my own journey is representative, I would say that being aware of privilege i
 * Apologize when necessary: this has *nothing* to do with the whole concept but is just basic human decency
 
 Ultimately, if doing this consciously is in some way too oppressive a burden to bear, you could just adhere to two very general and completely non-politicized principles:
+
 * Trust the other to act in good faith: i.e. they don't try to fool you when telling you something, so it's probably worth it to listen to their side of a (hi)story
 * Act and talk to people in such a way as you would do to friends: if you know something makes a friend uncomfortable, you'd probably avoid it for their sake
 
