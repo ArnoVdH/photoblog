@@ -53,6 +53,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1979 **Alien** – Ridley Scott
 * 1979 **Apocalypse Now** – Francis Ford Coppola
 * 1979 **Stalker** – Andrei Tarkovsky
+
 ### 1980s
 * 1980: **Kagemusha** – Akira Kurosawa
 * 1980: **Blues Brothers** – John Landis
@@ -188,6 +189,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2018 **Annihilation** - Alex Garlan
 * 2018 **The Favourite** - Yorgos Lanthimos
 * 2018 **BlacKkKlansman** - Spike Lee
+* 2018 **Sorry to Bother You** - Boots Riley
 * 2019 **The Lighthouse** - Robert Eggers
 * 2019 **1917** - Sam Mendes
 

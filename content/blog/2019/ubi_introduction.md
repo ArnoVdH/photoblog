@@ -82,7 +82,7 @@ One of the most well known alternative social security schemes is the negative i
 
 While the actual wealth transfers would be significantly smaller than in the case of a BI, it still requires a system of background checks to evaluate eligibility for these tax breaks and thus uncertainty about one's income (see below).
 
-{{< figure src="/img/blog/ubi-comparison.jpg" caption="Abstract graph comparison of different social security schemes source: Van Parijs, Philippe 'Real Freedom for All' p.57, 1995)" >}}
+{{< figure src="/img/ubi-comparison.jpg" caption="Abstract graph comparison of different social security schemes source: Van Parijs, Philippe 'Real Freedom for All' p.57, 1995)" >}}
 
 ### Stakeholder grants
 
