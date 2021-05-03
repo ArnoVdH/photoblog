@@ -68,7 +68,7 @@ Early work where Marx & Engels are exploring their ideas on history, dialectical
 Practical book on how to work with the command line in Linux, quite straightforward. Even though the book is almost ten years old, the beauty of bash is that it's very stable and has proven its use for decades.
 
 ### Four Futures - Peter Frase
-An expansion on [his article](https://www.jacobinmag.com/2011/12/four-futures/) in Jacobin Magazine that I enjoyed. The book itself is an interesting mix of speculative futurism and leftist thinking, but I preffered it in its more condensed article format.
+An expansion on [his article](https://www.jacobinmag.com/2011/12/four-futures/) in Jacobin Magazine that I enjoyed. The book itself is an interesting mix of speculative futurism and leftist thinking, but I preferred it in its more condensed article format.
 
 ### Belgische republikeinen - Els Witte
 Quite a tough read, but very enlightening. Since I'm a republican myself (in the sense that I'm for a republic, as opposed to a monarchy) it's extremely fascinating to read about the early years of my own country and how these radical thoughts formed the spark that made it possible. Also the later developments, building coalitions and movements with the working classes and the influence of early socialism is something that rarely gets much attention, while the genealogy of these is actually extremely important in understanding (and furthering) these causes.
