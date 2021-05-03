@@ -1,11 +1,11 @@
 +++
 title =  "Books of 2020 (non-fiction)"
 date = 2020-12-31T12:00:00+02:00
+lastmod = "2021-01-03T19:20:00+02:00"
 categories = ["Books", "Review"]
 featured_image = ""
 description = ""
 draft = false
-lastmod = "2021-01-03T12:00:00+02:00"
 +++
 2020 was a good year, at least in terms of books read. And I don't think that the global pandemic had that much to do with it. I've read over 50 books, which is probably a record (it is at least since 2016 when I started to keep a list of the books I read). But I haven't written many reviews. In this blogpost I'll go over the non-fiction works that I've read, chronologically, and write some of my thoughts about them.
 <!--more-->
@@ -16,7 +16,7 @@ Fun and gruesome. Ideal for children *or* as bathroom literature.
 ### Sapiens: A Brief History of Humankind - Yuval Noah Harari
 Overblown. It's a crystalized liberal worldview, meant for self-assured, self-proclaimed progressives to read and agree with. There's a baffling lack of nuance or anything remotely thought-provoking. 
 
-### In Praise of Shadows** - Junichirō Tanizaki
+### In Praise of Shadows - Junichirō Tanizaki
 Amusing essays on the importance of light or, more importantly, the lack thereof. And about the superiority of Japanese, rustic outdoor toilets.
 
 ### War! What Is It Good For? - Ian Morris
@@ -53,7 +53,7 @@ A great book it turns out, about the role of the State in both bourgeois and rev
 My 'that one book I read because of the Black Lives Matter protests'. It was pretty good, and written from a British perspective, which is a little closer to home as a European than the American situation. Good and fast read.
 
 ### Sad by Design - Geert Lovink
-My dose of post-modernism. There was a lot of difficult to understand - if any meaning was actually present - filler, but there were also many good criticisms and propositions. I'd say a 50/50 split, which is amazing for this kind of literature.
+My dose of post-modernism. There was a lot of difficult to understand - if any meaning was actually present - filler, but there were also many good criticisms and propositions. I'd say a fifty-fifty split, which is amazing for this kind of literature.
 
 ### Ten Arguments For Deleting Your Social Media Accounts Right Now - Jaron Lanier
 Nothing new here, but maybe a nice read for those who are new to social media criticism. The nice thing is where he acknowledges he and his Silicon Valley collegues have made some huge mistakes in the early days.
