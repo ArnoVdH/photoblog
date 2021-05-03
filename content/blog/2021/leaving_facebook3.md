@@ -10,8 +10,6 @@ lastmod = ""
 It has been some months now since I left Facebook for good, and while it's not the ultimate life-changing decision some make it out to be[^1], it's still worth it.
 <!--more-->
 
-Intro
-<!--more-->
 ### The deletion process
 
 ### Experiences
