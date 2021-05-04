@@ -11,11 +11,11 @@ menu = "about"
 +++
 ## Currently reading
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
-* **Cryptonomicon** - Neal Stephenson
 * **The Melancholy of Resistance** - László Krasznahorkai
 
 ## Read
 ### 2021
+* **Cryptonomicon** - Neal Stephenson ★★★
 * **Can Political Violence Ever Be Justified?** - Elizabeth Frazer & Kimberly Hutchings ★★★★
 * **Cannibalism** - Bill Schutt ★★★★
 * **1491** - Charles C. Mann ★★★
