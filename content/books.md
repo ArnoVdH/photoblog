@@ -10,6 +10,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **The Civil War in France** - Karl Marx
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 * **The Melancholy of Resistance** - László Krasznahorkai
 
