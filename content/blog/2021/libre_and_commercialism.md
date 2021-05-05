@@ -8,9 +8,12 @@ description = ""
 draft = true
 +++
 <<<<<<< HEAD
+<<<<<<< HEAD
 There's a weird paradox going on in the idea of free/libre material (both software as other creative content). According to something like the Creative Commons license, the more you allow others to do with your material, the freer it is *even if this means that those using it may limit subsequent usage*. 
 <!--more-->
 =======
+=======
+>>>>>>> 55c4a03c245adc75fde052d1a981b5d324256075
 There's a weird paradox going on in the idea of free/libre material (both software as other creative content). According to something like the Creative Commons license, the more you allow others to do with your material, the freer it is *even if this means that those using it may limit subsequent usage*.
 <!--more-->
 
@@ -22,4 +25,7 @@ I get where the idea comes from, but it irks me to no end. In a strict sense it 
 
 ### Share-alike
 I'd argue that a share-alike license is actually *more* free than one that doesn't have this clause. 
+<<<<<<< HEAD
+>>>>>>> 55c4a03c245adc75fde052d1a981b5d324256075
+=======
 >>>>>>> 55c4a03c245adc75fde052d1a981b5d324256075
