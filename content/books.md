@@ -10,12 +10,13 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Civil War in France** - Karl Marx
+* **We, the Drowned** - Carsten Jensen
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 * **The Melancholy of Resistance** - László Krasznahorkai
 
 ## Read
 ### 2021
+* **The Civil War in France** - Karl Marx ★★★★
 * **Cryptonomicon** - Neal Stephenson ★★★
 * **Can Political Violence Ever Be Justified?** - Elizabeth Frazer & Kimberly Hutchings ★★★★
 * **Cannibalism** - Bill Schutt ★★★★
