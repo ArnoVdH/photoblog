@@ -16,6 +16,7 @@ menu = "about"
 
 ## Read
 ### 2021
+* **The Old Is Dying and the New Cannot Be Born** - Nancy Fraser ★★★
 * **The Civil War in France** - Karl Marx ★★★★
 * **Cryptonomicon** - Neal Stephenson ★★★
 * **Can Political Violence Ever Be Justified?** - Elizabeth Frazer & Kimberly Hutchings ★★★★
