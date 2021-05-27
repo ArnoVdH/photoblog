@@ -10,12 +10,12 @@ menu = "about"
 
 +++
 ## Currently reading
-* **We, the Drowned** - Carsten Jensen
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 * **The Melancholy of Resistance** - László Krasznahorkai
 
 ## Read
 ### 2021
+* **We, the Drowned** - Carsten Jensen ★★★★★
 * **The Old Is Dying and the New Cannot Be Born** - Nancy Fraser ★★★
 * **The Civil War in France** - Karl Marx ★★★★
 * **Cryptonomicon** - Neal Stephenson ★★★
