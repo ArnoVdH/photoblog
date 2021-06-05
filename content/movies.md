@@ -194,3 +194,4 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2019 **1917** - Sam Mendes
 
 ### 2020s
+* 2021 **Inside** - Bo Burnham

@@ -10,11 +10,13 @@ menu = "about"
 
 +++
 ## Currently reading
+* **The Sublime Object of Ideology** - Slavoj Žižek
+* **Mr. Gaunt and Other Uneasy Encounters** - John Langan
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
-* **The Melancholy of Resistance** - László Krasznahorkai
 
 ## Read
 ### 2021
+* **The Lost Revolution** - Chris Harman ★★★
 * **We, the Drowned** - Carsten Jensen ★★★★★
 * **The Old Is Dying and the New Cannot Be Born** - Nancy Fraser ★★★
 * **The Civil War in France** - Karl Marx ★★★★
