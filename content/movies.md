@@ -25,10 +25,10 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1940: **The Sea Hawk** - Michael Curtiz
 
 ### 1950s
-* 1957 **12 Angry Men** – Sidney Lumet
-* 1957 **Paths of Glory** – Stanley Kubrick
-* 1957 **The Seventh Seal** - Ingmar Bergman
-* 1959 **North by Northwest** - Alfred Hitchcock
+* 1957: **12 Angry Men** – Sidney Lumet
+* 1957: **Paths of Glory** – Stanley Kubrick
+* 1957: **The Seventh Seal** - Ingmar Bergman
+* 1959: **North by Northwest** - Alfred Hitchcock
 
 ### 1960s
 * 1962: **Lawrence of Arabia** – David Lean
@@ -43,16 +43,16 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1968: **Barbarella** – Roger Vadim
 
 ### 1970s
-* 1971 **A Clockwork Orange** – Stanley Kubrick
-* 1971 **Malpertuis** – Harry Kümel
-* 1972 **Aguirre, der Zorn Gottes** – Werner Herzog
-* 1972 **Fritz the Cat** – Ralph Bakshi
-* 1972 **Solaris** - Andrei Tarkovsky
-* 1974 **Chinatown** – Roman Polanski
-* 1976 **Network** - Sidney Lumet
-* 1979 **Alien** – Ridley Scott
-* 1979 **Apocalypse Now** – Francis Ford Coppola
-* 1979 **Stalker** – Andrei Tarkovsky
+* 1971: **A Clockwork Orange** – Stanley Kubrick
+* 1971: **Malpertuis** – Harry Kümel
+* 1972: **Aguirre, der Zorn Gottes** – Werner Herzog
+* 1972: **Fritz the Cat** – Ralph Bakshi
+* 1972: **Solaris** - Andrei Tarkovsky
+* 1974: **Chinatown** – Roman Polanski
+* 1976: **Network** - Sidney Lumet
+* 1979: **Alien** – Ridley Scott
+* 1979: **Apocalypse Now** – Francis Ford Coppola
+* 1979: **Stalker** – Andrei Tarkovsky
 
 ### 1980s
 * 1980: **Kagemusha** – Akira Kurosawa
@@ -158,40 +158,40 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2009: **Fantastic Mr. Fox** - Wes Anderson
 
 ### 2010s
-* 2010 **Shutter Island** - Martin Scorsese
-* 2010 **Sound of Noise** – Ola Simonssen & Johannes Stjärne Nilsson
-* 2010 **The Bang Bang Club** - Steven Silver
-* 2010 **Exit Through the Gift Shop** - Banksy
-* 2011 **Tinker Tailor Soldier Spy** – Tomas Alfredson
-* 2011 **Carnage** – Roman Polanski
-* 2011 **Melancholia** – Lars von Trier
-* 2011 **Drive** – Nicolas Winding Refn
-* 2012 **The Act of Killing** – Joshua Oppenheimer
-* 2012 **Jagten** – Thomas Vinterberg
-* 2012 **Django Unchained** – Quentin Tarantino
-* 2013 **Her** – Spike Jonze
-* 2013 **All Is Lost** – J. C. Chandor
-* 2013 **Under the Skin** – Jonathan Glazer
-* 2014 **The Grand Budapest Hotel** – Wes Anderson
-* 2014 **Birdman or (The Unexpected Virtue of Ignorance)** – Alejandro G. Iñárritu
-* 2014 **What We Do in the Shadows** - Taika Waititi & Jemaine Clement
-* 2015 **The Lobster** – Yorgos Lanthimos
-* 2015 **Mad Max: Fury Road** – George Miller
-* 2015 **The Hateful Eight** – Quentin Tarantino
-* 2015 **Youth** – Paolo Sorrentino
-* 2015 **The VVitch** - Robert Eggers
-* 2015 **High-Rise** - Ben Wheatley
-* 2016 **Hail, Caesar!** – Coen brothers
-* 2016 **The Neon Demon** - Nicolas Winding Refn
-* 2017 **Atomic Blonde** - David Leitch
-* 2017 **Blade Runner 2049** - Denis Villeneuve
-* 2017 **The Death of Stalin** - Armando Iannucci
-* 2018 **Annihilation** - Alex Garlan
-* 2018 **The Favourite** - Yorgos Lanthimos
-* 2018 **BlacKkKlansman** - Spike Lee
-* 2018 **Sorry to Bother You** - Boots Riley
-* 2019 **The Lighthouse** - Robert Eggers
-* 2019 **1917** - Sam Mendes
+* 2010: **Shutter Island** - Martin Scorsese
+* 2010: **Sound of Noise** – Ola Simonssen & Johannes Stjärne Nilsson
+* 2010: **The Bang Bang Club** - Steven Silver
+* 2010: **Exit Through the Gift Shop** - Banksy
+* 2011: **Tinker Tailor Soldier Spy** – Tomas Alfredson
+* 2011: **Carnage** – Roman Polanski
+* 2011: **Melancholia** – Lars von Trier
+* 2011: **Drive** – Nicolas Winding Refn
+* 2012: **The Act of Killing** – Joshua Oppenheimer
+* 2012: **Jagten** – Thomas Vinterberg
+* 2012: **Django Unchained** – Quentin Tarantino
+* 2013: **Her** – Spike Jonze
+* 2013: **All Is Lost** – J. C. Chandor
+* 2013: **Under the Skin** – Jonathan Glazer
+* 2014: **The Grand Budapest Hotel** – Wes Anderson
+* 2014: **Birdman or (The Unexpected Virtue of Ignorance)** – Alejandro G. Iñárritu
+* 2014: **What We Do in the Shadows** - Taika Waititi & Jemaine Clement
+* 2015: **The Lobster** – Yorgos Lanthimos
+* 2015: **Mad Max: Fury Road** – George Miller
+* 2015: **The Hateful Eight** – Quentin Tarantino
+* 2015: **Youth** – Paolo Sorrentino
+* 2015: **The VVitch** - Robert Eggers
+* 2015: **High-Rise** - Ben Wheatley
+* 2016: **Hail, Caesar!** – Coen brothers
+* 2016: **The Neon Demon** - Nicolas Winding Refn
+* 2017: **Atomic Blonde** - David Leitch
+* 2017: **Blade Runner 2049** - Denis Villeneuve
+* 2017: **The Death of Stalin** - Armando Iannucci
+* 2018: **Annihilation** - Alex Garlan
+* 2018: **The Favourite** - Yorgos Lanthimos
+* 2018: **BlacKkKlansman** - Spike Lee
+* 2018: **Sorry to Bother You** - Boots Riley
+* 2019: **The Lighthouse** - Robert Eggers
+* 2019: **1917** - Sam Mendes
 
 ### 2020s
-* 2021 **Inside** - Bo Burnham
+* 2021: **Inside** - Bo Burnham
