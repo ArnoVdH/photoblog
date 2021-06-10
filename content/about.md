@@ -11,7 +11,7 @@ lastmod = 2020-11-01T12:22:00Z
 +++
 {{< figure src="/img/me2.jpg" class="inline-img" >}}
 
-I'm Arno, a 30-years old civil-servant, philosopher and generalist geek. 
+I'm Arno, a 31-years old civil-servant, philosopher and generalist geek. 
 
 I live in Ghent, Belgium, where I was born. I grew up outside of town but returned here to study philosophy at the university and stayed here. I love this city with it's exciting blend of history, culture and social life. On my days off, chances are you find me somehwere in a coffee bar writing, reading or debating friends, or walking around town with my camera. During working hours I'm a civil servant for the Belgian federal administration.
 
