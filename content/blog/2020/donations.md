@@ -53,6 +53,9 @@ Any suggestions for worthwhile projects are welcome!
 **Why?** I've been following him for quite some years on Instagram and I like both his artstyle as his demeanor (he has some nice anti-fascist illustrations too).
 
 ### Floréal
+**Who?** [Ondergrond.org](https://ondergrond.org/about/more) is a locally hosted Mastodon instance run by and for some alternative Ghent queer people. After my own experiment at hosting Fediverse instances, I decided to join this one because why fumble yourself when someone more knowledgable and trustworthy offers a better experience?
+
+**Why?** Hosting costs money, simple as that. I know that from my own experience now. I wanted to contribute my part.
 
 ### Prairial
 
