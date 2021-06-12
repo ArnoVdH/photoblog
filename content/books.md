@@ -10,12 +10,14 @@ menu = "about"
 
 +++
 ## Currently reading
+* **Left-Wing Communism, an Infantile Disorder** - Vladimir Lenin
 * **The Sublime Object of Ideology** - Slavoj Žižek
-* **Mr. Gaunt and Other Uneasy Encounters** - John Langan
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **The Midnight Library** - Matt Haig ★★★
+* **Mr. Gaunt and Other Uneasy Encounters** - John Langan ★★
 * **The Lost Revolution** - Chris Harman ★★★
 * **We, the Drowned** - Carsten Jensen ★★★★★
 * **The Old Is Dying and the New Cannot Be Born** - Nancy Fraser ★★★
