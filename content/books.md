@@ -10,12 +10,13 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Left-Wing Communism, an Infantile Disorder** - Vladimir Lenin
+* **Rayuela** - Julio Cortázar
 * **The Sublime Object of Ideology** - Slavoj Žižek
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **Left-Wing Communism, an Infantile Disorder** - Vladimir Lenin ★★★
 * **The Midnight Library** - Matt Haig ★★★
 * **Mr. Gaunt and Other Uneasy Encounters** - John Langan ★★
 * **The Lost Revolution** - Chris Harman ★★★
