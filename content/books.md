@@ -10,8 +10,8 @@ menu = "about"
 
 +++
 ## Currently reading
+* **Starry Speculative Corpse** (Horror of Philosophy 2) - Eugene Thacker
 * **Rayuela** - Julio Cortázar
-* **The Sublime Object of Ideology** - Slavoj Žižek
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
@@ -167,7 +167,7 @@ menu = "about"
 * **A Short History of Decay** - Emil Cioran ★★★★
 * **Authority** (Southern Reach 2) - Jeff VanderMeer ★★★
 * **Fundering voor de metafysica van de zeden** - Immanuel Kant ★★★★★
-* **In the Dust of This Planet** - Eugene Thacker ★★★★
+* **In the Dust of This Planet** (Horror of Philosophy 1) - Eugene Thacker ★★★★
 * **The Dark Forest** (Three-Body Problem 2) - Cixin Liu ★★★★
 * **The Three-Body Problem** (Three-Body Problem 1) - Cixin Liu ★★★
 * **Red Plenty** - Francis Spufford ★★★★
