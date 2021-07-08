@@ -10,9 +10,6 @@ draft = true
 
 There's a weird paradox going on in the idea of free/libre material (both software as other creative content). According to something like the Creative Commons license, the more you allow others to do with your material, the freer it is *even if this means that those using it may limit subsequent usage*. 
 <!--more-->
-There's a weird paradox going on in the idea of free/libre material (both software as other creative content). According to something like the Creative Commons license, the more you allow others to do with your material, the freer it is *even if this means that those using it may limit subsequent usage*.
-<!--more-->
-
 ### Multiple types of freedom
 The free/libre idea, as with most Anglo-American ideas, have a singular focus on what's called 'negative freedom' in philosophy; the *absense* of limitations on something. But there's also 'positive freedom', which is the presence of possibilities and means to achieve them.
 

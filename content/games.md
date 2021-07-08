@@ -35,6 +35,7 @@ menu = "about"
 * 2007: **Portal** - Valve
 * 2007: **BioShock** - 2K
 * 2007: **World in Conflict** - Massive Entertainment
+* 2007: **S.T.A.L.K.E.R.: Shadow of Chernobyl** - GSC Game World
 * 2008: **Mirror's Edge** - DICE
 * 2008: **Mount & Blade** - TaleWorlds Entertainment
 * 2009: **Borderlands** - Gearbox Software

@@ -10,12 +10,12 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Starry Speculative Corpse** (Horror of Philosophy 2) - Eugene Thacker
 * **Rayuela** - Julio Cortázar
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **Starry Speculative Corpse** (Horror of Philosophy 2) - Eugene Thacker ★★★★
 * **Left-Wing Communism, an Infantile Disorder** - Vladimir Lenin ★★★
 * **The Midnight Library** - Matt Haig ★★★
 * **Mr. Gaunt and Other Uneasy Encounters** - John Langan ★★

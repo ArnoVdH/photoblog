@@ -16,7 +16,7 @@ menu = "about"
 * [Steam](https://steamcommunity.com/id/thorontur/): gaming platform
 
 ## Blogs
-* [Druivelse Filosofie](https://fonsdewulf.wordpress.com): blog by my friend Fons [Dutch]
+* [Fons' philosophy blog](https://www.fonsdewulf.be/blog): blog by my friend Fons. His old blogposts can be found [here](https://fonsdewulf.wordpress.com/berichten/). [Dutch]
 * [Wim's philosophy blog](https://wimchristiaens.netlify.app/): blog by my friend Wim [Dutch & English]
 
 ## Articles
