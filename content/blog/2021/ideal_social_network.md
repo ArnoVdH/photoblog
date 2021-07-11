@@ -54,10 +54,12 @@ Let users decide what to share, what to view and who gets to see what.
 
 ## Mockup
 To be clear, what I'm imaging is as follows:
+
 * A general protocol
 * A FOSS implementation of said protocol
 
 This software package would consist of the following:
+
 * Self-hostable back-end
 * Federation
 * Personal webpages with easy-to-follow communication
@@ -67,6 +69,7 @@ This software package would consist of the following:
 * Some sort of encryption between users to keep private data really private (and not just 'not shown')
 
 Some examples:
+
 * You make an account on the instance of your locality (neighbourhood, town, maybe country) and only use the default capabilities, you don't need anything more for your purposes. Your personal page has the basic layout and colorscheme chosen by your provider and have a range of basic datatypes: text, links (to articles), image-sharing, comments on posts and the like. You're up and running in no time and have everything at your disposal.
 * You go to the page of a acquintance, which uses a popular, clean-looking template. This person uses this mainly as a general social media profile. You click on a small icon in the upper-right corner of the page (or maybe even a button in your browser itself) and a little menu appears showing the different kinds of data in a checklist. Clicking again on the same button accepts them all and you subscribed to the person. But since you're just interested in this person's pictures, you deselect all other data and confirm
 * You're scrolling through your personal feed when you see a notification that someone you really like subscribed to your profile. You decide to grant them access to more personal data, such as pictures where you're partying
