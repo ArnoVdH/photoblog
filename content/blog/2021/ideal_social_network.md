@@ -4,8 +4,8 @@ date = 2021-04-21T15:41:00Z
 description = ""
 draft = true
 featured_image = ""
-lastmod = ""
-title = "Ideal_social_network"
+lastmod = 2021-07-11T16:55:00Z
+title = "My ideal social network"
 
 +++
 The _nillies_ has been the decade of social media. From initial novelty to the digital equivalent of low-yield nuclear ICBM's. The analogy is maybe a bit over dramatic, but it's potential as a weapon has been demonstrated already. During these ten years, it has taken root almost everywhere on the globe. When older people started accepting it - and youngsters subsequently started to reject it in rebellion - was when it went from new frontier to established, settled fact.
@@ -20,6 +20,8 @@ The web isn't young or new anymore, how hard its sleek, turtlenecked proponents 
 
 Somewhat before my time, but at the same moment, still one of the most basic forms of the internet, are personal websites. From basic HTML sites from the nineties, to GeoCities and basic blogging platforms, these gave you the tools to make your personal presence on the web.  This ideal of 'having your own place' seems to have faded and exchanged for a uniform experience for everyone. Even early social networking sites, such as MySpace, took their cues from the early web and let you make your own page, with obnoxious music that started playing automatically and garish backgrounds. These days, the personalisation is limited to strictly defined things such as an avatar, a profile banner (with specified dimensions) and maybe, if you're lucky, a background image.
 
+(RSS)
+
 One of the biggest successes of the dynamic 'Web 2.0' (as opposed to the earlier, static web) was WordPress, an free and open-source content management system that took the world by storm and actually drives around half of the websites even to this day. It's a great tool to build and manage a website, to be sure, but one of the most interesting features is its extensibility.
 
 To me personally, one of the biggest inspirations was Tumblr. A (micro)blogging site that gave you a dashboard to scroll through all your subscribed to pages and a personal page that you could customize but filled automatically with your content - both original as 'reblogged' (content from other people you republished on your own page with a link back and sometimes with commentary). These personal pages were reminiscent of those earlier personal webpages. But I think my favorite feature is the simple follow button on these pages. Unobtrusive, this little button in the corner of the page is an aspiration for how both the 'old' personal websites and the 'new' social networks can be linked to each other.
@@ -28,11 +30,21 @@ More modern inspiration can be found in the Fediverse (federated networks), such
 
 ### Must-have elements
 
-Some sort of federation.
-Open-source.
-Modular, extensible, customizable.
-Ease-of-access.  
-Data sovereignty
+From these inspirational forebears we can distills some elements that should be the core of this ideal social network I'm trying to imagine. It comes in the form of a software package, much like WordPress or Mastodon does, and not a specific website. On the contrary, what I want is a network _of_ websites, instead of a network _on_ a website. 
+
+Firstly, it should be free and open-source. I don't have any qualms with commercial or proprietary software _per se_, but there should be a base package that gives universal access to online social networking. Although I'd prefer it to have a copyleft license, making derivative works equally free, I don't think it's a hard must.
+
+Maybe more fundamental, would be the protocol itself that defines its usage and implementation. The (FOSS) software itself could be limited to a basic reference tool, so that alternatives could be built that are equally compatible. There should be enough distance between the institution that governs this protocol and whoever implements the reference software, so that feature creep doesn't sideline alternative implementations.
+
+Secondly, some sort of federation should be possible. This gives users sovereignty over their own data\[^1\] by allowing multiple access-providers, which have to have or earn the users' trust or even self-hosting, taking responsibility for oneself (or others) in one's own hands.
+
+Federation also allows for a nuanced approach to content moderation, social rules, potential monitization of the service or which set of extensions will be accepted. This is also one of the possible pillars around which communities form: users with shared expectations can join the same provider, but still interact with users outside their community within the constraints this community or its provider sets out. To facilitate this, a robust migration system should be implemented so that one can change provider without too much of a hassle (such as losing data or connections to other users).
+
+The protocol should be fairly extensible, in that different kinds of data can be shared among users, depending on their own choices and preferences. This is what think of as the modularity of a general social network. What this means is that one person can decide to share a specific set of datatypes, while the other person accepts another. For instance: person A shares pictures, music and events, while person B, who subscribes\[^2\] to A, is only interested in their pictures. On the other hand, B also shares additional datatypes, such as news articles, which A wants to see, even though they themselves don't use that particular datatype. Furthermore, B shares some personal information with friends that they don't want A to have access to, so they are automatically barred access to this data. This should work both on the level of the subscriptions (one chooses what set of datatypes will be followed and one can access what set a follower has access to), as on the level of the account itself (maybe the focus of the account is on photography and there's no need to share or accept any other data besides those pictures), and possibly on the level of the provider too (this is more in line with the current model where social networks limit themselves to one specific format). 
+
+Additional features should also be implemented through these kind of extensions.
+
+ Modular, extensible, customizable. Ease-of-access.
 
 ### What is to be avoided
 
@@ -43,3 +55,7 @@ Commercialism embedded into the core system.
 ### A mock-up
 
 A collection of (personal) webpages, a local dashboard that fetches wanted information from the services you subscribed to.
+
+\[^1\]: Although this is only one part of tackling the problem of data harvesting. It does nothing to stop the harvesting of behavioral data that is generated by use.
+
+\[^2\]: I'm called it subscription to keep it general. These could be acquaintances or friends, but also pages from bands, places, brands, companies, etc... 
