@@ -10,6 +10,7 @@ menu = "about"
 
 +++
 ## Currently reading
+* **De Bourgondiërs** - Bart van Loo
 * **Rayuela** - Julio Cortázar
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
