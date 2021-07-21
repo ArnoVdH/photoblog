@@ -16,6 +16,7 @@ menu = "about"
 
 ## Read
 ### 2021
+* **Vooruit!** - Ico Maly ★★★★
 * **Starry Speculative Corpse** (Horror of Philosophy 2) - Eugene Thacker ★★★★
 * **Left-Wing Communism, an Infantile Disorder** - Vladimir Lenin ★★★
 * **The Midnight Library** - Matt Haig ★★★
