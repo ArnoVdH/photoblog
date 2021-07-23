@@ -10,12 +10,13 @@ menu = "about"
 
 +++
 ## Currently reading
-* **De Bourgondiërs** - Bart van Loo
+* **Breaking Things at Work** - Gavin Mueller
 * **Rayuela** - Julio Cortázar
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **De Bourgondiërs** - Bart van Loo ★★★
 * **Vooruit!** - Ico Maly ★★★★
 * **Starry Speculative Corpse** (Horror of Philosophy 2) - Eugene Thacker ★★★★
 * **Left-Wing Communism, an Infantile Disorder** - Vladimir Lenin ★★★

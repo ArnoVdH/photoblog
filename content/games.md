@@ -52,7 +52,7 @@ menu = "about"
 * 2013: **Metro: Last Light** - 4A Games
 * 2013: **BioShock Infinite** - Irrational Games
 * 2013: **Kerbal Space Program** - Squad
-* 2014: **Wolfenstein: The New Order & The Old Blood** MachineGames
+* 2014: **Wolfenstein: The New Order & The Old Blood** - MachineGames
 * 2014: **Shadowrun: Dragonfall** - Harebrained Schemes
 * 2015: **The Witcher 3: Wild Hunt** - CD Projekt Red
 * 2015: **Cities: Skylines** - Colossal Order
