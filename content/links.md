@@ -18,6 +18,7 @@ menu = "about"
 ## Blogs
 * [Fons' philosophy blog](https://www.fonsdewulf.be/blog): blog by my friend Fons. His old blogposts can be found [here](https://fonsdewulf.wordpress.com/berichten/). [Dutch]
 * [Wim's philosophy blog](https://wimchristiaens.netlify.app/): blog by my friend Wim [Dutch & English]
+* [Mieralunar's philosophy blog](https://chelonta.blogspot.com/): blog by a former classmate from university who writes insightful, philosophical reflections [Dutch]
 
 ## Articles
 * [Into the Personal-Website-Verse](https://matthiasott.com/articles/into-the-personal-website-verse): on the reappraisal of the personal website and the importance of having a links-page
@@ -39,3 +40,4 @@ menu = "about"
 * [Kirsten Goemaere](http://www.punkie.be/): Local artist creating collages, illustrations and paintings
 * [Apollonia Saintclair](https://apolloniasaintclair.com/): Swiss artist of erotic - and often weird - art
 * [Matt Bailey](https://www.baileyillustration.com/): Tattoo artist and illustrator of voluptuous women and skeletons
+* [Feline De Coninck](http://www.felinedeconinck.com/): local photographer who excells at intimate scenes
