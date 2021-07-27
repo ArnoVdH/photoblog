@@ -10,12 +10,12 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Breaking Things at Work** - Gavin Mueller
 * **Rayuela** - Julio Cortázar
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **Breaking Things at Work** - Gavin Mueller ★★★★
 * **De Bourgondiërs** - Bart van Loo ★★★
 * **Vooruit!** - Ico Maly ★★★★
 * **Starry Speculative Corpse** (Horror of Philosophy 2) - Eugene Thacker ★★★★
