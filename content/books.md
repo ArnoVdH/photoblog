@@ -10,7 +10,7 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Virtue and Terror** - Maximilien Robespierre
+* **Virtue and Terror** - Maximilien Robespierre & Slavoj Žižek
 * **Rayuela** - Julio Cortázar
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
