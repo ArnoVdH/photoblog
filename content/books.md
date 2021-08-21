@@ -10,12 +10,13 @@ menu = "about"
 
 +++
 ## Currently reading
+* **The Great Railway Bazaar** - Paul Theroux
 * **Virtue and Terror** - Maximilien Robespierre & Slavoj Žižek
-* **Rayuela** - Julio Cortázar
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **Rayuela** - Julio Cortázar ★★
 * **Piranesi** - Susanna Clarke ★★★★
 * **Strange Histories** - Darren Oldridge ★★★
 * **Breaking Things at Work** - Gavin Mueller ★★★★
