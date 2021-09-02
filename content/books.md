@@ -1,6 +1,6 @@
 +++
 date = 2019-09-01T08:00:00Z
-lastmod = 2021-08-04T00:00:00Z
+lastmod = 2021-09-02T00:00:00Z
 description = "My reading history"
 featured_image = ""
 tags = []
@@ -10,12 +10,14 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Great Railway Bazaar** - Paul Theroux
+* **Rapsodie in bloed** - Roger d'Exsteyl
 * **Virtue and Terror** - Maximilien Robespierre & Slavoj Žižek
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **The Great Railway Bazaar** - Paul Theroux ★★★
+* **Atomic Habits** - James Clear ★★★
 * **Rayuela** - Julio Cortázar ★★
 * **Piranesi** - Susanna Clarke ★★★★
 * **Strange Histories** - Darren Oldridge ★★★
