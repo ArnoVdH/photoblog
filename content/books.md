@@ -10,12 +10,13 @@ menu = "about"
 
 +++
 ## Currently reading
-* **Rapsodie in bloed** - Roger d'Exsteyl
-* **Virtue and Terror** - Maximilien Robespierre & Slavoj Žižek
+* **The Prague Cemetery** - Umberto Eco
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **Rapsodie in bloed** - Roger d'Exsteyl ★★★
+* **Virtue and Terror** - Maximilien Robespierre & Slavoj Žižek ★★★★
 * **The Great Railway Bazaar** - Paul Theroux ★★★
 * **Atomic Habits** - James Clear ★★★
 * **Rayuela** - Julio Cortázar ★★
