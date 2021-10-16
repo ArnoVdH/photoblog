@@ -10,11 +10,15 @@ menu = "about"
 
 +++
 ## Currently reading
-* **The Prague Cemetery** - Umberto Eco
+* **A Cat, a Man, and Two Women** - Junichirō Tanizaki
+* **Introductury Lectures on Psychoanalysis** - Sigmund Freud
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 ### 2021
+* **Baron Munchausen** - Erich Rudolf Raspe ★★
+* **Washington Bullets** - Vijay Prashad ★★★
+* **The Prague Cemetery** - Umberto Eco ★★★
 * **Rapsodie in bloed** - Roger d'Exsteyl ★★★
 * **Virtue and Terror** - Maximilien Robespierre & Slavoj Žižek ★★★★
 * **The Great Railway Bazaar** - Paul Theroux ★★★
