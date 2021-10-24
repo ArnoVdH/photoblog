@@ -1,21 +1,26 @@
 +++
 date = 2019-09-01T08:00:00Z
-lastmod = 2021-09-02T00:00:00Z
 description = "My reading history"
 featured_image = ""
+lastmod = 2021-09-02T00:00:00Z
 tags = []
 title = "Books"
 type = "static"
-menu = "about"
+[menu.about]
 
 +++
 ## Currently reading
-* **A Cat, a Man, and Two Women** - Junichirō Tanizaki
+
+* **Under the Black Flag** - David Cordingly
 * **Introductury Lectures on Psychoanalysis** - Sigmund Freud
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
+
 ### 2021
+
+* **The Thursday Murder Club** - Richard Osman ★★★
+* **A Cat, a Man, and Two Women** - Junichirō Tanizaki ★★★★
 * **Baron Munchausen** - Erich Rudolf Raspe ★★
 * **Washington Bullets** - Vijay Prashad ★★★
 * **The Prague Cemetery** - Umberto Eco ★★★
@@ -49,6 +54,7 @@ menu = "about"
 * **The Horror at Red Hook** - H.P. Lovecraft ★★
 
 ### 2020
+
 * **Là-Bas** - Joris-Karl Huysmans ★★★
 * **Blackshirts and Reds** - Michael Parenti ★★★★
 * **De nacht voor de echtscheiding** - Sándor Márai ★★
@@ -103,6 +109,7 @@ menu = "about"
 * **Will My Cat Eat My Eyeballs?** - Caitlin Doughty ★★★
 
 ### 2019
+
 * **Lenin on the Train** -  Catherine Merridale ★★★
 * **The Principles of Communism** - Friedrich Engels ★★★
 * **The Whisperer in Darkness** - H.P. Lovecraft ★★★
@@ -122,6 +129,7 @@ menu = "about"
 * **Failure of a Revolution: Germany 1918-1919** - Sebastian Haffner ★★★★★
 
 ### 2018
+
 * **Hedendaagse antiverlichting** - Ico Maly ★★★★
 * **The Aztecs: A Very Short Introduction** - David Carrasco ★★
 * **Baltimore, or, The Steadfast Tin Soldier and the Vampire** - Mike Mignola ★★★
@@ -135,6 +143,7 @@ menu = "about"
 * **Exquisite Corpse** - Poppy Z. Brite ★
 
 ### 2017
+
 * **What If?** - Randall Munroe ★★★
 * **Three Moments of an Explosion** - China Miéville ★★★
 * **The City & The City** - China Miéville ★★★★
@@ -164,6 +173,7 @@ menu = "about"
 * **Dune** (Dune 1) - Frank Herbert ★★★
 
 ### 2016
+
 * **The Encyclopedia of the Dead** - Danilo Kiš ★★★★★
 * **Why Orwell Matters** - Christopher Hitchens ★★★
 * **Acceptance** (Southern Reach 3) - Jeff VanderMeer ★★★
