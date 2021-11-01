@@ -10,15 +10,16 @@ type = "static"
 
 +++
 ## Currently reading
-
-* **Under the Black Flag** - David Cordingly
+* **Return of the Lazy Dungeon Master** - Michael Shea
+* **Jennifer Government** - Max Barry
 * **Introductury Lectures on Psychoanalysis** - Sigmund Freud
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 
 ### 2021
-
+* **Why Women Have Better Sex Under Socialism** - Kristen Ghodsee ★★★★
+* **Under the Black Flag** - David Cordingly ★★★
 * **The Thursday Murder Club** - Richard Osman ★★★
 * **A Cat, a Man, and Two Women** - Junichirō Tanizaki ★★★★
 * **Baron Munchausen** - Erich Rudolf Raspe ★★
