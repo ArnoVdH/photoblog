@@ -4,10 +4,10 @@ date = 2021-10-23T22:00:00Z
 description = ""
 draft = true
 featured_image = ""
-title = "Setting up Rclone"
+title = "Setting up pCloud sync with Rclone"
 
 +++
-Rclone is a versatile and powerful command-line utility for managing cloud storage.
+[Rclone](https://rclone.org/) is a versatile and powerful command-line utility for managing cloud storage. It's available for all major operating systems and I'm using it on Linux.
 
 Here I am using it to manage my own cloud storage with pCloud.
 
