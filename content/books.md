@@ -10,14 +10,15 @@ type = "static"
 
 +++
 ## Currently reading
-* **Return of the Lazy Dungeon Master** - Michael Shea
-* **Jennifer Government** - Max Barry
 * **Introductury Lectures on Psychoanalysis** - Sigmund Freud
 * **The New Drawing on the Right Side of the Brain** - Betty Edwards
 
 ## Read
 
 ### 2021
+* **Jonathan Strange & Mr Norrell** - Susanna Clarke ★★★★
+* **Return of the Lazy Dungeon Master** - Michael Shea ★★★
+* **Jennifer Government** - Max Barry ★
 * **Why Women Have Better Sex Under Socialism** - Kristen Ghodsee ★★★★
 * **Under the Black Flag** - David Cordingly ★★★
 * **The Thursday Murder Club** - Richard Osman ★★★
