@@ -1,11 +1,11 @@
 +++
-title =  "Building a new pc"
-date = 2021-03-21T12:00:00+01:00
-lastmod = 2021-04-21T17:55:00Z
 categories = ["Project", "Computer"]
-featured_image = ""
+date = 2021-03-21T11:00:00Z
 description = ""
-draft = false
+featured_image = ""
+lastmod = 2021-04-21T17:55:00Z
+title = "Building a new pc"
+
 +++
 I was originally planning on doing the Trans-Siberian and Trans-Mongolian express this winter, but due to the ongoing pandemic that plan fell through. To console myself I decided to redirect the money planned for this into a new pc build. This will be the first time actually building one myself from scratch.
 <!--more-->
@@ -27,7 +27,8 @@ But when I got everything together, I had a lot of fun with figuring out how it 
 
 ### Software
 
-I decided to ditch Manjaro and switch to Arch itself, the base for Manjaro anyway.
+I decided to ditch Manjaro and switch to Arch itself, the base for Manjaro anyway.  Manjaro was not as stable as I liked it to be, and the updates in the repositories came quite slow and not at all in sync with eachother. The same problem exists in Arch, but that's expected, unlike with Manjaro.
+
 {{< figure src="/img/newpc/neofetch.png" >}}
 
 Some other software choices I made:
