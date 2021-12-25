@@ -1,14 +1,15 @@
 +++
-title =  "Books of 2021 (fiction)"
-date = 2021-07-26T19:25:52+02:00
-lastmod = 2021-07-26T19:25:52+02:00
 categories = ["Books", "Review"]
-featured_image = ""
+date = 2021-07-26T17:25:52Z
 description = ""
 draft = true
-+++
+featured_image = ""
+lastmod = 2021-07-26T17:25:52Z
+title = "Books of 2021 (fiction)"
 
++++
 <!--more-->
+
 * **The Horror at Red Hook** - H.P. Lovecraft
 * **The Ballad of Black Tom** - Victor LaValle
 * **Axiom's End** (Noumena 1) - Lindsay Ellis
@@ -18,3 +19,13 @@ draft = true
 * **We, the Drowned** - Carsten Jensen
 * **Mr. Gaunt and Other Uneasy Encounters** - John Langan
 * **The Midnight Library** - Matt Haig
+* **Piranesi** - Susanna Clarke
+* **Rayuela** - Julio Cortázar
+* **Rapsodie in bloed** - Roger d'Exsteyl
+* **The Prague Cemetery** - Umberto Eco
+* **Baron Munchausen** - Erich Rudolf Raspe
+* **A Cat, a Man, and Two Women** - Junichirō Tanizaki
+* **The Thursday Murder Club** - Richard Osman
+* **Jennifer Government** - Max Barry
+* **Jonathan Strange & Mr Norrell** - Susanna Clarke
+* **Nightbitch** - Rachel Yoder
