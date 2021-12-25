@@ -1,15 +1,16 @@
 +++
-title =  "Books of 2021 (non-fiction)"
-date = 2021-07-26T19:25:47+02:00
-lastmod = 2021-07-26T19:25:47+02:00
 categories = ["Books", "Review"]
-featured_image = ""
+date = 2021-07-26T17:25:47Z
 description = ""
 draft = true
-+++
+featured_image = ""
+lastmod = 2021-07-26T17:25:47Z
+title = "Books of 2021 (non-fiction)"
 
++++
 <!--more-->
-* **The Age of Surveillance Capitalism** - Shoshana Zuboff 
+
+* **The Age of Surveillance Capitalism** - Shoshana Zuboff
 * **1491** - Charles C. Mann
 * **Cannibalism** - Bill Schutt
 * **Can Political Violence Ever Be Justified?** - Elizabeth Frazer & Kimberly Hutchings
@@ -21,3 +22,12 @@ draft = true
 * **Vooruit!** - Ico Maly
 * **De Bourgondiërs** - Bart van Loo
 * **Breaking Things at Work** - Gavin Mueller
+* **Strange Histories** - Darren Oldridge
+* **Atomic Habits** - James Clear
+* **The Great Railway Bazaar** - Paul Theroux
+* **Virtue and Terror** - Maximilien Robespierre & Slavoj Žižek
+* **Washington Bullets** - Vijay Prashad
+* **Under the Black Flag** - David Cordingly
+* **Why Women Have Better Sex Under Socialism** - Kristen Ghodsee
+* **Return of the Lazy Dungeon Master** - Michael Shea
+* **For a Left Populism** - Chantal Mouffe
