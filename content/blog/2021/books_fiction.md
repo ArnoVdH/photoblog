@@ -8,6 +8,8 @@ lastmod = 2021-07-26T17:25:52Z
 title = "Books of 2021 (fiction)"
 
 +++
+My yearly retrospective on the books I read, general impressions they left on me (if any of note). 
+
 <!--more-->
 
 * **The Horror at Red Hook** - H.P. Lovecraft
