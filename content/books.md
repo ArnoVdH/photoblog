@@ -10,12 +10,15 @@ type = "static"
 
 +++
 ## Currently reading
-* **Introductury Lectures on Psychoanalysis** - Sigmund Freud
-* **The New Drawing on the Right Side of the Brain** - Betty Edwards
+
+* **The Mammoth Book of Cthulhu** - Paula Guran (editor)
 
 ## Read
 
 ### 2021
+
+* **Nightbitch** - Rachel Yoder ★★★
+* **For a Left Populism** - Chantal Mouffe ★★★
 * **Jonathan Strange & Mr Norrell** - Susanna Clarke ★★★★
 * **Return of the Lazy Dungeon Master** - Michael Shea ★★★
 * **Jennifer Government** - Max Barry ★
