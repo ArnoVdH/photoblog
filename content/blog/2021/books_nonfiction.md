@@ -8,6 +8,7 @@ lastmod = 2021-07-26T17:25:47Z
 title = "Books of 2021 (non-fiction)"
 
 +++
+My yearly retrospective on the books I read, general impressions they left on me (if any of note). 
 
 <!--more-->
 
