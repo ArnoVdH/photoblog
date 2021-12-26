@@ -58,11 +58,15 @@ A whimsical history of the Northern Burgundians masquerading as a venerable tome
 
 Breaking Things at Work - Gavin Mueller
 
-Strange Histories - Darren Oldridge
+### Strange Histories - Darren Oldridge
+
+The one book I'd hoped to be a _little_ more sensationalist, turned out to be quite dry. I got the point of the author - that people in olden times weren't stupid to believe weird, supernatural things - but I'm fairly certain there was a lot more material to be found.
 
 Atomic Habits - James Clear
 
-The Great Railway Bazaar - Paul Theroux
+### The Great Railway Bazaar - Paul Theroux
+
+Supposedly one of the great books of travel literature. I found it quite boring and at times frustratingly superficial, arrogant and even borderline racist. You can glimps elements of the beauty of the railway journey, but it remains obscured by the author's thickness.
 
 Virtue and Terror - Maximilien Robespierre & Slavoj ŽižekBart
 
