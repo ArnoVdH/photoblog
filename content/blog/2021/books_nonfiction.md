@@ -8,23 +8,31 @@ lastmod = 2021-07-26T17:25:47Z
 title = "Books of 2021 (non-fiction)"
 
 +++
-My yearly retrospective on the books I read, general impressions they left on me (if any of note). 
+My yearly retrospective on the books I read, general impressions they left on me (if any of note).
 
 <!--more-->
 
 * **The Age of Surveillance Capitalism** - Shoshana Zuboff
+
+  A truly monumental work. Blending philosophy, psychology, media studies and techno-criticism, Zuboff dissects the new type of capitalism as practiced (firstly) by the tech giants such as Google and Facebook. It's excellent, insightful and warrants a whole review on its own. One that I started but ultimately never finished. Very much recommended.
 * **1491** - Charles C. Mann
+
+  Not the most up-to-date history of the Americas before the European invasions, but still good to be confronted with my own misunderstandings of that other contintent, most especially the myth of the nature-loving 'noble savage' so to speak.
 * **Cannibalism** - Bill Schutt
+
+  I remember this as being a fun dive into the world of biology from an unusual perspective, without getting carried away and just be sensationalism. Good stuff.
 * **Can Political Violence Ever Be Justified?** - Elizabeth Frazer & Kimberly Hutchings
 
   Short and clear overview of some of the different theories on political violence. I don't necessarily agree with their conclusion that, in the end, it's never justified, but the overview is definitely worth the read.
 * **The Civil War in France** - Karl Marx
+
+  Marx shows himself yet again a keen observer and interpreter of contemporary events - a very rare talent in any given age.
 * **The Old Is Dying and the New Cannot Be Born** - Nancy Fraser
 
   The first of two Gramscian analyses I read this year on our current hegemonic period of struggle, mostly focussing on the American case. Inspiring in how to think about the advent and meaning of 'neoliberalism'.
 * **The Lost Revolution** - Chris Harman
 
-  Trotskyite history of the German Revolution.
+  Trotskyite history of the German Revolution. Worth it, if only because the literature on this pivotal moment in history is spread very thin.
 * **Left-Wing Communism, an Infantile Disorder** - Vladimir Lenin
 
   Post-revolution essay dealing with the left-wing adversaries, both inside Russia as internationally. Interesting as a historical document but in the end not as poignant as his other works.
@@ -50,4 +58,8 @@ My yearly retrospective on the books I read, general impressions they left on me
   A general overview of piracy in the West-Indies and all the important piracy tropes. A fun read, nothing too heavy.
 * **Why Women Have Better Sex Under Socialism** - Kristen Ghodsee
 * **Return of the Lazy Dungeon Master** - Michael Shea
+
+  Some tips for mastering roleplaying sessions. A lot of tips are obvious or I have used naturally, but still worthwhile to have it written out, and inspiring to try my hand at it again.
 * **For a Left Populism** - Chantal Mouffe
+
+  The second Gramscian analysis I read this year, also on the current hegemonic gap after the loss of legitimacy of the neoliberal consensus (the dying of the old) and how we could build a progressive alternative (the birthing of the new). Interesting too as a short introduction to the ideas of Mouffe, although I don't have the impression there is a lot more to it than I'v found here.
