@@ -57,6 +57,8 @@ My yearly retrospective on the books I read, general impressions they left on me
 
   A general overview of piracy in the West-Indies and all the important piracy tropes. A fun read, nothing too heavy.
 * **Why Women Have Better Sex Under Socialism** - Kristen Ghodsee
+
+  A surprisingly nuanced view on the accomplishments of state socialism for women's rights and similar issues.
 * **Return of the Lazy Dungeon Master** - Michael Shea
 
   Some tips for mastering roleplaying sessions. A lot of tips are obvious or I have used naturally, but still worthwhile to have it written out, and inspiring to try my hand at it again.
