@@ -1,14 +1,14 @@
 +++
 categories = ["Books", "Review"]
-date = 2021-07-26T17:25:52Z
+date = 2021-12-31T18:00:00Z
 description = ""
 draft = true
 featured_image = ""
-lastmod = 2021-07-26T17:25:52Z
+lastmod = 2021-12-31T18:00:00Z
 title = "Books of 2021 (fiction)"
 
 +++
-My yearly retrospective on the books I read, general impressions they left on me (if any of note). 
+My yearly retrospective on the books I read, general impressions they left on me (if any of note). This post will go over the fiction works I've read and what I think about it in a line or two.
 
 <!--more-->
 

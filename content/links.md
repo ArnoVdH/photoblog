@@ -12,8 +12,8 @@ menu = "about"
 
 ## Social
 * [Mastodon](https://ondergrond.org/@mysteriarch): my place on the Fediverse
-* [BookWyrm](https://bookwyrm.social/user/mysteriarch): federated book-reading network
 * [Steam](https://steamcommunity.com/id/thorontur/): gaming platform
+* [Goodreads](goodreads.com/arnovdh): where I track the books I read
 
 ## Blogs
 * [Fons' philosophy blog](https://www.fonsdewulf.be/blog): blog by my friend Fons. His old blogposts can be found [here](https://fonsdewulf.wordpress.com/berichten/). [Dutch]
@@ -27,10 +27,15 @@ menu = "about"
 * [The Uninhabitable Earth, Annotated Edition](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html): hard-hitting article on the broad range of consequences of climate change
 * [Political correctness: how the right invented a phantom enemy](https://www.theguardian.com/us-news/2016/nov/30/political-correctness-how-the-right-invented-phantom-enemy-donald-trump): on the origins of political correctness
 * [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/): interesting comparison of four different possible post-capitalist societies, on two axis: egalitarianism vs hierarchy and abundance vs scarcity
+* [The moral case for destroying fossil fuel infrastructure](https://www.theguardian.com/commentisfree/2021/nov/18/moral-case-destroying-fossil-fuel-infrastructure): short opinion piece on the necessity of violent action in the face of climate catastrophe. (Malm also has a longer book on the same subject)
+* [How Should We Judge the Revolutionaries?](https://www.jacobinmag.com/2016/07/jaures-french-revolution-robespierre-socialist): Translation of a chapter from *A Socialist History of the French Revolution* by Jean Jaurès
+
 
 ## Creators
 ### Podcasts
 * [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/): Great in-depth podcasts about some of the great revolutions of the modern age: the French Revolution, the Springtime of Nations of 1848, the Paris Commune and the Russian Revolution(s)
+* [Anti-Capitalist Chronicles](https://www.democracyatwork.info/davidharveyacc): a podcast that looks at capitalism through a Marxist lens, with professor David Harvey
+* [The Iron Dice](https://www.theirondice.com/): history podcast about the struggles of the Weimar Republic
 
 ### Video essays
 * [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Abigail Thorn makes engaging video essays on philosophy and politics

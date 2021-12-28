@@ -10,13 +10,13 @@ type = "static"
 
 +++
 ## Currently reading
-
 * **The Mammoth Book of Cthulhu** - Paula Guran (editor)
+* **Introductory Lectures on Psychoanalysis** - Sigmund Freud
 
 ## Read
 
 ### 2021
-
+* **How to Blow Up a Pipeline** - Andreas Malm ★★★★★
 * **Nightbitch** - Rachel Yoder ★★★
 * **For a Left Populism** - Chantal Mouffe ★★★
 * **Jonathan Strange & Mr Norrell** - Susanna Clarke ★★★★
