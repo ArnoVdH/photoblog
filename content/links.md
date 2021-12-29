@@ -13,7 +13,7 @@ menu = "about"
 ## Social
 * [Mastodon](https://ondergrond.org/@mysteriarch): my place on the Fediverse
 * [Steam](https://steamcommunity.com/id/thorontur/): gaming platform
-* [Goodreads](goodreads.com/arnovdh): where I track the books I read
+* [Goodreads](https://goodreads.com/arnovdh): where I track the books I read
 
 ## Blogs
 * [Fons' philosophy blog](https://www.fonsdewulf.be/blog): blog by my friend Fons. His old blogposts can be found [here](https://fonsdewulf.wordpress.com/berichten/). [Dutch]

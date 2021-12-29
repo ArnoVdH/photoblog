@@ -12,6 +12,9 @@ menu = "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 42 kB PDF).
 
 ### 2021
+* Moved to Keizerpoort, Ghent
+* Got operated on my stomach
+* End of relationship with Anne
 * Built my own computer for the first time
 * Deleted Facebook account
 
