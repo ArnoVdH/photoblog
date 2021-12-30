@@ -30,6 +30,8 @@ My first Eco novel and I loved it! Not just the story and mystery in itself, but
 
 ### The Thackery T. Lambshead Pocket Guide to Eccentric & Discredited Diseases - Jeff VanderMeer & Mark Roberts
 
+Bunch of short stories and pseudo-lemma's around fictitious diseases. Some are quite funny and original. More of a novelty book than anything else.
+
 ### Cryptonomicon - Neal Stephenson
 
 A huge tome I've seen in lots of bookstores ever since I was young. Multiple storylines (two during the second world war, one contemporary one) winding around eachother. It's quite the accomplishment for sure, too bad quite a lot is just nineties tech-bro culture stuff
