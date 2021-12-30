@@ -1,8 +1,7 @@
 +++
 categories = ["Books", "Review"]
-date = 2021-12-31T17:00:00Z
+date = 2021-12-30T12:00:00Z
 description = ""
-draft = true
 featured_image = ""
 lastmod = 2021-12-31T17:00:00Z
 title = "Books of 2021 (non-fiction)"
