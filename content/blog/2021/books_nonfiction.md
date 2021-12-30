@@ -89,11 +89,11 @@ A surprisingly nuanced view on the accomplishments of state socialism for women'
 
 ### Return of the Lazy Dungeon Master - Michael Shea
 
-Some tips for mastering roleplaLazyying sessions. A lot of tips are obvious or I have used naturally, but still worthwhile to have it written out, and inspiring to try my hand at it again.
+Some tips for mastering roleplaying sessions. A lot of tips are obvious or I have used naturally, but still worthwhile to have it written out, and inspiring to try my hand at it again.
 
 ### For a Left Populism - Chantal Mouffe
 
-The second Gramscian analysis I read this year, also on the current hegemonic gap after the loss of legitimacy of the neoliberal consensus (the dying of the old) and how we could build a progressive alternative (the birthing of the new). Interesting too as a short introduction to the ideas of Mouffe, although I don't have the impression there is a lot more to it than I'v found here.
+The second Gramscian analysis I read this year, also on the current hegemonic gap after the loss of legitimacy of the neoliberal consensus (the dying of the old) and how we could build a progressive alternative (the birthing of the new). Interesting too as a short introduction to the ideas of Mouffe, although I don't have the impression there is a lot more to it than I've found here.
 
 ### How to Blow Up a Pipeline - Andreas Malm
 
