@@ -1,6 +1,6 @@
 +++
 categories = ["Books", "Review"]
-date = 2021-12-31T18:00:00Z
+date = 2021-12-30T14:00:00Z
 description = ""
 draft = true
 featured_image = ""
@@ -66,9 +66,15 @@ I remember the stories of  Baron von Munchausen when I was a kid, but reading th
 
 ### A Cat, a Man, and Two Women - Junichirō Tanizaki
 
+A timeless story about a spineless man who loves his cat, but is forced to get rid of it and give it back to his ex, by his wife.
+
 ### The Thursday Murder Club - Richard Osman
 
+Funny murder mystery in a community for the elderly, with a few turns that make it enjoyable.
+
 ### Jennifer Government - Max Barry
+
+A libertarian parody that's just so badly written it's not even funny anymore. The characters are flat and the plot plain sucks. Horrible.
 
 ### Jonathan Strange & Mr Norrell - Susanna Clarke
 
