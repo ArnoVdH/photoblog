@@ -39,7 +39,7 @@ menu = "about"
 ### Video essays
 * [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Abigail Thorn makes engaging video essays on philosophy and politics
 * [ContraPoints](https://www.youtube.com/c/ContraPoints/): Nathalie Wynn makes dramatic video essays on politics and queerness
-* [](https://www.youtube.com/c/ThreeArrows/): Dan Arrows makes videos about history and analyses right-wing rhetoric
+* [Three Arrows](https://www.youtube.com/c/ThreeArrows/): Dan Arrows makes videos about history and analyses right-wing rhetoric
 * [Unlearning Economics](https://www.youtube.com/channel/UC4V_jMdRbbTrmBVJB6FDzgw): left-wing economist tackling different subjects in a nuanced way
 
 ### Visual arts
