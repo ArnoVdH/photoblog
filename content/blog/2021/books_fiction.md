@@ -4,7 +4,7 @@ date = 2021-12-31T13:00:00Z
 description = ""
 draft = false
 featured_image = ""
-lastmod = 2021-12-31T13:00:00Z
+lastmod = 2021-12-31T13:30:00Z
 title = "Books of 2021 (fiction)"
 
 +++
