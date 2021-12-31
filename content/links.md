@@ -30,7 +30,6 @@ menu = "about"
 * [The moral case for destroying fossil fuel infrastructure](https://www.theguardian.com/commentisfree/2021/nov/18/moral-case-destroying-fossil-fuel-infrastructure): short opinion piece on the necessity of violent action in the face of climate catastrophe. (Malm also has a longer book on the same subject)
 * [How Should We Judge the Revolutionaries?](https://www.jacobinmag.com/2016/07/jaures-french-revolution-robespierre-socialist): Translation of a chapter from *A Socialist History of the French Revolution* by Jean Jaurès
 
-
 ## Creators
 ### Podcasts
 * [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/): Great in-depth podcasts about some of the great revolutions of the modern age: the French Revolution, the Springtime of Nations of 1848, the Paris Commune and the Russian Revolution(s)
@@ -40,6 +39,8 @@ menu = "about"
 ### Video essays
 * [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Abigail Thorn makes engaging video essays on philosophy and politics
 * [ContraPoints](https://www.youtube.com/c/ContraPoints/): Nathalie Wynn makes dramatic video essays on politics and queerness
+* [](https://www.youtube.com/c/ThreeArrows/): Dan Arrows makes videos about history and analyses right-wing rhetoric
+* [Unlearning Economics](https://www.youtube.com/channel/UC4V_jMdRbbTrmBVJB6FDzgw): left-wing economist tackling different subjects in a nuanced way
 
 ### Visual arts
 * [Kirsten Goemaere](http://www.punkie.be/): Local artist creating collages, illustrations and paintings
