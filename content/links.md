@@ -47,3 +47,7 @@ menu = "about"
 * [Apollonia Saintclair](https://apolloniasaintclair.com/): Swiss artist of erotic - and often weird - art
 * [Matt Bailey](https://www.baileyillustration.com/): Tattoo artist and illustrator of voluptuous women and skeletons
 * [Feline De Coninck](http://www.felinedeconinck.com/): local photographer who excells at intimate scenes
+
+## Sites
+* [AlternativeTo](https://alternativeto.net/): great website to find alternatives to software and sites, with the option to filter for free and open-source versions
+* [ProtonDB](https://www.protondb.com/): unofficial database to check how well you can expect games to run under Proton on Linux, with lots of tips to get a game working
