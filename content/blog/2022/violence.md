@@ -17,6 +17,8 @@ Violence is a necessary component of normal society
 
 We need to be able to think about violence
 
+Not doing this is opening oneself up to being taken by surprise, falling to inaction & defeat.
+
 Some circumstances could allow to use of violence
 
 There are states of exception where the normal use of violence is suspended and extraordinary rules and logic may apply
