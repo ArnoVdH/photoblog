@@ -9,6 +9,8 @@ title = "On violence"
 +++
 Intro
 
+<!--more-->
+
 Violence is morally bad
 
 Violence is a necessary component of normal society
