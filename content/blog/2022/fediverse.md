@@ -12,6 +12,8 @@ Since a few years, there's this new though obscure social media thing, called 't
 
 <!--more-->
 
-What is it
+## What is it
 
-Why is it better?
+## What it isn't
+
+## Why is it better?
