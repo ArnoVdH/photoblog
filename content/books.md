@@ -10,10 +10,13 @@ type = "static"
 
 +++
 ## Currently reading
-* **The Mammoth Book of Cthulhu** - Paula Guran (editor)
+* **Attack of the 50 Foot Blockchain** - David Gerard
 * **Introductory Lectures on Psychoanalysis** - Sigmund Freud
 
 ## Read
+
+### 2022
+* **The Mammoth Book of Cthulhu** - Paula Guran (editor) ★★
 
 ### 2021
 * **How to Blow Up a Pipeline** - Andreas Malm ★★★★★
