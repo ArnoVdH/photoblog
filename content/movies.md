@@ -196,4 +196,5 @@ Lesson learned by making this list: I need to watch more older movies.
 
 ### 2020s
 * 2021: **Inside** - Bo Burnham
+* 2021: **The French Dispatch** - Wes Anderson
 * 2021: **The Green Knight** - David Lowery

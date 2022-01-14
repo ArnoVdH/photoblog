@@ -10,12 +10,13 @@ type = "static"
 
 +++
 ## Currently reading
-* **Attack of the 50 Foot Blockchain** - David Gerard
+* **The Difference Engine** -  William Gibson & Bruce Sterling
 * **Introductory Lectures on Psychoanalysis** - Sigmund Freud
 
 ## Read
 
 ### 2022
+* **Attack of the 50 Foot Blockchain** - David Gerard ★★★
 * **The Mammoth Book of Cthulhu** - Paula Guran (editor) ★★
 
 ### 2021
