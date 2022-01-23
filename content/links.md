@@ -47,7 +47,7 @@ menu = "about"
 * [Kirsten Goemaere](http://www.punkie.be/): Local artist creating collages, illustrations and paintings
 * [Apollonia Saintclair](https://apolloniasaintclair.com/): Swiss artist of erotic - and often weird - art
 * [Matt Bailey](https://www.baileyillustration.com/): Tattoo artist and illustrator of voluptuous women and skeletons
-* [Feline De Coninck](http://www.felinedeconinck.com/): local photographer who excells at intimate scenes
+* [Feline De Coninck](http://www.felinedeconinck.com/): local photographer who excels at intimate scenes
 
 ## Sites
 * [AlternativeTo](https://alternativeto.net/): great website to find alternatives to software and sites, with the option to filter for free and open-source versions
