@@ -35,6 +35,7 @@ menu = "about"
 * [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/): Great in-depth podcasts about some of the great revolutions of the modern age: the French Revolution, the Springtime of Nations of 1848, the Paris Commune and the Russian Revolution(s)
 * [Anti-Capitalist Chronicles](https://www.democracyatwork.info/davidharveyacc): a podcast that looks at capitalism through a Marxist lens, with professor David Harvey
 * [The Iron Dice](https://www.theirondice.com/): history podcast about the struggles of the Weimar Republic
+* [Tech Won't Save Us](https://www.techwontsave.us/): leftist podcast that looks at technology with a critical eye
 
 ### Video essays
 * [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Abigail Thorn makes engaging video essays on philosophy and politics

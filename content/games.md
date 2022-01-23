@@ -10,7 +10,6 @@ menu = "about"
 
 +++
 ## Tabletop role-playing & board games
-
 * 2004: **Call of C'thulhu, 6th edition** (RPG)
 * 2004: **Warhammer Fantasy Roleplay, 2nd edition** (RPG)
 * 2005: **Twilight Struggle** (board game)
@@ -20,7 +19,6 @@ menu = "about"
 * 2016: **Mythos Tales** (board game)
 
 ## Computer Games
-
 * 1998: **Half-Life** - Valve
 * 2000: **Giants: Citizen Kabuto** - Planet Moon Studios
 * 2001: **Uplink** - Introversion Software

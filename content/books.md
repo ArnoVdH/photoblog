@@ -10,12 +10,14 @@ type = "static"
 
 +++
 ## Currently reading
-* **The Difference Engine** -  William Gibson & Bruce Sterling
+* **Ring Shout** -  P. Djèlí Clark 
+* **Religion within the Limits of Reason Alone** - Immanuel Kant
 * **Introductory Lectures on Psychoanalysis** - Sigmund Freud
 
 ## Read
-
 ### 2022
+* **The Simple Path to Wealth** - J.L. Collins ★★★
+* **The Difference Engine** -  William Gibson & Bruce Sterling ★★★
 * **Attack of the 50 Foot Blockchain** - David Gerard ★★★
 * **The Mammoth Book of Cthulhu** - Paula Guran (editor) ★★
 
