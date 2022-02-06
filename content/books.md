@@ -10,12 +10,15 @@ type = "static"
 
 +++
 ## Currently reading
-* **Ring Shout** -  P. Djèlí Clark 
+* **Story of the Eye** - Georges Bataille
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 * **Introductory Lectures on Psychoanalysis** - Sigmund Freud
 
 ## Read
 ### 2022
+* **A People's History of the German Revolution** - William A. Pelz ★★★★
+* **The Little Book of Common Sense Investing** - John C. Bogle ★★★
+* **Ring Shout** -  P. Djèlí Clark ★★★
 * **The Simple Path to Wealth** - J.L. Collins ★★★
 * **The Difference Engine** -  William Gibson & Bruce Sterling ★★★
 * **Attack of the 50 Foot Blockchain** - David Gerard ★★★
