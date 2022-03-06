@@ -1,6 +1,7 @@
 +++
 date = 2020-07-23T14:30:00Z
 description = "My naming scheme"
+draft = true
 featured_image = ""
 tags = []
 title = "Naming scheme"
