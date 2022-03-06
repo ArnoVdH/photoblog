@@ -11,9 +11,9 @@ title = "Setting up pCloud sync with Rclone"
 
 <!--more-->
 
-I have it set-up on my desktop pc, but haven't made it sync with my notebook, nor was my rudimentary way of emulating a continuous synchronization done in a satisfactory way (it synced at startup and every few minutes, but shutting down before an automated sync happened made me lose my changes).
+I have it set-up on my desktop pc, but haven't made it sync with my notebook, nor was my rudimentary way of emulating a continuous synchronization done in a satisfactory way (it synced at startup and every ten minutes or so, but shutting down before an automated sync happened made me lose my changes).
 
-For this little exercise I'm going to assume I just want one folder synced with the cloud on my notebook. There's already an encrypted storage on there, originally setup from my desktop, but that shouldn't matter for how to go about this.
+For this little exercise I'm going to assume I just want one folder synced with the cloud on my notebook. I'm not going to use an encrypted storage here, but that that is also an built-in possibility with rclone.
 
 ### Installing & setting up Rclone
 
@@ -21,12 +21,14 @@ Installing Rclone is as simple as downloading it from the official repositories 
 
 Let's start by running rclone config in the terminal.
 
-### Encrypting
+### Synching or mounting?
 
-### Synching
+I want to set up rclone as a small, lightweight cloud synchronization system, without the need for a dedicated app from pCloud themselves (which also doesn't give me a way to encrypt my data without an extra fee). There are multiple ways to achieve this.
 
-I want to set up rclone as a small, lightweight cloud synchronisation system, without the need for a dedicated app from pCloud themselves (which also doesn't give me a way to encrypt my data without an extra fee)
+Firstly, you can use the rclone sync command to make a local folder and the remote folder synchronize. That way, there is an exact copy on your system. This command can be run manually or with the use of a cronjob (at startup and at certain intervals for instance). This is how I had it originally set up.
 
-#### Cronjob
+Another way would be to use the rclone mount command to mount the remote to your filesystem. This is also achieves our goal of having the remote accessible _but_ may have some downsides with reliability. To counter this, we'll use caching.
 
-#### At shutdown
+### Setup daemon with systemd
+
+Because we mounted our remote, we need to setup the daemon. We'll do this through systemd.
