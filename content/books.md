@@ -10,12 +10,18 @@ type = "static"
 
 +++
 ## Currently reading
-* **Story of the Eye** - Georges Bataille
+
+* **Foucault's Pendulum** - Umberto Eco
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
-* **Introductory Lectures on Psychoanalysis** - Sigmund Freud
 
 ## Read
+
 ### 2022
+
+* **Tentacles Longer Than Night** - Eugene Thacker ★★★
+* **The Great God Pan** - Arthur Machen ★★
+* **The Rats in the Walls** - H. P. Lovecraft ★★★
+* **Story of the Eye** - Georges Bataille ★★★
 * **A People's History of the German Revolution** - William A. Pelz ★★★★
 * **The Little Book of Common Sense Investing** - John C. Bogle ★★★
 * **Ring Shout** -  P. Djèlí Clark ★★★
@@ -25,6 +31,7 @@ type = "static"
 * **The Mammoth Book of Cthulhu** - Paula Guran (editor) ★★
 
 ### 2021
+
 * **How to Blow Up a Pipeline** - Andreas Malm ★★★★★
 * **Nightbitch** - Rachel Yoder ★★★
 * **For a Left Populism** - Chantal Mouffe ★★★
@@ -65,7 +72,7 @@ type = "static"
 * **The Name of the Rose** - Umberto Eco ★★★★
 * **Axiom's End** (Noumena 1) - Lindsay Ellis ★★
 * **The Ballad of Black Tom** - Victor LaValle ★★★
-* **The Horror at Red Hook** - H.P. Lovecraft ★★
+* **The Horror at Red Hook** - H. P. Lovecraft ★★
 
 ### 2020
 
@@ -83,7 +90,7 @@ type = "static"
 * **The Wind-Up Bird Chronicle** - Haruki Murakami ★★★★
 * **The German Ideology** - Karl Marx & Friedrich Engels ★★★
 * **The Fisherman** - John Langan ★★★★
-* **The Haunter of the Dark** - H.P. Lovecraft ★★★★★
+* **The Haunter of the Dark** - H. P. Lovecraft ★★★★★
 * **The Trial** - Franz Kafka ★★★★
 * **Ze zijn ons vergeten** - Peter Mertens ★★★★
 * **Drive Your Plow Over the Bones of the Dead** - Olga Tokarczuk ★★★★
@@ -117,7 +124,7 @@ type = "static"
 * **The Plot Against America** - Philip Roth ★★★★
 * **The Bullet Journal Method** - Ryder Carroll ★★★
 * **War! What Is It Good For?** - Ian Morris ★★★
-* **At the Mountains of Madness** - H.P. Lovecraft ★★★
+* **At the Mountains of Madness** - H. P. Lovecraft ★★★
 * **In Praise of Shadows** - Junichirō Tanizaki ★★★
 * **Sapiens: A Brief History of Humankind** - Yuval Noah Harari ★★
 * **Will My Cat Eat My Eyeballs?** - Caitlin Doughty ★★★
@@ -126,7 +133,7 @@ type = "static"
 
 * **Lenin on the Train** -  Catherine Merridale ★★★
 * **The Principles of Communism** - Friedrich Engels ★★★
-* **The Whisperer in Darkness** - H.P. Lovecraft ★★★
+* **The Whisperer in Darkness** - H. P. Lovecraft ★★★
 * **Work, Inequality, Basic Income** - Boston Review / Forum 2 ★★★
 * **The Eighteenth Brumaire of Louis Bonaparte** - Karl Marx ★★★★
 * **Hard To Be a God** - Arkady & Boris Strugatsky ★★★
