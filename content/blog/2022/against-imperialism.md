@@ -2,7 +2,6 @@
 categories = []
 date = 2022-03-13T02:40:00Z
 description = ""
-draft = true
 featured_image = ""
 title = "Against Imperialism"
 
@@ -18,7 +17,7 @@ Here are two general statements I can get behind:
 * We _shouldn't_ engage with warmongering and imperialist discourse, nor encourage such policies
 * We _should_ help the Ukrainians against the invader
 
-There's a tendency in these fraught times to view these two as mutually exclusive, or even as pro-either-side-of-the-conflict. This is blatantly false. The first is arguably anti-NATO and the position a lot of leftists seem to take, which isn't necessarily in conflict with the second statement, but this gets warped as being pro-Putin, which _is_ contradictory with it.\[^1\]
+There's a tendency in these fraught times to view these two as mutually exclusive, or even as pro-either-side-of-the-conflict. This is blatantly false. The first is arguably anti-NATO and the position a lot of leftists seem to take, which isn't necessarily in conflict with the second statement, but this gets warped as being pro-Putin, which _is_ contradictory with it.\[^1\] The equation with being anti-NATO and pro-Putin is weird, too, since not every European country is part of it (for different reasons). But the window of collective agreement seems to have shifted towards accepting NATO as the good guy, even though they are nominally not involved in the conflict.
 
 During times of war, even if we're not directly involved, emotions flare up and get the upper hand. The room for nuance seems to disappear. It's not that far-fetched to be reminded of the start of the First World War, where parties across the spectrum, in different countries, banded together to enthusiastically vote for war, even against any prior commitments to the contrary, and dissenters got suppressed or worst case even killed.\[^2\] We should be mindful of this and give ourselves the necessary discursive distance to think things through and look for the best resolution to the crisis.
 
