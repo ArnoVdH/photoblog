@@ -18,9 +18,9 @@ Here are two general statements I can get behind:
 * We _shouldn't_ engage with warmongering and imperialist discourse, nor encourage such policies
 * We _should_ help the Ukrainians against the invader
 
-There's a tendency in these fraught times to view these two as mutually exclusive, or even as pro-either-side-of-the-conflict. This is blatantly false. The first is arguably anti-NATO and the position a lot of leftists seem to take, which isn't in conflict with the second statement, but this gets inverted as being pro-Putin, which _is_ contradictory with it.\[^1\]
+There's a tendency in these fraught times to view these two as mutually exclusive, or even as pro-either-side-of-the-conflict. This is blatantly false. The first is arguably anti-NATO and the position a lot of leftists seem to take, which isn't necessarily in conflict with the second statement, but this gets warped as being pro-Putin, which _is_ contradictory with it.\[^1\]
 
-During times of war, even if we're not directly involved, emotions flare up and get the upper hand. The room for nuance seems to disappear. It's not that far-fetched to be reminded of the start of the First World War, where parties across the spectrum, in different countries, banded together to enthusiastically vote for war, even against any prior commitments to the contrary, and dissenters got suppressed or worst case even killed. We should be mindful of this and give ourselves the necessary discursive distance to think things through and look for the best resolution to the crisis.
+During times of war, even if we're not directly involved, emotions flare up and get the upper hand. The room for nuance seems to disappear. It's not that far-fetched to be reminded of the start of the First World War, where parties across the spectrum, in different countries, banded together to enthusiastically vote for war, even against any prior commitments to the contrary, and dissenters got suppressed or worst case even killed.\[^2\] We should be mindful of this and give ourselves the necessary discursive distance to think things through and look for the best resolution to the crisis.
 
 This isn't the same as neutrality though. Many countries in the West are incapable of being neutral in this conflict because of NATO membership, which makes it difficult as a citizen of any of these countries to have a truly neutral position. Anyone claiming otherwise would probably better be described as a cynic than anything else.
 
@@ -50,10 +50,12 @@ Ultimately, it's Putin and the cronies in his vicinity that are responsible for 
 
 So, then, how could we help the Ukrainian people? Military intervention is off the table - with or without NATO. No no-fly-zone would be acceptable, as it would be tantamount to a 'soft' declaration of war, which is non-differentiable from a normal declaration of war. The consequences would be unimaginably worse than they already are now.
 
-Delivery of weapons seems to me to be morally defensible, but is in turn not a justification for the aforementioned rearmament of Europe.
+Delivery of weapons seems to me to be morally defensible, but is in turn not a justification for the aforementioned rearmament of Europe. There's a lot of weaponry that we have that isn't actively being used and would serve a better purpose to fight off the invasion.
 
-Delivery of humanitarian aid is, of course, a given. Food, shelter, medical supplies are necessary and could be used to help Russian victims (both during the war as after it) too. The potential for speedy recovery, both economically as diplomatically between the European nations, will benefit most from this. Same goes for giving asylum to the refugees (any refugees, really), which seems to go better than the last refugee crisis on the continent. Hopefully this will be a lesson going forward.
+Delivery of humanitarian aid is, of course, a given. Food, shelter, medical supplies to the Ukrainians are necessary and could be used to help Russian victims (both during the war as after it) too. The potential for speedy recovery, both economically as diplomatically between the European nations, will benefit most from this. Same goes for giving asylum to the refugees (any refugees, really), which seems to go better than the last refugee crisis on the continent. Hopefully this will be a lesson going forward.
 
-Lastly, Europe can and should be (on it's own, without the US and not in some NATO capacity) be a negotiator and guarantor of the post-war settlement.
+Lastly, Europe can and should be (on it's own, without the US and not in some NATO capacity) be a negotiator and guarantor of the post-war settlement. The US are no longer trustworthy, but Europe could show itself to be.
 
-\[^1\]: Which isn't to say that it's not possible to take this position, and indeed some people, on every point on the political spectrum, do so.
+\[^1\]: Which isn't to say that it's not possible to take this position, and indeed some people, on every point on the political spectrum, do so. For the left-wing stance: there is no such thing as pro-imperialist anti-imperialism.
+
+\[^2\]: See for instance the murder of Jean Jaurès or the stance of the German SPD.
