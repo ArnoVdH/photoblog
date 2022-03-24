@@ -10,15 +10,14 @@ type = "static"
 
 +++
 ## Currently reading
-* **The Deficit Myth** - Stephanie Kelton
+
+* **Foucault's Pendulum** - Umberto Eco
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
-* **My Work is Not Yet Done** - Thomas Ligotti ★★
-* **Eenheidscongres 2021** - PVDA ★★★★
-* **Foucault's Pendulum** - Umberto Eco ★★★★★
+
 * **Tentacles Longer Than Night** - Eugene Thacker ★★★
 * **The Great God Pan** - Arthur Machen ★★
 * **The Rats in the Walls** - H. P. Lovecraft ★★★
