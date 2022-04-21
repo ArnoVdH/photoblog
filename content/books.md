@@ -10,12 +10,18 @@ type = "static"
 
 +++
 ## Currently reading
-* **The Deficit Myth** - Stephanie Kelton
+
+* **The Will to Change** - bell hooks
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
+
+* **Magpie Murders** (Susan Ryeland 1) - Anthony Horowitz ★★★
+* **Caliban and the Witch** - Silvia Federici ★★★★
+* **Heart of a Dog** - Mikhail Bulgakov ★★★
+* **The Deficit Myth** - Stephanie Kelton ★★★★
 * **My Work is Not Yet Done** - Thomas Ligotti ★★
 * **Eenheidscongres 2021** - PVDA ★★★★
 * **Foucault's Pendulum** - Umberto Eco ★★★★★
