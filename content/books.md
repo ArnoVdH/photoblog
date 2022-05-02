@@ -11,13 +11,14 @@ type = "static"
 +++
 ## Currently reading
 
-* **The Will to Change** - bell hooks
+* **The Word for World is Forest** - Ursula K. Le Guin
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **The Will to Change** - bell hooks ★★★
 * **Magpie Murders** (Susan Ryeland 1) - Anthony Horowitz ★★★
 * **Caliban and the Witch** - Silvia Federici ★★★★
 * **Heart of a Dog** - Mikhail Bulgakov ★★★
