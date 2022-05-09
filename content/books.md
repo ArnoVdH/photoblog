@@ -11,13 +11,15 @@ type = "static"
 +++
 ## Currently reading
 
-* **The Word for World is Forest** - Ursula K. Le Guin
+* **Talking to My Daughter About the Economy** - Yanis Varoufakis
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **De wonderlijke avonturen van Cies Slameur** - Paul Kenis ★★★★
+* **The Word for World is Forest** - Ursula K. Le Guin ★★★★
 * **The Will to Change** - bell hooks ★★★
 * **Magpie Murders** (Susan Ryeland 1) - Anthony Horowitz ★★★
 * **Caliban and the Witch** - Silvia Federici ★★★★
