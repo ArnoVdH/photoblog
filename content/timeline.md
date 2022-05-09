@@ -2,7 +2,7 @@
 date = 2019-09-15T13:33:00Z
 description = "An overview of my life"
 featured_image = ""
-lastmod = 2021-04-21T17:40:00Z
+lastmod = 2021-05-08T23:45:00Z
 tags = []
 title = "Timeline"
 type = "static"
