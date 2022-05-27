@@ -11,13 +11,13 @@ type = "static"
 +++
 ## Currently reading
 
-* **Democratic Confederalism** - Abdullah Öcalan
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **Democratic Confederalism** - Abdullah Öcalan ★★★
 * **Capitalist Realism** - Mark Fisher ★★★
 * **Project Hail Mary** - Andy Weir ★★★
 * **Talking to My Daughter About the Economy** - Yanis Varoufakis ★★★
