@@ -11,13 +11,16 @@ type = "static"
 +++
 ## Currently reading
 
-* **Talking to My Daughter About the Economy** - Yanis Varoufakis
+* **Democratic Confederalism** - Abdullah Öcalan
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **Capitalist Realism** - Mark Fisher ★★★
+* **Project Hail Mary** - Andy Weir ★★★
+* **Talking to My Daughter About the Economy** - Yanis Varoufakis ★★★
 * **De wonderlijke avonturen van Cies Slameur** - Paul Kenis ★★★★
 * **The Word for World is Forest** - Ursula K. Le Guin ★★★★
 * **The Will to Change** - bell hooks ★★★
