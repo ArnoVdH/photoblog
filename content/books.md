@@ -11,12 +11,16 @@ type = "static"
 +++
 ## Currently reading
 
+* **Artificial Conditions** (Murderbot Diaries 2) - Martha Wells
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **The Right to Sex** - Amia Srinivasan ★★★★
+* **The Hilarious World of Depression** - John Moe ★★★
+* **All Systems Red** (Murderbot Diaries 1) - Martha Wells ★★★
 * **Democratic Confederalism** - Abdullah Öcalan ★★★
 * **Capitalist Realism** - Mark Fisher ★★★
 * **Project Hail Mary** - Andy Weir ★★★
