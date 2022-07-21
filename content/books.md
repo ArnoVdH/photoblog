@@ -11,13 +11,19 @@ type = "static"
 +++
 ## Currently reading
 
-* **Artificial Conditions** (Murderbot Diaries 2) - Martha Wells
+* **Half-Earth Socialism** - Troy Vettese & Drew Pendergrass
+* **Cursed Bunny** - Bora Chung
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **Gangsters of Capitalism** - Jonathan Katz ★★★★
+* **Post Growth** - Tim Jackson ★★★
+* **The Secret History** - Donna Tartt ★★★★
+* **My Shit Life So Far** - Frankie Boyle ★★★
+* **Artificial Conditions** (Murderbot Diaries 2) - Martha Wells ★★★
 * **The Right to Sex** - Amia Srinivasan ★★★★
 * **The Hilarious World of Depression** - John Moe ★★★
 * **All Systems Red** (Murderbot Diaries 1) - Martha Wells ★★★
