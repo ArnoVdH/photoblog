@@ -11,14 +11,16 @@ type = "static"
 +++
 ## Currently reading
 
-* **Half-Earth Socialism** - Troy Vettese & Drew Pendergrass
-* **Cursed Bunny** - Bora Chung
+* **Ringworld** (Ringworld 1) - Larry Niven
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **Satan Burger** - Carlton Mellick III ★
+* **Cursed Bunny** - Bora Chung ★★
+* **Half-Earth Socialism** - Troy Vettese & Drew Pendergrass ★★★★
 * **Gangsters of Capitalism** - Jonathan Katz ★★★★
 * **Post Growth** - Tim Jackson ★★★
 * **The Secret History** - Donna Tartt ★★★★
