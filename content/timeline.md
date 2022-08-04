@@ -13,6 +13,7 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 
 ### 2022
 
+* Became an uncle
 * Citytrip to Vienna, Austria
 
 ### 2021
