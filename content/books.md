@@ -11,13 +11,15 @@ type = "static"
 +++
 ## Currently reading
 
-* **Ringworld** (Ringworld 1) - Larry Niven
+* **A Spectre, Haunting** - China Miéville
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **Internet for the People** - Ben Tarnoff ★★★★
+* **Ringworld** (Ringworld 1) - Larry Niven ★★★
 * **Satan Burger** - Carlton Mellick III ★
 * **Cursed Bunny** - Bora Chung ★★
 * **Half-Earth Socialism** - Troy Vettese & Drew Pendergrass ★★★★
