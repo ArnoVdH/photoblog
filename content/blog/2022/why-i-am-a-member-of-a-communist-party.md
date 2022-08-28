@@ -17,8 +17,12 @@ I joined the Party the day of the local elections in 2018. Before that, I liked 
 
 Initially, it was mainly about my decision to commit to the party program and accepting the compromise between my own political views and them. Thinking it more important to give critical support to a much needed socialist party in our country than nitpicking about details or differences of opinion.
 
-But as with a lot of things in life, my reasons to do something changed over time. While, yes, I have some different opinions on quite a lot of subjects with the Party, I also learned a lot.
+But as with a lot of things in life, my reasons to do something changed over time. While, yes, I have some different opinions on quite a lot of subjects with the Party, I also learned a lot. Both about the theory, the Party, the working class struggle and... myself.
 
-In 2021 there was the Party Congress that is being held every five years - delayed by one year because of the pandemic. I wasn't elected to go to the committees and the Congress itself was held with a limited audience and livestreamed, but I did read the text that was published. 
+In 2021 there was the Party Congress that is being held every five years - delayed by one year because of the pandemic. I wasn't elected to go to the committees and the Congress itself was held with a limited audience and livestreamed, but I did read the text that was published. In it, there was a chapter that went into the for me personally very relevant questions of intellectualism and workerism. What role should the comrade-intellectual play in the party versus getting actual working class comrades into the party cadre without just fetishizing them. It was a very brave statement of introspection and had quite the impact on me too, as a warning to me as an 'intellectual', being someone with a higher education and enough resources to read and discuss all the abstract theory.
+
+And that's one of the main reasons I'm happy I'm in the Party these days. It gets me connected with the rest of the working classes\[^2\], keeps me with my feet on the ground and keeps me aware and critical of my own position in our political economy and society at large. Without this, it would be easy to fall into the trap of thinking I'm middle class, disconnected from the toiling classes instead of united with them in a common struggle. 
 
 \[^1\]: Membership in the party is split up in three levels where the expected commitment goes up: advisory members, local group members and militants.
+
+\[^2\]: This is another insight being in the Party reminds me off: I'm still part of the working classes, even though I have a somewhat cushy desk job as a civil servant and one would probably more likely describe me as 'middle class'.
