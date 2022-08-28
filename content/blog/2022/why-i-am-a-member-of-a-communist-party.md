@@ -10,7 +10,7 @@ In this post I won't be explaining why I think communism is right, or expound on
 
 <!--more-->
 
-I joined the Party the day of the local elections in 2018. Before that, I liked the Party and had friends who were member, but always declined to join, partly because of my own political-philosophical background and a reluctance to commit to a political program. After joining, I quickly decided to become a member of a local group\[^1\].
+I joined the Party the day of the local elections in 2018. Before that, I liked the Party and had friends who were member, but always declined to join, partly because of my own political-philosophical background and a reluctance to commit to a political program. After joining, I quickly decided to become a member of a local group.\[^1\]
 
 Initially, it was mainly about my decision to commit to the party program and accepting the compromise between my own political views and them. Thinking it more important to give critical support to a much needed socialist party in our country than nitpicking about details or differences of opinion.
 
