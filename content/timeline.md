@@ -13,6 +13,7 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 
 ### 2022
 
+* Trip to Normandy, France with friends
 * Became an uncle
 * Citytrip to Vienna, Austria
 
