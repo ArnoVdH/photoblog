@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Politics", "Personal"]
 date = 2022-08-28T09:00:00Z
 description = ""
 draft = true
@@ -19,6 +19,6 @@ Initially, it was mainly about my decision to commit to the party program and ac
 
 But as with a lot of things in life, my reasons to do something changed over time. While, yes, I have some different opinions on quite a lot of subjects with the Party, I also learned a lot.
 
-In 2021 there was the Party Congress that is being held every five years - delayed by one year because of the pandemic. 
+In 2021 there was the Party Congress that is being held every five years - delayed by one year because of the pandemic. I wasn't elected to go to the committees and the Congress itself was held with a limited audience and livestreamed, but I did read the text that was published. 
 
 \[^1\]: Membership in the party is split up in three levels where the expected commitment goes up: advisory members, local group members and militants.
