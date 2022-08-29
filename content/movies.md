@@ -5,7 +5,7 @@ featured_image = ""
 tags = []
 title = "Movies"
 type = "static"
-menu = "about"
+[menu.about]
 
 +++
 A list of good movies in chronological order.
@@ -15,22 +15,27 @@ Watching any one of these will never be wasted time.
 Lesson learned by making this list: I need to watch more older movies.
 
 ### 1920s
+
 * 1920: **Das Cabinet des Dr. Caligari** - Robert Wiene
 * 1927: **Metropolis** - Fritz Lang
 
 ### 1930s
+
 * 1931: **M** - Fritz Lang
 
 ### 1940s
+
 * 1940: **The Sea Hawk** - Michael Curtiz
 
 ### 1950s
+
 * 1957: **12 Angry Men** - Sidney Lumet
 * 1957: **Paths of Glory** - Stanley Kubrick
 * 1957: **The Seventh Seal** - Ingmar Bergman
 * 1959: **North by Northwest** - Alfred Hitchcock
 
 ### 1960s
+
 * 1962: **Lawrence of Arabia** - David Lean
 * 1964: **Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb** - Stanley Kubrick
 * 1964: **A Fistful of Dollars** - Sergio Leone
@@ -43,6 +48,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1968: **Barbarella** - Roger Vadim
 
 ### 1970s
+
 * 1971: **A Clockwork Orange** - Stanley Kubrick
 * 1971: **Malpertuis** - Harry Kümel
 * 1972: **Aguirre, der Zorn Gottes** - Werner Herzog
@@ -55,6 +61,9 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1979: **Stalker** - Andrei Tarkovsky
 
 ### 1980s
+
+#### 1980
+
 * 1980: **Kagemusha** - Akira Kurosawa
 * 1980: **Blues Brothers** - John Landis
 * 1980: **The Shining** - Stanley Kubrick
@@ -72,6 +81,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1984: **Jan zonder vrees** - Jef Cassiers
 * 1985: **The Purple Rose of Cairo** - Woody Allen
 * 1985: **Brazil** - Terry Gilliam
+* 1985: **Tampopo** - Jûzô Itami
 * 1986: **Big Trouble in Little China** - John Carpenter
 * 1987: **Der Himmer über Berlin** - Wim Wenders
 * 1987: **Full Metal Jacket** - Stanley Kubrick
@@ -84,6 +94,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1989: **The BFG** - Brian Cosgrove
 
 ### 1990s
+
 * 1990: **Rosencrantz & Guildenstern Are Dead** - Tom Stoppard
 * 1990: **Edward Scissorhands** - Tim Burton
 * 1990: **Total Recall** - Paul Verhoeven
@@ -121,6 +132,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1999: **The Matrix** - The Wachowski Brothers
 
 ### 2000s
+
 * 2000: **Snatch** - Guy Ritchie
 * 2000: **O Brother, Where Art Thou?** - Coen brothers
 * 2000: **High Fidelity** - Stephen Frears
@@ -159,6 +171,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2009: **Fantastic Mr. Fox** - Wes Anderson
 
 ### 2010s
+
 * 2010: **Shutter Island** - Martin Scorsese
 * 2010: **Sound of Noise** - Ola Simonssen & Johannes Stjärne Nilsson
 * 2010: **The Bang Bang Club** - Steven Silver
@@ -195,6 +208,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2019: **1917** - Sam Mendes
 
 ### 2020s
+
 * 2021: **Inside** - Bo Burnham
 * 2021: **The French Dispatch** - Wes Anderson
 * 2021: **The Green Knight** - David Lowery
