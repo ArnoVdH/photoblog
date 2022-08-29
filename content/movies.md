@@ -64,34 +64,61 @@ Lesson learned by making this list: I need to watch more older movies.
 
 #### 1980
 
-* 1980: **Kagemusha** - Akira Kurosawa
-* 1980: **Blues Brothers** - John Landis
-* 1980: **The Shining** - Stanley Kubrick
-* 1980: **Star Wars: Episode V - The Empire Strikes Back** - Irvin Kershner
-* 1981: **Das Boot** - Wolfgang Petersen
-* 1981: **Indiana Jones and the Raiders of the Lost Ark** - Steven Spielberg
-* 1981: **Escape from New York** - John Carpenter
-* 1982: **Blade Runner** - Ridley Scott
-* 1982: **Koyaanisqatsi** - Godfrey Reggio
-* 1982: **The Thing** - John Carpenter
-* 1983: **Zelig** - Woody Allen
-* 1983: **Videodrome** - David Cronenberg
-* 1984: **Ghostbusters** - Ivan Reitman
-* 1984: **The Terminator** - James Cameron
-* 1984: **Jan zonder vrees** - Jef Cassiers
-* 1985: **The Purple Rose of Cairo** - Woody Allen
-* 1985: **Brazil** - Terry Gilliam
-* 1985: **Tampopo** - Jûzô Itami
-* 1986: **Big Trouble in Little China** - John Carpenter
-* 1987: **Der Himmer über Berlin** - Wim Wenders
-* 1987: **Full Metal Jacket** - Stanley Kubrick
-* 1987: **Wall Street** - Oliver Stone
-* 1988: **Beetlejuice** - Tim Burton
-* 1988: **Akira** - Katsuhiro Otomo
-* 1988: **Drowning by Numbers** - Peter Greenaway
-* 1989: **The Cook, the Thief, His Wife & Her Lover** - Peter Greenaway
-* 1989: **Indiana Jones and the Last Crusade** - Steven Spielberg
-* 1989: **The BFG** - Brian Cosgrove
+* **Kagemusha** - Akira Kurosawa
+* **Blues Brothers** - John Landis
+* **The Shining** - Stanley Kubrick
+* **Star Wars: Episode V - The Empire Strikes Back** - Irvin Kershner
+
+#### 1981
+
+* **Das Boot** - Wolfgang Petersen
+* **Indiana Jones and the Raiders of the Lost Ark** - Steven Spielberg
+* **Escape from New York** - John Carpenter
+
+#### 1982
+
+* **Blade Runner** - Ridley Scott
+* **Koyaanisqatsi** - Godfrey Reggio
+* **The Thing** - John Carpenter
+
+#### 1983
+
+* **Zelig** - Woody Allen
+* **Videodrome** - David Cronenberg
+
+#### 1984
+
+* **Ghostbusters** - Ivan Reitman
+* **The Terminator** - James Cameron
+* **Jan zonder vrees** - Jef Cassiers
+
+#### 1985
+
+* **The Purple Rose of Cairo** - Woody Allen
+* **Brazil** - Terry Gilliam
+* **Tampopo** - Jûzô Itami
+
+#### 1986
+
+* **Big Trouble in Little China** - John Carpenter
+
+#### 1987
+
+* **Der Himmer über Berlin** - Wim Wenders
+* **Full Metal Jacket** - Stanley Kubrick
+* **Wall Street** - Oliver Stone
+
+#### 1988
+
+* **Beetlejuice** - Tim Burton
+* **Akira** - Katsuhiro Otomo
+* **Drowning by Numbers** - Peter Greenaway
+
+#### 1989
+
+* **The Cook, the Thief, His Wife & Her Lover** - Peter Greenaway
+* **Indiana Jones and the Last Crusade** - Steven Spielberg
+* **The BFG** - Brian Cosgrove
 
 ### 1990s
 
