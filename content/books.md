@@ -11,13 +11,14 @@ type = "static"
 +++
 ## Currently reading
 
-* **A Spectre, Haunting** - China Miéville
+* **Rogue Protocol** (Murderbot Diaries 2) - Martha Wells
 * **Religion within the Limits of Reason Alone** - Immanuel Kant
 
 ## Read
 
 ### 2022
 
+* **A Spectre, Haunting** - China Miéville ★★★★
 * **Internet for the People** - Ben Tarnoff ★★★★
 * **Ringworld** (Ringworld 1) - Larry Niven ★★★
 * **Satan Burger** - Carlton Mellick III ★
