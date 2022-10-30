@@ -11,13 +11,20 @@ type = "static"
 +++
 ## Currently reading
 
-* **Rogue Protocol** (Murderbot Diaries 2) - Martha Wells
-* **Religion within the Limits of Reason Alone** - Immanuel Kant
+* **Scattered Minds** - Gabor Maté
+* **The Wind's Twelve Quarters and the Compass Rose** - Urusula K. Le Guin
 
 ## Read
 
 ### 2022
 
+* **The Rise and Fall of Ancient Egypt** - Toby Wilkinson ★★★
+* **Kitchen Confidential** - Anthony Bourdain ★★★
+* **How Not to Network a Nation** - Benjamin Peters ★★★
+* **The Dispossessed** - Ursula K. Le Guin ★★★★★
+* **How Civil Wars Start and How to Stop Them** - Barbara F. Walter ★★★ 
+* **De religie binnen de grenzen van de rede** - Immanuel Kant ★★★
+* **Rogue Protocol** (Murderbot Diaries 2) - Martha Wells ★★★
 * **A Spectre, Haunting** - China Miéville ★★★★
 * **Internet for the People** - Ben Tarnoff ★★★★
 * **Ringworld** (Ringworld 1) - Larry Niven ★★★
