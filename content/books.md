@@ -2,7 +2,7 @@
 date = 2019-09-01T08:00:00Z
 description = "My reading history"
 featured_image = ""
-lastmod = 2022-08-29T20:30:00Z
+lastmod = 2022-10-30T12:30:00Z
 tags = []
 title = "Books"
 type = "static"
