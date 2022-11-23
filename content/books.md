@@ -2,7 +2,7 @@
 date = 2019-09-01T08:00:00Z
 description = "My reading history"
 featured_image = ""
-lastmod = 2022-10-30T12:30:00Z
+lastmod = 2022-11-23T15:55:00Z
 tags = []
 title = "Books"
 type = "static"
@@ -11,18 +11,21 @@ type = "static"
 +++
 ## Currently reading
 
-* **Scattered Minds** - Gabor Maté
-* **The Wind's Twelve Quarters and the Compass Rose** - Urusula K. Le Guin
+* **Automation and the Future of Work** - Aaron Benanav
 
 ## Read
 
 ### 2022
 
+* **The Next Civil War** - Stephen Marche ★★★
+* **The Wind's Twelve Quarters and the Compass Rose** - Urusula K. Le Guin ★★★★
+* **The Assassination of Lumumba** - Ludo De Witte ★★★★
+* **Scattered Minds** - Gabor Maté ★★★★
 * **The Rise and Fall of Ancient Egypt** - Toby Wilkinson ★★★
 * **Kitchen Confidential** - Anthony Bourdain ★★★
 * **How Not to Network a Nation** - Benjamin Peters ★★★
 * **The Dispossessed** - Ursula K. Le Guin ★★★★★
-* **How Civil Wars Start and How to Stop Them** - Barbara F. Walter ★★★ 
+* **How Civil Wars Start and How to Stop Them** - Barbara F. Walter ★★★
 * **De religie binnen de grenzen van de rede** - Immanuel Kant ★★★
 * **Rogue Protocol** (Murderbot Diaries 2) - Martha Wells ★★★
 * **A Spectre, Haunting** - China Miéville ★★★★
