@@ -2,7 +2,7 @@
 date = 2019-07-08T20:15:02Z
 description = "Links to sites I recommend"
 featured_image = ""
-lastmod = 2021-04-21T19:30:00Z
+lastmod = 2022-11-23T15:50:00Z
 tags = []
 title = "Links"
 type = "static"
@@ -40,6 +40,7 @@ type = "static"
 * [Anti-Capitalist Chronicles](https://www.democracyatwork.info/davidharveyacc): a podcast that looks at capitalism through a Marxist lens, with professor David Harvey
 * [The Iron Dice](https://www.theirondice.com/): history podcast about the struggles of the Weimar Republic
 * [Tech Won't Save Us](https://www.techwontsave.us/): leftist podcast that looks at technology with a critical eye
+* [Blowback](https://blowback.show/ "Blowback"): leftist podcast focussing on the history of certain episodes of American imperialism
 
 ### Video essays
 
