@@ -17,6 +17,7 @@ type = "static"
 
 ### 2022
 
+* **The Man Who Died Twice** - Richard Osman ★★★
 * **The Next Civil War** - Stephen Marche ★★★
 * **The Wind's Twelve Quarters and the Compass Rose** - Urusula K. Le Guin ★★★★
 * **The Assassination of Lumumba** - Ludo De Witte ★★★★
