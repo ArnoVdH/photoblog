@@ -10,13 +10,24 @@ type = "static"
 
 +++
 ## Currently reading
-
-* **Automation and the Future of Work** - Aaron Benanav
+* **The Doomed City** - Arkady & Boris Strugatsky
+* **Socialism or Barbarism** - Rosa Luxemburg
 
 ## Read
 
-### 2022
+### 2023
+* **What Moves the Dead** - T. Kingfisher ★★★★
+* **Walkaway** - Cory Doctorow ★★★
+* **Mr. Penumbra's 24-Hour Bookstore** - Robin Sloan ★★
+* **The Utopia of Rules** - David Graeber ★★★★
+* **Babel** - R.F. Kuang ★★★★
+* **1830: De scheiding van Nederland, België en Luxemburg** - Rolf Falter ★★★★
 
+### 2022
+* **Tender is the Flesh** - Agustina Bazterrica ★★★
+* **100 jaar om de zee te stoppen** - Julie Steendam & Isabelle Vanbrabant ★★★
+* **The Divinity Student** - Michael Cisco ★★★
+* **Exit Strategy** (Murderbot Diaries 4) - Martha Wells ★★★
 * **The Man Who Died Twice** - Richard Osman ★★★
 * **The Next Civil War** - Stephen Marche ★★★
 * **The Wind's Twelve Quarters and the Compass Rose** - Urusula K. Le Guin ★★★★
